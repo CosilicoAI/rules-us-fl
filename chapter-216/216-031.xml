@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.031"/>
+          <FRBRuri value="/us-fl/act/fsa/216.031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.031/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.031/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_031">
+          <num>216.031</num>
+          <heading>Target budget request.</heading>
+          <content>
+            <p>Either chair of a legislative appropriations committee, or the Executive Office of the Governor for state agencies, may require the agency or the Chief Justice to address major issues separate from those outlined in s.216.023, this section, and s.216.043for inclusion in the requests of the agency or of the judicial branch. The issues shall be submitted to the agency no later than July 30 of each year and shall be displayed in its requests as provided in the budget instructions. The Executive Office of the Governor may request an agency, or the chair of an appropriations committee of the Senate or the House of Representatives may request any agency or the judicial branch, to submit a budget plan with respect to targets established by the Governor or either chair. The target budget shall require each entity to establish an order of priorities for its budget issues and may include requests for multiple options for the budget issues. The target budget format shall be compatible with the planning and budgeting system requirements set out in s.216.141. Such a request shall not influence the agencies’ or judicial branch’s independent judgment in making legislative budget requests, as required by law.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.05965"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05965"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.05965/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05965/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.05965/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05965/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_05965">
+          <num>212.05965</num>
+          <heading>Taxation of marketplace sales.</heading>
+          <content>
+            <p>As used in this chapter, the term:</p>
+          </content>
+          <subsection eId="212_05965__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this chapter, the term:</p>
+            </content>
+            <paragraph eId="212_05965__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Marketplace” means any physical place or electronic medium through which tangible personal property is offered for sale.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05965__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Marketplace provider” means a person who facilitates a retail sale by a marketplace seller by listing or advertising for sale by the marketplace seller tangible personal property in a marketplace and who directly, or indirectly through agreements or arrangements with third parties, collects payment from the customer and transmits all or part of the payment to the marketplace seller, regardless of whether the marketplace provider receives compensation or other consideration in exchange for its services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05965__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Marketplace seller” means a person who has an agreement with a marketplace provider that is a dealer under this chapter and who makes retail sales of tangible personal property through a marketplace owned, operated, or controlled by the marketplace provider.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_05965__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A marketplace provider that has a physical presence in this state or who is making or facilitating through a marketplace a substantial number of remote sales as defined in s.212.0596(1) is a dealer for purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A marketplace provider that is a dealer under this chapter shall certify to its marketplace sellers that it will collect and remit the tax imposed under this chapter on taxable retail sales made through the marketplace. Such certification may be included in the agreement between the marketplace provider and the marketplace seller.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A marketplace seller may not collect and remit the tax under this chapter on a taxable retail sale when the sale is made through the marketplace and the marketplace provider certifies, as required under subsection (3), that it will collect and remit such tax. A marketplace seller shall exclude such sales made through the marketplace from the marketplace seller’s tax return under s.212.11.</p>
+            </content>
+            <paragraph eId="212_05965__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>A marketplace seller may not collect and remit the tax under this chapter on a taxable retail sale when the sale is made through the marketplace and the marketplace provider certifies, as required under subsection (3), that it will collect and remit such tax. A marketplace seller shall exclude such sales made through the marketplace from the marketplace seller’s tax return under s.212.11.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05965__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A marketplace seller who has a physical presence in this state shall register and shall collect and remit the tax imposed under this chapter on all taxable retail sales made outside of the marketplace.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_05965__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A marketplace provider that is a dealer under this chapter shall allow the department to examine and audit its books and records pursuant to s.212.13. For retail sales facilitated through a marketplace, the department may not examine or audit the books and records of marketplace sellers, nor may the department assess marketplace sellers except to the extent that the marketplace provider seeks relief under paragraph (b). The department may examine, audit, and assess a marketplace seller for retail sales made outside of a marketplace under paragraph (4)(b). This paragraph does not provide relief to a marketplace seller who is under audit; has been issued a bill, notice, or demand for payment; or is under an administrative or judicial proceeding before July 1, 2021.</p>
+            </content>
+            <paragraph eId="212_05965__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>A marketplace provider that is a dealer under this chapter shall allow the department to examine and audit its books and records pursuant to s.212.13. For retail sales facilitated through a marketplace, the department may not examine or audit the books and records of marketplace sellers, nor may the department assess marketplace sellers except to the extent that the marketplace provider seeks relief under paragraph (b). The department may examine, audit, and assess a marketplace seller for retail sales made outside of a marketplace under paragraph (4)(b). This paragraph does not provide relief to a marketplace seller who is under audit; has been issued a bill, notice, or demand for payment; or is under an administrative or judicial proceeding before July 1, 2021.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05965__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The marketplace provider is relieved of liability for the tax on the retail sale and the marketplace seller or customer is liable for the tax imposed under this chapter if the marketplace provider demonstrates to the department’s satisfaction that the marketplace provider made a reasonable effort to obtain accurate information related to the retail sales facilitated through the marketplace from the marketplace seller, but that the failure to collect and remit the correct amount of tax imposed under this chapter was due to the provision of incorrect or incomplete information to the marketplace provider by the marketplace seller. This paragraph does not apply to a retail sale for which the marketplace provider is the seller if the marketplace provider and the marketplace seller are related parties or if transactions between a marketplace seller and marketplace buyer are not conducted at arm’s length.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_05965__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>For purposes of registration pursuant to s.212.18, a marketplace is deemed a separate place of business.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A marketplace provider and a marketplace seller may agree by contract or otherwise that if a marketplace provider pays the tax imposed under this chapter on a retail sale facilitated through a marketplace for a marketplace seller as a result of an audit or otherwise, the marketplace provider has the right to recover such tax and any associated interest and penalties from the marketplace seller.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>This section may not be construed to authorize the state to collect sales tax from both the marketplace provider and the marketplace seller on the same retail sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Chapter 213 applies to the administration of this section to the extent that chapter does not conflict with this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Notwithstanding any other law, the marketplace provider is also responsible for collecting and remitting any prepaid wireless public safety emergency communications systems fee under s.365.172, waste tire fee under s.403.718, and lead-acid battery fee under s.403.7185at the time of sale for taxable retail sales made through its marketplace.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05965__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Notwithstanding paragraph (4)(a), the marketplace provider and the marketplace seller may contractually agree to have the marketplace seller collect and remit all applicable taxes and fees if the marketplace seller:</p>
+            </content>
+            <paragraph eId="212_05965__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Has annual United States gross sales of more than $1 billion, including the gross sales of any related entities, and in the case of franchised entities, including the combined sales of all franchisees of a single franchisor;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05965__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Provides evidence to the marketplace provider that it is registered under s.212.18; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05965__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notifies the department in a manner prescribed by the department that the marketplace seller will collect and remit all applicable taxes and fees on its sales through the marketplace and is liable for failure to collect or remit applicable taxes and fees on its sales.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

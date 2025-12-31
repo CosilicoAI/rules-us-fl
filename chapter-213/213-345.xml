@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.345"/>
+          <FRBRuri value="/us-fl/act/fsa/213.345"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.345/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.345/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.345/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.345/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_345">
+          <num>213.345</num>
+          <heading>Tolling of periods during an audit.</heading>
+          <content>
+            <p>The limitations in s.95.091(3) and the period for filing a claim for refund as required by s.215.26(2) shall be tolled for a period of 1 year if the Department of Revenue has, on or after July 1, 1999, issued a notice of intent to conduct an audit or investigation of the taxpayer’s account within the applicable period of time. The department must commence an audit within 120 days after it issues a notice of intent to conduct an audit, unless the taxpayer requests a delay. If the taxpayer does not request a delay and the department does not begin the audit within 120 days after issuing the notice, the tolling period shall terminate unless the taxpayer and the department enter into an agreement to extend the period pursuant to s.213.23.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.047"/>
+          <FRBRuri value="/us-fl/act/fsa/192.047"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.047/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.047/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.047/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.047/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_047">
+          <num>192.047</num>
+          <heading>Date of filing.</heading>
+          <content>
+            <p>For the purposes of ad valorem tax administration, the date of an official United States Postal Service or commercial mail delivery service postmark on an application for exemption, an application for special assessment classification, or a return filed by mail is considered the date of filing the application or return.</p>
+          </content>
+          <subsection eId="192_047__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the purposes of ad valorem tax administration, the date of an official United States Postal Service or commercial mail delivery service postmark on an application for exemption, an application for special assessment classification, or a return filed by mail is considered the date of filing the application or return.</p>
+            </content>
+          </subsection>
+          <subsection eId="192_047__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the deadline for filing an ad valorem tax application or return falls on a Saturday, Sunday, or legal holiday, the filing period shall extend through the next working day immediately following such Saturday, Sunday, or legal holiday.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

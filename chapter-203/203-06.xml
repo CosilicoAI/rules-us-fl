@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/203.06"/>
+          <FRBRuri value="/us-fl/act/fsa/203.06"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/203.06/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/203.06/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/203.06/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/203.06/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>Chapter 203</num>
+        <heading>Gross Receipts Taxes</heading>
+        <section eId="sec_203_06">
+          <num>203.06</num>
+          <heading>Interest on delinquent payments.</heading>
+          <content>
+            <p>Any payments as imposed in this chapter, if not received by the Department of Revenue on or before the due date as provided by law, shall include, as an additional part of such amount due, interest at the rate of 1 percent per month, accruing from the date due until paid.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.4725"/>
+          <FRBRuri value="/us-fl/act/fsa/197.4725"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.4725/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.4725/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.4725/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.4725/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_4725">
+          <num>197.4725</num>
+          <heading>Purchase of county-held tax certificates.</heading>
+          <content>
+            <p>Any person may purchase a county-held tax certificate at any time after the tax certificate is issued and before a tax deed application is made. The person purchasing a county-held tax certificate shall pay to the tax collector the face amount plus all interest, costs, and charges or, subject to s.197.472(4), the part described in the tax certificate.</p>
+          </content>
+          <subsection eId="197_4725__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any person may purchase a county-held tax certificate at any time after the tax certificate is issued and before a tax deed application is made. The person purchasing a county-held tax certificate shall pay to the tax collector the face amount plus all interest, costs, and charges or, subject to s.197.472(4), the part described in the tax certificate.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_4725__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a county-held tax certificate is purchased, the interest earned shall be calculated at 1.5 percent per month, or a fraction thereof, to the date of purchase.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_4725__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax collector shall receive a fee of $6.25 for each county-held tax certificate purchased.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_4725__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>This section does not apply to collections relating to fee timeshare real property made pursuant to s.192.037.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_4725__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The tax collector may use electronic means to make known county-held tax certificates that are available for purchase and to complete the purchase. The tax collector may charge a reasonable fee for costs incurred in providing such electronic services.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_4725__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The purchaser of a county-held tax certificate shall be issued a tax certificate with a face value that includes all sums paid to acquire the certificate from the county, including accrued interest and charges paid under this section. The date the county-held certificate was issued is the date for use in determining the date on which an application for tax deed may be made. The date that the new certificate is purchased is the date for use in calculating the interest or minimum interest due if the certificate is redeemed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

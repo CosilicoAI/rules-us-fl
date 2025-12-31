@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.2423"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2423"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.2423/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2423/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.2423/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2423/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_2423">
+          <num>197.2423</num>
+          <heading>Application for property tax deferral; determination of approval or denial by tax collector.</heading>
+          <content>
+            <p>A property owner is responsible for submitting an annual application for tax deferral with the county tax collector on or before March 31 following the year in which the taxes and non-ad valorem assessments are assessed.</p>
+          </content>
+          <subsection eId="197_2423__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A property owner is responsible for submitting an annual application for tax deferral with the county tax collector on or before March 31 following the year in which the taxes and non-ad valorem assessments are assessed.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each applicant shall demonstrate compliance with the requirements for tax deferral.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The application for deferral shall be made upon a form prescribed by the department and provided by the tax collector. The tax collector may require the applicant to submit other evidence and documentation deemed necessary in considering the application. The application form shall advise the applicant:</p>
+            </content>
+            <paragraph eId="197_2423__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Of the manner in which interest is computed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2423__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Of the conditions that must be met to qualify for approval.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2423__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Of the conditions under which deferred taxes, assessments, and interest become due, payable, and delinquent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2423__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>That all tax deferrals pursuant to this section constitute a priority tax lien on the applicant’s property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_2423__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each application shall include a list of all outstanding liens on the property and the current value of each lien.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Each applicant shall furnish proof of fire and extended coverage insurance in an amount at least equal to the total of all outstanding liens, including a lien for deferred taxes, non-ad valorem assessments, and interest, with a loss payable clause to the tax collector.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The tax collector shall consider each annual application for a tax deferral within 45 days after the application is filed or as soon as practicable thereafter. The tax collector shall exercise reasonable discretion based upon applicable information available under this section. A tax collector who finds that the applicant is entitled to the tax deferral shall approve the application and maintain the deferral records until the tax lien is satisfied.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>For approved deferrals, the date of receipt by the tax collector of the application for tax deferral shall be used in calculating taxes due and payable net of discounts for early payment as provided in s.197.162.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The tax collector shall notify the property appraiser in writing of those parcels for which taxes have been deferred.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2423__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>A tax deferral may not be granted if:</p>
+            </content>
+            <paragraph eId="197_2423__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The total amount of deferred taxes, non-ad valorem assessments, and interest, plus the total amount of all other unsatisfied liens on the property, exceeds 85 percent of the just value of the property; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2423__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The primary mortgage financing on the property is for an amount that exceeds 70 percent of the just value of the property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_2423__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>A tax collector who finds that the applicant is not entitled to the deferral shall send a notice of disapproval within 45 days after the date the application is filed, citing the reason for disapproval. The original notice of disapproval shall be sent to the applicant and shall advise the applicant of the right to appeal the decision to the value adjustment board and shall inform the applicant of the procedure for filing such an appeal.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

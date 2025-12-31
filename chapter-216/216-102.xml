@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.102"/>
+          <FRBRuri value="/us-fl/act/fsa/216.102"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.102/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.102/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.102/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.102/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_102">
+          <num>216.102</num>
+          <heading>Filing of financial information; handling by Chief Financial Officer; penalty for noncompliance.</heading>
+          <content>
+            <p>By September 30 of each year, each agency supported by any form of taxation, licenses, fees, imposts, or exactions, the judicial branch, and, for financial reporting purposes, each component unit of the state as determined by the Chief Financial Officer shall prepare, using generally accepted accounting principles, and file with the Chief Financial Officer the financial and other information necessary for the preparation of annual financial statements for the State of Florida as of June 30. In addition, each such agency and the judicial branch shall prepare financial statements showing the financial position and results of agency or branch operations as of June 30 for internal management purposes.</p>
+          </content>
+          <subsection eId="216_102__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>By September 30 of each year, each agency supported by any form of taxation, licenses, fees, imposts, or exactions, the judicial branch, and, for financial reporting purposes, each component unit of the state as determined by the Chief Financial Officer shall prepare, using generally accepted accounting principles, and file with the Chief Financial Officer the financial and other information necessary for the preparation of annual financial statements for the State of Florida as of June 30. In addition, each such agency and the judicial branch shall prepare financial statements showing the financial position and results of agency or branch operations as of June 30 for internal management purposes.</p>
+            </content>
+            <paragraph eId="216_102__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each state agency and the judicial branch shall record the receipt and disbursement of funds from federal sources in a form and format prescribed by the Chief Financial Officer. The access to federal funds by the administering agencies or the judicial branch may not be authorized until:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Chief Financial Officer shall publish a statewide policy detailing the requirements for recording receipt and disbursement of federal funds into the Florida Accounting Information Resource Subsystem and provide technical assistance to the agencies and the judicial branch to implement the policy.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_102__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Financial information must be contained within the Florida Accounting Information Resource Subsystem. Other information must be submitted in the form and format prescribed by the Chief Financial Officer.</p>
+            </content>
+            <paragraph eId="216_102__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each component unit shall file financial information and other information necessary for the preparation of annual financial statements with the agency or branch designated by the Chief Financial Officer by the date specified by the Chief Financial Officer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The state agency or branch designated by the Chief Financial Officer to receive financial information and other information from component units shall include the financial information in the Florida Accounting Information Resource Subsystem and shall include the component units’ other information in its submission to the Chief Financial Officer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_102__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Chief Financial Officer shall:</p>
+            </content>
+            <paragraph eId="216_102__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Prepare and furnish to the Auditor General annual financial statements for the state on or before December 31 of each year, using generally accepted accounting principles.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Prepare and publish an annual comprehensive financial report for the state in accordance with generally accepted accounting principles on or before February 28 of each year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Furnish the Governor, the President of the Senate, and the Speaker of the House of Representatives with a copy of the annual comprehensive financial report prepared pursuant to paragraph (b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Notify each agency and the judicial branch of the data that is required to be recorded to enhance accountability for tracking federal financial assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Provide reports, as requested, to executive or judicial branch entities, the President of the Senate, the Speaker of the House of Representatives, and the members of the Florida Congressional Delegation, detailing the federal financial assistance received and disbursed by state agencies and the judicial branch.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_102__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Consult with and elicit comments from the Executive Office of the Governor on changes to the Florida Accounting Information Resource Subsystem which clearly affect the accounting of federal funds, so as to ensure consistency of information entered into the Federal Aid Tracking System by state executive and judicial branch entities. While efforts shall be made to ensure the compatibility of the Florida Accounting Information Resource Subsystem and the Federal Aid Tracking System, any successive systems serving identical or similar functions shall preserve such compatibility.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_102__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If any agency or the judicial branch fails to comply with subsection (1) or subsection (2), the Chief Financial Officer may refuse to honor salary claims for agency or branch fiscal and executive staff until the agency or branch corrects its deficiency.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_102__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The Chief Financial Officer may withhold any funds payable to a component unit that does not comply with subsection (1) or subsection (2) until the component unit corrects its deficiency.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

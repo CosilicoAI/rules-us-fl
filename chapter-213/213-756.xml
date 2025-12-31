@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.756"/>
+          <FRBRuri value="/us-fl/act/fsa/213.756"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.756/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.756/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.756/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.756/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_756">
+          <num>213.756</num>
+          <heading>Funds collected are state tax funds.</heading>
+          <content>
+            <p>Funds collected from a purchaser under the representation that they are taxes provided for under the state revenue laws are state funds from the moment of collection and are not subject to refund absent proof that such funds have been refunded previously to the purchaser.</p>
+          </content>
+          <subsection eId="213_756__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Funds collected from a purchaser under the representation that they are taxes provided for under the state revenue laws are state funds from the moment of collection and are not subject to refund absent proof that such funds have been refunded previously to the purchaser.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_756__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In any action by a purchaser against a retailer, dealer, or vendor to obtain a refund of or to otherwise recover taxes, fees, or surcharges collected by the retailer, dealer, or vendor from the purchaser:</p>
+            </content>
+            <paragraph eId="213_756__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>In any action by a purchaser against a retailer, dealer, or vendor to obtain a refund of or to otherwise recover taxes, fees, or surcharges collected by the retailer, dealer, or vendor from the purchaser:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_756__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This subsection applies to those taxes enumerated in s.72.011, excluding chapter 202 and that portion of chapter 203 collected thereunder, and also applies to taxes imposed under chapter 205.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_756__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>This subsection does not change the law regarding standing to claim a refund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

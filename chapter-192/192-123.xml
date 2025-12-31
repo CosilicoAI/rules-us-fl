@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.123"/>
+          <FRBRuri value="/us-fl/act/fsa/192.123"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.123/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.123/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.123/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.123/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_123">
+          <num>192.123</num>
+          <heading>Notification of veteran’s guardian.</heading>
+          <content>
+            <p>Upon the receipt of a copy of letters of guardianship issued pursuant to s.744.638, the property appraiser and tax collector shall provide the guardian with every notice required under chapters 192-197 which would otherwise be provided the ward.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

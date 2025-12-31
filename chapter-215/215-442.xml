@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.442"/>
+          <FRBRuri value="/us-fl/act/fsa/215.442"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.442/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.442/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.442/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.442/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_442">
+          <num>215.442</num>
+          <heading>Executive director; reporting requirements; public meeting.</heading>
+          <content>
+            <p>The executive director shall present to the Board of Trustees of the State Board of Administration a quarterly report to include the following:</p>
+          </content>
+          <subsection eId="215_442__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The executive director shall present to the Board of Trustees of the State Board of Administration a quarterly report to include the following:</p>
+            </content>
+            <paragraph eId="215_442__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The name of each equity in which the State Board of Administration has invested for the quarter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_442__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The industry category of each equity.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_442__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The executive director shall present each quarterly report at a meeting of the board of trustees, which shall be open and noticed to the public pursuant to the requirements of s.286.011and s. 24(b), Art. I of the State Constitution.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_442__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The State Board of Administration shall publish a copy of each quarterly report on its website prior to presenting the report at each quarterly meeting of the board of trustees.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

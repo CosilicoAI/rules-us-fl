@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.181"/>
+          <FRBRuri value="/us-fl/act/fsa/200.181"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.181/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.181/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.181/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.181/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_181">
+          <num>200.181</num>
+          <heading>Bond payments; tax levies; restrictions.</heading>
+          <content>
+            <p>None of the provisions of this chapter or of any other law, whether general, special or local or of the charter of any municipality or county, shall limit or restrict the rate or the amount of the ad valorem taxes levied for the payment of the principal of and the interest on any debt service whether secured by revenue certificates or by bonds for which the full faith and credit of any county, municipality or taxing district may be pledged, and such taxes shall be in addition to all other taxes authorized or limited by law.</p>
+          </content>
+          <subsection eId="200_181__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>None of the provisions of this chapter or of any other law, whether general, special or local or of the charter of any municipality or county, shall limit or restrict the rate or the amount of the ad valorem taxes levied for the payment of the principal of and the interest on any debt service whether secured by revenue certificates or by bonds for which the full faith and credit of any county, municipality or taxing district may be pledged, and such taxes shall be in addition to all other taxes authorized or limited by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="200_181__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing in this section shall prevent any municipality, county or school board from levying at least 5 mills of ad valorem tax during any fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="200_181__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A county or municipality may levy voted millage at the maximum millage rate approved by referendum even if the levy would raise revenue in excess of that necessary for debt service as authorized by a vote of the electors pursuant to s. 12, Art. VII of the State Constitution. The county or municipality may use the surplus revenue for any lawful purpose solely related to the capital project for which the voted millage was approved, including operations and maintenance. For purposes of this chapter, the portion of the voted millage necessary to pay debt service must be treated as debt service millage and the excess portion must be treated as general millage. The portion treated as general millage must be included within the millage levied under the county or municipal 10-mill limitation.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

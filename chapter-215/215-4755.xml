@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.4755"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4755"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.4755/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4755/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.4755/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4755/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_4755">
+          <num>215.4755</num>
+          <heading>Certification and disclosure requirements for investment advisers and managers.</heading>
+          <content>
+            <p>An investment adviser or manager who has discretionary investment authority for direct holdings and who is retained as provided in s.215.44(2)(b) shall agree pursuant to contract to annually certify in writing to the board that:</p>
+          </content>
+          <subsection eId="215_4755__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An investment adviser or manager who has discretionary investment authority for direct holdings and who is retained as provided in s.215.44(2)(b) shall agree pursuant to contract to annually certify in writing to the board that:</p>
+            </content>
+            <paragraph eId="215_4755__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>All investment decisions made on behalf of the trust funds and the board are made in the best interests of the trust funds and the board and not made in a manner to the advantage of such investment adviser or manager, other persons, or clients to the detriment of the trust funds and the board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>All investment decisions made on behalf of the trust funds and the board are made based solely on pecuniary factors as defined in s.215.47(10)(a) and do not subordinate the interests of the participants and beneficiaries of the funds to other objectives, including sacrificing investment return or undertaking additional investment risk to promote any nonpecuniary factor. This paragraph applies to any contract executed, amended, or renewed on or after July 1, 2023.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Appropriate policies, procedures, or other safeguards have been adopted and implemented to ensure that relationships with any affiliated persons or entities do not adversely influence the investment decisions made on behalf of the trust funds and the board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A written code of ethics, conduct, or other set of standards, which governs the professional behavior and expectations of owners, general partners, directors or managers, officers, and employees of the investment adviser or manager, has been adopted and implemented and is effectively monitored and enforced. The investment advisers’ and managers’ code of ethics shall require that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The investment adviser or manager has proactively and promptly disclosed to the board, notwithstanding subsection (2), any known circumstances or situations that a prudent person could expect to create an actual or potential conflict of interest, including specifically:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4755__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>At the board’s request, an investment adviser or manager who has discretionary investment authority over direct holdings and who is retained as provided in s.215.44(2)(b) shall disclose in writing to the board:</p>
+            </content>
+            <paragraph eId="215_4755__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any nonconfidential, nonproprietary information or reports to substantiate the certifications required under subsection (1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>All direct or indirect pecuniary interests that the investment adviser or manager has in or with any party to a transaction with the board, if the transaction is related to any discretionary investment authority that the investment adviser or manager exercises on behalf of the board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4755__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An investment adviser or manager certification required under subsection (1) must be provided by each January 31 for the reporting period of the previous calendar year on a form prescribed by the board.</p>
+            </content>
+            <paragraph eId="215_4755__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>An investment adviser or manager certification required under subsection (1) must be provided by each January 31 for the reporting period of the previous calendar year on a form prescribed by the board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Failure to timely file the certification required under subsection (1) is grounds for termination of any contract between the board and the investment adviser or manager.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Submission of a materially false certification is deemed a willful refusal to comply with the fiduciary standard described in paragraph (1)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4755__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If an investment adviser or manager fails to comply with the fiduciary standard described in paragraph (1)(b) while providing services to the board, the board must report such noncompliance to the Attorney General, who may bring a civil or administrative action for damages, injunctive relief, and such other relief as may be appropriate. If such action is successful, the Attorney General is entitled to reasonable attorney fees and costs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/203.001"/>
+          <FRBRuri value="/us-fl/act/fsa/203.001"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/203.001/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/203.001/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/203.001/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/203.001/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>Chapter 203</num>
+        <heading>Gross Receipts Taxes</heading>
+        <section eId="sec_203_001">
+          <num>203.001</num>
+          <heading>Combined rate for tax collected pursuant to ss.202.12(1)(a) and203.01(1)(b).</heading>
+          <content>
+            <p>In complying with ss. 1-3, ch. 2010-149, Laws of Florida, the dealer of communication services may collect a combined rate of 5.07 percent, composed of the 4.92 percent and 0.15 percent rates required by ss.202.12(1)(a) and203.01(1)(b)3., respectively, if the provider properly reflects the tax collected with respect to the two provisions as required in the return to the Department of Revenue.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

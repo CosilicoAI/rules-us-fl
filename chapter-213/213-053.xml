@@ -1,0 +1,670 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.053"/>
+          <FRBRuri value="/us-fl/act/fsa/213.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.053/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.053/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_053">
+          <num>213.053</num>
+          <heading>Confidentiality and information sharing.</heading>
+          <content>
+            <p>This section applies to:</p>
+          </content>
+          <subsection eId="213_053__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>This section applies to:</p>
+            </content>
+            <paragraph eId="213_053__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Section125.0104, county government;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Section125.0108, tourist impact tax;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Chapter 175, municipal firefighters’ pension trust funds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Chapter 185, municipal police officers’ retirement trust funds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Chapter 198, estate taxes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Chapter 199, intangible personal property taxes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Chapter 201, excise tax on documents;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Chapter 202, the Communications Services Tax Simplification Law;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Chapter 203, gross receipts taxes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Chapter 211, tax on severance and production of minerals;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Chapter 212, tax on sales, use, and other transactions;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Chapter 220, income tax code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Section252.372, emergency management, preparedness, and assistance surcharge;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>Section379.362(3), Apalachicola Bay oyster surcharge;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_o">
+              <num>(o)</num>
+              <content>
+                <p>Chapter 376, pollutant spill prevention and control;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_p">
+              <num>(p)</num>
+              <content>
+                <p>Section403.718, waste tire fees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_q">
+              <num>(q)</num>
+              <content>
+                <p>Section403.7185, lead-acid battery fees;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_r">
+              <num>(r)</num>
+              <content>
+                <p>Section538.09, registration of secondhand dealers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_s">
+              <num>(s)</num>
+              <content>
+                <p>Section538.25, registration of secondary metals recyclers;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_t">
+              <num>(t)</num>
+              <content>
+                <p>Sections624.501and624.509-624.515, insurance code;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_u">
+              <num>(u)</num>
+              <content>
+                <p>Section681.117, motor vehicle warranty enforcement; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_1__para_v">
+              <num>(v)</num>
+              <content>
+                <p>Section896.102, reports of financial transactions in trade or business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All information contained in returns, reports, accounts, or declarations received by the department, including investigative reports and information and including letters of technical advice, is confidential except for official purposes and is exempt from s.119.07(1).</p>
+            </content>
+            <paragraph eId="213_053__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>All information contained in returns, reports, accounts, or declarations received by the department, including investigative reports and information and including letters of technical advice, is confidential except for official purposes and is exempt from s.119.07(1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any officer or employee, or former officer or employee, of the department who divulges any such information in any manner, except for such official purposes, commits a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department shall permit a taxpayer, his or her authorized representative, or the personal representative of an estate to inspect the taxpayer’s return and may furnish him or her an abstract of such return. A taxpayer may authorize the department in writing to divulge specific information concerning the taxpayer’s account.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department, while providing reemployment assistance tax collection services under contract with the Department of Commerce through an interagency agreement pursuant to s.443.1316, may release reemployment assistance tax rate information to the agent of an employer who provides payroll services for more than 100 employers, pursuant to the terms of a memorandum of understanding. The memorandum of understanding must state that the agent affirms, subject to the criminal penalties contained in ss.443.171and443.1715, that the agent will retain the confidentiality of the information, that the agent has in effect a power of attorney from the employer which permits the agent to obtain reemployment assistance tax rate information, and that the agent shall provide the department with a copy of the employer’s power of attorney upon request.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>This section does not prevent the department from doing any of the following:</p>
+            </content>
+            <paragraph eId="213_053__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Publishing statistics so classified as to prevent the identification of particular accounts, reports, declarations, or returns;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Publishing a list of forwarding agents who have received a Florida Certificate of Forwarding Agent Address. The list must include each forwarding agent’s entity name, address, and certificate expiration date on the department’s website pursuant to s.212.06(5)(b)10.; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Using telephones, e-mail, facsimile machines, or other electronic means to do any of the following:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The department may make available to the Secretary of the Treasury of the United States or his or her delegate, the Commissioner of Internal Revenue of the United States or his or her delegate, the Secretary of the Department of the Interior of the United States or his or her delegate, or the proper officer of any state or his or her delegate, exclusively for official purposes, information to comply with any formal agreement for the mutual exchange of state information with the Internal Revenue Service of the United States, the Department of the Interior of the United States, or any state.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Any information received by the Department of Revenue in connection with the administration of taxes, including, but not limited to, information contained in returns, reports, accounts, or declarations filed by persons subject to tax, shall be made available to the following in performance of their official duties:</p>
+            </content>
+            <paragraph eId="213_053__subsec_7__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Any information received by the Department of Revenue in connection with the administration of taxes, including, but not limited to, information contained in returns, reports, accounts, or declarations filed by persons subject to tax, shall be made available to the following in performance of their official duties:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>No information shall be disclosed as provided in paragraph (a) if such disclosure is prohibited by federal law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Any person designated in paragraph (a) shall be subject to the same requirements of confidentiality and the same penalties for violation of the requirements as the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For the purpose of this subsection, “designated employees of the Department of Education” means only those employees directly responsible for calculation of price level indices pursuant to s.1011.62(2). It does not include the supervisors of such employees or any other employees or elected officials within the Department of Education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Notwithstanding any other provision of this section, the department may provide:</p>
+            </content>
+            <paragraph eId="213_053__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Information relative to chapter 211, chapter 376, or chapter 377 to the proper state agency in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Names, addresses, and dates of commencement of business activities of corporations to the Division of Corporations of the Department of State in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Information relative to chapter 212 and chapters 561 through 568 to the Division of Alcoholic Beverages and Tobacco of the Department of Business and Professional Regulation in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Names, addresses, taxpayer identification numbers, and outstanding tax liabilities to the Department of the Lottery and the Office of Financial Regulation of the Financial Services Commission in the conduct of their official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_f">
+              <num>(f)</num>
+              <content>
+                <p>State tax information to the Nexus Program of the Multistate Tax Commission pursuant to any formal agreement for the exchange of mutual information between the department and the commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Tax information to principals, and their designees, of the Revenue Estimating Conference for the purpose of developing official revenue estimates.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Names and addresses of persons paying taxes pursuant to part III of chapter 206 to the Department of Environmental Protection in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Information relative to chapters 212 and 326 to the Division of Florida Condominiums, Timeshares, and Mobile Homes of the Department of Business and Professional Regulation in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Information authorized pursuant to s.213.0535to eligible participants and certified public accountants for such participants in the Registration Information Sharing and Exchange Program.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Information relative to chapter 212 and the Bill of Lading Program to the Office of Agriculture Law Enforcement of the Department of Agriculture and Consumer Services in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Information relative to chapter 198 to the Agency for Health Care Administration in the conduct of its official business relating to ss.409.901-409.9101.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Information contained in returns, reports, accounts, or declarations to the Board of Accountancy in connection with a disciplinary proceeding conducted pursuant to chapter 473 when related to a certified public accountant participating in the certified audits project, or to the court in connection with a civil proceeding brought by the department relating to a claim for recovery of taxes due to negligence on the part of a certified public accountant participating in the certified audits project. In any judicial proceeding brought by the department, upon motion for protective order, the court shall limit disclosure of tax information when necessary to effectuate the purposes of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_n">
+              <num>(n)</num>
+              <content>
+                <p>Information relative to ss.376.70and376.75to the Department of Environmental Protection in the conduct of its official business and to the facility owner, facility operator, and real property owners as defined in s.376.301.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_o">
+              <num>(o)</num>
+              <content>
+                <p>Information relative to ss.220.1845,220.199, and376.30781to the Department of Environmental Protection in the conduct of its official business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_p">
+              <num>(p)</num>
+              <content>
+                <p>Names, addresses, and sales tax registration information to the Division of Consumer Services of the Department of Agriculture and Consumer Services in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_q">
+              <num>(q)</num>
+              <content>
+                <p>Information relative to the returns required by ss.175.111and185.09to the Department of Management Services in the conduct of its official duties. The Department of Management Services is, in turn, authorized to disclose payment information to a governmental agency or the agency’s agent for purposes related to budget preparation, auditing, revenue or financial administration, or administration of chapters 175 and 185.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_r">
+              <num>(r)</num>
+              <content>
+                <p>Names, addresses, and federal employer identification numbers, or similar identifiers, to the Department of Highway Safety and Motor Vehicles for use in the conduct of its official duties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_s">
+              <num>(s)</num>
+              <content>
+                <p>Information relative to ss.211.0251,212.1831,220.1875,561.1211,624.51055, and1002.395to the Department of Education and the Division of Alcoholic Beverages and Tobacco in the conduct of official business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_t">
+              <num>(t)</num>
+              <content>
+                <p>Information relative to chapter 202 to each local government that imposes a tax pursuant to s.202.19in the conduct of its official duties as specified in chapter 202. Information provided under this paragraph may include, but is not limited to, any reports required pursuant to s.202.231, audit files, notices of intent to audit, tax returns, and other confidential tax information in the department’s possession relating to chapter 202. A person or an entity designated by the local government in writing to the department as requiring access to confidential taxpayer information shall have reasonable access to information provided pursuant to this paragraph. Such person or entity may disclose such information to other persons or entities with direct responsibility for budget preparation, auditing, revenue or financial administration, or legal counsel. Such information shall only be used for purposes related to budget preparation, auditing, and revenue and financial administration. Any confidential and exempt information furnished to a local government, or to any person or entity designated by the local government as authorized by this paragraph may not be further disclosed by the recipient except as provided by this paragraph.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_u">
+              <num>(u)</num>
+              <content>
+                <p>Rental car surcharge revenues authorized by s.212.0606, reported according to the county to which the surcharge was attributed to the Department of Transportation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_v">
+              <num>(v)</num>
+              <content>
+                <p>Taxpayer names and identification numbers for the purposes of information-sharing agreements with financial institutions pursuant to s.213.0532.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_w">
+              <num>(w)</num>
+              <content>
+                <p>Information relative to chapter 212 to the Department of Environmental Protection in the conduct of its official duties in the administration of s.253.03(7)(b) and (11).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_x">
+              <num>(x)</num>
+              <content>
+                <p>Information relative to ss.253.03(8) and253.0325to the Department of Environmental Protection in the conduct of its official business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_y">
+              <num>(y)</num>
+              <content>
+                <p>Information relative to s.215.61(5) to the State Board of Education, the Division of Bond Finance, and the Office of Economic and Demographic Research.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_z">
+              <num>(z)</num>
+              <content>
+                <p>Information relating to tax credits taken under former s.220.194to Space Florida.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_8__para_aa">
+              <num>(aa)</num>
+              <content>
+                <p>Information to the director of the Office of Program Policy Analysis and Government Accountability or his or her authorized agent, and to the coordinator of the Office of Economic and Demographic Research or his or her authorized agent, for purposes of completing the Economic Development Programs Evaluation. Information obtained from the department pursuant to this paragraph may be shared by the director and the coordinator, or the director’s or coordinator’s authorized agent, for purposes of completing the Economic Development Programs Evaluation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The Department of Revenue shall provide returns, reports, accounts, or declarations received by the department, including investigative reports and information, or information contained in such documents, pursuant to an order of a judge of a court of competent jurisdiction or pursuant to a subpoena duces tecum only when the subpoena is:</p>
+            </content>
+            <paragraph eId="213_053__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Issued by a state attorney, a United States attorney, or a court in a criminal investigation or a criminal judicial proceeding;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Issued by a state or federal grand jury; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Issued by a state attorney, the Department of Legal Affairs, the State Fire Marshal, a United States attorney, or a court in the course of a civil investigation or a civil judicial proceeding under the state or federal racketeer influenced and corrupt organization act or under chapter 896.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Notwithstanding other provisions of this section, the department shall, subject to paragraph (c) and to the safeguards and limitations of paragraphs (b) and (d), disclose to the governing body of a municipality, a county, or a subcounty district levying a local option tax, or any state tax that is distributed to units of local government based upon place of collection, which the department is responsible for administering, names and addresses only of the taxpayers granted a certificate of registration pursuant to s.212.18(3) who reside within or adjacent to the taxing boundaries of such municipality, county, or subcounty district when sufficient information is supplied by the municipality, the county, or subcounty district as the department by rule may prescribe, provided such governing bodies are following s.212.18(3) relative to the denial of an occupational license after the department cancels a dealer’s sales tax certificate of registration.</p>
+            </content>
+            <paragraph eId="213_053__subsec_10__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section, the department shall, subject to paragraph (c) and to the safeguards and limitations of paragraphs (b) and (d), disclose to the governing body of a municipality, a county, or a subcounty district levying a local option tax, or any state tax that is distributed to units of local government based upon place of collection, which the department is responsible for administering, names and addresses only of the taxpayers granted a certificate of registration pursuant to s.212.18(3) who reside within or adjacent to the taxing boundaries of such municipality, county, or subcounty district when sufficient information is supplied by the municipality, the county, or subcounty district as the department by rule may prescribe, provided such governing bodies are following s.212.18(3) relative to the denial of an occupational license after the department cancels a dealer’s sales tax certificate of registration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Such information shall be disclosed only if the department receives an authenticated copy of a resolution adopted by the governing body requesting it.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>After receipt of such information, the governing body and its officers and employees are subject to the same requirements of confidentiality and the same penalties for violating confidentiality as the department and its employees.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The resolution requesting such information shall provide assurance that the governing body and its officers and employees are aware of the confidentiality requirements and of the penalties for their violation of such requirements, and the resolution shall describe the measures that will be put into effect to ensure such confidentiality. The officer of the department who is authorized to receive, consider, and act upon such requests shall, if satisfied that the assurances in the resolution are adequate to assure confidentiality, grant the request.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_10__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Nothing in this subsection authorizes disclosure of any information prohibited by federal law from being disclosed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Notwithstanding any other provision of this section, with respect to a request for verification of a certificate of registration issued pursuant to s.212.18to a specified dealer or taxpayer or with respect to a request by a law enforcement officer for verification of a certificate of registration issued pursuant to s.538.09to a specified secondhand dealer or pursuant to s.538.25to a specified secondary metals recycler, the department may disclose whether the specified person holds a valid certificate or whether a specified certificate number is valid or whether a specified certificate number has been canceled or is inactive or invalid and the name of the holder of the certificate. This subsection shall not be construed to create a duty to request verification of any certificate of registration.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>The department may provide to a United States Trustee, or his or her designee, for any United States Bankruptcy Court, exclusively for official purposes in connection with administering a bankruptcy estate, information relating to payment or nonpayment of taxes imposed by any revenue law of this state by a trustee, debtor, or debtor in possession, including any amount paid or due.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>The department may disclose certain state sales tax information relating to the cancellation or revocation of sales and use tax certificates of registration for the failure to collect and remit sales tax. This information is limited to the sales tax certificate number, trade name, owner’s name, business location address, and the reason for the cancellation or revocation.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>Notwithstanding the provisions of s.896.102(2), the department may allow full access to the information and documents required to be filed with it under s.896.102(1) to federal, state, and local law enforcement and prosecutorial agencies, and to the Office of Financial Regulation of the Financial Services Commission, and any of those agencies may use the information and documents in any civil or criminal investigation and in any court proceedings.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>Notwithstanding any other provision of this section, the department shall, subject to the safeguards specified in paragraph (c), disclose to the Division of Corporations of the Department of State the name, address, federal employer identification number, and duration of tax filings with this state of all corporate or partnership entities which are not on file or have a dissolved status with the Division of Corporations and which have filed tax returns pursuant to chapter 220.</p>
+            </content>
+            <paragraph eId="213_053__subsec_15__para_15">
+              <num>(15)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, the department shall, subject to the safeguards specified in paragraph (c), disclose to the Division of Corporations of the Department of State the name, address, federal employer identification number, and duration of tax filings with this state of all corporate or partnership entities which are not on file or have a dissolved status with the Division of Corporations and which have filed tax returns pursuant to chapter 220.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Division of Corporations shall use such information only in the pursuit of its official duties relative to nonqualified foreign or dissolved corporations in the recovery of fees and penalties due and owing the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_15__para_c">
+              <num>(c)</num>
+              <content>
+                <p>All information exchanged between the Division of Corporations and the department shall be subject to the same requirements of confidentiality as the Department of Revenue.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>Confidential taxpayer information may be shared with the child support enforcement program, which may use the information for purposes of program administration, and with the Department of Children and Families for the purpose of diligent search activities pursuant to chapter 39.</p>
+            </content>
+            <paragraph eId="213_053__subsec_16__para_16">
+              <num>(16)</num>
+              <content>
+                <p>Confidential taxpayer information may be shared with the child support enforcement program, which may use the information for purposes of program administration, and with the Department of Children and Families for the purpose of diligent search activities pursuant to chapter 39.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_16__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this subsection authorizes the disclosure of information if such disclosure is prohibited by federal law. Employees of the child support enforcement program and of the Department of Children and Families are bound by the same requirements of confidentiality and the same penalties for violation of the requirements as the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>The department may provide to the person against whom transferee liability is being asserted pursuant to s.213.758information relating to the basis of the claim.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>The department may disclose to a person entitled to compensation pursuant to s.213.30the amount of any tax, penalty, or interest collected as a result of information furnished by such person.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>The department may publish a list of taxpayers against whom the department has filed a warrant, notice of lien, or judgment lien certificate. The list may include the name and address of each taxpayer; the amounts and types of delinquent taxes, fees, or surcharges, penalties, or interest; and the employer identification number or other taxpayer identification number.</p>
+            </content>
+            <paragraph eId="213_053__subsec_19__para_19">
+              <num>(19)</num>
+              <content>
+                <p>The department may publish a list of taxpayers against whom the department has filed a warrant, notice of lien, or judgment lien certificate. The list may include the name and address of each taxpayer; the amounts and types of delinquent taxes, fees, or surcharges, penalties, or interest; and the employer identification number or other taxpayer identification number.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_19__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall update the list at least monthly to reflect payments for resolution of deficiencies and to otherwise add or remove taxpayers from the list.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_19__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may adopt rules to administer this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>The department may disclose information relating to taxpayers against whom the department has filed a warrant, notice of lien, or judgment lien certificate. Such information includes the name and address of the taxpayer, the actions taken, the amounts and types of liabilities, and the amount of any collections made.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>For purposes of this subsection, the term:</p>
+            </content>
+            <paragraph eId="213_053__subsec_21__para_21">
+              <num>(21)</num>
+              <content>
+                <p>For purposes of this subsection, the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_21__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department, upon request, shall provide to an eligible nonprofit scholarship-funding organization that provides scholarships under s.1002.395a list of the 200 taxpayers with the greatest total corporate income or franchise tax due as reported on the taxpayer’s return filed pursuant to s.220.22during the previous calendar year. The list must be in alphabetical order based on the taxpayer’s name and shall contain the taxpayer’s address. The list may not disclose the amount of tax owed by any taxpayer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_21__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An eligible nonprofit scholarship-funding organization may request the list once each calendar year. The department shall provide the list within 45 days after the request is made.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_21__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Any taxpayer information contained in the list may be used by the eligible nonprofit scholarship-funding organization only to notify the taxpayer of the opportunity to make an eligible contribution to the Florida Tax Credit Scholarship Program under s.1002.395. Any information furnished to an eligible nonprofit scholarship-funding organization under this subsection may not be further disclosed by the organization except as provided in this paragraph.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_21__para_e">
+              <num>(e)</num>
+              <content>
+                <p>An eligible nonprofit scholarship-funding organization, its officers, and employees are subject to the same requirements of confidentiality and the same penalties for violating confidentiality as the department and its employees. Breach of confidentiality is a misdemeanor of the first degree, punishable as provided by s.775.082or s.775.083.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>The department may provide to an eligible nonprofit scholarship-funding organization, as defined in s.1002.395, a dealer’s name, address, federal employer identification number, and information related to differences between credits taken by the dealer pursuant to s.212.1832(2) and amounts remitted to the eligible nonprofit scholarship-funding organization pursuant to s.212.1832(3)(a)3. The eligible nonprofit scholarship-funding organization may use the information for purposes of recovering eligible contributions designated for that organization that were collected by the dealer but never remitted to the organization.</p>
+            </content>
+            <paragraph eId="213_053__subsec_22__para_22">
+              <num>(22)</num>
+              <content>
+                <p>The department may provide to an eligible nonprofit scholarship-funding organization, as defined in s.1002.395, a dealer’s name, address, federal employer identification number, and information related to differences between credits taken by the dealer pursuant to s.212.1832(2) and amounts remitted to the eligible nonprofit scholarship-funding organization pursuant to s.212.1832(3)(a)3. The eligible nonprofit scholarship-funding organization may use the information for purposes of recovering eligible contributions designated for that organization that were collected by the dealer but never remitted to the organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_053__subsec_22__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this subsection authorizes the disclosure of information if such disclosure is prohibited by federal law. An eligible nonprofit scholarship-funding organization is bound by the same requirements of confidentiality and the same penalties for a violation of the requirements as the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_053__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>The department may make available to the Department of Transportation, exclusively for official purposes, information for the purpose of administering the credit for qualified railroad reconstruction or replacement expenditures in s.220.1915.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_053__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>The department may make available to the Department of Agriculture and Consumer Services, exclusively for official purposes, information for the purposes of administering or issuing the Florida farm TEAM card pursuant to s.212.08(19).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

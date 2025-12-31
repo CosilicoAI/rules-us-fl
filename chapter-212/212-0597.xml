@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0597"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0597"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0597/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0597/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0597/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0597/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0597">
+          <num>212.0597</num>
+          <heading>Maximum tax on fractional aircraft ownership interests.</heading>
+          <content>
+            <p>The maximum tax imposed under this chapter, including any discretionary sales surtax under s.212.055, is limited to $300 on the sale or use in this state of a fractional ownership interest in aircraft pursuant to a fractional aircraft ownership program. The tax applies to the total consideration paid for the fractional ownership interest, including any amounts paid by the fractional owner as monthly management or maintenance fees. The tax applies only if the fractional ownership interest is sold by or to the program manager of the fractional aircraft ownership program, or if the fractional ownership interest is transferred upon the approval of the program manager of the fractional aircraft ownership program.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.70"/>
+          <FRBRuri value="/us-fl/act/fsa/215.70"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.70/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.70/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.70/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.70/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_70">
+          <num>215.70</num>
+          <heading>State Board of Administration to act in case of defaults.</heading>
+          <content>
+            <p>If funds sufficient for the payment of the principal and interest due at any time on any bonds of the state or on any bonds issued on behalf of any state agency are not remitted to the State Board of Administration in sufficient time to pay the same when due, the State Board of Administration shall succeed to all the powers of the state officials or state agency on behalf of which such bonds were issued relating to the collection of taxes, revenues, or any other funds pledged for the payment of the principal of or interest on such bonds. It shall be the duty of the State Board of Administration to take over and enforce the levy, fixing, and collecting of such taxes, revenues, or other pledged funds and to apply the same in the manner provided in the proceeding which authorized the issuance of such bonds.</p>
+          </content>
+          <subsection eId="215_70__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If funds sufficient for the payment of the principal and interest due at any time on any bonds of the state or on any bonds issued on behalf of any state agency are not remitted to the State Board of Administration in sufficient time to pay the same when due, the State Board of Administration shall succeed to all the powers of the state officials or state agency on behalf of which such bonds were issued relating to the collection of taxes, revenues, or any other funds pledged for the payment of the principal of or interest on such bonds. It shall be the duty of the State Board of Administration to take over and enforce the levy, fixing, and collecting of such taxes, revenues, or other pledged funds and to apply the same in the manner provided in the proceeding which authorized the issuance of such bonds.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_70__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of this section do not prevent, however, the appointment of a receiver for any of the properties or facilities of any state agency for which any revenues or other funds have been pledged, upon the default of such state agency in the manner provided in the resolution or other proceedings which authorized the bonds issued by the division on behalf of such state agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_70__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The State Board of Administration shall monitor the debt service accounts for bonds issued pursuant to this act. The board shall advise the Governor and Legislature of any projected need to appropriate funds to honor the pledge of full faith and credit of the state. The report must include the estimated amount of appropriations needed, the estimated maximum amount of appropriations needed, and a contingency appropriation request for each bond issue.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_70__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Whenever it becomes necessary for state funds to be appropriated for the payment of principal or interest on bonds which have been issued by the Division of Bond Finance on behalf of any local government or authority and for which the full faith and credit of the state has been pledged, any state shared revenues otherwise earmarked for the local government or authority shall be used by the Chief Financial Officer to reimburse the state, until the local government or authority has reimbursed the state in full.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

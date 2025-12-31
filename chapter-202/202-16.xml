@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.16"/>
+          <FRBRuri value="/us-fl/act/fsa/202.16"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.16/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.16/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.16/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.16/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_16">
+          <num>202.16</num>
+          <heading>Payment.</heading>
+          <content>
+            <p>The taxes imposed or administered under this chapter and chapter 203 shall be collected from all dealers of taxable communications services on the sale at retail in this state of communications services taxable under this chapter and chapter 203. The full amount of the taxes on a credit sale, installment sale, or sale made on any kind of deferred payment plan is due at the moment of the transaction in the same manner as a cash sale.</p>
+          </content>
+          <subsection eId="202_16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The taxes collected under this chapter and chapter 203 shall be paid by the purchaser of the communications service and shall be collected from such person by the dealer of communications services.</p>
+            </content>
+            <paragraph eId="202_16__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The taxes collected under this chapter and chapter 203 shall be paid by the purchaser of the communications service and shall be collected from such person by the dealer of communications services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_16__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Each dealer of communications services selling communications services in this state shall collect the taxes imposed under this chapter and chapter 203 from the purchaser of such services, and such taxes must be stated separately from all other charges on the bill or invoice. Notwithstanding the requirement in this paragraph and in s.202.35to separately state such taxes, a public lodging establishment licensed under chapter 509 may notify purchasers of the taxes imposed under this chapter on a notice in a guest room posted in a manner consistent with the requirements of s.509.2015, rather than separately stating the taxes on the guest bill or invoice.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A sale of communications services that are used as a component part of or integrated into a communications service or prepaid calling arrangement for resale, including, but not limited to, carrier-access charges, interconnection charges paid by providers of mobile communication services or other communication services, charges paid by a video service provider for the purchase of video programming or the transmission of video or other programming by another dealer of communications services, charges for the sale of unbundled network elements, and any other intercompany charges for the use of facilities for providing communications services for resale, must be made in compliance with the rules of the department. A person who makes a sale for resale which is not in compliance with these rules is liable for any tax, penalty, and interest due for failing to comply, to be calculated pursuant to s.202.28(2)(a).</p>
+            </content>
+            <paragraph eId="202_16__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A sale of communications services that are used as a component part of or integrated into a communications service or prepaid calling arrangement for resale, including, but not limited to, carrier-access charges, interconnection charges paid by providers of mobile communication services or other communication services, charges paid by a video service provider for the purchase of video programming or the transmission of video or other programming by another dealer of communications services, charges for the sale of unbundled network elements, and any other intercompany charges for the use of facilities for providing communications services for resale, must be made in compliance with the rules of the department. A person who makes a sale for resale which is not in compliance with these rules is liable for any tax, penalty, and interest due for failing to comply, to be calculated pursuant to s.202.28(2)(a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_16__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any dealer who makes a sale for resale shall document the exempt nature of the transaction, as established by rules adopted by the department, by retaining a copy of the purchaser’s initial or annual resale certificate issued pursuant to s.202.17(6). In lieu of maintaining a copy of the certificate, a dealer may document, prior to the time of sale, an authorization number provided telephonically or electronically by the department or by such other means established by rule of the department. The dealer may rely on an initial or annual resale certificate issued pursuant to s.202.17(6), valid at the time of receipt from the purchaser, without seeking additional annual resale certificates from such purchaser, if the dealer makes recurring sales to the purchaser in the normal course of business on a continual basis. For purposes of this paragraph, the term “recurring sales to a purchaser in the normal course of business” means sales in which the dealer extends credit to the purchaser and records the debt as an account receivable, or in which the dealer sells to a purchaser who has an established cash account, similar to an open credit account. For purposes of this paragraph, purchases are made from a selling dealer on a continual basis if the selling dealer makes, in the normal course of business, sales to the purchaser no less frequently than once in every 12-month period.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_16__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A dealer must compute the tax due on the sale of communications services imposed pursuant to this chapter and chapter 203 based on a rounding algorithm that meets the following criteria:</p>
+            </content>
+            <paragraph eId="202_16__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A dealer must compute the tax due on the sale of communications services imposed pursuant to this chapter and chapter 203 based on a rounding algorithm that meets the following criteria:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_16__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The rounding algorithm must be applied to the local communications services tax imposed pursuant to this chapter separately from its application to the communications services taxes imposed pursuant to s.202.12and the gross receipts taxes imposed pursuant to s.203.01.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_16__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A dealer may apply the rounding algorithm to the taxes imposed pursuant to ss.202.12and203.01in one of the following ways:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_16__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Under paragraph (b) or paragraph (c), a dealer may apply the rounding algorithm to the aggregate tax amount that is computed on all taxable items on an invoice or to each tax amount that is computed on one or more, but fewer than all, taxable items on an invoice. The aggregate tax amount for all items on the invoice must equal at least the result that would have been obtained if the rounding algorithm had been applied to the aggregate tax amount computed on all taxable items on the invoice. A dealer may satisfy this requirement by setting a minimum tax amount of not less than 1 cent with respect to each item, or group of items, to which the rounding algorithm is applied.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_16__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The department may not require a dealer to collect the tax based on a bracket system.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_16__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each purchaser of a communications service is liable for the taxes imposed under this chapter and chapter 203. The purchaser’s liability is not extinguished until the tax has been paid to the department, except that proof of payment of the tax to a dealer of communications services engaged in business in this state is sufficient to relieve the purchaser from further liability for the tax.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.681"/>
+          <FRBRuri value="/us-fl/act/fsa/215.681"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.681/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.681/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.681/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.681/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_681">
+          <num>215.681</num>
+          <heading>ESG bonds; prohibitions.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="215_681__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_681__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Bonds” means any note, general obligation bond, revenue bond, special assessment bond, special obligation bond, private activity bond, certificate of participation, or other evidence of indebtedness or obligation, in either temporary or definitive form.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“ESG” means environmental, social, and governance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“ESG bonds” means any bonds that have been designated or labeled as bonds that will be used to finance a project with an ESG purpose, including, but not limited to, green bonds, Certified Climate Bonds, GreenStar designated bonds, and other environmental bonds marketed as promoting a generalized or global environmental objective; social bonds marketed as promoting a social objective; and sustainability bonds and sustainable development goal bonds marketed as promoting both environmental and social objectives. The term includes those bonds self-designated by the issuer as ESG-labeled bonds and those designated as ESG-labeled bonds by a third-party verifier.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Issuer” means the division, acting on behalf of any entity; any local government, educational entity, or entity of higher education as defined in s.215.89(2)(c), (d), and (e), respectively, or other political subdivision granted the power to issue bonds; or any public body corporate and politic authorized or created by general or special law and granted the power to issue bonds, including, but not limited to, a water and sewer district created under chapter 153, a health facilities authority as defined in s.154.205, an industrial development authority created under chapter 159, a housing financing authority as defined in s.159.603(3), a research and development authority as defined in s.159.702(1)(c), a legal or administrative entity created by interlocal agreement pursuant to s.163.01(7), a community redevelopment agency as defined in s.163.340(1), a regional transportation authority created under chapter 163, a community development district as defined in s.190.003, an educational facilities authority as defined in s.243.52(1), the Higher Educational Facilities Financing Authority created under s.243.53, the Florida Development Finance Corporation created under s.288.9604, a port district or port authority as defined in s.315.02(1) and (2), respectively, the South Florida Regional Transportation Authority created under s.343.53, the Central Florida Regional Transportation Authority created under s.343.63, the Greater Miami Expressway Agency created under s.348.0304, the Tampa-Hillsborough County Expressway Authority created under s.348.52, the Central Florida Expressway Authority created under s.348.753, the Jacksonville Transportation Authority created under s.349.03, and the Florida Housing Finance Corporation created under s.420.504.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Rating agency” means any nationally recognized rating service or nationally recognized statistical rating organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Third-party verifier” means any entity that contracts with an issuer to conduct an external review and independent assessment of proposed ESG bonds to ensure that such bonds may be designated or labeled as ESG bonds or will be used to finance a project that will comply with applicable ESG standards.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_681__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding any other provision of law relating to the issuance of bonds, it is a violation of this section and it is prohibited for any issuer to:</p>
+            </content>
+            <paragraph eId="215_681__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Issue ESG bonds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Expend public funds as defined in s.215.85(3) or use moneys derived from the issuance of bonds to pay for the services of a third-party verifier related to the designation or labeling of bonds as ESG bonds, including, but not limited to, certifying or verifying that bonds may be designated or labeled as ESG bonds, rendering a second-party opinion or producing a verifier’s report as to the compliance of proposed ESG bonds with applicable ESG standards and metrics, complying with post-issuance reporting obligations, or other services that are only provided due to the designation or labeling of bonds as ESG bonds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_681__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Enter into a contract with any rating agency whose ESG scores for such issuer will have a direct, negative impact on the issuer’s bond ratings.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_681__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding s.655.0323, a financial institution as defined in s.655.005(1) may purchase and underwrite bonds issued by a governmental entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_681__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>This section does not apply to any bonds issued before July 1, 2023, or to any agreement entered into or any contract executed before July 1, 2023.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

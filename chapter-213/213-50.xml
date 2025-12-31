@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.50"/>
+          <FRBRuri value="/us-fl/act/fsa/213.50"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.50/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.50/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.50/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.50/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_50">
+          <num>213.50</num>
+          <heading>Failure to comply; revocation of corporate charter or license to operate a public lodging establishment or public food service establishment; refusal to reinstate charter or license.</heading>
+          <content>
+            <p>Any corporation of this state which has an outstanding tax warrant that has existed for more than 3 consecutive months is subject to the revocation of its charter as provided in s.607.1420.</p>
+          </content>
+          <subsection eId="213_50__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any corporation of this state which has an outstanding tax warrant that has existed for more than 3 consecutive months is subject to the revocation of its charter as provided in s.607.1420.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_50__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A request for reinstatement of a corporate charter may not be granted by the Division of Corporations of the Department of State if an outstanding tax warrant has existed for that corporation for more than 3 consecutive months.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_50__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Division of Hotels and Restaurants of the Department of Business and Professional Regulation may suspend a license to operate a public lodging establishment or a public food service establishment if a tax warrant has been outstanding against the licenseholder for more than 3 months.</p>
+            </content>
+            <paragraph eId="213_50__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The Division of Hotels and Restaurants of the Department of Business and Professional Regulation may suspend a license to operate a public lodging establishment or a public food service establishment if a tax warrant has been outstanding against the licenseholder for more than 3 months.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_50__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The division may deny an application to renew a license to operate a public lodging establishment or a public food service establishment if a tax warrant has been outstanding against the licenseholder for more than 3 months.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

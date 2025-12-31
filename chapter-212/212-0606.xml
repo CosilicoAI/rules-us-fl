@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0606"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0606"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0606/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0606/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0606/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0606/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0606">
+          <num>212.0606</num>
+          <heading>Rental car surcharge.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="212_0606__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="212_0606__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Car-sharing service” means a membership-based organization or business, or division thereof, which requires the payment of an application fee or a membership fee and provides member access to motor vehicles:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0606__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Motor vehicle rental company” means an entity that is in the business of providing, for financial consideration, motor vehicles to the public under a rental agreement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0606__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Peer-to-peer car-sharing program” has the same meaning as in s.627.7483(1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0606__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in subsections (3) and (4), a surcharge of $2 per day or any part of a day is imposed upon the lease or rental by a motor vehicle rental company of a motor vehicle that is licensed for hire and designed to carry fewer than nine passengers, regardless of whether the motor vehicle is licensed in this state, for financial consideration and without transfer of the title of the motor vehicle. The surcharge is imposed regardless of whether the lease or rental occurs in person or through digital means. The surcharge applies to only the first 30 days of the term of a lease or rental and must be collected by the motor vehicle rental company. The surcharge is subject to all applicable taxes imposed by this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0606__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A surcharge of $1 per day or any part of a day is imposed upon each peer-to-peer car-sharing program agreement involving a shared vehicle that is registered in this state and designed to carry fewer than nine passengers for financial consideration and without transfer of the title of the shared vehicle. If the duration of the car-sharing period for a peer-to-peer car-sharing program agreement subject to the surcharge established pursuant to this section is less than 24 hours, the applicable surcharge will be $1 per usage. The surcharge applies to the first 30 days only of a car-sharing period for any peer-to-peer car-sharing program agreement to which the surcharge applies and must be collected by the peer-to-peer car-sharing program. The surcharge is subject to all applicable taxes imposed by this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0606__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A member of a car-sharing service who uses a motor vehicle as described in subsection (2) for less than 24 hours pursuant to an agreement with the car-sharing service shall pay a surcharge of $1 per usage. A member of a car-sharing service who uses the same motor vehicle for 24 hours or more shall pay a surcharge of $2 per day or any part of a day as provided in subsection (2). The car-sharing service shall collect the surcharge. The surcharge imposed under this subsection does not apply to the lease, rental, or use of a motor vehicle from a location owned, operated, or leased by or for the benefit of an airport or airport authority.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0606__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding s.212.20, and less the costs of administration, 80 percent of the proceeds of this surcharge shall be deposited in the State Transportation Trust Fund, 15.75 percent of the proceeds of this surcharge shall be deposited in the Tourism Promotional Trust Fund created in s.288.122, and4.25percent of the proceeds of this surcharge shall be deposited in the Florida International Trade and Promotion Trust Fund. For the purposes of this subsection, the term “proceeds of this surcharge” means all funds collected and received by the department under this section, including interest and penalties on delinquent surcharges. The department shall provide the Department of Transportation rental car surcharge revenue information for the previous state fiscal year by September 1 of each year.</p>
+            </content>
+            <paragraph eId="212_0606__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Notwithstanding s.212.20, and less the costs of administration, 80 percent of the proceeds of this surcharge shall be deposited in the State Transportation Trust Fund, 15.75 percent of the proceeds of this surcharge shall be deposited in the Tourism Promotional Trust Fund created in s.288.122, and4.25percent of the proceeds of this surcharge shall be deposited in the Florida International Trade and Promotion Trust Fund. For the purposes of this subsection, the term “proceeds of this surcharge” means all funds collected and received by the department under this section, including interest and penalties on delinquent surcharges. The department shall provide the Department of Transportation rental car surcharge revenue information for the previous state fiscal year by September 1 of each year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0606__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any other law, the proceeds deposited in the State Transportation Trust Fund shall be allocated on an annual basis in the Department of Transportation’s work program to each department district, except the Turnpike District. The amount allocated to each district shall be based on the amount of proceeds attributed to the counties within each respective district.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0606__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Except as provided in this section, the department shall administer, collect, and enforce the surcharges as provided in this chapter.</p>
+            </content>
+            <paragraph eId="212_0606__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Except as provided in this section, the department shall administer, collect, and enforce the surcharges as provided in this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0606__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall require a dealer to report surcharge collections according to the county to which the surcharge was attributed. For purposes of this section, the surcharge shall be attributed to the county in which the rental agreement was entered into, except that, for peer-to-peer car-sharing, the surcharge shall be attributable to the county corresponding to the location of the motor vehicle at the car-sharing start time.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0606__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A dealer that collects a surcharge pursuant to this section shall report to the department all surcharge revenues attributed to the county where the rental agreement was entered into on a timely filed return for each required reporting period; except that, in the case of peer-to-peer car-sharing, the peer-to-peer car-sharing program shall report the applicable surcharge revenue attributed to the county corresponding to the location of the motor vehicle at the car-sharing start time. The provisions of this chapter which apply to interest and penalties on delinquent taxes apply to the surcharge. The surcharge shall not be included in the calculation of estimated taxes pursuant to s.212.11. The dealer’s credit provided in s.212.12does not apply to any amount collected under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0606__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The surcharge imposed by this section does not apply to a motor vehicle or a shared vehicle provided at no charge to a person whose motor vehicle is being repaired, adjusted, or serviced by the entity providing the replacement motor vehicle.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

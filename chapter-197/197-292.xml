@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.292"/>
+          <FRBRuri value="/us-fl/act/fsa/197.292"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.292/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.292/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.292/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.292/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_292">
+          <num>197.292</num>
+          <heading>Construction.</heading>
+          <content>
+            <p>This chapter does not:</p>
+          </content>
+          <subsection eId="197_292__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Prohibit the collection of personal property taxes that become a lien against tax-deferred property;</p>
+            </content>
+          </subsection>
+          <subsection eId="197_292__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Defer payment of special assessments to benefited property other than those specifically allowed to be deferred; or</p>
+            </content>
+          </subsection>
+          <subsection eId="197_292__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Affect any provision of any mortgage or other instrument relating to property requiring a person to pay ad valorem taxes or non-ad valorem assessments.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

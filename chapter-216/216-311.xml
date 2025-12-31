@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.311"/>
+          <FRBRuri value="/us-fl/act/fsa/216.311"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.311/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.311/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.311/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.311/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_311">
+          <num>216.311</num>
+          <heading>Unauthorized contracts in excess of appropriations; penalty.</heading>
+          <content>
+            <p>No agency or branch of state government shall contract to spend, or enter into any agreement to spend, any moneys in excess of the amount appropriated to such agency or branch unless specifically authorized by law, and any contract or agreement in violation of this chapter shall be null and void.</p>
+          </content>
+          <subsection eId="216_311__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No agency or branch of state government shall contract to spend, or enter into any agreement to spend, any moneys in excess of the amount appropriated to such agency or branch unless specifically authorized by law, and any contract or agreement in violation of this chapter shall be null and void.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_311__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who willfully contracts to spend, or enters into an agreement to spend, any money in excess of the amount appropriated to the agency or branch for whom the contract or agreement is executed is guilty of a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

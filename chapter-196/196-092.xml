@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.092"/>
+          <FRBRuri value="/us-fl/act/fsa/196.092"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.092/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.092/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.092/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.092/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_092">
+          <num>196.092</num>
+          <heading>Verification of eligibility for certain disabled veterans and surviving spouses.</heading>
+          <content>
+            <p>The Department of Revenue shall provide a form that a county property appraiser may use, at his or her discretion, to provide a person with tentative verification of such person’s eligibility to receive an exemption or a discount under s.196.081, s.196.082, or s.196.091, after submission by such person of the forms, documentation, and other proof necessary to qualify for the relevant exemption or discount after purchase of a homestead property. The form must indicate that such tentative verification of eligibility is not binding upon the county property appraiser and that the person must comply with the annual application requirements of s.196.011and the requirements of s.196.081, s.196.082, or s.196.091in order to receive the exemption or discount authorized by those provisions. Decisions by a county property appraiser regarding whether to consider a request for tentative verification of eligibility for an exemption under this section; or a person’s apparent eligibility to receive an exemption or a discount under s.196.081, s.196.082, or s.196.091after submission by such person of the forms, documentation, and other proof necessary to qualify for the relevant exemption or discount after purchase of a homestead property; are not subject to administrative or judicial review under chapter 194.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

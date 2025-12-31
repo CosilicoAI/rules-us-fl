@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.171"/>
+          <FRBRuri value="/us-fl/act/fsa/200.171"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.171/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.171/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.171/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.171/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_171">
+          <num>200.171</num>
+          <heading>Mandamus to levy tax; limitations.</heading>
+          <content>
+            <p>In any suit brought in any court of this state seeking to compel the levy of any tax for the payment of any bonds, coupons or other evidences of indebtedness, or to establish a sinking fund for their ultimate redemption at maturity, the peremptory writ, if issued by the court, shall in no case require a levy in excess of the ability of the taxing unit involved to pay the taxes commanded to be levied; and if such taxing unit be one having other functions of civil government to perform, the court shall also take into consideration in commanding such levy, the necessity of such unit to make a reasonably ample levy of taxes for the purpose of raising revenue with which to pay for the operation of the ordinary functions of civil government which such unit performs; provided, this section shall not apply to bonds, coupons or other evidences of indebtedness issued subsequent to the passage of this law. The ability of the taxing unit involved to pay the taxes commanded to be levied shall be determined by the court within its sound discretion by the application of equitable considerations in view of all the conditions of the taxing unit bearing upon such ability to pay; and such ability to pay shall be first found and determined before the issuance of any such peremptory writ.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

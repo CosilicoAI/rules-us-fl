@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.186"/>
+          <FRBRuri value="/us-fl/act/fsa/212.186"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.186/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.186/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.186/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.186/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_186">
+          <num>212.186</num>
+          <heading>Registration number and resale certificate verification; toll-free number; information system; dealer education.</heading>
+          <content>
+            <p>The Department of Revenue shall establish a toll-free number for verification of valid registration numbers and resale certificates. The system must be sufficient to guarantee a low busy rate and must respond to keypad inquiries, and data must be updated daily.</p>
+          </content>
+          <subsection eId="212_186__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue shall establish a toll-free number for verification of valid registration numbers and resale certificates. The system must be sufficient to guarantee a low busy rate and must respond to keypad inquiries, and data must be updated daily.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_186__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Revenue shall establish a system for receiving information from dealers regarding certificate numbers of those seeking to make purchases for resale. The department must provide such dealers with verification of those numbers which are canceled or invalid. This information must be provided by the department free of charge.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_186__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Department of Revenue shall expand its dealer education program regarding the proper use of resale certificates. The expansion shall include, but need not be limited to, revision of the registration application for clarity, development of industry-specific brochures, development of a media campaign to heighten awareness of resale fraud and its consequences, outreach to business and professional organizations, and creation of seminars and continuing education programs for taxpayers and licensed professionals.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

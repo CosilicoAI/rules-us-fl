@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.343"/>
+          <FRBRuri value="/us-fl/act/fsa/197.343"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.343/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.343/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.343/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.343/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_343">
+          <num>197.343</num>
+          <heading>Tax notices; additional notice required.</heading>
+          <content>
+            <p>An additional tax notice shall be sent, electronically or by postal mail, by April 30 to each taxpayer whose payment has not been received. Electronic transmission of the additional tax notice may be used only with the express consent of the property owner. If the electronic transmission is returned as undeliverable, a second notice must be sent. However, the original electronic transmission used with the consent of the property owner is the official notice for the purposes of this subsection. The notice shall include a description of the property and a statement that if the taxes are not paid:</p>
+          </content>
+          <subsection eId="197_343__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An additional tax notice shall be sent, electronically or by postal mail, by April 30 to each taxpayer whose payment has not been received. Electronic transmission of the additional tax notice may be used only with the express consent of the property owner. If the electronic transmission is returned as undeliverable, a second notice must be sent. However, the original electronic transmission used with the consent of the property owner is the official notice for the purposes of this subsection. The notice shall include a description of the property and a statement that if the taxes are not paid:</p>
+            </content>
+            <paragraph eId="197_343__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For real property, a tax certificate may be sold; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_343__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For tangible personal property, the property may be sold.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_343__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the taxes under s.193.481on subsurface rights become delinquent and a tax certificate is to be sold under this chapter, a notice of the delinquency shall be sent to the owner of the fee to which these subsurface rights are attached. The additional notice may be transmitted electronically only with the express consent of the fee owner. If the electronic transmission is returned as undeliverable, a second notice must be sent. However, the original electronic transmission used with the consent of the property owner is the official notice for the purposes of this subsection. On the day of the tax sale, the fee owner shall have the right to purchase the tax certificate at the maximum rate of interest provided by law before bids are accepted for the sale of such certificate.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_343__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax collector shall send such additional notices as he or she considers proper and necessary or as may be required by reasonable rules of the department. An additional notice may be transmitted electronically only with the express consent of the property owner. If the notice of taxes is sent electronically and is returned as undeliverable, a second notice shall be sent. However, an original electronic transmission used with the consent of the property owner is the official mailing for the purpose of this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

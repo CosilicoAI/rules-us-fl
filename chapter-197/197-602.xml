@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.602"/>
+          <FRBRuri value="/us-fl/act/fsa/197.602"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.602/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.602/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.602/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.602/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_602">
+          <num>197.602</num>
+          <heading>Reimbursement required in challenges to the validity of a tax deed.</heading>
+          <content>
+            <p>If a party successfully challenges the validity of a tax deed in an action at law or equity, but the taxes for which the tax deed was sold were not paid before the tax deed was issued, the party shall pay to the party against whom the judgment or decree is entered:</p>
+          </content>
+          <subsection eId="197_602__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a party successfully challenges the validity of a tax deed in an action at law or equity, but the taxes for which the tax deed was sold were not paid before the tax deed was issued, the party shall pay to the party against whom the judgment or decree is entered:</p>
+            </content>
+            <paragraph eId="197_602__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount paid for the tax deed and all taxes paid upon the land, together with 12 percent interest thereon per year from the date of the issuance of the tax deed;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_602__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>All legal expenses in obtaining the tax deed, including publication of notice and clerk’s fees for issuing and recording the tax deed; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_602__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The fair cash value of all maintenance and permanent improvements made upon the land by the holders under the tax deed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_602__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In an action to challenge the validity of a tax deed, the prevailing party is entitled to all reasonable litigation expenses, including attorney’s fees.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_602__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The court shall determine the amount of the expenses for which a party shall be reimbursed. The tax deed holder or anyone holding under the tax deed has a prior lien on the land for the payment of the expenses that must be reimbursed to such persons.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

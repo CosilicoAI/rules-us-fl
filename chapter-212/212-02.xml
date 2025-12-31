@@ -1,0 +1,364 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.02"/>
+          <FRBRuri value="/us-fl/act/fsa/212.02"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.02/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.02/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.02/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.02/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_02">
+          <num>212.02</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>The following terms and phrases when used in this chapter have the meanings ascribed to them in this section, except where the context clearly indicates a different meaning:</p>
+          </content>
+          <subsection eId="212_02__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The term “admissions” means and includes the net sum of money after deduction of any federal taxes for admitting a person or vehicle or persons to any place of amusement, sport, or recreation or for the privilege of entering or staying in any place of amusement, sport, or recreation, including, but not limited to, theaters, outdoor theaters, shows, exhibitions, games, races, or any place where charge is made by way of sale of tickets, gate charges, seat charges, box charges, season pass charges, cover charges, greens fees, participation fees, entrance fees, or other fees or receipts of anything of value measured on an admission or entrance or length of stay or seat box accommodations in any place where there is any exhibition, amusement, sport, or recreation, and all dues and fees paid to private clubs and membership clubs providing recreational or physical fitness facilities, including, but not limited to, golf, tennis, swimming, yachting, boating, athletic, exercise, and fitness facilities, except physical fitness facilities owned or operated by any hospital licensed under chapter 395.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Business” means any activity engaged in by any person, or caused to be engaged in by him or her, with the object of private or public gain, benefit, or advantage, either direct or indirect. Except for the sales of any aircraft, boat, mobile home, or motor vehicle, the term “business” shall not be construed in this chapter to include occasional or isolated sales or transactions involving tangible personal property or services by a person who does not hold himself or herself out as engaged in business or sales of unclaimed tangible personal property under s.717.122, but includes other charges for the sale or rental of tangible personal property, sales of services taxable under this chapter, sales of or charges of admission, communication services, all rentals and leases of living quarters, other than low-rent housing operated under chapter 421, sleeping or housekeeping accommodations in hotels, apartment houses, roominghouses, tourist or trailer camps, and all leases or rentals of or licenses in parking lots or garages for motor vehicles, docking or storage spaces for boats in boat docks or marinas as defined in this chapter and made subject to a tax imposed by this chapter. The term “business” shall not be construed in this chapter to include the leasing, subleasing, or licensing of real property by one corporation to another if all of the stock of both such corporations is owned, directly or through one or more wholly owned subsidiaries, by a common parent corporation; the property was in use prior to July 1, 1989, title to the property was transferred after July 1, 1988, and before July 1, 1989, between members of an affiliated group, as defined in s. 1504(a) of the Internal Revenue Code of 1986, which group included both such corporations and there is no substantial change in the use of the property following the transfer of title; the leasing, subleasing, or licensing of the property was required by an unrelated lender as a condition of providing financing to on</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The terms “cigarettes,” “tobacco,” or “tobacco products” referred to in this chapter include all such products as are defined or may be hereafter defined by the laws of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Cost price” means the actual cost of articles of tangible personal property without any deductions therefrom on account of the cost of materials used, labor or service costs, transportation charges, or any expenses whatsoever.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The term “department” means the Department of Revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Enterprise zone” means an area of the state designated pursuant to s.290.0065. This subsection expires on the date specified in s.290.016for the expiration of the Florida Enterprise Zone Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Factory-built building” means a structure manufactured in a manufacturing facility for installation or erection as a finished building; “factory-built building” includes, but is not limited to, residential, commercial, institutional, storage, and industrial structures.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“In this state” or “in the state” means within the state boundaries of Florida as defined in s. 1, Art. II of the State Constitution and includes all territory within these limits owned by or ceded to the United States.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The term “intoxicating beverages” or “alcoholic beverages” referred to in this chapter includes all such beverages as are so defined or may be hereafter defined by the laws of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>“Lease,” “let,” or “rental” means leasing or renting of living quarters or sleeping or housekeeping accommodations in hotels, apartment houses, roominghouses, and tourist or trailer camps, the same being defined as follows:</p>
+            </content>
+            <paragraph eId="212_02__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Every building or other structure kept, used, maintained, or advertised as, or held out to the public to be, a place where sleeping accommodations are supplied for pay to transient or permanent guests or tenants, in which 10 or more rooms are furnished for the accommodation of such guests, and having one or more dining rooms or cafes where meals or lunches are served to such transient or permanent guests; such sleeping accommodations and dining rooms or cafes being conducted in the same building or buildings in connection therewith, shall, for the purpose of this chapter, be deemed a hotel.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any building, or part thereof, where separate accommodations for two or more families living independently of each other are supplied to transient or permanent guests or tenants shall for the purpose of this chapter be deemed an apartment house.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Every house, boat, vehicle, motor court, trailer court, or other structure or any place or location kept, used, maintained, or advertised as, or held out to the public to be, a place where living quarters or sleeping or housekeeping accommodations are supplied for pay to transient or permanent guests or tenants, whether in one or adjoining buildings, shall for the purpose of this chapter be deemed a roominghouse.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>In all hotels, apartment houses, and roominghouses within the meaning of this chapter, the parlor, dining room, sleeping porches, kitchen, office, and sample rooms shall be construed to mean “rooms.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A “tourist camp” is a place where two or more tents, tent houses, or camp cottages are located and offered by a person or municipality for sleeping or eating accommodations, most generally to the transient public for either a direct money consideration or an indirect benefit to the lessor or owner in connection with a related business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_f">
+              <num>(f)</num>
+              <content>
+                <p>A “trailer camp,” “mobile home park,” or “recreational vehicle park” is a place where space is offered, with or without service facilities, by any persons or municipality to the public for the parking and accommodation of two or more automobile trailers, mobile homes, or recreational vehicles which are used for lodging, for either a direct money consideration or an indirect benefit to the lessor or owner in connection with a related business, such space being hereby defined as living quarters, and the rental price thereof shall include all service charges paid to the lessor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Lease,” “let,” or “rental” also means the leasing or rental of tangible personal property and the possession or use thereof by the lessee or rentee for a consideration, without transfer of the title of such property, except as expressly provided to the contrary herein. The term “lease,” “let,” or “rental” does not mean hourly, daily, or mileage charges, to the extent that such charges are subject to the jurisdiction of the1United States Interstate Commerce Commission, when such charges are paid by reason of the presence of railroad cars owned by another on the tracks of the taxpayer, or charges made pursuant to car service agreements. The term “lease,” “let,” “rental,” or “license” does not include payments made to an owner of high-voltage bulk transmission facilities in connection with the possession or control of such facilities by a regional transmission organization, independent system operator, or similar entity under the jurisdiction of the Federal Energy Regulatory Commission. However, where two taxpayers, in connection with the interchange of facilities, rent or lease property, each to the other, for use in providing or furnishing any of the services mentioned in s.166.231, the term “lease or rental” means only the net amount of rental involved.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_10__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Real property” means the surface land, improvements thereto, and fixtures, and is synonymous with “realty” and “real estate.”</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_02__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>“Motor fuel” means and includes what is commonly known and sold as gasoline and fuels containing a mixture of gasoline and other products.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>“Person” includes any individual, firm, copartnership, joint adventure, association, corporation, estate, trust, business trust, receiver, syndicate, or other group or combination acting as a unit and also includes any political subdivision, municipality, state agency, bureau, or department and includes the plural as well as the singular number.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>“Retailer” means and includes every person engaged in the business of making sales at retail or for distribution, or use, or consumption, or storage to be used or consumed in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>“Retail sale” or a “sale at retail” means a sale to a consumer or to any person for any purpose other than for resale in the form of tangible personal property or services taxable under this chapter, and includes all such transactions that may be made in lieu of retail sales or sales at retail. A sale for resale includes a sale of qualifying property. As used in this paragraph, the term “qualifying property” means tangible personal property, other than electricity, which is used or consumed by a government contractor in the performance of a qualifying contract as defined in s.212.08(17)(c), to the extent that the cost of the property is allocated or charged as a direct item of cost to such contract, title to which property vests in or passes to the government under the contract. The term “government contractor” includes prime contractors and subcontractors. As used in this paragraph, a cost is a “direct item of cost” if it is a “direct cost” as defined in 48 C.F.R. s. 9904.418-30(a)(2), or similar successor provisions, including costs identified specifically with a particular contract.</p>
+            </content>
+            <paragraph eId="212_02__subsec_14__para_14">
+              <num>(14)</num>
+              <content>
+                <p>“Retail sale” or a “sale at retail” means a sale to a consumer or to any person for any purpose other than for resale in the form of tangible personal property or services taxable under this chapter, and includes all such transactions that may be made in lieu of retail sales or sales at retail. A sale for resale includes a sale of qualifying property. As used in this paragraph, the term “qualifying property” means tangible personal property, other than electricity, which is used or consumed by a government contractor in the performance of a qualifying contract as defined in s.212.08(17)(c), to the extent that the cost of the property is allocated or charged as a direct item of cost to such contract, title to which property vests in or passes to the government under the contract. The term “government contractor” includes prime contractors and subcontractors. As used in this paragraph, a cost is a “direct item of cost” if it is a “direct cost” as defined in 48 C.F.R. s. 9904.418-30(a)(2), or similar successor provisions, including costs identified specifically with a particular contract.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_14__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The terms “retail sales,” “sales at retail,” “use,” “storage,” and “consumption” include the sale, use, storage, or consumption of all tangible advertising materials imported or caused to be imported into this state. Tangible advertising material includes displays, display containers, brochures, catalogs, price lists, point-of-sale advertising, and technical manuals or any tangible personal property which does not accompany the product to the ultimate consumer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_14__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Retail sales,” “sale at retail,” “use,” “storage,” and “consumption” do not include materials, containers, labels, sacks, bags, or similar items intended to accompany a product sold to a customer without which delivery of the product would be impracticable because of the character of the contents and be used one time only for packaging tangible personal property for sale or for the convenience of the customer or for packaging in the process of providing a service taxable under this chapter. When a separate charge for packaging materials is made, the charge shall be considered part of the sales price or rental charge for purposes of determining the applicability of tax. The terms do not include the sale, use, storage, or consumption of industrial materials, including chemicals and fuels except as provided herein, for future processing, manufacture, or conversion into articles of tangible personal property for resale when such industrial materials, including chemicals and fuels except as provided herein, become a component or ingredient of the finished product. However, the terms include the sale, use, storage, or consumption of tangible personal property, including machinery and equipment or parts thereof, purchased electricity, and fuels used to power machinery, when such items are used and dissipated in fabricating, converting, or processing tangible personal property for sale, even though they may become ingredients or components of the tangible personal property for sale through accident, wear, tear, erosion, corrosion, or similar means. The terms do not include the sale of materials to a registered repair facility for use in repairing a motor vehicle, airplane, or boat, when such materials are incorporated into and sold as part of the repair. Such a sale shall be deemed a purchase for resale by the repair facility, even though every material is not separately stated or separately priced on the repair invoice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_14__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Gross sales” means the sum total of all sales of tangible personal property as defined herein, without any deduction whatsoever of any kind or character, except as provided in this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_14__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The term “retail sale” includes a remote sale as defined in s.212.0596(1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_14__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The term “retail sale” includes a sale facilitated through a marketplace as defined in s.212.05965(1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_02__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>“Sale” means and includes:</p>
+            </content>
+            <paragraph eId="212_02__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any transfer of title or possession, or both, exchange, barter, license, lease, or rental, conditional or otherwise, in any manner or by any means whatsoever, of tangible personal property for a consideration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The rental of living quarters or sleeping or housekeeping accommodations in hotels, apartment houses or roominghouses, or tourist or trailer camps, as hereinafter defined in this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_15__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The producing, fabricating, processing, printing, or imprinting of tangible personal property for a consideration for consumers who furnish either directly or indirectly the materials used in the producing, fabricating, processing, printing, or imprinting.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_15__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The furnishing, preparing, or serving for a consideration of any tangible personal property for consumption on or off the premises of the person furnishing, preparing, or serving such tangible personal property which includes the sale of meals or prepared food by an employer to his or her employees.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_02__subsec_15__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A transaction whereby the possession of property is transferred but the seller retains title as security for the payment of the price.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_02__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>“Sales price” means the total amount paid for tangible personal property, including any services that are a part of the sale, valued in money, whether paid in money or otherwise, and includes any amount for which credit is given to the purchaser by the seller, without any deduction therefrom on account of the cost of the property sold, the cost of materials used, labor or service cost, interest charged, losses, or any other expense whatsoever. “Sales price” also includes the consideration for a transaction which requires both labor and material to alter, remodel, maintain, adjust, or repair tangible personal property. Trade-ins or discounts allowed and taken at the time of sale shall not be included within the purview of this subsection. “Sales price” also includes the full face value of any coupon used by a purchaser to reduce the price paid to a retailer for an item of tangible personal property; where the retailer will be reimbursed for such coupon, in whole or in part, by the manufacturer of the item of tangible personal property; or whenever it is not practicable for the retailer to determine, at the time of sale, the extent to which reimbursement for the coupon will be made. The term “sales price” does not include federal excise taxes imposed upon the retailer on the sale of tangible personal property. The term “sales price” does include federal manufacturers’ excise taxes, even if the federal tax is listed as a separate item on the invoice. To the extent required by federal law, the term “sales price” does not include charges for Internet access services which are not itemized on the customer’s bill, but which can be reasonably identified from the selling dealer’s books and records kept in the regular course of business. The dealer may support the allocation of charges with books and records kept in the regular course of business covering the dealer’s entire service area, including territories outside this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>“Diesel fuel” means any liquid product, gas product, or combination thereof used in an internal combustion engine or motor to propel any form of vehicle, machine, or mechanical contrivance. This term includes, but is not limited to, all forms of fuel commonly or commercially known or sold as diesel fuel or kerosene. However, the term “diesel fuel” does not include butane gas, propane gas, or any other form of liquefied petroleum gas or compressed natural gas.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>“Storage” means and includes any keeping or retention in this state of tangible personal property for use or consumption in this state or for any purpose other than sale at retail in the regular course of business.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>“Tangible personal property” means and includes personal property which may be seen, weighed, measured, or touched or is in any manner perceptible to the senses, including electric power or energy, boats, motor vehicles and mobile homes as defined in s.320.01(1) and (2), aircraft as defined in s.330.27, and all other types of vehicles. The term “tangible personal property” does not include stocks, bonds, notes, insurance, or other obligations or securities or pari-mutuel tickets sold or issued under the racing laws of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>“Use” means and includes the exercise of any right or power over tangible personal property incident to the ownership thereof, or interest therein, except that it does not include the sale at retail of that property in the regular course of business. The term “use” does not include the loan of an automobile by a motor vehicle dealer to a high school for use in its driver education and safety program. The term “use” does not include a contractor’s use of “qualifying property” as defined by paragraph (14)(a).</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>The term “use tax” referred to in this chapter includes the use, the consumption, the distribution, and the storage as herein defined.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>“Spaceport activities” means activities directed or sponsored by Space Florida on spaceport territory pursuant to its powers and responsibilities under the Space Florida Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>“Space flight” means any flight designed for suborbital, orbital, or interplanetary travel of a space vehicle, satellite, or station of any kind.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>“Coin-operated amusement machine” means any machine operated by coin, slug, token, coupon, or similar device for the purposes of entertainment or amusement. The term includes, but is not limited to, coin-operated pinball machines, music machines, juke boxes, mechanical games, video games, arcade games, billiard tables, moving picture viewers, shooting galleries, and all other similar amusement devices.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_25">
+            <num>(25)</num>
+            <content>
+              <p>“Sea trial” means a voyage for the purpose of testing repair or modification work, which is in length and scope reasonably necessary to test repairs or modifications, or a voyage for the purpose of ascertaining the seaworthiness of a vessel. If the sea trial is to test repair or modification work, the owner or repair facility shall certify, in a form required by the department, what repairs have been tested. The owner and the repair facility may also be required to certify that the length and scope of the voyage were reasonably necessary to test the repairs or modifications.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_26">
+            <num>(26)</num>
+            <content>
+              <p>“Solar energy system” means the equipment and requisite hardware that provide and are used for collecting, transferring, converting, storing, or using incident solar energy for water heating, space heating, cooling, or other applications that would otherwise require the use of a conventional source of energy such as petroleum products, natural gas, manufactured gas, or electricity.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_27">
+            <num>(27)</num>
+            <content>
+              <p>“Agricultural commodity” means horticultural, aquacultural, poultry and farm products, and livestock and livestock products.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_28">
+            <num>(28)</num>
+            <content>
+              <p>“Farmer” means a person who is directly engaged in the business of producing crops, livestock, or other agricultural commodities. The term includes, but is not limited to, horse breeders, nurserymen, dairy farmers, poultry farmers, cattle ranchers, apiarists, and persons raising fish.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_29">
+            <num>(29)</num>
+            <content>
+              <p>“Livestock” includes all animals of the equine, bovine, or swine class, including goats, sheep, mules, horses, hogs, cattle, ostriches, and other grazing animals raised for commercial purposes. The term also includes all aquaculture products, as defined in s.597.0015and identified by the Department of Agriculture and Consumer Services pursuant to s.597.003, raised for commercial purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_30">
+            <num>(30)</num>
+            <content>
+              <p>“Power farm equipment” means moving or stationary equipment that contains within itself the means for its own propulsion or power and moving or stationary equipment that is dependent upon an external power source to perform its functions.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_31">
+            <num>(31)</num>
+            <content>
+              <p>“Forest” means the land stocked by trees of any size used in the production of forest products, or formerly having such tree cover, and not currently developed for nonforest use.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_32">
+            <num>(32)</num>
+            <content>
+              <p>“Agricultural production” means the production of plants and animals useful to humans, including the preparation, planting, cultivating, or harvesting of these products or any other practices necessary to accomplish production through the harvest phase, including storage of raw products on a farm. The term includes aquaculture, horticulture, floriculture, viticulture, forestry, dairy, livestock, poultry, bees, and any and all forms of farm products and farm production.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_33">
+            <num>(33)</num>
+            <content>
+              <p>“Qualified aircraft” means any aircraft having a maximum certified takeoff weight of less than 10,000 pounds and equipped with twin turbofan engines that meet Stage IV noise requirements that is used by a business operating as an on-demand air carrier under Federal Aviation Administration Regulation Title 14, chapter I, part 135, Code of Federal Regulations, that owns or leases and operates a fleet of at least 25 of such aircraft in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_02__subsec_34">
+            <num>(34)</num>
+            <content>
+              <p>“Fractional aircraft ownership program” means a program that meets the requirements of 14 C.F.R. part 91, subpart K, relating to fractional ownership operations, except that the program must include a minimum of 25 aircraft owned or leased by the program manager and used in the program.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

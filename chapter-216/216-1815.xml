@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.1815"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1815"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.1815/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1815/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.1815/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1815/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_1815">
+          <num>216.1815</num>
+          <heading>Agency incentive and savings program.</heading>
+          <content>
+            <p>In order to provide an incentive for agencies and the judicial branch to re-engineer business processes and otherwise increase operating efficiency, it is the intent of the Legislature to allow agencies and the judicial branch to retain a portion of the savings produced by internally generated agency or judicial branch program efficiencies and cost reductions.</p>
+          </content>
+          <subsection eId="216_1815__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In order to provide an incentive for agencies and the judicial branch to re-engineer business processes and otherwise increase operating efficiency, it is the intent of the Legislature to allow agencies and the judicial branch to retain a portion of the savings produced by internally generated agency or judicial branch program efficiencies and cost reductions.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_1815__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To be eligible to retain funds, an agency or the Chief Justice of the Supreme Court must submit a plan and an associated request to amend its approved operating budget to the Legislative Budget Commission specifying:</p>
+            </content>
+            <paragraph eId="216_1815__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The modifications to approved programs resulting in efficiencies and cost savings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1815__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount and source of the funds and positions saved;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1815__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The specific positions, rate, amounts, and sources of funds the agency or the judicial branch wishes to include in its incentive expenditures;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1815__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>How the agency or the judicial branch will meet the goals and objectives established in its long-range program plan;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1815__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>How the agency or the judicial branch will meet performance standards, including those in its long-range program plan; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1815__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Any other incentive expenditures which the agency or the judicial branch believes will enhance its performance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_1815__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding the 14-day notice requirement contained in s.216.177(2)(a), all plans and budget amendments submitted to the Legislative Budget Commission pursuant to this section shall be delivered at least 30 days prior to the date of the commission meeting at which the request will be considered.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_1815__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In determining the amount the agency or the judicial branch will be allowed to retain, the commission shall consider the actual savings projected for the current budget year and the annualized savings.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_1815__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The amount to be retained by the agency or the judicial branch shall be no less than 5 percent and no more than 25 percent of the annual savings and may be used by the agency or the judicial branch for salary increases or other expenditures specified in the agency’s or the judicial branch’s plan if the salary increases or other expenditures do not create a recurring cost to the state in excess of the recurring savings achieved by the agency or the judicial branch in the plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_1815__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Each agency or judicial branch allowed to retain funds pursuant to this section shall submit in its next legislative budget request a schedule showing how it used such funds.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

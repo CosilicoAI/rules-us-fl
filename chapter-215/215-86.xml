@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.86"/>
+          <FRBRuri value="/us-fl/act/fsa/215.86"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.86/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.86/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.86/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.86/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_86">
+          <num>215.86</num>
+          <heading>Management systems and controls.</heading>
+          <content>
+            <p>Each state agency and the judicial branch as defined in s.216.011shall establish and maintain management systems and internal controls designed to:</p>
+          </content>
+          <subsection eId="215_86__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Prevent and detect fraud, waste, and abuse as defined in s.11.45(1).</p>
+            </content>
+          </subsection>
+          <subsection eId="215_86__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Promote and encourage compliance with applicable laws, rules, contracts, and grant agreements.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_86__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Support economical and efficient operations.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_86__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Ensure reliability of financial records and reports.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_86__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Safeguard assets.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

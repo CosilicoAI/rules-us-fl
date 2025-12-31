@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.141"/>
+          <FRBRuri value="/us-fl/act/fsa/216.141"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.141/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.141/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.141/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.141/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_141">
+          <num>216.141</num>
+          <heading>Budget system procedures; planning and programming by state agencies.</heading>
+          <content>
+            <p>The Executive Office of the Governor, in consultation with the appropriations committees of the Senate and House of Representatives, and by utilizing the Florida Financial Management Information System management data and the Chief Financial Officer’s chart of accounts, shall prescribe a planning and budgeting system, pursuant to s.215.94(1), to provide for continuous planning and programming and for effective management practices for the efficient operations of all state agencies and the judicial branch. The Legislature may contract with the Executive Office of the Governor to develop the planning and budgeting system and to provide services to the Legislature for the support and use of the legislative appropriations system. The contract shall include the policies and procedures for combining the legislative appropriations system with the planning and budgeting information system established pursuant to s.215.94(1). At a minimum, the contract shall require the use of common data codes. The combined legislative appropriations and planning and budgeting information subsystem shall support the legislative appropriations and legislative oversight functions without data code conversion or modification.</p>
+          </content>
+          <subsection eId="216_141__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Executive Office of the Governor, in consultation with the appropriations committees of the Senate and House of Representatives, and by utilizing the Florida Financial Management Information System management data and the Chief Financial Officer’s chart of accounts, shall prescribe a planning and budgeting system, pursuant to s.215.94(1), to provide for continuous planning and programming and for effective management practices for the efficient operations of all state agencies and the judicial branch. The Legislature may contract with the Executive Office of the Governor to develop the planning and budgeting system and to provide services to the Legislature for the support and use of the legislative appropriations system. The contract shall include the policies and procedures for combining the legislative appropriations system with the planning and budgeting information system established pursuant to s.215.94(1). At a minimum, the contract shall require the use of common data codes. The combined legislative appropriations and planning and budgeting information subsystem shall support the legislative appropriations and legislative oversight functions without data code conversion or modification.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_141__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Florida Management Information Board shall notify the Auditor General of any changes or modifications to the Florida Financial Management Information System and its functional owner information subsystems.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_141__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Chief Financial Officer, as chief fiscal officer, shall use the Florida Accounting Information Resource Subsystem developed pursuant to s.215.94(2) for account purposes in the performance of and accounting for all of his or her constitutional and statutory duties and responsibilities. However, state agencies and the judicial branch continue to be responsible for maintaining accounting records necessary for effective management of their programs and functions.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

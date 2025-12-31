@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.141"/>
+          <FRBRuri value="/us-fl/act/fsa/200.141"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.141/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.141/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.141/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.141/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_141">
+          <num>200.141</num>
+          <heading>Millage following consolidation of city and county functions.</heading>
+          <content>
+            <p>Those cities or counties which now or hereafter provide both municipal and county services as authorized under ss. 9-11 and 24, Art. VIII of the State Constitution of 1885, as preserved by s. (6)(e), Art. VIII of the State Constitution, shall have the right to levy for county, district and municipal purposes a millage up to 20 mills on the dollar of assessed valuation under this section. For each increase in the county millage above 10 mills which is attributable to an assumption of municipal services by a county having home rule, or for each increase in the municipal millage above 10 mills which is attributable to an assumption of county services by a city having home rule, there shall be a decrease in the millage levied by each and every municipality which has a service or services assumed by the county, or by the county which has a service or services assumed by the city. Such decrease shall be equal to the cost of that service or services assumed, so that an amount equal to that cost shall be eliminated from the budget of the county or city giving up the performance of such service or services.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

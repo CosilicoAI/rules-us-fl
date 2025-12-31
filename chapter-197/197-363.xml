@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.363"/>
+          <FRBRuri value="/us-fl/act/fsa/197.363"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.363/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.363/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.363/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.363/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_363">
+          <num>197.363</num>
+          <heading>Special assessments and service charges; optional method of collection.</heading>
+          <content>
+            <p>At the option of the property appraiser, special assessments collected pursuant to this section prior to January 1, 1990, may be collected pursuant to this section after January 1, 1990. However, any local governing board collecting non-ad valorem assessments pursuant to this section on January 1, 1990, may elect to collect said assessments pursuant to s.197.3632. In the event of such election, the local governing board shall notify the property appraiser and tax collector in writing and comply with s.197.3632(2) and the applicable certification provisions of s.197.3632(5). If a local governing board amends any non-ad valorem assessment roll certified under this provision, the local governing board shall comply with all applicable provisions of s.197.3631.</p>
+          </content>
+          <subsection eId="197_363__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At the option of the property appraiser, special assessments collected pursuant to this section prior to January 1, 1990, may be collected pursuant to this section after January 1, 1990. However, any local governing board collecting non-ad valorem assessments pursuant to this section on January 1, 1990, may elect to collect said assessments pursuant to s.197.3632. In the event of such election, the local governing board shall notify the property appraiser and tax collector in writing and comply with s.197.3632(2) and the applicable certification provisions of s.197.3632(5). If a local governing board amends any non-ad valorem assessment roll certified under this provision, the local governing board shall comply with all applicable provisions of s.197.3631.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_363__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In accordance with subsection (1), special assessments authorized by general or special law or the State Constitution may be collected as provided for ad valorem taxes under this chapter if:</p>
+            </content>
+            <paragraph eId="197_363__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The entity imposing the special assessment has entered into a written agreement with the property appraiser, at her or his option, providing for reimbursement of administrative costs incurred under this section;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_363__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A resolution authorizing use of this method for collection of special assessments is adopted at a public hearing;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_363__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Affected property owners have been provided by first-class mail prior notice of both the potential for loss of title that exists with use of this collection method and the time and place of the public hearing required by paragraph (b);</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_363__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The property appraiser has listed on the assessment roll the special assessment for each affected parcel;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_363__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The dollar amount of the special assessment has been included in the notice of proposed property taxes; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_363__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The dollar amount of the special assessment has been included in the tax notice issued pursuant to s.197.322.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_363__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>When collected by using the method provided for ad valorem taxes, special assessments shall be subject to all collection provisions of this chapter, including provisions relating to discount for early payment, prepayment by installment method, penalty for delinquent payment, and issuance of tax certificates and tax deeds for nonpayment, and shall also be subject to the provisions of s.192.091(2)(b)2.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_363__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the requirements of subsection (2) which are imposed upon the collection of special assessments are not met, the collection of such special assessments shall be by the manner provided in the ordinance or resolution establishing such special assessments. The manner of collection established in any ordinance or resolution shall be in compliance with all general or special laws authorizing the levy of such special assessments, and in no event shall the ordinance or resolution provide for use of the ad valorem collection method.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_363__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The tax collector of a county may act as agent for the county in collecting service charges if the board of county commissioners of the county and the tax collector establish by agreement a manner in which service charges may be collected. The board of county commissioners shall compensate the tax collector for the actual cost of collecting such service charges. However, tax certificates and tax deeds may not be issued for nonpayment of service charges, and such charges shall not be included on a bill for ad valorem taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_363__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Effective January 1, 1990, no new special assessments may be collected pursuant to this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

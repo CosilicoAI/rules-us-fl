@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.166"/>
+          <FRBRuri value="/us-fl/act/fsa/216.166"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.166/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.166/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.166/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.166/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_166">
+          <num>216.166</num>
+          <heading>Governor’s recommended revenues; supporting information.</heading>
+          <content>
+            <p>Not later than 14 days after the Governor submits his or her recommended revenues to the Legislature pursuant to s.216.165, the Executive Office of the Governor shall make available:</p>
+          </content>
+          <subsection eId="216_166__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Not later than 14 days after the Governor submits his or her recommended revenues to the Legislature pursuant to s.216.165, the Executive Office of the Governor shall make available:</p>
+            </content>
+            <paragraph eId="216_166__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>To the legislative finance and tax committees an economic impact statement and appropriate staff analyses or support materials used to develop the Governor’s revenue recommendations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_166__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>To the President of the Senate and the Speaker of the House of Representatives any legislation in bill form which will be needed to fully implement the Governor’s recommended revenues. Upon receipt, the President of the Senate and the Speaker of the House of Representatives shall transmit each such bill to the chair of the appropriate committee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_166__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Governor, upon request, shall promptly furnish to the Legislature any appropriate information relating to his or her recommendations.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

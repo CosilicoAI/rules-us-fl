@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.1366"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1366"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.1366/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1366/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.1366/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1366/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_1366">
+          <num>216.1366</num>
+          <heading>Contract terms.</heading>
+          <content>
+            <p>In order to preserve the interest of the state in the prudent expenditure of state funds, each public agency contract for services entered into or amended on or after July 1, 2020, shall authorize the public agency to inspect the:</p>
+          </content>
+          <subsection eId="216_1366__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In order to preserve the interest of the state in the prudent expenditure of state funds, each public agency contract for services entered into or amended on or after July 1, 2020, shall authorize the public agency to inspect the:</p>
+            </content>
+            <paragraph eId="216_1366__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Financial records, papers, and documents of the contractor that are directly related to the performance of the contract or the expenditure of state funds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1366__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Programmatic records, papers, and documents of the contractor which the public agency determines are necessary to monitor the performance of the contract or to ensure that the terms of the contract are being met.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_1366__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The contract shall require the contractor to provide such records, papers, and documents requested by the public agency within 10 business days after the request is made.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_1366__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For any contract for services executed, amended, or extended on or after July 1, 2023, with a nonprofit organization as defined in s.215.97(2)(m), the contract must require the contractor to provide documentation that indicates the amount of state funds:</p>
+            </content>
+            <paragraph eId="216_1366__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>For any contract for services executed, amended, or extended on or after July 1, 2023, with a nonprofit organization as defined in s.215.97(2)(m), the contract must require the contractor to provide documentation that indicates the amount of state funds:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1366__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

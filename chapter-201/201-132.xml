@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.132"/>
+          <FRBRuri value="/us-fl/act/fsa/201.132"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.132/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.132/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.132/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.132/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_132">
+          <num>201.132</num>
+          <heading>Exceptions to use of stamps on recorded documents; county comptrollers and clerks of the circuit court.</heading>
+          <content>
+            <p>The county comptroller or, if there be none, the clerk of the circuit court of each county may collect the tax imposed by this chapter without affixing stamps to the document to be recorded under the following conditions:</p>
+          </content>
+          <subsection eId="201_132__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The county comptroller or, if there be none, the clerk of the circuit court of each county may collect the tax imposed by this chapter without affixing stamps to the document to be recorded under the following conditions:</p>
+            </content>
+            <paragraph eId="201_132__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A notation shall be placed on the document to be recorded showing the amount of tax paid and the county where payment is being made, and the notation shall be signed by, initialed, or otherwise stamped with the name or initials of the county comptroller or clerk of the circuit court, or designated agent thereof.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_132__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>All stamp taxes collected on recorded documents during the preceding week, less the collection allowance provided in s.201.11(2), shall be transmitted to the department no later than 7 working days after the end of the week in which the taxes were collected. A report certifying the amount of tax payable shall be submitted with the remittance. Report forms shall be furnished by the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_132__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A register approved by the department shall be maintained listing all recorded documents according to the clerk’s filing number assigned to each such document.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_132__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A county comptroller or clerk of the circuit court who elects to use the procedure authorized by this section shall be subject to audit and shall make all records available for ready inspection by the department and shall post a bond at his or her own expense as may be required by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_132__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The authority provided by this section applies only to tax collected on documents to be recorded.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

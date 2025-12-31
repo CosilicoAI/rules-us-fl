@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.101"/>
+          <FRBRuri value="/us-fl/act/fsa/196.101"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.101/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.101/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.101/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.101/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_101">
+          <num>196.101</num>
+          <heading>Exemption for totally and permanently disabled persons.</heading>
+          <content>
+            <p>Any real estate used and owned as a homestead by any quadriplegic is exempt from taxation.</p>
+          </content>
+          <subsection eId="196_101__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any real estate used and owned as a homestead by any quadriplegic is exempt from taxation.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_101__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any real estate used and owned as a homestead by a paraplegic, hemiplegic, or other totally and permanently disabled person, as defined in s.196.012(11), who must use a wheelchair for mobility or who is legally blind, is exempt from taxation.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_101__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The production by any totally and permanently disabled person entitled to the exemption in subsection (1) or subsection (2) of a certificate of such disability from two licensed doctors of this state or from the United States Department of Veterans Affairs or its predecessor to the property appraiser of the county wherein the property lies, is prima facie evidence of the fact that he or she is entitled to such exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_101__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A person entitled to the exemption in subsection (2) must be a permanent resident of this state. Submission of an affidavit that the applicant claiming the exemption under subsection (2) is a permanent resident of this state is prima facie proof of such residence. However, the gross income of all persons residing in or upon the homestead for the prior year shall not exceed $14,500. For the purposes of this section, the term “gross income” includes United States Department of Veterans Affairs benefits and any social security benefits paid to the persons.</p>
+            </content>
+            <paragraph eId="196_101__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>A person entitled to the exemption in subsection (2) must be a permanent resident of this state. Submission of an affidavit that the applicant claiming the exemption under subsection (2) is a permanent resident of this state is prima facie proof of such residence. However, the gross income of all persons residing in or upon the homestead for the prior year shall not exceed $14,500. For the purposes of this section, the term “gross income” includes United States Department of Veterans Affairs benefits and any social security benefits paid to the persons.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_101__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The maximum income limitations permitted in this subsection shall be adjusted annually on January 1, beginning January 1, 1990, by the percentage change in the average cost-of-living index in the period January 1 through December 31 of the immediate prior year compared with the same period for the year prior to that. The index is the average of the monthly consumer price index figures for the stated 12-month period, relative to the United States as a whole, issued by the United States Department of Labor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_101__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall require by rule that the taxpayer annually submit a sworn statement of gross income, pursuant to paragraph (a). The department shall require that the filing of such statement be accompanied by copies of federal income tax returns for the prior year, wage and earnings statements (W-2 forms), and other documents it deems necessary, for each member of the household. The taxpayer’s statement shall attest to the accuracy of such copies. The department shall prescribe and furnish a form to be used for this purpose which form shall include spaces for a separate listing of United States Department of Veterans Affairs benefits and social security benefits. All records produced by the taxpayer under this paragraph are confidential in the hands of the property appraiser, the department, the tax collector, the Auditor General, and the Office of Program Policy Analysis and Government Accountability and shall not be divulged to any person, firm, or corporation except upon court order or order of an administrative body having quasi-judicial powers in ad valorem tax matters, and such records are exempt from the provisions of s.119.07(1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_101__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The physician’s certification shall read as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="196_101__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>An optometrist licensed under chapter 463 may certify a person to be totally and permanently disabled as a result of legal blindness alone by issuing a certification in accordance with subsection (7). Certification of total and permanent disability due to legal blindness by a physician and an optometrist licensed in this state may be deemed to meet the requirements of subsection (3).</p>
+            </content>
+          </subsection>
+          <subsection eId="196_101__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The optometrist’s certification shall read as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="196_101__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>An applicant for the exemption under this section may apply for the exemption before receiving the necessary documentation from the United States Department of Veterans Affairs or its predecessor. Upon receipt of the documentation, the exemption shall be granted as of the date of the original application, and the excess taxes paid shall be refunded. Any refund of excess taxes paid shall be limited to those paid during the 4-year period of limitation set forth in s.197.182(1)(e).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

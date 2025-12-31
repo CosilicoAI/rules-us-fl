@@ -1,0 +1,652 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.97"/>
+          <FRBRuri value="/us-fl/act/fsa/215.97"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.97/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.97/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.97/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.97/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_97">
+          <num>215.97</num>
+          <heading>Florida Single Audit Act.</heading>
+          <content>
+            <p>The purposes of the section are to:</p>
+          </content>
+          <subsection eId="215_97__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The purposes of the section are to:</p>
+            </content>
+            <paragraph eId="215_97__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Establish uniform state audit requirements for state financial assistance provided by state agencies to nonstate entities to carry out state projects.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Promote sound financial management, including effective internal controls, with respect to state financial assistance administered by nonstate entities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Promote audit economy and efficiency by relying to the extent possible on already required audits of federal financial assistance provided to nonstate entities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide for identification of state financial assistance transactions in the state accounting records and recipient organization records.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Promote improved coordination and cooperation within and between affected state agencies providing state financial assistance and nonstate entities receiving state assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Ensure, to the maximum extent possible, that state agencies monitor, use, and followup on audits of state financial assistance provided to nonstate entities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_97__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Audit threshold” means the threshold amount used to determine when a state single audit or project-specific audit of a nonstate entity shall be conducted in accordance with this section. Each nonstate entity that expends a total amount of state financial assistance equal to or in excess of $750,000 in any fiscal year of such nonstate entity shall be required to have a state single audit or a project-specific audit for such fiscal year in accordance with the requirements of this section. After consulting with the Executive Office of the Governor, the Department of Financial Services, and all state awarding agencies, the Auditor General shall periodically review the threshold amount for requiring audits under this section and may recommend any appropriate statutory change to revise the threshold amount in the annual report submitted to the Legislature pursuant to s.11.45(7)(h).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Auditing standards” means the auditing standards as stated in the rules of the Auditor General as applicable to for-profit organizations, nonprofit organizations, or local governmental entities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Catalog of State Financial Assistance” means a comprehensive listing of state projects. The Catalog of State Financial Assistance shall be issued by the Department of Financial Services after conferring with the Executive Office of the Governor and all state awarding agencies. The Catalog of State Financial Assistance shall include for each listed state project: the responsible state awarding agency; standard state project number identifier; official title; legal authorization; and description of the state project, including objectives, restrictions, application and awarding procedures, and other relevant information determined necessary.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Coordinating agency” means the state awarding agency that provides the predominant amount of state financial assistance expended by a recipient, as determined by the recipient’s Schedule of Expenditures of State Financial Assistance. To provide continuity, the determination of the predominant amount of state financial assistance shall be based upon state financial assistance expended in the recipient’s fiscal years ending in 2006, 2009, and 2012, and every third year thereafter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Financial reporting package” means the nonstate entities’ financial statements, Schedule of Expenditures of State Financial Assistance, auditor’s reports, management letter, auditee’s written responses or corrective action plan, correspondence on followup of prior years’ corrective actions taken, and such other information determined by the Auditor General to be necessary and consistent with the purposes of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Federal financial assistance” means financial assistance from federal sources passed through the state and provided to nonstate organizations to carry out a federal program. “Federal financial assistance” includes all types of federal assistance as defined in applicable United States Office of Management and Budget circulars.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“For-profit organization” means any organization or sole proprietor that is not a governmental entity or a nonprofit organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Higher education entity” means a Florida College System institution or a state university, as those terms are defined in s.1000.21.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>“Independent auditor” means an independent certified public accountant licensed under chapter 473.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>“Internal control over state projects” means a process, effected by a nonstate entity’s management and other personnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_k">
+              <num>(k)</num>
+              <content>
+                <p>“Local governmental entity” means a county as a whole, municipality, or special district or any other entity excluding a district school board, charter school, Florida College System institution, or public university, however styled, which independently exercises any type of governmental function within the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_l">
+              <num>(l)</num>
+              <content>
+                <p>“Major state project” means any state project meeting the criteria as stated in the rules of the Department of Financial Services. Such criteria shall be established after consultation with all state awarding agencies and shall consider the amount of state project expenditures and expenses or inherent risks. Each major state project shall be audited in accordance with the requirements of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_m">
+              <num>(m)</num>
+              <content>
+                <p>“Nonprofit organization” means any corporation, trust, association, cooperative, or other organization that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_n">
+              <num>(n)</num>
+              <content>
+                <p>“Nonstate entity” means a local governmental entity, higher education entity, nonprofit organization, or for-profit organization that receives state financial assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_o">
+              <num>(o)</num>
+              <content>
+                <p>“Recipient” means a nonstate entity that receives state financial assistance directly from a state awarding agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_p">
+              <num>(p)</num>
+              <content>
+                <p>“Schedule of Expenditures of State Financial Assistance” means a document prepared in accordance with the rules of the Department of Financial Services and included in each financial reporting package required by this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_q">
+              <num>(q)</num>
+              <content>
+                <p>“State awarding agency” means a state agency, as defined in s.216.011, that is primarily responsible for the operations and outcomes of a state project, regardless of the state agency that actually provides state financial assistance to a nonstate entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_r">
+              <num>(r)</num>
+              <content>
+                <p>“State financial assistance” means state resources, not including federal financial assistance and state matching on federal programs, provided to a nonstate entity to carry out a state project. “State financial assistance” includes the types of state resources stated in the rules of the Department of Financial Services established in consultation with all state awarding agencies. State financial assistance may be provided directly by state awarding agencies or indirectly by nonstate entities. “State financial assistance” does not include procurement contracts used to buy goods or services from vendors and contracts to operate state-owned and contractor-operated facilities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_s">
+              <num>(s)</num>
+              <content>
+                <p>“State matching” means state resources provided to a nonstate entity to meet federal financial participation matching requirements.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_t">
+              <num>(t)</num>
+              <content>
+                <p>“State program” means a set of special purpose activities undertaken to realize identifiable goals and objectives in order to achieve a state agency’s mission and legislative intent requiring accountability for state resources.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_u">
+              <num>(u)</num>
+              <content>
+                <p>“State project” means a state program that provides state financial assistance to a nonstate organization and that must be assigned a state project number identifier in the Catalog of State Financial Assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_v">
+              <num>(v)</num>
+              <content>
+                <p>“State Projects Compliance Supplement” means a document issued by the Department of Financial Services, in consultation with all state awarding agencies. The State Projects Compliance Supplement shall identify state projects, the significant compliance requirements, eligibility requirements, matching requirements, suggested audit procedures, and other relevant information determined necessary.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_w">
+              <num>(w)</num>
+              <content>
+                <p>“State project-specific audit” means an audit of one state project performed in accordance with the requirements of subsection (11).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_x">
+              <num>(x)</num>
+              <content>
+                <p>“State single audit” means an audit of a nonstate entity’s financial statements and state financial assistance. Such audits shall be conducted in accordance with the auditing standards as stated in the rules of the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_y">
+              <num>(y)</num>
+              <content>
+                <p>“Subrecipient” means a nonstate entity that receives state financial assistance through another nonstate entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_2__para_z">
+              <num>(z)</num>
+              <content>
+                <p>“Vendor” means a dealer, distributor, merchant, or other seller providing goods or services that are required for the conduct of a state project. These goods or services may be for an organization’s own use or for the use of beneficiaries of the state project.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Executive Office of the Governor is responsible for notifying the Department of Financial Services of any actions during the budgetary process that impact the Catalog of State Financial Assistance.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_97__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Department of Financial Services shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon conferring with the Executive Office of the Governor and all state awarding agencies, adopt rules necessary to provide appropriate guidance to state awarding agencies, nonstate entities, and independent auditors of state financial assistance relating to the requirements of this section, including:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Be responsible for coordinating revisions to the Catalog of State Financial Assistance after consultation with the Executive Office of the Governor and all state awarding agencies.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Be responsible for coordinating with the Executive Office of the Governor actions affecting the budgetary process under paragraph (b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Be responsible for coordinating revisions to the State Projects Compliance Supplement, after consultation with the Executive Office of the Governor and all state awarding agencies.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Make enhancements to the state’s accounting system to provide for the:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Upon conferring with the Executive Office of the Governor and all state awarding agencies, adopt rules necessary to provide appropriate guidance to state awarding agencies, nonstate entities, and independent auditors of state financial assistance relating to the format for the Schedule of Expenditures of State Financial Assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Perform any inspections, reviews, investigations, or audits of state financial assistance considered necessary in carrying out the Department of Financial Services’ legal responsibilities for state financial assistance or to comply with the requirements of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Each state awarding agency shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide to each recipient information needed by the recipient to comply with the requirements of this section, including:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Require the recipient, as a condition of receiving state financial assistance, to allow the state awarding agency, the Department of Financial Services, and the Auditor General access to the recipient’s records and the recipient’s independent auditor’s working papers as necessary for complying with the requirements of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notify the recipient that this section does not limit the authority of the state awarding agency to conduct or arrange for the conduct of additional audits or evaluations of state financial assistance or limit the authority of any state awarding agency inspector general, the Auditor General, or any other state official.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Be provided one copy of each financial reporting package prepared in accordance with the requirement of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Review the recipient’s financial reporting package, including the management letters and corrective action plans, to the extent necessary to determine whether timely and appropriate corrective action has been taken with respect to audit findings and recommendations pertaining to state financial assistance that are specific to the state awarding agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_5__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Designate within the state awarding agency an organizational unit that will be responsible for reviewing financial reporting packages pursuant to paragraph (e).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Each coordinating agency shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Review the recipient’s financial reporting package, including the management letter and corrective action plan, to identify audit findings and recommendations that affect state financial assistance that are not specific to a particular state awarding agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For any findings and recommendations identified pursuant to paragraph (a):</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Maintain records of followup actions taken for the use of any succeeding coordinating agency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>As a condition of receiving state financial assistance, each nonstate entity that provides state financial assistance to a subrecipient shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide to each subrecipient information needed by the subrecipient to comply with the requirements of this section, including:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Review the financial reporting package of the subrecipient, including the management letter and corrective action plan, to the extent necessary to determine whether timely and appropriate corrective action has been taken with respect to audit findings and recommendations pertaining to state financial assistance provided by a state awarding agency or nonstate entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Perform any other procedures specified in terms and conditions of the written agreement with the state awarding agency or nonstate entity, including any required monitoring of the subrecipient’s use of state financial assistance through onsite visits, limited scope audits, or other specified procedures.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Require subrecipients, as a condition of receiving state financial assistance, to permit the independent auditor of the nonstate entity, the state awarding agency, the Department of Financial Services, and the Auditor General access to the subrecipient’s records and the subrecipient’s independent auditor’s working papers as necessary to comply with the requirements of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Each recipient or subrecipient of state financial assistance shall comply with the following:</p>
+            </content>
+            <paragraph eId="215_97__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each nonstate entity that meets the audit threshold requirements, in any fiscal year of the nonstate entity, stated in the rules of the Auditor General, shall have a state single audit conducted for such fiscal year in accordance with the requirements of this act and with additional requirements established in rules of the Department of Financial Services and rules of the Auditor General. If only one state project is involved in a nonstate entity’s fiscal year, the nonstate entity may elect to have only a state project-specific audit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Each nonstate entity that does not meet the audit threshold requirements, in any fiscal year of the nonstate entity, stated in this law or the rules of the Auditor General is exempt for such fiscal year from the state single audit requirements of this section. However, such nonstate entity must meet terms and conditions specified in the written agreement with the state awarding agency or nonstate entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If a nonstate entity has extremely limited or no required activities related to the administration of a state project, and only acts as a conduit of state financial assistance, none of the requirements of this section apply to the conduit nonstate entity. However, the nonstate entity that is provided state financial assistance by the conduit nonstate entity is subject to the requirements of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Regardless of the amount of the state financial assistance, this section does not exempt a nonstate entity from compliance with provisions of law relating to maintaining records concerning state financial assistance to such nonstate entity or allowing access and examination of those records by the state awarding agency, the nonstate entity, the Department of Financial Services, or the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Audits conducted pursuant to this section shall be performed annually.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Audits conducted pursuant to this section shall be conducted by independent auditors in accordance with auditing standards stated in rules of the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Upon completion of the audit required by this section, a copy of the recipient’s financial reporting package shall be filed with the state awarding agency and the Auditor General. Upon completion of the audit required by this section, a copy of the subrecipient’s financial reporting package shall be filed with the nonstate entity that provided the state financial assistance and the Auditor General. The financial reporting package shall be filed in accordance with the rules of the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_h">
+              <num>(h)</num>
+              <content>
+                <p>All financial reporting packages prepared pursuant to this section shall be available for public inspection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_i">
+              <num>(i)</num>
+              <content>
+                <p>If an audit conducted pursuant to this section discloses any significant audit findings relating to state financial assistance, including material noncompliance with individual state project compliance requirements or reportable conditions in internal controls of the nonstate entity, the nonstate entity shall submit as part of the financial reporting package to the state awarding agency or nonstate entity a plan for corrective action to eliminate such audit findings or a statement describing the reasons that corrective action is not necessary.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_j">
+              <num>(j)</num>
+              <content>
+                <p>An audit conducted in accordance with this section is in addition to any audit of federal awards required by the federal Single Audit Act and other federal laws and regulations. To the extent that such federally required audits provide the state awarding agency or nonstate entity with information it requires to carry out its responsibilities under state law or other guidance, the state awarding agency or nonstate entity shall rely upon and use that information.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Unless prohibited by law, the costs of audits pursuant to this section are allowable charges to state projects. However, any charges to state projects should be limited to those incremental costs incurred as a result of the audit requirements of this section in relation to other audit requirements. The nonstate entity should allocate such incremental costs to all state projects for which it expended state financial assistance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Audit costs may not be charged to state projects when audits required by this section have not been made or have been made but not in accordance with this section. If a nonstate entity fails to have an audit conducted consistent with this section, a state awarding agency or nonstate entity may take appropriate corrective action to enforce compliance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_m">
+              <num>(m)</num>
+              <content>
+                <p>This section does not prohibit the state awarding agency or nonstate entity from including terms and conditions in the written agreement which require additional assurances that state financial assistance meets the applicable requirements of laws, regulations, and other compliance rules.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_n">
+              <num>(n)</num>
+              <content>
+                <p>A state awarding agency or nonstate entity that conducts or arranges for audits of state financial assistance that are in addition to the audits conducted under this act, including audits of nonstate entities that do not meet the audit threshold requirements, shall, consistent with other applicable law, arrange for funding the full cost of such additional audits.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_8__para_o">
+              <num>(o)</num>
+              <content>
+                <p>A higher education entity is exempt from the requirements of paragraph (2)(a) and this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>This subsection applies to any contract or agreement between a state awarding agency and a higher education entity that is funded by state financial assistance.</p>
+            </content>
+            <paragraph eId="215_97__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The contract or agreement must comply with ss.215.971(1) and216.3475and must be in the form of one or a combination of the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a higher education entity has extremely limited or no required activities related to the administration of a state project and acts only as a conduit of state financial assistance, none of the requirements of this section apply to the conduit higher education entity. However, the subrecipient that is provided state financial assistance by the conduit higher education entity is subject to the requirements of subsection (8) and this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Regardless of the amount of the state financial assistance, this subsection does not exempt a higher education entity from compliance with provisions of law that relate to maintaining records concerning state financial assistance to the higher education entity or that allow access and examination of those records by the state awarding agency, the higher education entity, the Department of Financial Services, or the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_9__para_d">
+              <num>(d)</num>
+              <content>
+                <p>This subsection does not prohibit the state awarding agency from including terms and conditions in the contract or agreement which require additional assurances that the state financial assistance meets the applicable requirements of laws, regulations, and other compliance rules.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The independent auditor when conducting a state single audit of a nonstate entity shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Determine whether the nonstate entity’s financial statements are presented fairly in all material respects in conformity with generally accepted accounting principles.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Determine whether state financial assistance shown on the Schedule of Expenditures of State Financial Assistance is presented fairly in all material respects in relation to the nonstate entity’s financial statements taken as a whole.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>With respect to internal controls pertaining to each major state project:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Determine whether each major state project complied with the provisions of laws, rules, and guidelines as identified in the State Projects Compliance Supplement, or otherwise identified by the state awarding agency, which have a material effect on each major state project. When major state projects are less than 50 percent of the nonstate entity’s total expenditures for all state financial assistance, the auditor shall select and test additional state projects as major state projects as necessary to achieve audit coverage of at least 50 percent of the expenditures for all state financial assistance provided to the nonstate entity. Additional state projects needed to meet the 50-percent requirement may be selected on an inherent risk basis as stated in the rules of the Department of Financial Services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_10__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Report on the results of any audit conducted pursuant to this section in accordance with the rules of the Department of Financial Services and rules of the Auditor General. Financial reporting packages shall include summaries of the auditor’s results regarding the nonstate entity’s financial statements; Schedule of Expenditures of State Financial Assistance; internal controls; and compliance with laws, rules, and guidelines.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_10__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Issue a management letter as prescribed in the rules of the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_10__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Upon notification by the nonstate entity, make available the working papers relating to the audit conducted pursuant to this section to the state awarding agency, the Department of Financial Services, or the Auditor General for review or copying.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The independent auditor, when conducting a state project-specific audit of a nonstate entity, shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Determine whether the nonstate entity’s schedule of Expenditure of State Financial Assistance is presented fairly in all material respects in conformity with stated accounting policies.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Obtain an understanding of internal controls and perform tests of internal controls over the state project consistent with the requirements of a major state project.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Determine whether or not the auditee has complied with applicable provisions of laws, rules, and guidelines identified in the State Projects Compliance Supplement, or otherwise identified by the state awarding agency, which could have a direct and material effect on the state project.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Report on the results of the state project-specific audit consistent with the requirements of the state single audit and issue a management letter as prescribed in the rules of the Auditor General.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_11__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Upon notification by the nonstate entity, make available the working papers relating to the audit conducted pursuant to this section to the state awarding agency, the Department of Financial Services, or the Auditor General for review or copying.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_97__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>The Auditor General shall:</p>
+            </content>
+            <paragraph eId="215_97__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Have the authority to audit state financial assistance provided to any nonstate entity when determined necessary by the Auditor General or when directed by the Legislative Auditing Committee.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Adopt rules that state the auditing standards that independent auditors are to follow for audits of nonstate entities required by this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_12__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Adopt rules that describe the contents and the filing deadlines for the financial reporting package.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_12__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Provide technical advice upon request of the Department of Financial Services and state awarding agencies relating to financial reporting and audit responsibilities contained in this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_12__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Be provided one copy of each financial reporting package prepared in accordance with this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_97__subsec_12__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Perform ongoing reviews of a sample of financial reporting packages filed pursuant to this section to determine compliance with the reporting requirements of this section and applicable rules of the Department of Financial Services and rules of the Auditor General.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

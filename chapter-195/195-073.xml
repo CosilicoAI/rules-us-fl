@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.073"/>
+          <FRBRuri value="/us-fl/act/fsa/195.073"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.073/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.073/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.073/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.073/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_073">
+          <num>195.073</num>
+          <heading>Classification of property.</heading>
+          <content>
+            <p>All items required by law to be on the assessment rolls must receive a classification based upon the use of the property. The department shall promulgate uniform definitions for all classifications. The department may designate other subclassifications of property. No assessment roll may be approved by the department which does not show proper classifications.</p>
+          </content>
+          <subsection eId="195_073__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Real property must be classified according to the assessment basis of the land into the following classes:</p>
+            </content>
+            <paragraph eId="195_073__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Residential, subclassified into categories, one category for homestead property and one for nonhomestead property:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Commercial and industrial, including apartments with more than nine units.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Agricultural.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Nonagricultural acreage.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>High-water recharge.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Historic property used for commercial or certain nonprofit purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Exempt, wholly or partially.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Centrally assessed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Leasehold interests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Time-share property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Land assessed under s.193.501.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Other.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_073__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Personal property shall be classified as:</p>
+            </content>
+            <paragraph eId="195_073__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Floating structures—residential.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Floating structures—nonresidential.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Mobile homes and attachments.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Household goods.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Other tangible personal property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_073__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>When the tax roll is submitted to the department for approval, there shall also be appended a statement indicating the total assessed valuation of structures added to and deleted from the assessment roll for that year in each taxing jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_073__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Rules adopted pursuant to this section shall provide for the separate identification of property as prior existing property of an expanded or rebuilt business, as expansion-related property of an expanded or rebuilt business, and as property of a new business, in the event the business qualifies for an enterprise zone property tax credit pursuant to s.220.182, in addition to classification according to use.</p>
+            </content>
+            <paragraph eId="195_073__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Rules adopted pursuant to this section shall provide for the separate identification of property as prior existing property of an expanded or rebuilt business, as expansion-related property of an expanded or rebuilt business, and as property of a new business, in the event the business qualifies for an enterprise zone property tax credit pursuant to s.220.182, in addition to classification according to use.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_073__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This subsection expires on the date specified in s.290.016for the expiration of the Florida Enterprise Zone Act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_073__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Rules adopted pursuant to this section shall provide for the separate identification of property granted an economic development ad valorem tax exemption, in addition to classification according to use.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_073__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>To the greatest extent practicable and based on existing information, all publicly owned real property required to be listed on the assessment roll shall also be separately classified according to ownership by federal, state, or local government; water management district; or other public entity.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

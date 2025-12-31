@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.755"/>
+          <FRBRuri value="/us-fl/act/fsa/213.755"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.755/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.755/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.755/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.755/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_755">
+          <num>213.755</num>
+          <heading>Filing of returns and payment of taxes by electronic means.</heading>
+          <content>
+            <p>The executive director of the Department of Revenue shall have authority to require a taxpayer to file returns and remit payments by electronic means where the taxpayer is subject to tax and has paid that tax in the prior state fiscal year in an amount greater than or equal to $5,000. Any taxpayer who operates two or more places of business for which returns are required to be filed with the department shall combine the tax payments for all such locations in order to determine whether they are obligated under this section. This subsection does not override additional requirements in any provision of a revenue law which the department has the responsibility for regulating, controlling, and administering.</p>
+          </content>
+          <subsection eId="213_755__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The executive director of the Department of Revenue shall have authority to require a taxpayer to file returns and remit payments by electronic means where the taxpayer is subject to tax and has paid that tax in the prior state fiscal year in an amount greater than or equal to $5,000. Any taxpayer who operates two or more places of business for which returns are required to be filed with the department shall combine the tax payments for all such locations in order to determine whether they are obligated under this section. This subsection does not override additional requirements in any provision of a revenue law which the department has the responsibility for regulating, controlling, and administering.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_755__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in any revenue law administered by the department, the term:</p>
+            </content>
+            <paragraph eId="213_755__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Payment” means any payment or remittance required to be made or paid within a prescribed period or on or before a prescribed date under the authority of any provision of a revenue law which the department has the responsibility for regulating, controlling, and administering. The term does not include any remittance unless the amount of the remittance is actually received by the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_755__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Return” means any report, claim, statement, notice, application, affidavit, or other document required to be filed within a prescribed period or on or before a prescribed date under the authority of any provision of a revenue law which the department has the responsibility of regulating, controlling, and administering.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_755__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Electronic means” includes, but is not limited to, electronic data interchange; electronic funds transfer; or use of the Internet, telephone, or other technology specified by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_755__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Solely for the purposes of administering this section:</p>
+            </content>
+            <paragraph eId="213_755__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Taxes levied under parts I and II of chapter 206 shall be considered a single tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_755__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A person required to remit a tax acting as a collection agent or dealer for the state shall nonetheless be considered the taxpayer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_755__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The executive director may require a taxpayer to file by electronic means returns for which no tax is due for the specific taxing period.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_755__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Consolidated filers shall file returns and remit taxes by electronic means.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_755__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A taxpayer required to file returns by electronic means shall also remit payments by electronic means. A taxpayer who fails to file returns pursuant to this section is liable for a penalty of $10 for each report submitted, which is in addition to any other penalty that may be applicable, unless the taxpayer has first obtained a waiver of such requirement from the department. A taxpayer who fails to remit payments pursuant to this section is liable for a penalty of $10 for each remittance submitted, which is in addition to any other penalty that may be applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_755__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The department shall give due regard to developing uniform standards for formats as adopted by the American National Standards Institute for encryption and taxpayer authentication to ensure that the return and payment information is kept confidential. The department shall also provide several options for filing reports and remitting payments by electronic means in order to make compliance with the requirements of this section as simple as possible for the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_755__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The department shall prescribe by rule the format and instructions necessary for filing returns and reports and for remitting payments in accordance with this section to ensure a full collection of taxes, interest, and penalties due. The acceptable method of transfer; the method, form, and content of the electronic filing of returns or remittance of payments of tax, penalty, or interest; and the means, if any, by which the taxpayer will be provided with an acknowledgment of receipt shall be prescribed by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_755__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The department may waive the requirement to file a return by electronic means for taxpayers that are unable to comply despite good faith efforts or due to circumstances beyond the taxpayer’s reasonable control.</p>
+            </content>
+            <paragraph eId="213_755__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As prescribed by the department, grounds for approving the waiver include, but are not limited to, circumstances in which the taxpayer, the owner, or an officer of the business, or the taxpayer’s accountant or bookkeeper, does not:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_755__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall accept other reasons for requesting a waiver from the requirement to submit a return by electronic means, including, but not limited to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_755__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may establish by rule the length of time a waiver is valid and may determine whether subsequent waivers will be authorized, based on the provisions of this subsection.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

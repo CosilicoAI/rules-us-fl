@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.0535"/>
+          <FRBRuri value="/us-fl/act/fsa/205.0535"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.0535/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.0535/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.0535/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.0535/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_0535">
+          <num>205.0535</num>
+          <heading>Reclassification and rate structure revisions.</heading>
+          <content>
+            <p>By October 1, 2008, any municipality that has adopted by ordinance a local business tax after October 1, 1995, may by ordinance reclassify businesses, professions, and occupations and may establish new rate structures, if the conditions specified in subsections (2) and (3) are met. A person who is engaged in the business of providing local exchange telephone service or a pay telephone service in a municipality or in the unincorporated area of a county and who pays the business tax under the category designated for telephone companies or a pay telephone service provider certified pursuant to s.364.3375is deemed to have but one place of business or business location in each municipality or unincorporated area of a county. Pay telephone service providers may not be assessed a business tax on a per-instrument basis.</p>
+          </content>
+          <subsection eId="205_0535__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>By October 1, 2008, any municipality that has adopted by ordinance a local business tax after October 1, 1995, may by ordinance reclassify businesses, professions, and occupations and may establish new rate structures, if the conditions specified in subsections (2) and (3) are met. A person who is engaged in the business of providing local exchange telephone service or a pay telephone service in a municipality or in the unincorporated area of a county and who pays the business tax under the category designated for telephone companies or a pay telephone service provider certified pursuant to s.364.3375is deemed to have but one place of business or business location in each municipality or unincorporated area of a county. Pay telephone service providers may not be assessed a business tax on a per-instrument basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_0535__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Before adopting a reclassification and revision ordinance, the municipality or county must establish an equity study commission and appoint its members. Each member of the study commission must be a representative of the business community within the local government’s jurisdiction. Each equity study commission shall recommend to the appropriate local government a classification system and rate structure for business taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_0535__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After the reclassification and rate structure revisions have been transmitted to and considered by the appropriate local governing body, it may adopt by majority vote a new business tax ordinance. Except that a minimum tax of up to $25 is permitted, the reclassification may not increase the tax by more than the following: for receipts costing $150 or less, 200 percent; for receipts costing more than $150 but not more than $500, 100 percent; for receipts costing more than $500 but not more than $2,500, 75 percent; for receipts costing more than $2,500 but not more than $10,000, 50 percent; and for receipts costing more than $10,000, 10 percent; however, in no case may the tax on any receipt be increased more than $5,000.</p>
+            </content>
+            <paragraph eId="205_0535__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>After the reclassification and rate structure revisions have been transmitted to and considered by the appropriate local governing body, it may adopt by majority vote a new business tax ordinance. Except that a minimum tax of up to $25 is permitted, the reclassification may not increase the tax by more than the following: for receipts costing $150 or less, 200 percent; for receipts costing more than $150 but not more than $500, 100 percent; for receipts costing more than $500 but not more than $2,500, 75 percent; for receipts costing more than $2,500 but not more than $10,000, 50 percent; and for receipts costing more than $10,000, 10 percent; however, in no case may the tax on any receipt be increased more than $5,000.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_0535__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The total annual revenue generated by the new rate structure for the fiscal year following the fiscal year during which the rate structure is adopted may not exceed:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_0535__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the revenue increases authorized by paragraph (b), revenue increases attributed to the increases in the number of receipts issued are authorized.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="205_0535__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>After the conditions specified in subsections (2) and (3) are met, municipalities and counties may, every other year thereafter, increase or decrease by ordinance the rates of business taxes by up to 5 percent. However, an increase must be enacted by at least a majority plus one vote of the governing body.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_0535__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>This chapter does not prohibit a municipality or county from decreasing or repealing any business tax authorized under this chapter. By majority vote, the governing body of a county or municipality may adopt an ordinance repealing a local business tax or establishing new rates that decrease local business taxes and do not result in an increase in local business taxes for a taxpayer. Such ordinances are not subject to subsections (2) and (3).</p>
+            </content>
+          </subsection>
+          <subsection eId="205_0535__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A receipt may not be issued unless the federal employer identification number or social security number is obtained from the person to be taxed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

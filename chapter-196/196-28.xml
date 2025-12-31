@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.28"/>
+          <FRBRuri value="/us-fl/act/fsa/196.28"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.28/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.28/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.28/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.28/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_28">
+          <num>196.28</num>
+          <heading>Cancellation of delinquent taxes upon lands used for road purposes, etc.</heading>
+          <content>
+            <p>The board of county commissioners of each county of the state be and it is hereby given full power and authority to cancel and discharge any and all liens for taxes, delinquent or current, held or owned by the county or the state, upon lands, heretofore or hereafter, conveyed to, or acquired by any agency, governmental subdivision or municipality of the state, or the United States, for road purposes, defense purposes, recreation, reforestation or other public use; and said lands shall be exempt from county taxation so long as the same are used for such public purpose.</p>
+          </content>
+          <subsection eId="196_28__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board of county commissioners of each county of the state be and it is hereby given full power and authority to cancel and discharge any and all liens for taxes, delinquent or current, held or owned by the county or the state, upon lands, heretofore or hereafter, conveyed to, or acquired by any agency, governmental subdivision or municipality of the state, or the United States, for road purposes, defense purposes, recreation, reforestation or other public use; and said lands shall be exempt from county taxation so long as the same are used for such public purpose.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_28__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Such cancellation shall be by resolution of the board of county commissioners, duly adopted and entered upon its minutes, properly describing such lands, and setting forth the public use to which the same are, or will be, devoted. Upon receipt of a certified copy of such resolution, the proper officials of the county, and of the state, are hereby authorized, empowered and directed to make proper entries upon the records to accomplish such cancellation and to do all things necessary to carry out the provisions of this section, and to make the same effective, this section being their authority so to do.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

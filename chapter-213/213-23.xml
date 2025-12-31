@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.23"/>
+          <FRBRuri value="/us-fl/act/fsa/213.23"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.23/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.23/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.23/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.23/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_23">
+          <num>213.23</num>
+          <heading>Consent agreements extending the period subject to assessment or available for refund.</heading>
+          <content>
+            <p>The executive director of the department or his or her designee may enter into agreements with taxpayers which extend the period during which an assessment may be issued or a claim for refund may be filed with respect of any tax, license, or fee collected by the Department of Revenue. Notwithstanding provisions of s.95.091or s.215.26to the contrary, if, before the expiration of time prescribed in a revenue law of this state for issuance of an assessment or claim of a refund, both the department and the taxpayer have consented in writing to the issuance of an assessment or claim of a refund after such time, an assessment may be issued or a claim for refund may be made at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements made before the expiration of the period previously agreed upon.</p>
+          </content>
+          <subsection eId="213_23__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The executive director of the department or his or her designee may enter into agreements with taxpayers which extend the period during which an assessment may be issued or a claim for refund may be filed with respect of any tax, license, or fee collected by the Department of Revenue. Notwithstanding provisions of s.95.091or s.215.26to the contrary, if, before the expiration of time prescribed in a revenue law of this state for issuance of an assessment or claim of a refund, both the department and the taxpayer have consented in writing to the issuance of an assessment or claim of a refund after such time, an assessment may be issued or a claim for refund may be made at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements made before the expiration of the period previously agreed upon.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_23__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Consent agreements may be made on forms prescribed by the department by rule and shall be signed by the taxpayer, or the duly authorized representative of the taxpayer, and by the executive director of the department, or his or her designee, and shall specify the date of expiration. A consent agreement under this section shall operate to extend the time for issuance of an assessment, or filing of a claim for refund, only for those taxes, licenses, or fees for the taxable periods specified in the agreement.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

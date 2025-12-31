@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.30"/>
+          <FRBRuri value="/us-fl/act/fsa/198.30"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.30/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.30/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.30/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.30/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_30">
+          <num>198.30</num>
+          <heading>Circuit judge to report names of decedents, etc.</heading>
+          <content>
+            <p>Each circuit judge of this state shall, on or before the 10th day of every month, notify the Agency for Health Care Administration of the names of all decedents; the names and addresses of the respective personal representatives, administrators, or curators appointed; the amount of the bonds, if any, required by the court; and the probable value of the estates, in all estates of decedents whose wills have been probated or propounded for probate before the circuit judge or upon which letters testamentary or upon whose estates letters of administration or curatorship have been sought or granted, during the preceding month; and such report shall contain any other information that the circuit judge may have concerning the estates of such decedents. A circuit judge shall also furnish forthwith such further information, from the records and files of the circuit court in regard to such estates, as the department may from time to time require.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

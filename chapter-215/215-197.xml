@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.197"/>
+          <FRBRuri value="/us-fl/act/fsa/215.197"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.197/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.197/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.197/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.197/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_197">
+          <num>215.197</num>
+          <heading>Federal Grants Trust Fund.</heading>
+          <content>
+            <p>The Federal Grants Trust Fund is created within the Department of Revenue.</p>
+          </content>
+          <subsection eId="215_197__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Federal Grants Trust Fund is created within the Department of Revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_197__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The trust fund is established for use as a depository for funds to be used for allowable grant activities funded by restricted program revenues from federal sources. Moneys to be credited to the trust fund shall consist of grants and funding from the Federal Government, interest earnings, and cash advances from other trust funds. Funds shall be expended only pursuant to legislative appropriation or an approved amendment to the department’s operating budget pursuant to the provisions of chapter 216.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

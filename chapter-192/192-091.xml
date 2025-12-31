@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.091"/>
+          <FRBRuri value="/us-fl/act/fsa/192.091"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.091/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.091/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.091/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.091/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_091">
+          <num>192.091</num>
+          <heading>Commissions of property appraisers and tax collectors.</heading>
+          <content>
+            <p>The budget of the property appraiser’s office, as approved by the Department of Revenue, shall be the basis upon which the several tax authorities of each county, except municipalities and the district school board, shall be billed by the property appraiser for services rendered. Each such taxing authority shall be billed an amount that bears the same proportion to the total amount of the budget as its share of ad valorem taxes bore to the total levied for the preceding year. All municipal and school district taxes shall be considered as taxes levied by the county for purposes of this computation.</p>
+          </content>
+          <subsection eId="192_091__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The budget of the property appraiser’s office, as approved by the Department of Revenue, shall be the basis upon which the several tax authorities of each county, except municipalities and the district school board, shall be billed by the property appraiser for services rendered. Each such taxing authority shall be billed an amount that bears the same proportion to the total amount of the budget as its share of ad valorem taxes bore to the total levied for the preceding year. All municipal and school district taxes shall be considered as taxes levied by the county for purposes of this computation.</p>
+            </content>
+            <paragraph eId="192_091__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The budget of the property appraiser’s office, as approved by the Department of Revenue, shall be the basis upon which the several tax authorities of each county, except municipalities and the district school board, shall be billed by the property appraiser for services rendered. Each such taxing authority shall be billed an amount that bears the same proportion to the total amount of the budget as its share of ad valorem taxes bore to the total levied for the preceding year. All municipal and school district taxes shall be considered as taxes levied by the county for purposes of this computation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_091__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Payments shall be made quarterly by each such taxing authority. The property appraiser shall notify the various taxing authorities of his or her estimated budget requirements and billings thereon at the same time as his or her budget request is submitted to the Department of Revenue pursuant to s.195.087and at the time the property appraiser receives final approval of the budget by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="192_091__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax collectors of the several counties of the state shall be entitled to receive, upon the amount of all real and tangible personal property taxes and special assessments collected and remitted, the following commissions:</p>
+            </content>
+            <paragraph eId="192_091__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>On the county tax:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_091__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>On collections on behalf of each taxing district and special assessment district:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="192_091__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In computing the amount of taxes levied on an assessed valuation of $50 million for the purposes of this section the valuation of nonexempt property and the taxes levied thereon shall be taken first.</p>
+            </content>
+          </subsection>
+          <subsection eId="192_091__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The commissions for collecting taxes assessed for or levied by the state shall be audited, allowed, and paid by the Chief Financial Officer as other warrants are paid; and commissions for collecting the county taxes shall be audited and paid by the boards of county commissioners of the several counties of this state. The commissions for collecting all special school district taxes shall be audited by the school board of each respective district and taken out of the funds of the respective special school district under its control and allowed and paid to the tax collectors for collecting such taxes; and the commissions for collecting all other district taxes, whether special or not, shall be audited and paid by the governing board or commission having charge of the financial obligations of such district. All commissions for collecting special tax district taxes shall be paid at the time and in the manner now, or as may hereafter be, provided for the payment of the commissions for the collection of county taxes. All amounts paid as compensation to any tax collector under the provisions of this or any other law shall be a part of the general income or compensation of such officer for the year in which received, and nothing contained in this section shall be held or construed to affect or increase the maximum salary as now provided by law for any such officer.</p>
+            </content>
+          </subsection>
+          <subsection eId="192_091__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The provisions of this section shall not apply to commissions on drainage district or drainage subdistrict taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="192_091__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If any property appraiser or tax collector in the state is receiving compensation for expenses in conducting his or her office or by way of salary pursuant to any act of the Legislature other than the general law fixing compensation of property appraisers, such property appraiser or tax collector may file a declaration in writing with the board of county commissioners of his or her county electing to come under the provisions of this section, and thereupon such property appraiser or tax collector shall be paid compensation in accordance with the provisions hereof, and shall not be entitled to the benefit of the said special or local act. If such property appraiser or tax collector does not so elect, he or she shall continue to be paid such compensation as may now be provided by law for such property appraiser or tax collector.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

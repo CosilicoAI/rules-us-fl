@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.69"/>
+          <FRBRuri value="/us-fl/act/fsa/215.69"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.69/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.69/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.69/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.69/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_69">
+          <num>215.69</num>
+          <heading>State Board of Administration to administer funds.</heading>
+          <content>
+            <p>The State Board of Administration is hereby designated and appointed as the agent of the board and the division to administer all debt service funds for bonds issued pursuant to this act, except as otherwise provided herein.</p>
+          </content>
+          <subsection eId="215_69__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The State Board of Administration is hereby designated and appointed as the agent of the board and the division to administer all debt service funds for bonds issued pursuant to this act, except as otherwise provided herein.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_69__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon sale and delivery of any bonds by the division pursuant to this act and disbursement of the proceeds thereof in the manner provided by the proceedings authorizing the issuance of such bonds, the State Board of Administration shall take over the management, control, bond trusteeship, administration, custody, and payment of all debt service or other funds or assets available for such bonds and shall cause to be entered in its records a description of all bonds issued pursuant to this act, giving their amount, date, the times fixed for payment of principal and interest, the rate or rates of interest, the place or places at which the principal and interest will be payable, the denomination or denominations and purpose of issuance, together with the name of the state agency or state officials vested with the authority and power to levy, fix, and establish the taxes, revenues, or other funds for the payment of the principal and interest on such bonds, and reserves therefor, and a reference to the statute under which such bonds are issued. Upon assuming such trusteeship, the State Board of Administration shall succeed to all the statutory powers of the division and other state agencies with regard to such bonds.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_69__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The State Board of Administration shall have authority to require the state officials and the state agencies on behalf of which the division shall have issued bonds to promptly forward the necessary taxes, revenues, or other funds for the payment of the principal of or interest on such bonds, and reserves therefor, and any other funds required by the proceedings which authorized such bonds to the State Board of Administration.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_69__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The State Board of Administration shall also be the agent of the division for the investment of all funds of the division, including all reserve funds, and the State Board of Administration shall invest all such funds in the securities provided in the proceedings which authorized the issuance of such bonds, or, if no provisions for such investments are provided in such proceedings, then such funds shall be invested in the manner provided in s.215.47.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_69__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The State Board of Administration shall also act as the trustee of any sinking funds or other funds if the proceedings which authorized the issuance of such bonds provide for a trustee of such funds and no bank or trust company is designated as trustee of such funds in such proceedings.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_69__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The provisions of this section shall not prevent, however, the designation by the board of a bank or trust company to serve as a trustee for the purposes of this act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_69__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The State Board of Administration shall maintain all records required to be maintained as to outstanding bond issues pursuant to s.215.63and this section, and it shall not be necessary for the Division of Bond Finance to duplicate such records or to maintain separate accounts for any of such issues.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

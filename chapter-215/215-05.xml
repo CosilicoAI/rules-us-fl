@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.05"/>
+          <FRBRuri value="/us-fl/act/fsa/215.05"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.05/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.05/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.05/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.05/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_05">
+          <num>215.05</num>
+          <heading>Department of Financial Services to certify accounts of delinquents.</heading>
+          <content>
+            <p>When any revenue officer or other person accountable for public money shall neglect or refuse to pay into the treasury the sum or balance reported to be due to the state, upon the adjustment of that person’s account, the Department of Financial Services shall immediately hand over to the state attorney of the proper circuit the statement of the sum or balance certified under its seal of office, so due; and the state attorney shall institute suit for the recovery of the same, adding to the sum or balance stated to be due on such account the commissions of the delinquent, which shall be forfeited in every instance where suit is commenced and judgment is obtained thereon, and an interest of 8 percent per annum from the time of the delinquent’s receiving the money until it shall be paid into the State Treasury.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

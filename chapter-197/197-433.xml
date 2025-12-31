@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.433"/>
+          <FRBRuri value="/us-fl/act/fsa/197.433"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.433/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.433/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.433/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.433/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_433">
+          <num>197.433</num>
+          <heading>Duplicate certificates.</heading>
+          <content>
+            <p>A holder of a tax certificate may apply to the tax collector for a duplicate certificate if the original certificate has been lost or destroyed. The tax certificate holder shall give an affidavit to the tax collector stating that the affiant is the owner of the tax certificate and that the tax certificate was lost or destroyed. The tax certificate holder shall pay a $5 fee for issuance of the duplicate certificate.</p>
+          </content>
+          <subsection eId="197_433__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A holder of a tax certificate may apply to the tax collector for a duplicate certificate if the original certificate has been lost or destroyed. The tax certificate holder shall give an affidavit to the tax collector stating that the affiant is the owner of the tax certificate and that the tax certificate was lost or destroyed. The tax certificate holder shall pay a $5 fee for issuance of the duplicate certificate.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_433__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the tax collector certifies to the board of county commissioners that a tax certificate belonging to the county has been lost or destroyed, the board shall enter an order in its minute book directing the collector to issue and file in his or her office a duplicate certificate.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_433__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax collector shall issue a duplicate certificate, plainly mark or stamp such certificate as a duplicate, and enter the fact of the duplicate in the tax sale record opposite the entry of the sale for which the lost or destroyed certificate was issued. The tax collector shall enter in the same place a notation of the alleged loss or destruction, whether the duplicate certificate is issued or not.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

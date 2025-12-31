@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.016"/>
+          <FRBRuri value="/us-fl/act/fsa/216.016"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.016/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.016/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.016/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.016/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_016">
+          <num>216.016</num>
+          <heading>Evaluation of plans; determination of financing method.</heading>
+          <content>
+            <p>Pursuant to the requirements of s.216.044, the Department of Management Services shall evaluate state agency plans and plans of the judicial branch.</p>
+          </content>
+          <subsection eId="216_016__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Pursuant to the requirements of s.216.044, the Department of Management Services shall evaluate state agency plans and plans of the judicial branch.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_016__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Executive Office of the Governor shall develop a finance plan for meeting the state’s infrastructure and fixed capital outlay needs, which shall be incorporated into the Governor’s recommended budget submitted to the Legislature pursuant to s.216.162.</p>
+            </content>
+            <paragraph eId="216_016__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The Executive Office of the Governor shall develop a finance plan for meeting the state’s infrastructure and fixed capital outlay needs, which shall be incorporated into the Governor’s recommended budget submitted to the Legislature pursuant to s.216.162.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_016__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Division of Bond Finance of the State Board of Administration shall work with the Executive Office of the Governor and all agencies and the judicial branch to determine the most cost-beneficial and effective financing methods for the satisfaction of the capital facility needs described or identified in the state comprehensive plan for facility needs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

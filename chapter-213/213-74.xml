@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.74"/>
+          <FRBRuri value="/us-fl/act/fsa/213.74"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.74/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.74/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.74/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.74/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_74">
+          <num>213.74</num>
+          <heading>Certificate of sale; deed of real property; legal effect.</heading>
+          <content>
+            <p>In the case of property sold pursuant to a levy by the Department of Revenue, the executive director or his or her designee shall give to the purchaser a certificate of sale upon payment in full of the purchase price. Such certificate shall set forth a description of the property purchased, for whose taxes the same was sold, the name of the purchaser, and the price paid therefor.</p>
+          </content>
+          <subsection eId="213_74__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In the case of property sold pursuant to a levy by the Department of Revenue, the executive director or his or her designee shall give to the purchaser a certificate of sale upon payment in full of the purchase price. Such certificate shall set forth a description of the property purchased, for whose taxes the same was sold, the name of the purchaser, and the price paid therefor.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_74__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the case of any real property sold pursuant to a levy by the Department of Revenue, and not redeemed in the manner and within the time provided in s.213.73, the executive director or his or her designee shall execute, in accordance with the laws of this state pertaining to the sale of real property under execution, to the purchaser of such real property at such sale, upon his or her surrender of the certificate of sale, a deed of the real property so purchased by that person, reciting the facts set forth in the certificate.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_74__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If real property is declared purchased for the state at a sale pursuant to a levy by the Department of Revenue, the executive director or his or her designee shall present a certificate of sale and execute a deed therefor to the Board of Trustees of the Internal Improvement Trust Fund, and the board of trustees shall, without delay, cause such deed to be duly recorded in the proper clerk’s office in the proper manner.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_74__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In all cases of sale of tangible or intangible personal property pursuant to a levy by the Department of Revenue, the certificate of sale shall be prima facie evidence of the right of the executive director or his or her designee to make such sale, and conclusive evidence of the regularity of his or her proceedings in making the sale, and shall transfer to the purchaser all right, title, and interest of the party delinquent in and to the property sold. If such property consists of intangibles such as stock and bonds, the certificate constitutes notice, when received, to any corporation, company, or association of such transfer, and constitutes authority to such corporation, company, or association to record the transfer on its books and records in the same manner as if the intangibles were transferred or assigned by the party holding the same, in lieu of any original or prior certificate, which shall be void, whether canceled or not. If the subject of the sale is securities or other evidences of debt, the certificate constitutes a good and valid receipt to the person holding the same, as against any person holding or claiming to hold possession of such securities or other evidences of debt. If such property consists of a motor vehicle, the certificate constitutes notice when received, to any public official charged with the registration of title of motor vehicles, of such transfer and constitutes authority to such official to record the transfer on his or her books and records in the same manner as if the certificate of title to such motor vehicle were transferred or assigned by the party holding the same, in lieu of any original or prior certificate of title, which shall be void whether canceled or not.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_74__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In the case of the sale of real property pursuant to a levy by the Department of Revenue, the deed of sale given pursuant to this section shall be prima facie evidence of the facts stated therein; and if the proceedings by the executive director or his or her designee have been substantially in accordance with the provisions of this chapter and the rules of the department, such deed constitutes a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the Department of Revenue attached thereto.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

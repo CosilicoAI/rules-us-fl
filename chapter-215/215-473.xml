@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.473"/>
+          <FRBRuri value="/us-fl/act/fsa/215.473"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.473/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.473/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.473/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.473/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_473">
+          <num>215.473</num>
+          <heading>Divestiture by the State Board of Administration; Sudan; Iran.</heading>
+          <content>
+            <p>DEFINITIONS.—As used in this section, the term:</p>
+          </content>
+          <subsection eId="215_473__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>DEFINITIONS.—As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_473__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Active business operations” means all business operations that are not inactive business operations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Board” means the State Board of Administration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Business operations” means engaging in commerce in any form in Sudan or Iran, including, but not limited to, acquiring, developing, maintaining, owning, selling, possessing, leasing, or operating equipment, facilities, personnel, products, services, personal property, real property, or any other apparatus of business or commerce.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Company” means a sole proprietorship, organization, association, corporation, partnership, joint venture, limited partnership, limited liability partnership, limited liability company, or other entity or business association, including all wholly owned subsidiaries, majority-owned subsidiaries, parent companies, or affiliates of such entities or business associations, that exists for the purpose of making profit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Complicit” means taking actions during any preceding 20-month period which have directly supported or promoted the genocidal campaign in Darfur, including preventing Darfur’s victimized population from communicating with each other; encouraging Sudanese citizens to speak out against an internationally approved security force for Darfur; actively working to deny, cover up, or alter the record on human rights abuses in Darfur; or other similar actions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Construction sector” means the production, procurement, devising, framing, or arranging in Iran of parts or materials to fabricate, shape, or form buildings or structures, including the onsite development, assembly, or construction of residential, commercial, or institutional buildings in Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Direct holdings” in a company means all securities of that company that are held directly by the public fund or in an account or fund in which the public fund owns all shares or interests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Energy sector” means those activities involving the exploration, extraction, production, refinement, or liquefaction of petroleum, natural gas, or petroleum products in Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>“Financial sector” means any entity, including foreign branches wherever located, organized under the laws of Iran or any jurisdiction within Iran, or owned or controlled by the government of Iran, or located in Iran, or owned or controlled by any such entities, which is engaged in the business, as principal or agent, of accepting deposits; making, granting, transferring, holding, or brokering loans or credits; or purchasing or selling foreign exchange, securities, or commodity futures or options, or procuring purchasers and sellers thereof. Entities that operate in the financial sector of the Iranian economy include, but are not limited to, depository institutions, banks, savings banks, money service businesses, trust companies, insurance companies, securities brokers and dealers, commodity futures and options brokers and dealers, forward contract and foreign exchange merchants, securities and commodities exchanges, clearing corporations, investment companies, employee benefit plans, dealers in precious metals, stones, or jewels, and holding companies, affiliates, or subsidiaries of any such entities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>“Government of Iran” means the government of Iran, its instrumentalities, and companies owned or controlled by the government of Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>“Government of South Sudan” means the Republic of South Sudan, that has its capital in Juba, South Sudan.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>“Government of Sudan” means the Republic of the Sudan that has its capital in Khartoum, Sudan.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>“Inactive business operations” means the mere continued holding or renewal of rights to property previously operated for the purpose of generating revenues but not presently deployed for such purpose.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>“Indirect holdings” in a company means all securities of that company that are held in a commingled fund or other collective investment, such as a mutual fund, in which the public fund owns shares or interests together with other investors not subject to this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_o">
+              <num>(o)</num>
+              <content>
+                <p>“Iran” means the Islamic Republic of Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_p">
+              <num>(p)</num>
+              <content>
+                <p>“Manufacturing sector” means the creation of goods in Iran by manual labor or machinery which are for export from Iran or for sale within Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_q">
+              <num>(q)</num>
+              <content>
+                <p>“Marginalized populations of Sudan” include, but are not limited to, the portion of the population in the Darfur region that has been genocidally victimized; the portion of the population of South Sudan victimized by Sudan’s north-south civil war; the Beja, Rashidiya, and other similarly underserved groups of eastern Sudan; the Nubian and other similarly underserved groups in Sudan’s Abyei, Southern Blue Nile, and Nuba Mountain regions; and the Amri, Hamadab, Manasir, and other similarly underserved groups of northern Sudan.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_r">
+              <num>(r)</num>
+              <content>
+                <p>“Metals sector” means the sale, supply, or transfer, directly or indirectly, to or from Iran of raw or semifinished metals, including, but not limited to, the following types of such materials and all alloys or compounds containing such materials: aluminum, americium, antimony, barium, beryllium, bismuth, boron, cadmium, calcium, cerium, cesium, chromium, cobalt, copper, dysprosium, erbium, europium, gadolinium, gallium, germanium, gold, hafnium, hastelloy, inconel, indium, iridium, iron, lanthanum, lead, lithium, lutetium, magnesium, manganese, mercury, molybdenum, monel, neodymium, neptunium, nickel, niobium, osmium, palladium, platinum, plutonium, polonium, potassium, praseodymium, promethium, radium, rhenium, rhodium, ruthenium, samarium, scandium, silicon, silver, sodium, steels, strontium, tantalum, technetium, tellurium, terbium, thallium, thorium, tin, titanium, tungsten, uranium, vanadium, ytterbium, yttrium, zinc, and zirconium.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_s">
+              <num>(s)</num>
+              <content>
+                <p>“Military equipment” means weapons, arms, military supplies, and equipment that may readily be used for military purposes, including, but not limited to, radar systems, military-grade transport vehicles, or supplies or services sold or provided directly or indirectly to any force actively participating in armed conflict in Sudan.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_t">
+              <num>(t)</num>
+              <content>
+                <p>“Mineral-extraction activities” include the exploring, extracting, processing, transporting, or wholesale selling or trading of elemental minerals or associated metal alloys or oxides (ore), including gold, copper, chromium, chromite, diamonds, iron, iron ore, silver, tungsten, uranium, and zinc, as well as facilitating such activities, including providing supplies or services in support of such activities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_u">
+              <num>(u)</num>
+              <content>
+                <p>“Mining sector” means any act, process, or industry of extracting, at the surface or underground, ores, coal, precious stones, or any other minerals or geological materials from the earth in Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_v">
+              <num>(v)</num>
+              <content>
+                <p>“Oil-related activities” include, but are not limited to, owning rights to oil blocks; exporting, extracting, producing, refining, processing, exploring for, transporting, selling, or trading of oil; constructing, maintaining, or operating a pipeline, refinery, or other oil-field infrastructure; and facilitating such activities, including providing supplies or services in support of such activities, except that the mere retail sale of gasoline and related consumer products is not considered an oil-related activity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_w">
+              <num>(w)</num>
+              <content>
+                <p>“Petrochemical sector” means those activities involving any aromatic, olefin, or synthesis gas, or any of their derivatives, including ethylene, propylene, butadiene, benzene, toluene, xylene, ammonia, methanol, and urea.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_x">
+              <num>(x)</num>
+              <content>
+                <p>“Petroleum resources” means petroleum, petroleum byproducts, or natural gas.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_y">
+              <num>(y)</num>
+              <content>
+                <p>“Port sector” means those activities involving the loading and unloading of cargo and passengers or the transporting of goods and raw materials.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_z">
+              <num>(z)</num>
+              <content>
+                <p>“Power-production activities” means a business operation that involves a project commissioned by the National Electricity Corporation (NEC) of Sudan or other similar entity of the government of Sudan whose purpose is to facilitate power generation and delivery, including, but not limited to, establishing power-generating plants or hydroelectric dams, selling or installing components for the project, providing service contracts related to the installation or maintenance of the project, as well as facilitating such activities, including providing supplies or services in support of such activities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_aa">
+              <num>(aa)</num>
+              <content>
+                <p>“Public fund” means all assets of the Florida Retirement System held by the State Board of Administration in its capacity as a fiduciary pursuant to chapter 121.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_bb">
+              <num>(bb)</num>
+              <content>
+                <p>“Scrutinized active business operations” means active business operations that result in a company becoming a scrutinized company.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_cc">
+              <num>(cc)</num>
+              <content>
+                <p>“Scrutinized business operations” means business operations that result in a company becoming a scrutinized company.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_dd">
+              <num>(dd)</num>
+              <content>
+                <p>“Scrutinized company” means a company that meets any of the following criteria:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_ee">
+              <num>(ee)</num>
+              <content>
+                <p>“Shipbuilding sector” means those activities involving the construction of seagoing vessels, including oil tankers and cargo vessels, in Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_ff">
+              <num>(ff)</num>
+              <content>
+                <p>“Shipping sector” means those activities involving the transportation of goods by seagoing vessels, including oil tankers and cargo vessels, flying the flag of Iran or owned, controlled, chartered, or operated directly or indirectly by the government of Iran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_gg">
+              <num>(gg)</num>
+              <content>
+                <p>“Social-development company” means a company whose primary purpose in Sudan is to provide humanitarian goods or services, including medicine or medical equipment; agricultural supplies or infrastructure; educational opportunities; journalism-related activities; information or information materials; spiritual-related activities; services of a purely clerical or reporting nature; food, clothing, or general consumer goods that are unrelated to oil-related activities; mineral-extraction activities; or power-production activities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_hh">
+              <num>(hh)</num>
+              <content>
+                <p>“Substantial action specific to Iran” means adopting, publicizing, and implementing a formal plan to cease scrutinized business operations within 1 year and to refrain from such new business operations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_ii">
+              <num>(ii)</num>
+              <content>
+                <p>“Substantial action specific to Sudan” means adopting, publicizing, and implementing a formal plan to cease scrutinized business operations within 1 year and to refrain from such new business operations; undertaking humanitarian efforts in conjunction with an international organization, the government of Sudan, the government of South Sudan, or a nonprofit entity evaluated and certified by an independent third party to be substantially in a relationship to the company’s Sudan business operations and of benefit to one or more marginalized populations of Sudan; or, through engagement with the government of Sudan, materially improving conditions for the genocidally victimized population in Darfur.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_1__para_jj">
+              <num>(jj)</num>
+              <content>
+                <p>“Textile sector” means the fiber synthesis, dyeing, weaving, knitting, or felting in Iran of textiles, including apparel, carpets, cloths, fabric, or related goods, which are for export from Iran.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_473__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>IDENTIFICATION OF COMPANIES.—</p>
+            </content>
+            <paragraph eId="215_473__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall make its best efforts to identify all scrutinized companies in which the public fund has direct or indirect holdings or could possibly have such holdings in the future. Such efforts include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The board shall maintain a list of all scrutinized companies that fit criteria specified in subparagraphs (1)(dd)1., 2., and 3. labeled the “Scrutinized Companies with Activities in Sudan List” and a list of all scrutinized companies that fit criteria specified in subparagraph (1)(dd)4. labeled the “Scrutinized Companies with Activities in Iran Terrorism Sectors List.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The board shall update and make publicly available quarterly the Scrutinized Companies with Activities in Sudan List and the Scrutinized Companies with Activities in Iran Terrorism Sectors List based on evolving information from, among other sources, those listed in paragraph (a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Notwithstanding this section, a social-development company that is not complicit in the Darfur genocide is not considered a scrutinized company under subparagraph (1)(dd)1., subparagraph (1)(dd)2., or subparagraph (1)(dd)3.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_473__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>REQUIRED ACTIONS.—The board shall adhere to the following procedure for assembling companies on the Scrutinized Companies with Activities in Sudan List and the Scrutinized Companies with Activities in Iran Terrorism Sectors List:</p>
+            </content>
+            <paragraph eId="215_473__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Engagement.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Divestment.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Prohibition.—The board may not acquire, on behalf of the public fund, securities of companies on the Scrutinized Companies with Activities in Sudan List or the Scrutinized Companies with Activities in Iran Terrorism Sectors List that have active business operations, except as provided in paragraph (d).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Exemption.—A company that the United States Government affirmatively declares to be excluded from its present or any future federal sanctions regime relating to Sudan or Iran is not subject to divestment or the investment prohibition pursuant to paragraphs (b) and (c).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Excluded securities.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Further exclusions.—Notwithstanding any other provision of this act, the board, when discharging its responsibility for operation of a defined contribution plan, shall engage the manager of the investment offerings in such plans requesting that they consider removing scrutinized companies from the investment offerings or create an alternative investment offering devoid of scrutinized companies. If the manager creates an alternative investment offering and the offering is deemed by the board to be consistent with prudent investor standards, the board shall consider including such investment offering in the plan.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_473__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>REPORTING.—</p>
+            </content>
+            <paragraph eId="215_473__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall file a report with each member of its Board of Trustees, the President of the Senate, and the Speaker of the House of Representatives which includes the Scrutinized Companies with Activities in Sudan List and the Scrutinized Companies with Activities in Iran Terrorism Sectors List within 30 days after the list is created or updated. This report must be made available to the public.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At each quarterly meeting of the Board of Trustees thereafter, the board shall file a report regarding the public fund, which must be made available to the public and to each member of its Board of Trustees, the President of the Senate, and the Speaker of the House of Representatives, and shall send a copy of that report to the United States Presidential Special Envoy to Sudan and the United States Presidential Special Envoy to Iran, or an appropriate designee or successor, which includes:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_473__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>EXPIRATION.—This section expires upon the occurrence of all of the following:</p>
+            </content>
+            <paragraph eId="215_473__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If any of the following occurs, the board may no longer scrutinize companies according to subparagraphs (1)(dd)1., 2., and 3. and may no longer assemble the Scrutinized Companies with Activities in Sudan List, shall cease engagement and divestment of such companies, and may reinvest in such companies if such companies do not satisfy the criteria for inclusion in the Scrutinized Companies with Activities in Iran Terrorism Sectors List:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_473__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If both of the following occur, the board may no longer scrutinize companies according to subparagraph (1)(dd)4.; may no longer assemble the Scrutinized Companies with Activities in Iran Terrorism Sectors List; and shall cease engagement, investment prohibitions, and divestment:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_473__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>INVESTMENT POLICY STATEMENT OBLIGATIONS.—The board’s actions taken in compliance with this act, including all good faith determinations regarding companies as required by this act, shall be adopted and incorporated into the public fund’s investment policy statement as provided in s.215.475.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_473__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>REINVESTMENT IN CERTAIN COMPANIES HAVING SCRUTINIZED ACTIVE BUSINESS OPERATIONS.—Notwithstanding any other provision of this act to the contrary, the public fund may cease divesting from certain scrutinized companies pursuant to paragraph (3)(b) or reinvest in certain scrutinized companies from which it divested pursuant to paragraph (3)(b) if clear and convincing evidence shows that the value of all assets of the public fund becomes equal to or less than 99.50 percent, or 50 basis points, of the hypothetical value of all assets of the public fund assuming no divestment for any company had occurred under paragraph (3)(b). Cessation of divestment, reinvestment, or any subsequent ongoing investment authorized by this act is limited to the minimum steps necessary to avoid the contingency set forth in this subsection or that no divestment of any company is required for less than fair value. For any cessation of divestment, reinvestment, or subsequent ongoing investment authorized by this act, the board shall provide a written report to each member of its Board of Trustees, the President of the Senate, and the Speaker of the House of Representatives in advance of initial reinvestment, updated semiannually thereafter as applicable, setting forth the reasons and justification, supported by clear and convincing evidence, for its decisions to cease divestment, reinvest, or remain invested in companies having scrutinized active business operations. This act does not apply to reinvestment in companies on the grounds that they have ceased to have scrutinized active business operations.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

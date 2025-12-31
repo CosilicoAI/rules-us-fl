@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.5587"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5587"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.5587/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5587/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.5587/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5587/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_5587">
+          <num>215.5587</num>
+          <heading>My Safe Florida Home Program; public records exemption.</heading>
+          <content>
+            <p>All of the following information contained in applications and home inspection reports submitted by applicants as part of the My Safe Florida Home Program under s.215.5586is exempt from s.119.07(1) and s. 24(a), Art. I of the State Constitution:</p>
+          </content>
+          <subsection eId="215_5587__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All of the following information contained in applications and home inspection reports submitted by applicants as part of the My Safe Florida Home Program under s.215.5586is exempt from s.119.07(1) and s. 24(a), Art. I of the State Constitution:</p>
+            </content>
+            <paragraph eId="215_5587__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The components of the applicant’s mailing address other than the city and zip code and the applicant’s name.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5587__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any phone number or e-mail address provided by the applicant.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5587__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Detailed descriptions and pictures of the inside and outside of applicant’s homes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5587__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This exemption applies retroactively to applications and home inspection reports submitted before, on, or after the effective date of this exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5587__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>This section is subject to the Open Government Sunset Review Act in accordance with s.119.15and shall stand repealed on October 2, 2029, unless reviewed and saved from repeal through reenactment by the Legislature.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

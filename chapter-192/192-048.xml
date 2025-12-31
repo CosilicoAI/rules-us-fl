@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.048"/>
+          <FRBRuri value="/us-fl/act/fsa/192.048"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.048/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.048/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.048/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.048/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_048">
+          <num>192.048</num>
+          <heading>Electronic transmission.</heading>
+          <content>
+            <p>Subject to subsection (2), the following documents may be transmitted electronically rather than by regular mail:</p>
+          </content>
+          <subsection eId="192_048__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to subsection (2), the following documents may be transmitted electronically rather than by regular mail:</p>
+            </content>
+            <paragraph eId="192_048__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The notice of proposed property taxes required under s.200.069.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax exemption renewal application required under s.196.011(7)(a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The tax exemption renewal application required under s.196.011(7)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A notification of an intent to deny a tax exemption required under s.196.011(10)(e).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The decision of the value adjustment board required under s.194.034(2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="192_048__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Electronic transmission pursuant to this section is authorized only under the following conditions, as applicable:</p>
+            </content>
+            <paragraph eId="192_048__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The recipient consents in writing to receive the document electronically.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>On the form used to obtain the recipient’s written consent, the sender must include a statement in substantially the following form and in a font equal to or greater than the font used for the text requesting the recipient’s consent:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Before sending a document electronically, the sender verifies the recipient’s address by sending an electronic transmission to the recipient and receiving an affirmative response from the recipient verifying that the recipient’s address is correct.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If a document is returned as undeliverable, the sender must send the document by regular mail, as required by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Documents sent pursuant to this section comply with the same timing and form requirements as if the documents were sent by regular mail.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="192_048__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The sender renews the consent and verification requirements every 5 years.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

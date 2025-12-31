@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.582"/>
+          <FRBRuri value="/us-fl/act/fsa/197.582"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.582/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.582/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.582/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.582/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_582">
+          <num>197.582</num>
+          <heading>Disbursement of proceeds of sale.</heading>
+          <content>
+            <p>If the property is purchased by any person other than the certificateholder, the clerk shall forthwith pay to the certificateholder all of the sums he or she has paid, including the amount required for the redemption of the certificate or certificates together with any and all subsequent unpaid taxes plus the costs and expenses of the application for deed, with interest on the total of such sums for the period running from the month after the date of application for the deed through the month of sale at the rate of 1.5 percent per month. The clerk shall distribute the amount required to redeem the certificate or certificates and the amount required for the redemption of other tax certificates on the same land with omitted taxes and with all costs, plus interest thereon at the rate of 1.5 percent per month for the period running from the month after the date of application for the deed through the month of sale, in the same manner as he or she distributes money received for the redemption of tax certificates owned by the county.</p>
+          </content>
+          <subsection eId="197_582__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the property is purchased by any person other than the certificateholder, the clerk shall forthwith pay to the certificateholder all of the sums he or she has paid, including the amount required for the redemption of the certificate or certificates together with any and all subsequent unpaid taxes plus the costs and expenses of the application for deed, with interest on the total of such sums for the period running from the month after the date of application for the deed through the month of sale at the rate of 1.5 percent per month. The clerk shall distribute the amount required to redeem the certificate or certificates and the amount required for the redemption of other tax certificates on the same land with omitted taxes and with all costs, plus interest thereon at the rate of 1.5 percent per month for the period running from the month after the date of application for the deed through the month of sale, in the same manner as he or she distributes money received for the redemption of tax certificates owned by the county.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_582__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the property is purchased for an amount in excess of the statutory bid of the certificateholder, the surplus must be paid over and disbursed by the clerk as set forth in subsections (3), (5), and (6). If the opening bid included the homestead assessment pursuant to s.197.502(6)(c), that amount must be treated as surplus and distributed in the same manner. The clerk shall distribute the surplus to the governmental units for the payment of any lien of record held by a governmental unit against the property, including any tax certificates not incorporated in the tax deed application and omitted taxes, if any. If there remains a balance of undistributed funds, the balance must be retained by the clerk for the benefit of persons described in s.197.522(1)(a), except those persons described in s.197.502(4)(h), as their interests may appear. The clerk shall mail notices to such persons notifying them of the funds held for their benefit at the addresses provided in s.197.502(4). Such notice constitutes compliance with the requirements of s.717.117(6). Any service charges and costs of mailing notices shall be paid out of the excess balance held by the clerk. Notice must be provided in substantially the following form:</p>
+            </content>
+            <paragraph eId="197_582__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>If the property is purchased for an amount in excess of the statutory bid of the certificateholder, the surplus must be paid over and disbursed by the clerk as set forth in subsections (3), (5), and (6). If the opening bid included the homestead assessment pursuant to s.197.502(6)(c), that amount must be treated as surplus and distributed in the same manner. The clerk shall distribute the surplus to the governmental units for the payment of any lien of record held by a governmental unit against the property, including any tax certificates not incorporated in the tax deed application and omitted taxes, if any. If there remains a balance of undistributed funds, the balance must be retained by the clerk for the benefit of persons described in s.197.522(1)(a), except those persons described in s.197.502(4)(h), as their interests may appear. The clerk shall mail notices to such persons notifying them of the funds held for their benefit at the addresses provided in s.197.502(4). Such notice constitutes compliance with the requirements of s.717.117(6). Any service charges and costs of mailing notices shall be paid out of the excess balance held by the clerk. Notice must be provided in substantially the following form:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_582__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The mailed notice must include a form for making a claim under subsection (3). Service charges at the rate set forth in s.28.24(11) and the costs of mailing must be paid out of the surplus funds held by the clerk. If the clerk or comptroller certifies that the surplus funds are not sufficient to cover the service charges and mailing costs, the clerk shall receive the total amount of surplus funds as a service charge. For purposes of identifying unclaimed property pursuant to s.717.113, excess proceeds shall be presumed payable or distributable on the date the notice is sent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_582__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person receiving the notice under subsection (2) has 120 days from the date of the notice to file a written claim with the clerk for the surplus proceeds. A claim in substantially the following form is deemed sufficient:</p>
+            </content>
+          </subsection>
+          <subsection eId="197_582__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A claim may be:</p>
+            </content>
+            <paragraph eId="197_582__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Mailed using the United States Postal Service. The filing date is the postmark on the mailed claim;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_582__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Delivered using either a commercial delivery service or in person. The filing date is the day of delivery; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_582__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Sent by fax or e-mail, as authorized by the clerk. The filing date is the date the clerk receives the fax or e-mail.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_582__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Except for claims by a property owner, claims that are not filed on or before close of business on the 120th day after the date of the mailed notice as required by subsection (2), are barred. A person, other than the property owner, who fails to file a proper and timely claim is barred from receiving any disbursement of the surplus funds. The failure of any person described in s.197.502(4), other than the property owner, to file a claim for surplus funds within the 120 days constitutes a waiver of interest in the surplus funds, and all claims thereto are forever barred.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_582__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Within 90 days after the claim period expires, the clerk may either file an interpleader action in circuit court, if potentially conflicting claims to the funds exist, or pay the surplus funds according to the clerk’s determination of the priority of claims using the information provided by the claimants under subsection (3). Fees and costs incurred by the clerk in determining whether an interpleader action should be filed shall be paid from the surplus funds. If the clerk files an interpleader action, the court shall determine the distribution of funds based upon the priority of liens filed. The clerk may move the court to award reasonable fees and costs from the interpleaded funds. An action to require payment of surplus funds is not ripe until the claim and review periods expire. The failure of a person described in s.197.502(4), other than the property owner, to file a claim for surplus funds within the 120 days constitutes a waiver of all interest in the surplus funds, and all claims for them are forever barred.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_582__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A holder of a recorded governmental lien, other than a federal government lien or ad valorem tax lien, must file a request for disbursement of surplus funds within 120 days after the mailing of the notice of surplus funds. The clerk or comptroller must disburse payments to each governmental unit to pay any lien of record held by a governmental unit against the property, including any tax certificate not incorporated in the tax deed application and any omitted taxes, before disbursing the surplus funds to nongovernmental claimants.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_582__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The tax deed recipient may directly pay off all liens to governmental units that could otherwise have been requested from surplus funds, and, upon filing a timely claim under subsection (3) with proof of payment, the tax deed recipient may receive the same amount of funds from the surplus funds for all amounts paid to each governmental unit in the same priority as the original lienholder.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_582__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>If the clerk does not receive claims for surplus funds within the 120-day claim period, as required in subsection (5), there is a conclusive presumption that the legal titleholder of record described in s.197.502(4)(a) is entitled to the surplus funds. The clerk must process the surplus funds in the manner provided in chapter 717, regardless of whether the legal titleholder is a resident of the state or not.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

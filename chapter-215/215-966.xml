@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.966"/>
+          <FRBRuri value="/us-fl/act/fsa/215.966"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.966/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.966/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.966/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.966/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_966">
+          <num>215.966</num>
+          <heading>Refinancing of bonds.</heading>
+          <content>
+            <p>The Division of Bond Finance of the State Board of Administration is hereby authorized to refinance any or all bonds previously issued pursuant to the provisions of s. 11(d), Art. VII of the State Constitution, and all projects that have been built or are scheduled to be built with the proceeds of bonds previously issued pursuant to the provisions of s. 11(d), Art. VII of the State Constitution are hereby approved in accordance with the provisions of s. 11(f), Art. VII of the State Constitution for the purposes of one or more refinancings of any or all of such bonds as may be determined by the Division of Bond Finance. The bonds authorized to be issued shall not be counted towards any statutory limit on the dollar amount of bonds which may be issued for any bond program.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

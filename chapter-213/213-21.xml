@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.21"/>
+          <FRBRuri value="/us-fl/act/fsa/213.21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.21/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.21/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_21">
+          <num>213.21</num>
+          <heading>Informal conferences; compromises.</heading>
+          <content>
+            <p>The Department of Revenue may adopt rules for establishing informal conference procedures within the department for resolution of disputes relating to assessment of taxes, interest, and penalties and the denial of refunds, and for informal hearings under ss.120.569and120.57(2).</p>
+          </content>
+          <subsection eId="213_21__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue may adopt rules for establishing informal conference procedures within the department for resolution of disputes relating to assessment of taxes, interest, and penalties and the denial of refunds, and for informal hearings under ss.120.569and120.57(2).</p>
+            </content>
+            <paragraph eId="213_21__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The Department of Revenue may adopt rules for establishing informal conference procedures within the department for resolution of disputes relating to assessment of taxes, interest, and penalties and the denial of refunds, and for informal hearings under ss.120.569and120.57(2).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The statute of limitations upon the issuance of final assessments and the period for filing a claim for refund as required by s.215.26(2) for any transactions occurring during the audit period shall be tolled during the period in which the taxpayer is engaged in a procedure under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>During procedures under this section, the taxpayer has the right to be represented at the taxpayer’s cost and to record procedures electronically or manually at the taxpayer’s cost.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_21__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The executive director of the department or his or her designee is authorized to enter into closing agreements with any taxpayer settling or compromising the taxpayer’s liability for any tax, interest, or penalty assessed under any of the chapters specified in s.72.011(1). Such agreements must be in writing if the amount of tax, penalty, or interest compromised exceeds $30,000, or for lesser amounts, if the department deems it appropriate or if requested by the taxpayer. When a written closing agreement has been approved by the department and signed by the executive director or his or her designee and the taxpayer, it shall be final and conclusive; and, except upon a showing of fraud or misrepresentation of material fact or except as to adjustments pursuant to ss.198.16and220.23, no additional assessment may be made by the department against the taxpayer for the tax, interest, or penalty specified in the closing agreement for the time period specified in the closing agreement, and the taxpayer is not entitled to institute any judicial or administrative proceeding to recover any tax, interest, or penalty paid pursuant to the closing agreement. The department is authorized to delegate to the executive director the authority to approve any such closing agreement resulting in a tax reduction of $500,000 or less.</p>
+            </content>
+            <paragraph eId="213_21__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The executive director of the department or his or her designee is authorized to enter into closing agreements with any taxpayer settling or compromising the taxpayer’s liability for any tax, interest, or penalty assessed under any of the chapters specified in s.72.011(1). Such agreements must be in writing if the amount of tax, penalty, or interest compromised exceeds $30,000, or for lesser amounts, if the department deems it appropriate or if requested by the taxpayer. When a written closing agreement has been approved by the department and signed by the executive director or his or her designee and the taxpayer, it shall be final and conclusive; and, except upon a showing of fraud or misrepresentation of material fact or except as to adjustments pursuant to ss.198.16and220.23, no additional assessment may be made by the department against the taxpayer for the tax, interest, or penalty specified in the closing agreement for the time period specified in the closing agreement, and the taxpayer is not entitled to institute any judicial or administrative proceeding to recover any tax, interest, or penalty paid pursuant to the closing agreement. The department is authorized to delegate to the executive director the authority to approve any such closing agreement resulting in a tax reduction of $500,000 or less.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the provisions of paragraph (a), for the purpose of facilitating the settlement and distribution of an estate held by a personal representative, the executive director of the department may, on behalf of the state, agree upon the amount of taxes at any time due or to become due from such personal representative under the provisions of chapter 198; and payment in accordance with such agreement shall be full satisfaction of the taxes to which the agreement relates.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding paragraph (a), for the purpose of compromising the liability of any taxpayer for tax or interest on the grounds of doubt as to liability based on the taxpayer’s reasonable reliance on a written determination issued by the department as described in paragraph (3)(b), the department may compromise the amount of such tax or interest liability resulting from such reasonable reliance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_21__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A taxpayer’s liability for any tax or interest specified in s.72.011(1) may be compromised by the department upon the grounds of doubt as to liability for or collectibility of such tax or interest. A taxpayer’s liability for interest under any of the chapters specified in s.72.011(1) shall be settled or compromised in whole or in part whenever or to the extent that the department determines that the delay in the determination of the amount due is attributable to the action or inaction of the department. A taxpayer’s liability for penalties under any of the chapters specified in s.72.011(1) may be settled or compromised if it is determined by the department that the noncompliance is due to reasonable cause and not to willful negligence, willful neglect, or fraud. The facts and circumstances are subject to de novo review to determine the existence of reasonable cause in any administrative proceeding or judicial action challenging an assessment of penalty under any of the chapters specified in s.72.011(1). A taxpayer who establishes reasonable reliance on the written advice issued by the department to the taxpayer will be deemed to have shown reasonable cause for the noncompliance. In addition, a taxpayer’s liability for penalties under any of the chapters specified in s.72.011(1) in excess of 25 percent of the tax shall be settled or compromised if the department determines that the noncompliance is due to reasonable cause and not to willful negligence, willful neglect, or fraud. The department shall maintain records of all compromises, and the records shall state the basis for the compromise. The records of compromise under this paragraph shall not be subject to disclosure pursuant to s.119.07(1) and shall be considered confidential information governed by the provisions of s.213.053.</p>
+            </content>
+            <paragraph eId="213_21__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A taxpayer’s liability for any tax or interest specified in s.72.011(1) may be compromised by the department upon the grounds of doubt as to liability for or collectibility of such tax or interest. A taxpayer’s liability for interest under any of the chapters specified in s.72.011(1) shall be settled or compromised in whole or in part whenever or to the extent that the department determines that the delay in the determination of the amount due is attributable to the action or inaction of the department. A taxpayer’s liability for penalties under any of the chapters specified in s.72.011(1) may be settled or compromised if it is determined by the department that the noncompliance is due to reasonable cause and not to willful negligence, willful neglect, or fraud. The facts and circumstances are subject to de novo review to determine the existence of reasonable cause in any administrative proceeding or judicial action challenging an assessment of penalty under any of the chapters specified in s.72.011(1). A taxpayer who establishes reasonable reliance on the written advice issued by the department to the taxpayer will be deemed to have shown reasonable cause for the noncompliance. In addition, a taxpayer’s liability for penalties under any of the chapters specified in s.72.011(1) in excess of 25 percent of the tax shall be settled or compromised if the department determines that the noncompliance is due to reasonable cause and not to willful negligence, willful neglect, or fraud. The department shall maintain records of all compromises, and the records shall state the basis for the compromise. The records of compromise under this paragraph shall not be subject to disclosure pursuant to s.119.07(1) and shall be considered confidential information governed by the provisions of s.213.053.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Doubt as to liability of a taxpayer for tax and interest exists if the taxpayer demonstrates that he or she reasonably relied on a written determination of the department in any of the following circumstances:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A taxpayer shall not be deemed to have reasonably relied on a written determination of the department under any of the following circumstances:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A taxpayer’s liability for the service fee required by s.215.34(2) may be settled or compromised if it is determined that the dishonored check, draft, or order was returned due to an unintentional error committed by the issuing financial institution, the taxpayer, or the department and the unintentional error is substantiated by the department. The department shall maintain records of all compromises, and the records shall state the basis for the compromise.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_21__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department is authorized to enter into agreements for scheduling payments of taxes, interest, and penalties.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_21__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department shall establish by rule guidelines and procedures for implementation of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_21__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The Department of Revenue may modify the reporting or filing periods required for any tax enumerated in s.213.05, for purposes of facilitating the calculation of penalty and interest due on tax payments made as a result of a taxpayer’s voluntary self-disclosure or the department’s selection of a taxpayer for self-analysis. Interest or penalty calculations may not be based on a filing period longer than 1 year. Modified reporting periods apply only to taxpayers not previously registered for the specific tax disclosed and to registered taxpayers with annual gross receipts of less than $500,000. Annual filing periods must be based on a calendar year or the fiscal year used for federal income tax reporting by the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_21__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>When a taxpayer voluntarily self-discloses a liability for tax to the department, the department may settle and compromise the tax and interest due under the voluntary self-disclosure to those amounts due for the 3 years immediately preceding the date that the taxpayer initially contacted the department concerning the voluntary self-disclosure. For purposes of this paragraph, the term “years” means tax years or calendar years, whichever is applicable to the tax that is voluntarily self-disclosed. A voluntary self-disclosure does not occur if the department has contacted or informed the taxpayer that the department is inquiring into the taxpayer’s liability for tax or whether the taxpayer is subject to tax in this state.</p>
+            </content>
+            <paragraph eId="213_21__subsec_7__para_7">
+              <num>(7)</num>
+              <content>
+                <p>When a taxpayer voluntarily self-discloses a liability for tax to the department, the department may settle and compromise the tax and interest due under the voluntary self-disclosure to those amounts due for the 3 years immediately preceding the date that the taxpayer initially contacted the department concerning the voluntary self-disclosure. For purposes of this paragraph, the term “years” means tax years or calendar years, whichever is applicable to the tax that is voluntarily self-disclosed. A voluntary self-disclosure does not occur if the department has contacted or informed the taxpayer that the department is inquiring into the taxpayer’s liability for tax or whether the taxpayer is subject to tax in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may further settle and compromise the tax and interest due under a voluntary self-disclosure when the department is able to determine that such further settlement and compromise is in the best interests of this state. When making this determination the department shall consider, but is not limited to, the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>This subsection does not limit the department’s ability to enter into further settlement and compromise of the liability that is voluntarily self-disclosed based on any other provision of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>This subsection does not apply to a voluntary self-disclosure when the taxpayer collected, but failed to remit, the tax to the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_21__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>In order to determine whether certified audits are an effective tool in the overall state tax collection effort, the executive director of the department or the executive director’s designee shall settle or compromise penalty liabilities of taxpayers who participate in the certified audits project. As further incentive for participating in the program, the department shall abate the first $25,000 of any interest liability and 25 percent of any interest due in excess of the first $25,000. A settlement or compromise of penalties or interest pursuant to this subsection shall not be subject to the provisions of paragraph (3)(a), except for the requirement relating to confidentiality of records. The department may consider an additional compromise of tax or interest pursuant to the provisions of paragraph (3)(a). This subsection does not apply to any liability related to taxes collected but not remitted to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_21__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>A penalty for failing to collect a tax imposed by chapter 212 shall be settled or compromised upon payment of tax and interest if a taxpayer failed to collect the tax due to a good faith belief that tax was not due on the transaction and, because of that good faith belief, the taxpayer is now unable to charge and collect the tax from the taxpayer’s purchaser. The Department of Revenue shall adopt rules necessary to implement and administer this subsection, including rules establishing procedures and forms.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_21__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Notwithstanding any other provision of law and solely for the purpose of administering the taxes imposed by ss.125.0104and125.0108and chapter 212, except s.212.0606, under the circumstances set forth in this subsection, the department shall settle or compromise a taxpayer’s liability for penalty without requiring the taxpayer to submit a written request for compromise or settlement.</p>
+            </content>
+            <paragraph eId="213_21__subsec_10__para_10">
+              <num>(10)</num>
+              <content>
+                <p>Notwithstanding any other provision of law and solely for the purpose of administering the taxes imposed by ss.125.0104and125.0108and chapter 212, except s.212.0606, under the circumstances set forth in this subsection, the department shall settle or compromise a taxpayer’s liability for penalty without requiring the taxpayer to submit a written request for compromise or settlement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For taxpayers who file returns and remit tax on a monthly basis:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For taxpayers who file returns and remit tax on a quarterly basis, any penalty related to a noncompliant filing event shall be settled or compromised if the taxpayer has no noncompliant filing event in the immediately preceding 12-month period and no unresolved liability under s.125.0104, s.125.0108, or chapter 212 resulting from a noncompliant filing event.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_21__subsec_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of this subsection:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

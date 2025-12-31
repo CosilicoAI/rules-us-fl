@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.962"/>
+          <FRBRuri value="/us-fl/act/fsa/215.962"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.962/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.962/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.962/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.962/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_962">
+          <num>215.962</num>
+          <heading>Standards for state agency use of card-based technology.</heading>
+          <content>
+            <p>Each state agency that uses a card that relies on the electronic reading and use of information encoded in the card must comply with the following standards unless an exception is granted by the Florida Fiscal Accounting Management Information System Coordinating Council. The council shall follow the notice, review, and exception procedures in s.216.177prior to granting an exception. These standards apply whether the card is used for electronic transfer of benefits, identification, or other purposes.</p>
+          </content>
+          <subsection eId="215_962__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Card-based technology must conform to standards of the American National Standards Institute.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_962__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each card must contain the digital photographic image of the person to whom it is issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_962__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the card is issued for purposes of financial transactions, it must be readable and usable by a portion of point-of-sale devices that are sufficient to guarantee reasonable access to benefits and services for card users.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_962__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Cards must contain the words “State of Florida” to identify the card as being issued by the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_962__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A single-purpose card may not be procured or issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_962__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Provision must be made in all card-based technology, whether developed by the issuing agency or procured by contract, for migration to advanced systems, in order to keep pace with card-based technology.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

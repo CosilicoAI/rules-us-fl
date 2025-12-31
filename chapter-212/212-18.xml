@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.18"/>
+          <FRBRuri value="/us-fl/act/fsa/212.18"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.18/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.18/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.18/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.18/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_18">
+          <num>212.18</num>
+          <heading>Administration of law; registration of dealers; rules.</heading>
+          <content>
+            <p>The cost of preparing and distributing the reports, forms, and paraphernalia for the collection of said tax and the inspection and enforcement duties required herein shall be borne by the revenue produced by this chapter, provisions for which are hereinafter made.</p>
+          </content>
+          <subsection eId="212_18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The cost of preparing and distributing the reports, forms, and paraphernalia for the collection of said tax and the inspection and enforcement duties required herein shall be borne by the revenue produced by this chapter, provisions for which are hereinafter made.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall administer and enforce the assessment and collection of the taxes, interest, and penalties imposed by this chapter. It has authority to adopt rules pursuant to ss.120.536(1) and120.54to enforce the provisions of this chapter in order that there shall not be collected on the average more than the rate levied herein. The department is authorized to and it shall provide by rule a method for accomplishing this end. It shall prepare instructions to all persons required by this chapter to collect and remit the tax to guide such persons in the proper collection and remission of such tax and to instruct such persons in the practices that may be necessary for the purpose of enforcement of this chapter and the collection of the tax imposed hereby. The use of tokens in the collection of this tax is hereby expressly forbidden and prohibited.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_18__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person desiring to engage in or conduct business in this state as a dealer, or to lease, rent, or let or grant licenses in living quarters or sleeping or housekeeping accommodations in hotels, apartment houses, roominghouses, or tourist or trailer camps that are subject to tax under s.212.03, and a person who sells or receives anything of value by way of admissions, must file with the department an application for a certificate of registration for each place of business. The application must include the names of the persons who have interests in such business and their residences, the address of the business, and other data reasonably required by the department. However, owners and operators of vending machines or newspaper rack machines are required to obtain only one certificate of registration for each county in which such machines are located. The department, by rule, may authorize a dealer that uses independent sellers to sell its merchandise to remit tax on the retail sales price charged to the ultimate consumer in lieu of having the independent seller register as a dealer and remit the tax. The department may appoint the county tax collector as the department’s agent to accept applications for registrations. The application must be submitted to the department before the person, firm, copartnership, or corporation may engage in such business.</p>
+            </content>
+            <paragraph eId="212_18__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>A person desiring to engage in or conduct business in this state as a dealer, or to lease, rent, or let or grant licenses in living quarters or sleeping or housekeeping accommodations in hotels, apartment houses, roominghouses, or tourist or trailer camps that are subject to tax under s.212.03, and a person who sells or receives anything of value by way of admissions, must file with the department an application for a certificate of registration for each place of business. The application must include the names of the persons who have interests in such business and their residences, the address of the business, and other data reasonably required by the department. However, owners and operators of vending machines or newspaper rack machines are required to obtain only one certificate of registration for each county in which such machines are located. The department, by rule, may authorize a dealer that uses independent sellers to sell its merchandise to remit tax on the retail sales price charged to the ultimate consumer in lieu of having the independent seller register as a dealer and remit the tax. The department may appoint the county tax collector as the department’s agent to accept applications for registrations. The application must be submitted to the department before the person, firm, copartnership, or corporation may engage in such business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_18__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department, upon receipt of such application, shall grant to the applicant a separate certificate of registration for each place of business, which may be canceled by the department or its designated assistants for any failure by the certificateholder to comply with this chapter. The certificate is not assignable and is valid only for the person, firm, copartnership, or corporation to which it is issued. The certificate must be placed in a conspicuous place in the business or businesses for which it is issued and must be displayed at all times. Except as provided in this subsection, a person may not engage in business as a dealer or in leasing, renting, or letting of or granting licenses in living quarters or sleeping or housekeeping accommodations in hotels, apartment houses, roominghouses, or tourist or trailer camps, or sell or receive anything of value by way of admissions, without a valid certificate. A person may not receive a license from any authority within the state to engage in any such business without a valid certificate. A person may not engage in the business of selling or leasing tangible personal property or services as a dealer; engage in leasing, renting, or letting of or granting licenses in living quarters or sleeping or housekeeping accommodations in hotels, apartment houses, roominghouses, or tourist or trailer camps that are taxable under this chapter; or engage in the business of selling or receiving anything of value by way of admissions without a valid certificate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_18__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A marketplace provider that is a dealer under this chapter or a person who is required to collect and remit sales tax on remote sales must file with the department an application for a certificate of registration electronically.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_18__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who engages in acts requiring a certificate of registration under this subsection and who fails or refuses to register commits a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083. Such acts are subject to injunctive proceedings as provided by law. A person who engages in acts requiring a certificate of registration and who fails or refuses to register is also subject to a $100 registration fee. However, the department may waive the registration fee if it finds that the failure to register was due to reasonable cause and not to willful negligence, willful neglect, or fraud.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_18__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>In addition to the certificate of registration, the department shall provide to each newly registered dealer an initial resale certificate that will be valid for the remainder of the period of issuance. The department shall provide each active dealer with an annual resale certificate. For purposes of this section, the term “active dealer” means a person who is currently registered with the department and who is required to file at least once during each applicable reporting period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_18__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The department may revoke a dealer’s certificate of registration if the dealer fails to comply with this chapter. Before revocation of a dealer’s certificate of registration, the department must schedule an informal conference at which the dealer may present evidence regarding the department’s intended revocation or enter into a compliance agreement with the department. The department must notify the dealer of its intended action and the time, place, and date of the scheduled informal conference by written notification sent by United States mail to the dealer’s last known address of record furnished by the dealer on a form prescribed by the department. The dealer is required to attend the informal conference and present evidence refuting the department’s intended revocation or enter into a compliance agreement with the department which resolves the dealer’s failure to comply with this chapter. The department shall issue an administrative complaint under s.120.60if the dealer fails to attend the department’s informal conference, fails to enter into a compliance agreement with the department resolving the dealer’s noncompliance with this chapter, or fails to comply with the executed compliance agreement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_18__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>As used in this paragraph, the term “exhibitor” means a person who enters into an agreement authorizing the display of tangible personal property or services at a convention or a trade show. The following provisions apply to the registration of exhibitors as dealers under this chapter:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_18__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department is hereby given the authority to purchase such supplies and equipment as may be necessary and incur any other necessary expenses as are proper for the enforcement and administration of this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

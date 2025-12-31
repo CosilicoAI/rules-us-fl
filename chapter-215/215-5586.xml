@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.5586"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5586"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.5586/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5586/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.5586/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5586/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_5586">
+          <num>215.5586</num>
+          <heading>My Safe Florida Home Program.</heading>
+          <content>
+            <p>There is established within the Department of Financial Services the My Safe Florida Home Program. The department shall provide fiscal accountability, contract management, and strategic leadership for the program, consistent with this section. This section does not create an entitlement for property owners or obligate the state in any way to fund the inspection or retrofitting of residential property in this state. Implementation of this program is subject to annual legislative appropriations. It is the intent of the Legislature that, subject to the availability of funds, the My Safe Florida Home Program provide licensed inspectors to perform hurricane mitigation inspections of eligible homes and grants to fund hurricane mitigation projects on those homes. The department shall implement the program in such a manner that the total amount of funding requested by accepted applications, whether for inspections, grants, or other services or assistance, does not exceed the total amount of available funds. If, after applications are processed and approved, funds remain available, the department may accept applications up to the available amount. The program shall develop and implement a comprehensive and coordinated approach for hurricane damage mitigation pursuant to the requirements provided in this section.</p>
+          </content>
+          <subsection eId="215_5586__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>HURRICANE MITIGATION INSPECTIONS.—</p>
+            </content>
+            <paragraph eId="215_5586__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>To be eligible for a hurricane mitigation inspection under the program:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An application for a hurricane mitigation inspection must contain a signed or electronically verified statement made under penalty of perjury that the applicant has submitted only one inspection application on the home or that the application is allowed under subparagraph 2., and the application must have documents attached which demonstrate that the applicant meets the requirements of paragraph (a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An applicant meeting the requirements of paragraph (a) may receive an inspection of a home under the program without being eligible for a grant under subsection (2) or applying for such grant.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Licensed inspectors are to provide home inspections of eligible homes to determine what mitigation measures are needed, what insurance premium discounts may be available, and what improvements to existing residential properties are needed to reduce the property’s vulnerability to hurricane damage. An inspector may inspect a townhouse as defined in s.481.203to determine if opening protection mitigation as listed in subparagraph (2)(e)1. would provide improvements to mitigate hurricane damage.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall contract with wind certification entities to provide hurricane mitigation inspections. The inspections provided to homeowners, at a minimum, must include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>To qualify for selection by the department as a wind certification entity to provide hurricane mitigation inspections, the entity must, at a minimum, meet the following requirements:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5586__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>HURRICANE MITIGATION GRANTS.—Financial grants shall be used by homeowners to make improvements recommended by an inspection which increase resistance to hurricane damage.</p>
+            </content>
+            <paragraph eId="215_5586__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An application for a grant must contain a signed or electronically verified statement made under penalty of perjury that the applicant has submitted only one grant application or that the application is allowed under subparagraph 2., and the application must have documents attached demonstrating that the applicant meets the requirements of paragraph (a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>All grants must be matched on the basis of $1 provided by the applicant for $2 provided by the state up to a maximum state contribution of $10,000 toward the actual cost of the mitigation project, except as provided in paragraph (h).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>All hurricane mitigation performed under the program must be based upon the securing of all required local permits and inspections and must be performed by properly licensed contractors.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>When recommended by a hurricane mitigation inspection, grants for eligible homes may be used for the following improvements:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>When recommended by a hurricane mitigation inspection, grants for townhouses, as defined in s.481.203, may only be used for opening protection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The department may require that improvements be made to all openings, including exterior doors, garage doors, windows, and skylights, as a condition of reimbursing a homeowner approved for a grant. The department may adopt, by rule, the maximum grant allowances for any improvement allowable under paragraph (e) or paragraph (f).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Low-income homeowners, as defined in s.420.0004(11), who otherwise meet the applicable requirements of this subsection are eligible for a grant of up to $10,000 and are not required to provide a matching amount to receive the grant.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>The department shall develop a process that ensures the most efficient means to collect and verify inspection applications and grant applications to determine eligibility. The department may direct hurricane mitigation inspectors to collect and verify grant application information or use the Internet or other electronic means to collect information and determine eligibility.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>A homeowner who receives a grant shall finalize construction and request a final inspection, or request an extension for an additional 6 months, within 1 year after grant approval. If a homeowner fails to comply with this paragraph, his or her application is deemed abandoned and the grant money reverts to the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5586__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>REQUESTS FOR INFORMATION.—The department may request that an applicant provide additional information. An application is deemed withdrawn by the applicant if the department does not receive a response to its request for additional information within 60 days after the notification of any apparent error or omission.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5586__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>EDUCATION, CONSUMER AWARENESS, AND OUTREACH.—</p>
+            </content>
+            <paragraph eId="215_5586__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may undertake a statewide multimedia public outreach and advertising campaign to inform consumers of the availability and benefits of hurricane inspections and of the safety and financial benefits of residential hurricane damage mitigation. The department may seek out and use local, state, federal, and private funds to support the campaign.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The program may develop brochures for distribution to Citizens Property Insurance Corporation and other licensed entities or nonprofits that work with the department to educate the public on the benefits of the program. Citizens Property Insurance Corporation must distribute the brochure to policyholders of the corporation each year the program is funded. The brochures may be made available electronically.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5586__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>FUNDING.—The department may seek out and leverage local, state, federal, or private funds to enhance the financial resources of the program.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5586__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>RULES.—The department shall adopt rules pursuant to ss.120.536(1) and120.54to govern the program; implement the provisions of this section; including rules governing hurricane mitigation inspections and grants, mitigation contractors, and training of inspectors and contractors; and carry out the duties of the department under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5586__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>HURRICANE MITIGATION INSPECTOR LIST.—The department shall develop and maintain as a public record a current list of hurricane mitigation inspectors authorized to conduct hurricane mitigation inspections pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5586__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>CONTRACT MANAGEMENT.—</p>
+            </content>
+            <paragraph eId="215_5586__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The department may contract with third parties for grants management, inspection services, contractor services for low-income homeowners, information technology, educational outreach, and auditing services. Such contracts are considered direct costs of the program and are not subject to administrative cost limits. The department shall contract with providers that have a demonstrated record of successful business operations in areas directly related to the services to be provided and shall ensure the highest accountability for use of state funds, consistent with this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5586__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall implement a quality assurance and reinspection program that determines whether initial inspections and home improvements are completed in a manner consistent with the intent of the program. The department may use valid random sampling in order to perform the quality assurance portion of the program.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5586__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>INTENT.—It is the intent of the Legislature that grants made to residential property owners under this section shall be considered disaster-relief assistance within the meaning of s. 139 of the Internal Revenue Code of 1986, as amended.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5586__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>REPORTS.—The department shall make an annual report on the activities of the program that shall account for the use of state funds and indicate the number of inspections requested, the number of inspections performed, the number of grant applications received, the number and value of grants approved, and the estimated average annual amount of insurance premium discounts and total estimated annual amount of insurance premium discounts homeowners received from insurers as a result of mitigation funded through the program. The report must be delivered to the President of the Senate and the Speaker of the House of Representatives by February 1 of each year.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.446"/>
+          <FRBRuri value="/us-fl/act/fsa/197.446"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.446/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.446/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.446/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.446/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_446">
+          <num>197.446</num>
+          <heading>Payment of back taxes as condition precedent to cancellation of tax certificate held by county.</heading>
+          <content>
+            <p>No order shall be issued by any court in an action brought by or on behalf of any landowner to enjoin any tax sale or to set aside or cancel any tax certificate held by any county in the state until the owner pays to the tax collector of the county where the property is assessable the full amount of the taxes that could have been lawfully assessed against the property for the period covered by the assessment complained of, whether or not the real estate has been returned for assessment by the owner. In all such cases, the court shall ascertain and determine the amount of tax to be paid by the owner.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.111"/>
+          <FRBRuri value="/us-fl/act/fsa/196.111"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.111/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.111/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.111/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.111/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_111">
+          <num>196.111</num>
+          <heading>Property appraisers may notify persons entitled to homestead exemption; publication of notice; costs.</heading>
+          <content>
+            <p>As soon as practicable after February 5 of each current year, the property appraisers of the several counties may mail to each person to whom homestead exemption was granted for the year immediately preceding and whose application for exemption for the current year has not been filed as of February 1 thereof, a form for application for homestead exemption, together with a notice reading substantially as follows:</p>
+          </content>
+          <subsection eId="196_111__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As soon as practicable after February 5 of each current year, the property appraisers of the several counties may mail to each person to whom homestead exemption was granted for the year immediately preceding and whose application for exemption for the current year has not been filed as of February 1 thereof, a form for application for homestead exemption, together with a notice reading substantially as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="196_111__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The expenditure of funds for any of the requirements of this section is hereby declared to be for a county purpose; and the board of county commissioners of each county shall, if notices are mailed under subsection (1), appropriate and provide the necessary funds for such purposes.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

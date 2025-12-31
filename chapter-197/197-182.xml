@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.182"/>
+          <FRBRuri value="/us-fl/act/fsa/197.182"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.182/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.182/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.182/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.182/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_182">
+          <num>197.182</num>
+          <heading>Department of Revenue to pass upon and order refunds.</heading>
+          <content>
+            <p>Except as provided in paragraphs (b), (c), and (d), the department shall pass upon and order refunds if payment of taxes assessed on the county tax rolls has been made voluntarily or involuntarily under any of the following circumstances:</p>
+          </content>
+          <subsection eId="197_182__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as provided in paragraphs (b), (c), and (d), the department shall pass upon and order refunds if payment of taxes assessed on the county tax rolls has been made voluntarily or involuntarily under any of the following circumstances:</p>
+            </content>
+            <paragraph eId="197_182__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as provided in paragraphs (b), (c), and (d), the department shall pass upon and order refunds if payment of taxes assessed on the county tax rolls has been made voluntarily or involuntarily under any of the following circumstances:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Refunds that have been ordered by a court and refunds that do not result from changes made in the assessed value on a tax roll certified to the tax collector shall be made directly by the tax collector without order from the department and shall be made from undistributed funds without approval of the various taxing authorities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Overpayments in the amount of $10 or less may be retained by the tax collector unless a written claim for a refund is received from the taxpayer. Overpayments of more than $10 resulting from taxpayer error, if identified within the 4-year period of limitation, shall be automatically refunded to the taxpayer. Such refunds do not require approval from the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If a payment has been made in error by a taxpayer because of an error in the tax notice sent to the taxpayer, refund must be made directly by the tax collector and does not require approval from the department. At the request of the taxpayer, the amount paid in error may be applied by the tax collector to the taxes for which the taxpayer is liable.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Claims for refunds must be made pursuant to the rules of the department. A refund may not be granted unless a claim for the refund is made within 4 years after January 1 of the tax year for which the taxes were paid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Upon receipt of the department’s written denial of a refund, the tax collector shall issue the denial in writing to the taxpayer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>If funds are available from current receipts subject to subsection (3) and a refund is approved, the taxpayer shall receive a refund within 100 days after a claim for refund is made, unless the tax collector, property appraiser, or department states good cause for remitting the refund after that date. The time periods stated in this paragraph and paragraphs (i) through (l) are directory and may be extended by a maximum of an additional 60 days if good cause is stated.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>If the taxpayer contacts the property appraiser first, the property appraiser shall refer the taxpayer to the tax collector.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>If a correction to the roll by the property appraiser is required as a condition for the refund, the tax collector shall, within 30 days, advise the property appraiser of the taxpayer’s application for a refund and forward the application to the property appraiser.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>The property appraiser has 30 days after receipt of the form from the tax collector to correct the roll if a correction is permissible by law. Within the 30-day period, the property appraiser shall advise the tax collector in writing of whether the roll has been corrected and state the reasons why the roll was corrected or not corrected.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>If the refund requires an order from the department, the tax collector shall forward the claim for refund to the department upon receipt of the correction from the property appraiser or 30 days after the claim for refund, whichever occurs first. This provision does not apply to corrections resulting in refunds of less than $2,500, which the tax collector shall make directly without order from the department from undistributed funds without approval of the various taxing authorities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>The department shall approve or deny a claim for a refund within 30 days after receiving the claim from the tax collector, unless good cause is stated for delaying the approval or denial beyond that date.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Subject to and after meeting the requirements of s.194.171and this section, an action to contest a denial of refund must be brought within 60 days after the date the tax collector sends the denial to the taxpayer. The tax collector may send notice of the denial electronically or by postal mail. Electronic transmission may be used only with the express consent of the property owner. If the notice of denial is sent electronically and is returned as undeliverable, a second notice must be sent. However, the original electronic transmission is the official mailing for the purpose of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>In computing any time period under this section, if the last day of the period is a Saturday, Sunday, or legal holiday, the period is extended to the next working day.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_182__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the department orders a refund, the department shall forward a copy of its order to the tax collector who shall determine the pro rata share due by each taxing authority. The tax collector shall make the refund from undistributed funds held for that taxing authority and shall identify such refund as a reduction in the next distribution. If the undistributed funds are not sufficient for the refund, the tax collector shall notify the taxing authority of the shortfall. The taxing authority shall:</p>
+            </content>
+            <paragraph eId="197_182__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Authorize the tax collector to make refund and forward to the tax collector its pro rata share of the refund from currently budgeted funds, if available; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_182__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notify the tax collector that the taxing authority does not have funds currently available and provide for the payment of the refund in its budget for the next year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_182__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A refund ordered by the department pursuant to this section shall be made by the tax collector in one aggregate amount composed of all the pro rata shares of the several taxing authorities concerned, except that a partial refund is allowed if one or more of the taxing authorities concerned do not have funds currently available to pay their pro rata shares of the refund and this would cause an unreasonable delay in the total refund. A statement by the tax collector explaining the refund shall accompany the refund payment. If taxes become delinquent as a result of a refund pursuant to subparagraph (1)(a)5. or paragraph (1)(d), the tax collector shall notify the property owner that the taxes have become delinquent and that a tax certificate will be sold if the taxes are not paid within 30 days after the date of delinquency.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_182__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing contained in this section shall be construed to authorize any taxing authority to make any tax levy in excess of the maximum authorized by the constitution or the laws of this state.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

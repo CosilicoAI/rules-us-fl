@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.165"/>
+          <FRBRuri value="/us-fl/act/fsa/201.165"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.165/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.165/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.165/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.165/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_165">
+          <num>201.165</num>
+          <heading>Credit for tax paid to other states.</heading>
+          <content>
+            <p>For a tax imposed by any section of this chapter, a credit against the specific tax imposed by that section is allowed in an amount equal to a like tax lawfully imposed and paid on the same document or instrument in another state, territory of the United States, or the District of Columbia. For purposes of this subsection, “like tax” means an excise tax on documents that is in substance identical to the tax imposed by this chapter on the same document. The credit may not exceed the tax imposed by this chapter on the document. Proof of entitlement to such a credit must be provided to the department.</p>
+          </content>
+          <subsection eId="201_165__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For a tax imposed by any section of this chapter, a credit against the specific tax imposed by that section is allowed in an amount equal to a like tax lawfully imposed and paid on the same document or instrument in another state, territory of the United States, or the District of Columbia. For purposes of this subsection, “like tax” means an excise tax on documents that is in substance identical to the tax imposed by this chapter on the same document. The credit may not exceed the tax imposed by this chapter on the document. Proof of entitlement to such a credit must be provided to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_165__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The credit provided by this section applies retroactively. Notwithstanding the retroactivity of this credit provision, this section does not reopen a closed period of nonclaim under s.215.26or any other statute or extend the period of nonclaim under s.215.26or any other statute.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

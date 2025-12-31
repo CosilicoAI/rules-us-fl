@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.013"/>
+          <FRBRuri value="/us-fl/act/fsa/216.013"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.013/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.013/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.013/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.013/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_013">
+          <num>216.013</num>
+          <heading>Long-range program plan.</heading>
+          <content>
+            <p>State agencies and the judicial branch shall develop long-range program plans to achieve state goals using an interagency planning process that includes the development of integrated agency program service outcomes. The plans shall be policy based, priority driven, accountable, and developed through careful examination and justification of all agency and judicial branch programs.</p>
+          </content>
+          <subsection eId="216_013__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Long-range program plans shall provide the framework for the development of budget requests and shall identify or update:</p>
+            </content>
+            <paragraph eId="216_013__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The mission of the agency or judicial branch.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The goals established to accomplish the mission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The objectives developed to achieve state goals.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The trends and conditions relevant to the mission, goals, and objectives.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The agency or judicial branch programs that will be used to implement state policy and achieve state goals and objectives.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The program outcomes and standards to measure progress toward program objectives.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Information regarding performance measurement, which includes, but is not limited to, how data is collected, the methodology used to measure a performance indicator, the validity and reliability of a measure, the appropriateness of a measure, and whether, in the case of agencies, the agency inspector general has assessed the reliability and validity of agency performance measures, pursuant to s.20.055(2).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Legislatively approved output and outcome performance measures. Each performance measure must identify the associated activity contributing to the measure from those identified in accordance with s.216.023(4)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Performance standards for each performance measure and justification for the standards and the sources of data to be used for measurement. Performance standards must include standards for each affected activity and be expressed in terms of the associated unit of activity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Prior-year performance data on approved performance measures and an explanation of deviation from expected performance. Performance data must be assessed for reliability in accordance with s.20.055.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_013__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Proposed performance incentives and disincentives.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_013__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each long-range program plan shall cover a period of 5 fiscal years, be revised annually, and remain in effect until replaced or revised.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_013__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Long-range program plans or revisions shall be presented by state agencies and the judicial branch in a form, manner, and timeframe prescribed in written instructions prepared by the Executive Office of the Governor in consultation with the chairs of the legislative appropriations committees.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_013__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each state executive agency and the judicial branch shall post their long-range program plans on their Internet websites not later than September 30th of each year, and provide written notice to the Governor and the Legislature that the plans have been posted.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_013__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The state agencies and the judicial branch shall make appropriate adjustments to their long-range program plans, excluding adjustments to performance measures and standards, to be consistent with the appropriations in the General Appropriations Act and legislation implementing the General Appropriations Act. Agencies and the judicial branch have 30 days subsequent to the effective date of the General Appropriations Act and implementing legislation to make adjustments to their plans as posted on their Internet websites.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_013__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Long-range program plans developed pursuant to this chapter are not rules and, therefore, are not subject to the provisions of chapter 120.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

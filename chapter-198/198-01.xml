@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.01"/>
+          <FRBRuri value="/us-fl/act/fsa/198.01"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.01/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.01/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.01/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.01/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_01">
+          <num>198.01</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>When used in this chapter the term, phrase or word:</p>
+          </content>
+          <subsection eId="198_01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Department” means the Department of Revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Personal representative” means the executor, administrator, or curator of the decedent, or, if there is no executor, administrator, or curator appointed, qualified, and acting, then any person who is in the actual or constructive possession of any property included in the gross estate of the decedent or any other person who is required to file a return or pay the taxes due under any provision of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Person” means persons, corporations, associations, joint stock companies, and business trusts.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Transfer” shall be taken to include the passing of property or any interest therein, in possession or enjoyment, present or future, by inheritance, descent, devise, succession, bequest, grant, deed, bargain, sale, gift, or appointment in the manner herein described.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Decedent” shall include the testator, intestate, grantor, bargainor, vendor, or donor.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Resident” means a natural person domiciled in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Nonresident” means a natural person domiciled without the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“Gross estate” means the gross estate as determined under the provisions of the applicable federal revenue act.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>“Net estate” means the net estate as determined under the provisions of the applicable federal revenue act.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>“Tangible personal property” means corporeal personal property, including money.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>“Intangible personal property” means incorporeal personal property including deposits in banks, negotiable instruments, mortgages, debts, receivables, shares of stock, bonds, notes, credits, evidences of an interest in property, evidences of debt and choses in action generally.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>“United States” when used in a geographical sense includes only the 50 states and the District of Columbia.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>“Generation-skipping transfer” means every transfer subject to the federal generation-skipping transfer tax in which transfer the original transferor is a resident of this state at the date of original transfer or the property transferred is real or personal property in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>“Original transferor” means any grantor, donor, trustor, or testator who by grant, gift, trust, or will makes a transfer of real or personal property that results in a federal generation-skipping transfer tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_01__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>“Federal generation-skipping transfer tax” means the tax imposed by chapter 13 of the Internal Revenue Code of 1986, as amended.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

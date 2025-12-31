@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.1832"/>
+          <FRBRuri value="/us-fl/act/fsa/212.1832"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.1832/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.1832/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.1832/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.1832/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_1832">
+          <num>212.1832</num>
+          <heading>Credit for contributions to eligible nonprofit scholarship-funding organizations.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="212_1832__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="212_1832__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Designated agent” has the same meaning as in s.212.06(10).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Eligible contribution” or “contribution” means a monetary contribution from a person purchasing a motor vehicle, subject to the restrictions provided in this section, to an eligible nonprofit scholarship-funding organization. The person making the contribution may not designate a specific student as the beneficiary of the contribution.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Eligible nonprofit scholarship-funding organization” or “organization” has the same meaning as in s.1002.395(2).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Motor vehicle” has the same meaning as in s.320.01(1)(a), but does not include a heavy truck, truck tractor, trailer, or motorcycle.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_1832__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The purchaser of a motor vehicle shall be granted a credit of 100 percent of an eligible contribution made to an eligible nonprofit scholarship-funding organization under this section against any tax imposed by the state under this chapter and collected from the purchaser by a dealer, designated agent, or private tag agent as a result of the purchase or acquisition of a motor vehicle, except that a credit may not exceed the tax that would otherwise be collected from the purchaser by a dealer, designated agent, or private tag agent. Each eligible contribution is limited to a single payment of $105 per motor vehicle purchased at the time of purchase of a motor vehicle or a single payment of $105 per motor vehicle purchased at the time of registration of a motor vehicle that was not purchased from a dealer, except that a contribution may not exceed the state tax imposed under this chapter that would otherwise be collected from the purchaser by a dealer, designated agent, or private tag agent. Payments of contributions shall be made to a dealer at the time of purchase of a motor vehicle or to a designated agent or private tag agent at the time of registration of a motor vehicle that was not purchased from a dealer. An eligible contribution shall be accompanied by a contribution election form provided by the Department of Revenue. The form shall include, at a minimum, the following brief description of the Florida Tax Credit Scholarship Program: “THE FLORIDA TAX CREDIT SCHOLARSHIP PROGRAM PROVIDES A STUDENT THE OPPORTUNITY TO APPLY FOR A SCHOLARSHIP TO ATTEND AN ELIGIBLE PRIVATE SCHOOL OR PERSONALIZE HIS OR HER EDUCATION.” The form shall also include, at a minimum, a section allowing the consumer to designate, from all participating scholarship-funding organizations, which organization will receive his or her donation. For purposes of this subsection, the term “purchase” does not include the lease or rental of a motor vehicle.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_1832__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A dealer shall take a credit against any tax imposed by the state under this chapter on the purchase of a motor vehicle in an amount equal to the credit granted to the purchaser under subsection (2).</p>
+            </content>
+            <paragraph eId="212_1832__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A dealer, designated agent, or private tag agent shall:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An eligible nonprofit scholarship-funding organization shall report to the department, on or before the 20th day of each month, the total amount of contributions received pursuant to paragraph (a) in the preceding calendar month on a form provided by the department. Such report shall include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who, with the intent to unlawfully deprive or defraud the program of its moneys or the use or benefit thereof, fails to remit a contribution collected under this section is guilty of theft, punishable as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A person convicted of an offense under paragraph (c) shall be ordered by the sentencing judge to make restitution to the organization in the amount that was stolen from the program.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Upon a finding that a dealer failed to remit a contribution under subparagraph (a)3. for which the dealer claimed a credit pursuant to this subsection, the department shall notify the affected organizations of the dealer’s name, address, federal employer identification number, and information related to differences between credits taken by the dealer pursuant to this subsection and amounts remitted to the eligible nonprofit scholarship-funding organization under subparagraph (a)3.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_1832__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Any dealer, designated agent, private tag agent, or organization that fails to timely submit reports to the department as required in paragraphs (a) and (b) is subject to a penalty of $1,000 for every month, or part thereof, the report is not submitted, up to a maximum amount of $10,000. Such penalty shall be collected by the department and shall be transferred into the General Revenue Fund. Such penalty must be settled or compromised if it is determined by the department that the noncompliance is due to reasonable cause and not due to willful negligence, willful neglect, or fraud.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_1832__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For purposes of the distributions of tax revenue under s.212.20, the department shall disregard any tax credits allowed under this section to ensure that any reduction in tax revenue received that is attributable to the tax credits results only in a reduction in distributions to the General Revenue Fund. Section1002.395applies to the credit authorized by this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

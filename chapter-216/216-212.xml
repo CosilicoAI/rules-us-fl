@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.212"/>
+          <FRBRuri value="/us-fl/act/fsa/216.212"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.212/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.212/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.212/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.212/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_212">
+          <num>216.212</num>
+          <heading>Budgets for federal funds; restrictions on expenditure of federal funds.</heading>
+          <content>
+            <p>The Executive Office of the Governor and the office of the Chief Financial Officer shall develop and implement procedures for accelerating the drawdown of, and minimizing the payment of interest on, federal funds. The Executive Office of the Governor shall establish a clearinghouse for federal programs and activities. The clearinghouse shall develop the capacity to respond to federal grant opportunities and to coordinate the use of federal funds in the state.</p>
+          </content>
+          <subsection eId="216_212__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Executive Office of the Governor and the office of the Chief Financial Officer shall develop and implement procedures for accelerating the drawdown of, and minimizing the payment of interest on, federal funds. The Executive Office of the Governor shall establish a clearinghouse for federal programs and activities. The clearinghouse shall develop the capacity to respond to federal grant opportunities and to coordinate the use of federal funds in the state.</p>
+            </content>
+            <paragraph eId="216_212__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Every state agency, when making a request or preparing a budget to be submitted to the Federal Government for funds, equipment, material, or services, shall submit such request or budget to the Executive Office of the Governor for review before submitting it to the proper federal authority. However, the Executive Office of the Governor may specifically authorize any agency to submit specific types of grant proposals directly to the Federal Government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_212__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Every office or court of the judicial branch, when making a request or preparing a budget to be submitted to the Federal Government for funds, equipment, material, or services, shall submit such request or budget to the Chief Justice of the Supreme Court for approval before submitting it to the proper federal authority. However, the Chief Justice may specifically authorize any court to submit specific types of grant proposals directly to the Federal Government.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_212__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When such federal authority has approved the request or budget, the state agency or the judicial branch shall submit to the Executive Office of the Governor such documentation showing approval as that office prescribes. The Executive Office of the Governor must acknowledge each approved request or budget by entering that approval into an Automated Grant Management System developed in consultation with the chairs of the House of Representatives and Senate appropriations committees.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_212__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Federal money appropriated by Congress or received from court settlements to be used for state purposes, whether by itself or in conjunction with moneys appropriated by the Legislature, may not be expended unless appropriated by the Legislature. However, the Executive Office of the Governor or the Chief Justice of the Supreme Court may, after consultation with the legislative appropriations committees, approve the receipt and expenditure of funds from federal sources by state agencies or by the judicial branch. Any federal programs requiring state matching funds which funds were eliminated, or were requested and were not approved, by the Legislature may not be implemented during the interim. However, federal and other fund sources for the State University System which do not carry a continuing commitment on future appropriations are hereby appropriated for the purpose received.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

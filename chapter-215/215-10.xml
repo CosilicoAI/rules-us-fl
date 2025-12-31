@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.10"/>
+          <FRBRuri value="/us-fl/act/fsa/215.10"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.10/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.10/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.10/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.10/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_10">
+          <num>215.10</num>
+          <heading>Delinquent collectors; suspension.</heading>
+          <content>
+            <p>For a failure or refusal of any tax collector or other officer, whose duty it is to perform any act connected with the assessment or collection of taxes, to perform any duty or act, to make any return, or pay over any money required by law, the Governor, by his or her written order, may suspend any such defaulting or noncomplying collector or other officer from office, and from further acting in his or her office until the Governor’s further order, but not beyond the adjournment of the next session of the Senate; and appoint or designate some other person to perform and discharge all the duties of such collector or other officer, who shall discharge such duties until the further order of the Governor, but not beyond the adjournment of the next session of the Senate, and to whom the official tax rolls, books and statements as required by law shall be delivered.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

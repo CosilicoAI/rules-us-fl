@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.60"/>
+          <FRBRuri value="/us-fl/act/fsa/215.60"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.60/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.60/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.60/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.60/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_60">
+          <num>215.60</num>
+          <heading>State bonds for financing road acquisition and construction.</heading>
+          <content>
+            <p>The issuance of state bonds to finance the acquisition and construction of roads, primarily payable from the revenues provided for by s. 9(c), Art. XII of the State Constitution and pledging the full faith and credit of the state, is hereby authorized, pursuant to the provisions of said section of the Constitution and this act.</p>
+          </content>
+          <subsection eId="215_60__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The issuance of state bonds to finance the acquisition and construction of roads, primarily payable from the revenues provided for by s. 9(c), Art. XII of the State Constitution and pledging the full faith and credit of the state, is hereby authorized, pursuant to the provisions of said section of the Constitution and this act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_60__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The State Board of Administration is hereby designated as the state fiscal agency to make the determinations required by said s. 9(c), Art. XII of the Constitution in connection with the issuance of such bonds.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

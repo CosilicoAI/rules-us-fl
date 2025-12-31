@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1961"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1961"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1961/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1961/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1961/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1961/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1961">
+          <num>196.1961</num>
+          <heading>Exemption for historic property used for certain commercial or nonprofit purposes.</heading>
+          <content>
+            <p>Pursuant to s. 3, Art. VII of the State Constitution, the board of county commissioners of any county or the governing authority of any municipality may adopt an ordinance to allow an ad valorem tax exemption of up to 50 percent of the assessed value of property which meets all of the following criteria:</p>
+          </content>
+          <subsection eId="196_1961__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Pursuant to s. 3, Art. VII of the State Constitution, the board of county commissioners of any county or the governing authority of any municipality may adopt an ordinance to allow an ad valorem tax exemption of up to 50 percent of the assessed value of property which meets all of the following criteria:</p>
+            </content>
+            <paragraph eId="196_1961__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The property must be used for commercial purposes or used by a not-for-profit organization under s. 501(c)(3) or (6) of the Internal Revenue Code of 1986.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1961__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The property must be listed in the National Register of Historic Places, as defined in s.267.021; or must be a contributing property to a National Register Historic District; or must be designated as a historic property or as a contributing property to a historic district, under the terms of a local preservation ordinance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1961__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The property must be regularly open to the public.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_1961__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in this section, “regularly open to the public” means that there are regular hours when the public may visit to observe the historically significant aspects of the building. This means a minimum of 40 hours per week, for 45 weeks per year, or an equivalent of 1,800 hours per year. A fee may be charged to the public; however, it must be comparable with other entrance fees in the immediate geographic locale.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1961__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The board of county commissioners or municipal governing authority shall notify the property appraiser of the adoption of such ordinance no later than December 1 of the year prior to the year the exemption will take effect. If the exemption is granted only for a specified period or the ordinance is repealed, the board of county commissioners or municipal governing authority shall notify the property appraiser no later than December 1 of the year prior to the year the exemption expires. The ordinance must specify that the exemption shall apply only to taxes levied by the unit of government granting the exemption. The exemption does not apply, however, to taxes levied for the payment of bonds or to taxes authorized by a vote of the electors pursuant to s. 9(b) or s. 12, Art. VII of the State Constitution.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1961__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Only those portions of the property used predominantly for the purposes specified in paragraph (1)(a) shall be exempt. In no event shall an incidental use of property qualify such property for an exemption or impair the exemption of an otherwise exempt property.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1961__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In order to retain the exemption, the historic character of the property must be maintained in good repair and condition to the extent necessary to preserve the historic value and significance of the property.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

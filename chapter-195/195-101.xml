@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.101"/>
+          <FRBRuri value="/us-fl/act/fsa/195.101"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.101/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.101/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.101/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.101/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_101">
+          <num>195.101</num>
+          <heading>Withholding of state funds.</heading>
+          <content>
+            <p>The Department of Revenue is hereby directed to determine each year whether the several counties of this state are assessing the real and tangible personal property within their jurisdiction in accordance with law. If the Department of Revenue determines that any county is assessing property at less than that prescribed by law, the Chief Financial Officer shall withhold from such county a portion of any state funds to which the county may be entitled equal to the difference of the amount assessed and the amount required to be assessed by law.</p>
+          </content>
+          <subsection eId="195_101__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue is hereby directed to determine each year whether the several counties of this state are assessing the real and tangible personal property within their jurisdiction in accordance with law. If the Department of Revenue determines that any county is assessing property at less than that prescribed by law, the Chief Financial Officer shall withhold from such county a portion of any state funds to which the county may be entitled equal to the difference of the amount assessed and the amount required to be assessed by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_101__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Revenue is hereby directed to determine each year whether the several municipalities of this state are assessing the real and tangible personal property within their jurisdiction in accordance with law. If the Department of Revenue determines that any municipality is assessing property at less than that prescribed by law, the Chief Financial Officer shall withhold from such municipality a portion of any state funds to which that municipality may be entitled equal to the difference of the amount assessed and the amount required to be assessed by law.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

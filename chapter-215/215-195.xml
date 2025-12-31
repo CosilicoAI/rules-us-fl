@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.195"/>
+          <FRBRuri value="/us-fl/act/fsa/215.195"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.195/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.195/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.195/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.195/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_195">
+          <num>215.195</num>
+          <heading>Agency deposits relating to the Statewide Cost Allocation Plan.</heading>
+          <content>
+            <p>APPLICATION FOR ALLOCABLE STATEWIDE OVERHEAD.—Each state agency, and the judicial branch, making application for federal grant or contract funds shall, in accordance with the Statewide Cost Allocation Plan (SWCAP), include in its application a prorated share of the cost of services provided by state central service agencies which are reimbursable to the state pursuant to the provisions of Office of Management and Budget Circular A-87. Preparation of the Statewide Cost Allocation Plan and coordination thereof with all applicable parties is the responsibility of the Department of Financial Services. The Department of Financial Services shall ensure that the SWCAP presents the most favorable allocation of central services cost allowable to the state by the Federal Government.</p>
+          </content>
+          <subsection eId="215_195__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>APPLICATION FOR ALLOCABLE STATEWIDE OVERHEAD.—Each state agency, and the judicial branch, making application for federal grant or contract funds shall, in accordance with the Statewide Cost Allocation Plan (SWCAP), include in its application a prorated share of the cost of services provided by state central service agencies which are reimbursable to the state pursuant to the provisions of Office of Management and Budget Circular A-87. Preparation of the Statewide Cost Allocation Plan and coordination thereof with all applicable parties is the responsibility of the Department of Financial Services. The Department of Financial Services shall ensure that the SWCAP presents the most favorable allocation of central services cost allowable to the state by the Federal Government.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_195__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>DEPOSIT OF OVERHEAD IN THE GENERAL REVENUE FUND.—If an application for federal grant or contract funds is approved, the state agency or judicial branch receiving the federal grant or contract shall identify that portion representing reimbursement of allocable statewide overhead and deposit that amount into the General Revenue Fund unallocated as directed by the Department of Financial Services. The Department of Financial Services shall be responsible for monitoring agency compliance with this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

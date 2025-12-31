@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.443"/>
+          <FRBRuri value="/us-fl/act/fsa/197.443"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.443/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.443/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.443/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.443/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_443">
+          <num>197.443</num>
+          <heading>Cancellation of tax certificates; correction of tax certificates.</heading>
+          <content>
+            <p>The tax collector shall forward a certificate of error to the department and enter a memorandum of error upon the list of certificates sold for taxes if:</p>
+          </content>
+          <subsection eId="197_443__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The tax collector shall forward a certificate of error to the department and enter a memorandum of error upon the list of certificates sold for taxes if:</p>
+            </content>
+            <paragraph eId="197_443__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax certificate evidencing the sale is void because the taxes on the property have been paid;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The property was not subject to taxation at the time of the assessment on which they were sold;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The description of the property in the tax certificate is void or has been corrected or amended;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>An error of commission or omission has occurred which invalidates the sale;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The circuit court has voided the tax certificate by a suit to cancel the tax certificate by the holder;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The tax certificate is void for any other reason; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>An error in assessed value has occurred for which the tax certificate may be corrected.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_443__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department, upon receipt of the certificate of error, if satisfied of the correctness of the certificate or upon receipt of a court order, shall notify the tax collector, who shall cancel or correct the certificate. A tax certificate correction or cancellation that has been ordered by a court and that does not result from a change made in the assessed value on a tax roll certified to the tax collector shall be made by the tax collector without order from the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_443__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The holder of a tax certificate who pays, redeems, or causes to be corrected or to be canceled and surrendered by any other tax certificates, or who pays any subsequent and omitted taxes or costs, in connection with the foreclosure of a tax certificate or tax deed that is void or corrected for any reason, is entitled to a refund of the amount paid together with interest calculated monthly from the date of payment through the date of issuance of the refund at the rate specified in s.197.432(11).</p>
+            </content>
+            <paragraph eId="197_443__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The county officer or taxing or levying authority that causes an error that results in the voiding of a tax certificate shall be charged for the costs of advertising incurred in the sale of a new tax certificate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_443__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the owner of a tax certificate requests that the certificate be canceled for any reason, or that the amount of the certificate be amended as a result of payments received due to an intervening bankruptcy or receivership, but does not seek a refund, the tax collector shall cancel or amend the tax certificate and a refund shall not be processed. The tax collector shall require the owner of the tax certificate to execute a written statement that he or she is the holder of the tax certificate, that he or she wishes the certificate to be canceled or amended, and that a refund is not expected and is not to be made.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_443__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the tax certificate or a tax deed based upon the certificate is held by an individual, the collector shall notify the original purchaser of the certificate or tax deed or the subsequent holder, if known, that upon the voluntary surrender of the certificate or deed of release of any rights under the tax deed, a refund will be made of the amount received by the governmental units for the certificate or deed, plus $1 for the deed of release.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_443__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The refund shall be made in accordance with the procedure set forth in s.197.182, except that the 4-year time period provided for in s.197.182(1)(e) does not apply to or bar refunds resulting from correction or cancellation of certificates and release of tax deeds as authorized in this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.75"/>
+          <FRBRuri value="/us-fl/act/fsa/213.75"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.75/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.75/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.75/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.75/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_75">
+          <num>213.75</num>
+          <heading>Application of payments.</heading>
+          <content>
+            <p>Except for any payment made pursuant to s.213.21, or as otherwise specified by the taxpayer at the time he or she makes a payment, if payment is made to the department with respect to any of the revenue laws of this state, such payment shall be applied in priority order as follows:</p>
+          </content>
+          <subsection eId="213_75__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except for any payment made pursuant to s.213.21, or as otherwise specified by the taxpayer at the time he or she makes a payment, if payment is made to the department with respect to any of the revenue laws of this state, such payment shall be applied in priority order as follows:</p>
+            </content>
+            <paragraph eId="213_75__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>First, against the accrued interest, if any;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited against any accrued penalty;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited against the administrative collection processing fee; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited to any tax due.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_75__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a warrant or lien has been filed and recorded by the department, a payment shall be applied in priority order as follows:</p>
+            </content>
+            <paragraph eId="213_75__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>First, against the costs to record the warrant or lien, if any;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited against the administrative collection processing fee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The remaining amount, if any, shall be applied to accrued interest;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited against any accrued penalty; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited to any tax due.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_75__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a levy has been made by the department, a payment shall be applied in priority order as follows:</p>
+            </content>
+            <paragraph eId="213_75__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>First, against the costs to execute the levy, if any;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited against the administrative collection processing fee;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The remaining amount, if any, shall be applied to accrued interest;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited against any accrued penalty; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_75__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The remaining amount, if any, shall be credited to any tax due.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_75__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any surplus proceeds remaining after the application of subsection (3) shall, upon application and satisfactory proof thereof, be refunded by the Chief Financial Officer to the person or persons legally entitled pursuant to s.215.26.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

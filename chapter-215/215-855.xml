@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.855"/>
+          <FRBRuri value="/us-fl/act/fsa/215.855"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.855/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.855/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.855/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.855/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_855">
+          <num>215.855</num>
+          <heading>Investment manager external communication.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="215_855__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_855__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Governmental entity” means a state, regional, county, municipal, special district, or other political subdivision whether executive, judicial, or legislative, including, but not limited to, a department, division, board, bureau, commission, authority, district, or agency thereof, or a public school, Florida College System institution, state university, or associated board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_855__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Investment manager” means a private sector company that offers one or more investment products or services to a governmental entity and that has the discretionary investment authority for direct holdings.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_855__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Public funds” means all moneys under the jurisdiction of a governmental entity and includes all manner of pension and retirement funds and all other funds held, as trust funds or otherwise, for any public purpose, subject to investment.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_855__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any contract between a governmental entity and an investment manager must contain the following provisions:</p>
+            </content>
+            <paragraph eId="215_855__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>That any written communication made by the investment manager to a company in which such manager invests public funds on behalf of a governmental entity must include the following disclaimer in a conspicuous location if such communication discusses social, political, or ideological interests; subordinates the interests of the company’s shareholders to the interest of another entity; or advocates for the interest of an entity other than the company’s shareholders:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_855__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>That the contract may be unilaterally terminated at the option of the governmental entity if the investment manager does not include the disclaimer required in paragraph (a).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_855__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>This section applies to contracts between a governmental entity and an investment manager executed, amended, or renewed on or after July 1, 2023.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

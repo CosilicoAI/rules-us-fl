@@ -1,0 +1,316 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.11"/>
+          <FRBRuri value="/us-fl/act/fsa/202.11"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.11/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.11/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.11/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.11/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_11">
+          <num>202.11</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As used in this chapter, the term:</p>
+          </content>
+          <subsection eId="202_11__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Communications services” means the transmission, conveyance, or routing of voice, data, audio, video, or any other information or signals, including video services, to a point, or between or among points, by or through any electronic, radio, satellite, cable, optical, microwave, or other medium or method now in existence or hereafter devised, regardless of the protocol used for such transmission or conveyance. The term includes such transmission, conveyance, or routing in which computer processing applications are used to act on the form, code, or protocol of the content for purposes of transmission, conveyance, or routing without regard to whether such service is referred to as voice-over-Internet-protocol services or is classified by the Federal Communications Commission as enhanced or value-added. The term does not include:</p>
+            </content>
+            <paragraph eId="202_11__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Information services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Installation or maintenance of wiring or equipment on a customer’s premises.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The sale or rental of tangible personal property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The sale of advertising, including, but not limited to, directory advertising.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Bad check charges.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Late payment charges.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Billing and collection services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Internet access service, electronic mail service, electronic bulletin board service, or similar online computer services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Dealer” means a person registered with the department as a provider of communications services in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Department” means the Department of Revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Direct-to-home satellite service” has the meaning ascribed in the Communications Act of 1934, 47 U.S.C. s. 303(v).</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Information service” means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, using, or making available information via communications services, including, but not limited to, electronic publishing, web-hosting service, and end-user 900 number service. The term includes data processing and other services that allow data to be generated, acquired, stored, processed, or retrieved and delivered by an electronic transmission to a purchaser whose primary purpose for the underlying transaction is the processed data or information. The term does not include video service.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Internet access service” has the same meaning as ascribed to the term “Internet access” by s. 1105(5) of the Internet Tax Freedom Act, 47 U.S.C. s. 151 note, as amended by Pub. L. No. 110-108.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Mobile communications service” means commercial mobile radio service, as defined in 47 C.F.R. s. 20.3 as in effect on June 1, 1999. The term does not include air-ground radiotelephone service as defined in 47 C.F.R. s. 22.99 as in effect on June 1, 1999.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“Person” has the meaning ascribed in s.212.02.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>“Prepaid calling arrangement” means:</p>
+            </content>
+            <paragraph eId="202_11__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A right to use communications services, other than mobile communications services, for which a separately stated price must be paid in advance, which is sold at retail in predetermined units that decline in number with use on a predetermined basis, and which consist exclusively of telephone calls originated by using an access number, authorization code, or other means that may be manually, electronically, or otherwise entered; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A right to use mobile communications services that must be paid for in advance and is sold at retail in predetermined units that expire or decline in number on a predetermined basis if:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>“Purchaser” means the person paying for or obligated to pay for communications services.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>“Retail sale” means the sale of communications services for any purpose other than for resale or for use as a component part of or for integration into communications services to be resold in the ordinary course of business. However, any sale for resale must comply with s.202.16(2) and the rules adopted thereunder.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>“Sale” means the provision of communications services for a consideration.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>“Sales price” means the total amount charged in money or other consideration by a dealer for the sale of the right or privilege of using communications services in this state, including any property or other service, not described in paragraph (a), which is part of the sale and for which the charge is not separately itemized on a customer’s bill or separately allocated under subparagraph (b)8. The sales price of communications services may not be reduced by any separately identified components of the charge which constitute expenses of the dealer, including, but not limited to, sales taxes on goods or services purchased by the dealer, property taxes, taxes measured by net income, and universal-service fund fees.</p>
+            </content>
+            <paragraph eId="202_11__subsec_13__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The sales price of communications services includes, whether or not separately stated, charges for any of the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_13__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The sales price of communications services does not include charges for any of the following:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>“Service address” means:</p>
+            </content>
+            <paragraph eId="202_11__subsec_14__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in this section:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_14__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In the case of video services and direct-to-home satellite services, the location where the customer receives the services in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_14__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In the case of mobile communications services, the customer’s place of primary use.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>“Unbundled network element” means a network element, as defined in 47 U.S.C. s. 153(29), to which access is provided on an unbundled basis pursuant to 47 U.S.C. s. 251(c)(3).</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>“Private communications service” means a communications service that entitles the subscriber or user to exclusive or priority use of a communications channel or group of channels between or among channel termination points, regardless of the manner in which such channel or channels are connected, and includes switching capacity, extension lines, stations, and any other associated services that are provided in connection with the use of such channel or channels.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>“Customer” means:</p>
+            </content>
+            <paragraph eId="202_11__subsec_17__para_17">
+              <num>(17)</num>
+              <content>
+                <p>“Customer” means:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_17__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Customer” does not include:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>“Enhanced zip code” means a United States postal zip code of 9 or more digits.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>“Home service provider” means the facilities-based carrier or reseller with which the customer contracts for the provision of mobile communications services.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>“Licensed service area” means the geographic area in which the home service provider is authorized by law or contract to provide mobile communications service to the customer.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_21">
+            <num>(21)</num>
+            <content>
+              <p>“Place of primary use” means the street address representative of where the customer’s use of the mobile communications service primarily occurs, which must be:</p>
+            </content>
+            <paragraph eId="202_11__subsec_21__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The residential street address or the primary business street address of the customer; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_21__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Within the licensed service area of the home service provider.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_22">
+            <num>(22)</num>
+            <content>
+              <p>“Reseller” means a provider who purchases communications services from another communications service provider and then resells, uses as a component part of, or integrates the purchased services into a mobile communications service.</p>
+            </content>
+            <paragraph eId="202_11__subsec_22__para_22">
+              <num>(22)</num>
+              <content>
+                <p>“Reseller” means a provider who purchases communications services from another communications service provider and then resells, uses as a component part of, or integrates the purchased services into a mobile communications service.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_11__subsec_22__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Reseller” does not include a serving carrier with which a home service provider arranges for the services to its customers outside the home service provider’s licensed service area.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_11__subsec_23">
+            <num>(23)</num>
+            <content>
+              <p>“Serving carrier” means a facilities-based carrier providing mobile communications service to a customer outside a home service provider’s or reseller’s licensed service area.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_11__subsec_24">
+            <num>(24)</num>
+            <content>
+              <p>“Video service” means the transmission of video, audio, or other programming service to a purchaser, and the purchaser interaction, if any, required for the selection or use of a programming service, regardless of whether the programming is transmitted over facilities owned or operated by the video service provider or over facilities owned or operated by another dealer of communications services. The term includes point-to-point and point-to-multipoint distribution services through which programming is transmitted or broadcast by microwave or other equipment directly to the purchaser’s premises, but does not include direct-to-home satellite service. The term includes basic, extended, premium, pay-per-view, digital video, two-way cable, and music services.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

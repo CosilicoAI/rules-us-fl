@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.066"/>
+          <FRBRuri value="/us-fl/act/fsa/200.066"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.066/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.066/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.066/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.066/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_066">
+          <num>200.066</num>
+          <heading>Newly created tax units.</heading>
+          <content>
+            <p>Ad valorem taxes of newly created municipalities or special districts shall be initially imposed no earlier than the January 1 subsequent to the creation or establishment of the municipality or district. The creation by a county of a municipal service taxing unit under s.125.01is not controlled by this section if the boundaries of the municipal service taxing unit conform to the boundaries of existing special districts, include all the unincorporated areas, or include all the incorporated areas of a municipality, and if the taxing unit is created before July 1 if millage is to be imposed in the ensuing county budget.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

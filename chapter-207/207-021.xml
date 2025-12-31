@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.021"/>
+          <FRBRuri value="/us-fl/act/fsa/207.021"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.021/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.021/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.021/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.021/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_021">
+          <num>207.021</num>
+          <heading>Informal conferences; settlement or compromise of taxes, penalties, or interest.</heading>
+          <content>
+            <p>The department may establish informal conferences for the resolution of disputes arising from the assessment of taxes, penalties, or interest or the denial of refunds under chapter 120.</p>
+          </content>
+          <subsection eId="207_021__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department may establish informal conferences for the resolution of disputes arising from the assessment of taxes, penalties, or interest or the denial of refunds under chapter 120.</p>
+            </content>
+            <paragraph eId="207_021__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The department may establish informal conferences for the resolution of disputes arising from the assessment of taxes, penalties, or interest or the denial of refunds under chapter 120.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_021__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>During any proceeding arising under this section, the motor carrier has the right to be represented and to record all procedures at the motor carrier’s expense.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="207_021__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The executive director or his or her designee may enter into a closing agreement with a taxpayer settling or compromising the taxpayer’s liability for any tax, interest, or penalty assessed under this chapter. Each agreement must be in writing, in the form of a closing agreement approved by the department, and signed by the executive director or his or her designee. The agreement is final and conclusive, except upon a showing of material fraud or misrepresentation of material fact. The department may not make an additional assessment against the taxpayer for the tax, interest, or penalty specified in the closing agreement for the time specified in the closing agreement, and the taxpayer may not institute a judicial or administrative proceeding to recover any tax, interest, or penalty paid pursuant to the closing agreement. The executive director of the department or his or her designee may approve the closing agreement.</p>
+            </content>
+            <paragraph eId="207_021__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The executive director or his or her designee may enter into a closing agreement with a taxpayer settling or compromising the taxpayer’s liability for any tax, interest, or penalty assessed under this chapter. Each agreement must be in writing, in the form of a closing agreement approved by the department, and signed by the executive director or his or her designee. The agreement is final and conclusive, except upon a showing of material fraud or misrepresentation of material fact. The department may not make an additional assessment against the taxpayer for the tax, interest, or penalty specified in the closing agreement for the time specified in the closing agreement, and the taxpayer may not institute a judicial or administrative proceeding to recover any tax, interest, or penalty paid pursuant to the closing agreement. The executive director of the department or his or her designee may approve the closing agreement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_021__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding paragraph (a), for the purpose of settling and compromising the liability of a taxpayer for any tax or interest on the grounds of doubt as to liability based on the taxpayer’s reasonable reliance on a written determination issued by the department, the department may compromise the amount of the tax or interest resulting from such reasonable reliance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="207_021__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A taxpayer’s liability for any tax or interest specified in this chapter may be compromised by the department upon the grounds of doubt as to liability for or the collectibility of such tax or interest. Doubt as to the liability of a taxpayer for tax and interest exists if the taxpayer demonstrates that he or she reasonably relied on a written determination of the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_021__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A taxpayer’s liability for any tax or interest under this chapter shall be settled or compromised in whole or in part whenever or to the extent allowable under the Articles of Agreement of the International Fuel Tax Agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_021__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A taxpayer’s liability for penalties under this chapter may be settled or compromised if it is determined by the department that the noncompliance is due to reasonable cause and not willful negligence, willful neglect, or fraud.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_021__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The department may enter into an agreement for scheduling payments of any tax, penalty, or interest owed to the department as a result of an audit assessment issued under this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

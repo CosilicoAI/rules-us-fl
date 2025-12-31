@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.162"/>
+          <FRBRuri value="/us-fl/act/fsa/216.162"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.162/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.162/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.162/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.162/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_162">
+          <num>216.162</num>
+          <heading>Governor’s recommended budget to be furnished Legislature; copies to members.</heading>
+          <content>
+            <p>At least 30 days before the scheduled annual legislative session, or at a later date if requested by the Governor and approved in writing by the President of the Senate and the Speaker of the House of Representatives, the Governor shall furnish each senator and representative a copy of his or her recommended balanced budget for the state, based on the Governor’s own conclusions and judgment.</p>
+          </content>
+          <subsection eId="216_162__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At least 30 days before the scheduled annual legislative session, or at a later date if requested by the Governor and approved in writing by the President of the Senate and the Speaker of the House of Representatives, the Governor shall furnish each senator and representative a copy of his or her recommended balanced budget for the state, based on the Governor’s own conclusions and judgment.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_162__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There shall be included in such document the details of the Governor’s recommended balanced budget, including his or her recommended appropriations pursuant to s.216.163, his or her recommended revenues pursuant to s.216.165, and a financial schedule showing that his or her estimates of state revenues will be sufficient to fund the Governor’s recommendations pursuant to s.216.167.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

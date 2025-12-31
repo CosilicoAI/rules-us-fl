@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.168"/>
+          <FRBRuri value="/us-fl/act/fsa/216.168"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.168/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.168/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.168/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.168/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_168">
+          <num>216.168</num>
+          <heading>Governor’s amended revenue or budget recommendations; optional and mandatory.</heading>
+          <content>
+            <p>At any time following submission of his or her budget recommendations and revenues recommendations, the Governor may amend his or her recommendations.</p>
+          </content>
+          <subsection eId="216_168__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At any time following submission of his or her budget recommendations and revenues recommendations, the Governor may amend his or her recommendations.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_168__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The amended recommendations shall be furnished to the Legislature along with the reasons for the amended recommendations.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_168__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The amended recommendations shall include the materials required in ss.216.163and216.165; and the Executive Office of the Governor shall provide, within 3 days after the Governor amends his or her recommendations, the supporting information required under ss.216.164and216.166.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_168__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the Governor determines, at any time after he or she has furnished the Legislature with his or her recommendations or amended recommendations, that the revenue estimates upon which the Governor’s recommendations were based are insufficient to fund these recommendations, the Governor shall amend his or her revenues or appropriations recommendations to bring the Governor’s recommended budget into balance.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

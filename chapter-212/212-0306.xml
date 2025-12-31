@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0306"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0306"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0306/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0306/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0306/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0306/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0306">
+          <num>212.0306</num>
+          <heading>Local option food and beverage tax; procedure for levying; authorized uses; administration.</heading>
+          <content>
+            <p>Any county, as defined in s.125.011(1), may impose the following additional taxes, by ordinance adopted by a majority vote of the governing body:</p>
+          </content>
+          <subsection eId="212_0306__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any county, as defined in s.125.011(1), may impose the following additional taxes, by ordinance adopted by a majority vote of the governing body:</p>
+            </content>
+            <paragraph eId="212_0306__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>At the rate of 2 percent on the sale of food, beverages, or alcoholic beverages in hotels and motels only.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0306__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At the rate of 1 percent on the sale of food, beverages, or alcoholic beverages in establishments that are licensed by the state to sell alcoholic beverages for consumption on the premises, except for hotels and motels; however, the tax shall not apply to any alcoholic beverage sold by the package for off-premises consumption.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0306__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The sales in any establishment licensed by the state to sell alcoholic beverages for consumption on the premises, except for hotels and motels, that had gross annual revenues of $400,000 or less in the previous calendar year, are exempt from the tax authorized by paragraph (1)(b).</p>
+            </content>
+            <paragraph eId="212_0306__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The sales in any establishment licensed by the state to sell alcoholic beverages for consumption on the premises, except for hotels and motels, that had gross annual revenues of $400,000 or less in the previous calendar year, are exempt from the tax authorized by paragraph (1)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0306__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Sales in any veterans’ organization are exempt from the tax authorized by paragraph (1)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0306__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>All transactions that are exempt from the state sales tax are exempt from the taxes authorized by subsection (1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0306__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Sales in cities or towns presently imposing a municipal resort tax as authorized by chapter 67-930, Laws of Florida, are exempt from the taxes authorized by subsection (1); however, the tax authorized by paragraph (1)(b) may be levied in such city or town if the governing authority of the city or town adopts an ordinance that is subsequently approved by a majority of the electors in such city or town voting in a referendum held at a general election as defined in s.97.021. Any tax levied in a city or town pursuant to this paragraph takes effect on the first day of January following the general election in which the ordinance was approved. A referendum to reenact an expiring tax authorized under this paragraph must be held at a general election occurring within the 48-month period immediately preceding the effective date of the reenacted tax, and the referendum may appear on the ballot only once within the 48-month period.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0306__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The proceeds of the tax authorized by paragraph (1)(a) shall be allocated by the county to a countywide convention and visitors bureau which, by interlocal agreement and contract with the county, has been given the primary responsibility for promoting the county and its constituent cities as a destination site for conventions, trade shows, and pleasure travel, to be used for purposes provided in s.125.0104(5)(a)2. or 3., 1992 Supplement to the Florida Statutes 1991. If the county is not or is no longer a party to such an interlocal agreement and contract with a countywide convention and visitors bureau, the county shall allocate the proceeds of such tax for the purposes described in s.125.0104(5)(a)2. or 3., 1992 Supplement to the Florida Statutes 1991.</p>
+            </content>
+            <paragraph eId="212_0306__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The proceeds of the tax authorized by paragraph (1)(a) shall be allocated by the county to a countywide convention and visitors bureau which, by interlocal agreement and contract with the county, has been given the primary responsibility for promoting the county and its constituent cities as a destination site for conventions, trade shows, and pleasure travel, to be used for purposes provided in s.125.0104(5)(a)2. or 3., 1992 Supplement to the Florida Statutes 1991. If the county is not or is no longer a party to such an interlocal agreement and contract with a countywide convention and visitors bureau, the county shall allocate the proceeds of such tax for the purposes described in s.125.0104(5)(a)2. or 3., 1992 Supplement to the Florida Statutes 1991.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0306__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The county and each municipality in that county shall continue to contribute each year at least 85 percent of aggregate expenditures from the respective county or municipal general fund budget for county-operated or municipally operated homeless shelter services at or above the average level of such expenditures in the 2 fiscal years preceding the date of levying this tax.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0306__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A certified copy of the ordinance that authorizes the imposition of a tax authorized by this section shall be furnished by the county to the Department of Revenue within 10 days after the adoption of the ordinance.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0306__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A tax authorized by this section may take effect on the first day of any month, but may not take effect until at least 60 days after the adoption of the ordinance levying the tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0306__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Any county levying a tax authorized by this section must locally administer the tax using the powers and duties enumerated for local administration of the tourist development tax by s.125.0104, 1992 Supplement to the Florida Statutes 1991. The county’s ordinance shall also provide for brackets applicable to taxable transactions.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0306__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Each county shall also appoint an oversight board including, but not limited to, service providers, domestic violence victim advocates, members of the judiciary, concerned citizens, a victim of domestic violence, and impacted jurisdictions to prepare and submit to the governing board of the county for its approval a plan for disbursing the funds made available for the construction and operation of domestic violence centers. Each member of the county’s governing board shall appoint a member, and the county manager shall appoint two members, to the oversight board.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

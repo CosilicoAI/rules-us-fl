@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.164"/>
+          <FRBRuri value="/us-fl/act/fsa/216.164"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.164/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.164/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.164/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.164/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_164">
+          <num>216.164</num>
+          <heading>Governor’s recommended budget; supporting information.</heading>
+          <content>
+            <p>Not later than 14 days after the Governor submits his or her recommended budget to the Legislature pursuant to ss.216.162and216.163, the Executive Office of the Governor shall make available:</p>
+          </content>
+          <subsection eId="216_164__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Not later than 14 days after the Governor submits his or her recommended budget to the Legislature pursuant to ss.216.162and216.163, the Executive Office of the Governor shall make available:</p>
+            </content>
+            <paragraph eId="216_164__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>To the legislative appropriations committees an appropriations bill as recommended by the Governor, an economic impact statement, and appropriate staff analyses or support materials used to develop the Governor’s budget recommendations. Any proposed changes in the benefits provided under the state employee group health self-insurance plan shall be accompanied by a statement signed by an enrolled actuary indicating the amount by which monthly plan premiums would need to change if the proposed benefit changes were exclusively funded by a change in plan premiums.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_164__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>To the President of the Senate and the Speaker of the House of Representatives any additional legislation in bill form which will be needed to fully implement the Governor’s recommended budget. Upon receipt, the President of the Senate and the Speaker of the House of Representatives shall transmit each such bill to the chair of the appropriate committee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_164__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Governor, upon request, shall promptly furnish to the Legislature any appropriate information relating to the Governor’s recommendations.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_164__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Governor may provide to the Legislature a program budget or a performance-based budget for any state agency, in a form prescribed by the Executive Office of the Governor. Information submitted to the Legislature shall be presented in a fashion that will allow comparison of the requested information with the agency request, Governor’s recommendations, and legislative appropriations by the automated legislative appropriation system/planning and budgeting system.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.0201"/>
+          <FRBRuri value="/us-fl/act/fsa/201.0201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.0201/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.0201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.0201/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.0201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_0201">
+          <num>201.0201</num>
+          <heading>Interpretation of s.201.02.</heading>
+          <content>
+            <p>The Legislature finds that the Florida Supreme Court opinion inCrescent Miami Center, LLC v. Florida Department of Revenue, 903 So. 2d 913 (Fla. 2005), interprets s.201.02in a manner that permits tax avoidance inconsistent with the intent of the Legislature at the time the statute was amended in 1990.</p>
+          </content>
+          <subsection eId="201_0201__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Legislature finds that the Florida Supreme Court opinion inCrescent Miami Center, LLC v. Florida Department of Revenue, 903 So. 2d 913 (Fla. 2005), interprets s.201.02in a manner that permits tax avoidance inconsistent with the intent of the Legislature at the time the statute was amended in 1990.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_0201__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Legislature finds that the opinion of the District Court of Appeal for the Third District of Florida inCrescent Miami Center, LLC v. Florida Department of Revenue, 857 So. 2d 904 (Fla. 3d D.C.A. 2003), interprets s.201.02in a manner that prevents tax avoidance consistent with the intent of the Legislature at the time the statute was amended in 1990.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_0201__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Legislature recognizes that the Supreme Court’s opinion inCrescentis limited to the facts of the case and accepts the court’s interpretation of s.201.02that no consideration exists when owners of real property unencumbered by a mortgage convey an interest in such property to an artificial entity whose ownership is identical to the ownership of the real property before conveyance. The Legislature expressly rejects any application of the court’s interpretation where the facts are not comparable to the facts inCrescent. However, because the Supreme Court’s interpretation, combined with other settled law regarding the application of s.201.02, allows for the tax-free transfer of ownership interests in real property from one owner to another through the use of artificial entities, it is the Legislature’s intent by this act to impose the documentary stamp tax when the beneficial ownership of real property is transferred to a new owner or owners by the use of techniques that apply the Supreme Court’s decision inCrescentin combination with transfers of ownership of, or distributions from, artificial entities.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.593"/>
+          <FRBRuri value="/us-fl/act/fsa/197.593"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.593/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.593/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.593/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.593/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_593">
+          <num>197.593</num>
+          <heading>Corrective county deeds without consideration or further notice.</heading>
+          <content>
+            <p>As to all lands acquired by any county for delinquent taxes and thereafter described and recorded in the book designated “county lands acquired for delinquent taxes” on file in the office of the clerk of the circuit court and that have been through the procedures of public notice and public sale to the highest and best bidder and a conveyance issued by any county and the proceeds of the sale received by the county and the conveyance being invalid because the purchaser or one of the purchasers at the public sale and in the deed from the county was the clerk of the circuit court of the county, the board of county commissioners is authorized and empowered to convey the title to the lands to the record fee simple owners or the record grantees or successor grantees of the purchaser from the county and execute a proper conveyance therefor without further public notice or without further consideration.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

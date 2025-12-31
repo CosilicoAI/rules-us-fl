@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.21"/>
+          <FRBRuri value="/us-fl/act/fsa/201.21"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.21/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.21/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.21/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.21/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_21">
+          <num>201.21</num>
+          <heading>Notes and other written obligations exempt under certain conditions.</heading>
+          <content>
+            <p>There shall be exempt from all excise taxes imposed by this chapter all promissory notes, nonnegotiable notes, and other written obligations to pay money bearing date subsequent to July 1, 1955, hereinafter referred to as “principal obligations,” when the maker thereof shall pledge or deposit with the payee or holder thereof pursuant to any agreement commonly known as a wholesale warehouse mortgage agreement, as collateral security for the payment thereof, any collateral obligation or obligations, as hereinafter defined, provided all excise taxes imposed by this chapter upon or in respect to such collateral obligation or obligations shall have been paid. If the indebtedness evidenced by any such principal obligation shall be in excess of the indebtedness evidenced by such collateral obligation or obligations, the exemption provided by this subsection shall not apply to the amount of such excess indebtedness; and, in such event, the excise taxes imposed by this chapter shall apply and be paid only in respect to such excess of indebtedness of such principal obligation. The term “collateral obligation” as used in this subsection means any note, bond, or other written obligation to pay money secured by mortgage, deed of trust, or other lien upon real or personal property. The pledging of a specific collateral obligation to secure a specific principal obligation, if required under the terms of the agreement, shall not invalidate the exemption provided by this subsection. The temporary removal of the document or documents representing one or more collateral obligations for a reasonable commercial purpose, for a period not exceeding 60 days, shall not invalidate the exemption provided by this subsection.</p>
+          </content>
+          <subsection eId="201_21__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There shall be exempt from all excise taxes imposed by this chapter all promissory notes, nonnegotiable notes, and other written obligations to pay money bearing date subsequent to July 1, 1955, hereinafter referred to as “principal obligations,” when the maker thereof shall pledge or deposit with the payee or holder thereof pursuant to any agreement commonly known as a wholesale warehouse mortgage agreement, as collateral security for the payment thereof, any collateral obligation or obligations, as hereinafter defined, provided all excise taxes imposed by this chapter upon or in respect to such collateral obligation or obligations shall have been paid. If the indebtedness evidenced by any such principal obligation shall be in excess of the indebtedness evidenced by such collateral obligation or obligations, the exemption provided by this subsection shall not apply to the amount of such excess indebtedness; and, in such event, the excise taxes imposed by this chapter shall apply and be paid only in respect to such excess of indebtedness of such principal obligation. The term “collateral obligation” as used in this subsection means any note, bond, or other written obligation to pay money secured by mortgage, deed of trust, or other lien upon real or personal property. The pledging of a specific collateral obligation to secure a specific principal obligation, if required under the terms of the agreement, shall not invalidate the exemption provided by this subsection. The temporary removal of the document or documents representing one or more collateral obligations for a reasonable commercial purpose, for a period not exceeding 60 days, shall not invalidate the exemption provided by this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_21__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>There shall be exempt from all excise taxes imposed by this chapter all non-interest-bearing promissory notes, non-interest-bearing nonnegotiable notes, or non-interest-bearing written obligations to pay money, or assignments of salaries, wages, or other compensation made, executed, delivered, sold, transferred, or assigned in the state, and for each renewal of the same, of $3,500 or less, when given by a customer to an alarm system contractor, as defined in s.489.505, in connection with the sale of an alarm system as defined in s.489.505.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

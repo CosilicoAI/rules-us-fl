@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.055"/>
+          <FRBRuri value="/us-fl/act/fsa/213.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.055/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.055/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_055">
+          <num>213.055</num>
+          <heading>Declared emergency; waiver or suspension of specified revenue laws and other requirements.</heading>
+          <content>
+            <p>The Governor and Cabinet may grant refunds of state and local taxes on motor and diesel fuel donated during a state of emergency declared pursuant to s.252.36for official emergency use in cases in which the state solicits the donation. The refunds may be implemented by a vote of the majority of the Governor and Cabinet during a public meeting or by a majority jointly signing a written order.</p>
+          </content>
+          <subsection eId="213_055__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Governor and Cabinet may grant refunds of state and local taxes on motor and diesel fuel donated during a state of emergency declared pursuant to s.252.36for official emergency use in cases in which the state solicits the donation. The refunds may be implemented by a vote of the majority of the Governor and Cabinet during a public meeting or by a majority jointly signing a written order.</p>
+            </content>
+            <paragraph eId="213_055__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The Governor and Cabinet may grant refunds of state and local taxes on motor and diesel fuel donated during a state of emergency declared pursuant to s.252.36for official emergency use in cases in which the state solicits the donation. The refunds may be implemented by a vote of the majority of the Governor and Cabinet during a public meeting or by a majority jointly signing a written order.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_055__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The authorized refunds of state and local taxes on motor and diesel fuel apply to taxes imposed by chapter 206.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_055__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding any other provision of law, the executive director of the Department of Revenue may implement the following actions during a state of emergency declared pursuant to s.252.36for those revenue sources over which the department is granted administrative control pursuant to s.213.05:</p>
+            </content>
+            <paragraph eId="213_055__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Extend the stipulated due date for tax returns and accompanying tax payments; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_055__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Waive interest that accrues during the period of the state of emergency on taxes due prior to and during the period of the disaster.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_055__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As used in this subsection, the term:</p>
+            </content>
+            <paragraph eId="213_055__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_055__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any other law, an out-of-state business that is conducting operations within this state during a disaster-response period solely for purposes of performing emergency-related work or pursuant to a mutual aid agreement is not considered to have established a level of presence that would require that business to register, file, and remit state or local taxes or fees or require that business to be subject to any registration, licensing, or filing requirements in this state. For purposes of any state or local tax on or measured, in whole or in part, by net or gross income or receipts, the activity of the out-of-state business conducted in this state during the disaster-response period must be disregarded with respect to any filing requirements for such tax, including the filing required for a consolidated group of which the out-of- state business may be a part. This includes the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_055__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An out-of-state business or out-of-state employee who remains in this state after the disaster-response period is not entitled to the privileges provided in this subsection for activities performed after the disaster-response period ends and is subject to the state’s normal standards for establishing presence or residency or for doing business in the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.137"/>
+          <FRBRuri value="/us-fl/act/fsa/216.137"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.137/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.137/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.137/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.137/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_137">
+          <num>216.137</num>
+          <heading>Sessions of consensus estimating conferences; workpapers.</heading>
+          <content>
+            <p>SESSIONS.—A session of a consensus estimating conference may be convened as follows:</p>
+          </content>
+          <subsection eId="216_137__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>SESSIONS.—A session of a consensus estimating conference may be convened as follows:</p>
+            </content>
+            <paragraph eId="216_137__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For the Governor.—A session may be convened at the call of the Executive Office of the Governor to develop official information on behalf of the Governor for use in preparing his or her legislative budget recommendations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_137__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For the Legislature.—A session may be convened at the call of a principal who represents the Legislature or his or her designee to develop official information on behalf of the Legislature for use in its budget deliberations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_137__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>To review official information.—After adequate notice, a session may be convened at the call of any principal to review and reconsider any official information of the conference that the principal feels is no longer valid. Any participant in the conference may notify a principal in writing if the participant feels that any official information of the conference is no longer valid. The principal shall review the matter and, if he or she feels that a session of the conference is warranted, convene the conference for the purpose of reviewing and reconsidering such official information.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_137__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>To consider special impacts.—After adequate notice, any principal may call a special impact session of the conference to develop official information which reflects specific changes or proposed changes relating to the area of responsibility of the conference.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_137__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>FINAL SESSIONS.—Following each regular session of the Legislature, each consensus estimating conference shall convene to revise its official information to reflect changes made in the law. The official information developed at this final session of the conference shall be published by the conference and shall constitute the official information of the conference until the adjournment of the next estimating conference. The principal who is responsible for presiding over the conference shall prepare a final report relating to the official information of the conference. The report shall be completed within 2 working days after the final session of the conference adjourns. It is the official information developed at this final session of the conference and at each estimating conference that shall be monitored by the principals.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_137__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>WORKPAPERS.—The principal who is responsible for presiding over the session of a consensus estimating conference, or his or her designee, is responsible for preparing and distributing the necessary workpapers prior to the meetings of the conference. Any principal may cancel a meeting of the conference if such workpapers have not been distributed prior to the meeting. The workpapers shall include comparisons between alternative information when such comparisons are warranted.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

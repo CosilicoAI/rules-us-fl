@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.082"/>
+          <FRBRuri value="/us-fl/act/fsa/196.082"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.082/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.082/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.082/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.082/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_082">
+          <num>196.082</num>
+          <heading>Discounts for disabled veterans; surviving spouse carryover.</heading>
+          <content>
+            <p>Each veteran who is age 65 or older and is partially or totally permanently disabled shall receive a discount from the amount of the ad valorem tax otherwise owed on homestead property that the veteran owns and resides in if:</p>
+          </content>
+          <subsection eId="196_082__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each veteran who is age 65 or older and is partially or totally permanently disabled shall receive a discount from the amount of the ad valorem tax otherwise owed on homestead property that the veteran owns and resides in if:</p>
+            </content>
+            <paragraph eId="196_082__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The disability was combat-related; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_082__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The veteran was honorably discharged upon separation from military service.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_082__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The discount shall be in a percentage equal to the percentage of the veteran’s permanent, service-connected disability as determined by the United States Department of Veterans Affairs.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_082__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the partially or totally and permanently disabled veteran predeceases his or her spouse and if, upon the death of the veteran, the spouse holds the legal or beneficial title to the homestead and permanently resides thereon as specified in s.196.031, the discount from ad valorem tax that the veteran received carries over to the benefit of the veteran’s spouse until such time as he or she remarries or sells or otherwise disposes of the property. If the spouse sells or otherwise disposes of the property, a discount not to exceed the dollar amount granted from the most recent ad valorem tax roll may be transferred to his or her new residence, as long as it is used as his or her primary residence and he or she does not remarry. An applicant who is qualified to receive a discount under this section and who fails to file an application by March 1 may file an application for the discount and may file a petition pursuant to s.194.011(3) with the value adjustment board requesting that the discount be granted. Such application and petition shall be subject to the same procedures as for exemptions set forth in s.196.011(9).</p>
+            </content>
+          </subsection>
+          <subsection eId="196_082__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To qualify for the discount granted under this section, an applicant must submit to the county property appraiser by March 1:</p>
+            </content>
+            <paragraph eId="196_082__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>An official letter from the United States Department of Veterans Affairs which states the percentage of the veteran’s service-connected disability and evidence that reasonably identifies the disability as combat-related;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_082__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A copy of the veteran’s honorable discharge; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_082__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Proof of age as of January 1 of the year to which the discount will apply.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_082__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the property appraiser denies the request for a discount, the appraiser must notify the applicant in writing, stating the reasons for denial, on or before July 1 of the year for which the application was filed. The applicant may reapply for the discount in a subsequent year using the procedure in this section. All notifications must specify the right to appeal to the value adjustment board and the procedures to follow in obtaining such an appeal under s.196.193(5).</p>
+            </content>
+          </subsection>
+          <subsection eId="196_082__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The property appraiser shall apply the discount by reducing the taxable value before certifying the tax roll to the tax collector.</p>
+            </content>
+            <paragraph eId="196_082__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The property appraiser shall first ascertain all other applicable exemptions, including exemptions provided pursuant to local option, and deduct all other exemptions from the assessed value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_082__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The percentage discount portion of the remaining value which is attributable to service-connected disabilities shall be subtracted to yield the discounted taxable value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_082__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The resulting taxable value shall be included in the certification for use by taxing authorities in setting millage.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_082__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The property appraiser shall place the discounted amount on the tax roll when it is extended.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_082__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>An applicant for the discount under this section may apply for the discount before receiving the necessary documentation from the United States Department of Veterans Affairs or its predecessor. Upon receipt of the documentation, the discount shall be granted as of the date of the original application, and the excess taxes paid shall be refunded. Any refund of excess taxes paid shall be limited to those paid during the 4-year period of limitation set forth in s.197.182(1)(e).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

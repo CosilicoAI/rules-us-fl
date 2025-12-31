@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.515"/>
+          <FRBRuri value="/us-fl/act/fsa/215.515"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.515/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.515/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.515/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.515/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_515">
+          <num>215.515</num>
+          <heading>Investment accounts; charges for services.</heading>
+          <content>
+            <p>The State Board of Administration shall make reasonable charges for all investment services performed for any agency, the judicial branch, or any fund in accordance with the provisions of ss.215.44-215.53or other provisions of law. The agency, fund, or judicial branch shall pay the charges, and such sums as may be necessary for this purpose are hereby appropriated from earnings on investments held by such agency, fund, or the judicial branch. The amount to be paid by each agency, fund, or the judicial branch shall be determined in such proportion as the service rendered to each agency, fund, or the judicial branch bears to the total service rendered to all agencies and funds and the judicial branch.</p>
+          </content>
+          <subsection eId="215_515__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The State Board of Administration shall make reasonable charges for all investment services performed for any agency, the judicial branch, or any fund in accordance with the provisions of ss.215.44-215.53or other provisions of law. The agency, fund, or judicial branch shall pay the charges, and such sums as may be necessary for this purpose are hereby appropriated from earnings on investments held by such agency, fund, or the judicial branch. The amount to be paid by each agency, fund, or the judicial branch shall be determined in such proportion as the service rendered to each agency, fund, or the judicial branch bears to the total service rendered to all agencies and funds and the judicial branch.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_515__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The State Board of Administration Administrative Expense Trust Fund may be invested by the board to the extent that such investment is consistent with the cash requirements and investment objectives of the board.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

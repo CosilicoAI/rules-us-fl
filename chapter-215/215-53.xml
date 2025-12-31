@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.53"/>
+          <FRBRuri value="/us-fl/act/fsa/215.53"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.53/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.53/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.53/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.53/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_53">
+          <num>215.53</num>
+          <heading>Powers of existing officers and boards, the judicial branch, and agencies not affected.</heading>
+          <content>
+            <p>It is the intent of the Legislature that transfer of the powers, duties, and responsibilities of existing state agencies or the judicial branch made by ss.215.44-215.53to the board shall include only the particular powers, duties, and responsibilities hereby transferred, and all other existing powers shall in no way be affected by said sections. The powers, duties, and responsibilities conferred by ss.215.44-215.53upon the board are additional and supplemental to the existing powers of the officers composing the said board.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

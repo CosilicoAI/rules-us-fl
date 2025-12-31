@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.69"/>
+          <FRBRuri value="/us-fl/act/fsa/213.69"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.69/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.69/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.69/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.69/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_69">
+          <num>213.69</num>
+          <heading>Authority to issue warrants.</heading>
+          <content>
+            <p>Upon a final determination of unpaid taxes, interest, or penalties due under the revenue laws of this state, the department may issue warrants for those taxes listed in s.213.05or placed under the control of the department by law. Such warrants may direct:</p>
+          </content>
+          <subsection eId="213_69__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The sheriff of any county within the state to levy upon and sell the goods of such person which are found within the sheriff’s jurisdiction for the payment of the amount of the delinquency, plus the penalties, interest, and cost of executing the warrant and conducting the sale, and to return the warrant and the money collected to the department. However, any surplus resulting from the sale after the costs, penalties, and delinquent taxes have been accounted for must be returned to the person in default; or</p>
+            </content>
+          </subsection>
+          <subsection eId="213_69__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A deputy, agent, or employee of the department or of the Department of Law Enforcement, after receiving written designation by the executive director, to execute that warrant in the same manner as a sheriff.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

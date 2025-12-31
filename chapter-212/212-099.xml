@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.099"/>
+          <FRBRuri value="/us-fl/act/fsa/212.099"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.099/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.099/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.099/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.099/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_099">
+          <num>212.099</num>
+          <heading>Credit for contributions to eligible nonprofit scholarship-funding organizations.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="212_099__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="212_099__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Eligible business” means a tenant or person actually occupying, using, or entitled to the use of any property from which the rental or license fee is subject to taxation under1s.212.031.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_099__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Eligible contribution” or “contribution” means a monetary contribution from an eligible business to an eligible nonprofit scholarship-funding organization to be used pursuant to s.1002.395. The eligible business making the contribution may not designate a specific student as the beneficiary of the contribution.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_099__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Eligible nonprofit scholarship-funding organization” or “organization” has the same meaning as provided in s.1002.395(2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_099__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A dealer shall take a credit against the tax imposed under1s.212.031in an amount equal to the credit taken by the eligible business under subsection (2).</p>
+            </content>
+          </subsection>
+          <subsection eId="212_099__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An eligible business must apply to the department for an allocation of tax credits under this section. The eligible business must specify in the application the state fiscal year during which the contribution will be made, the organization that will receive the contribution, the planned amount of the contribution, the address of the property from which the rental or license fee is subject to taxation under1s.212.031, and the federal employer identification number of the dealer who collects the tax imposed under1s.212.031from the eligible business and who will reduce collection of taxes from the eligible business pursuant to this section. The department shall approve allocations of tax credits on a first-come, first-served basis and shall provide to the eligible business a separate approval or denial letter for each dealer for which the eligible business applied for an allocation of tax credits. The department may not approve any allocations of tax credits after July 1, 2025. Within 10 days after approving or denying an application, the department shall provide a copy of its approval or denial letter to the organization specified by the eligible business in the application. An approval letter must include the name and federal employer identification number of the dealer from whom a credit under this section can be taken and the amount of tax credits approved for use with that dealer.</p>
+            </content>
+            <paragraph eId="212_099__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>An eligible business must apply to the department for an allocation of tax credits under this section. The eligible business must specify in the application the state fiscal year during which the contribution will be made, the organization that will receive the contribution, the planned amount of the contribution, the address of the property from which the rental or license fee is subject to taxation under1s.212.031, and the federal employer identification number of the dealer who collects the tax imposed under1s.212.031from the eligible business and who will reduce collection of taxes from the eligible business pursuant to this section. The department shall approve allocations of tax credits on a first-come, first-served basis and shall provide to the eligible business a separate approval or denial letter for each dealer for which the eligible business applied for an allocation of tax credits. The department may not approve any allocations of tax credits after July 1, 2025. Within 10 days after approving or denying an application, the department shall provide a copy of its approval or denial letter to the organization specified by the eligible business in the application. An approval letter must include the name and federal employer identification number of the dealer from whom a credit under this section can be taken and the amount of tax credits approved for use with that dealer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_099__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon receipt of an eligible contribution, the organization shall provide the eligible business that made the contribution with a separate certificate of contribution for each dealer from whom a credit can be taken as approved under paragraph (a). A certificate of contribution must include the contributor’s name and, if available, federal employer identification number, the amount contributed, the date of contribution, the name of the organization, and the name and federal employer identification number of the dealer.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_099__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>An organization shall report to the department, on or before the 20th day of each month, the total amount of contributions received pursuant to subsection (4) in the preceding calendar month on a form provided by the department. Such report shall include the amount of contributions received during that reporting period and the federal employer identification number of each dealer associated with the contribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_099__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Eligible contributions may be used to fund the program established under s.1002.395.</p>
+            </content>
+            <paragraph eId="212_099__subsec_7__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Eligible contributions may be used to fund the program established under s.1002.395.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_099__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The organization shall separately account for each scholarship funded pursuant to this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_099__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The organization may, subject to the limitations of s.1002.395(6)(l)1., use eligible contributions received during the state fiscal year in which such contributions are collected for administrative expenses.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_099__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>For purposes of the distributions of tax revenue under s.212.20, the department shall disregard any tax credits allowed under this section to ensure that any reduction in tax revenue received that is attributable to the tax credits results only in a reduction in distributions to the General Revenue Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_099__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The department may adopt rules to administer this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

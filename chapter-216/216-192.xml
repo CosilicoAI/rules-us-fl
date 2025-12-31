@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.192"/>
+          <FRBRuri value="/us-fl/act/fsa/216.192"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.192/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.192/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.192/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.192/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_192">
+          <num>216.192</num>
+          <heading>Release of appropriations; revision of budgets.</heading>
+          <content>
+            <p>Unless otherwise provided in law, on July 1 of each fiscal year, up to 25 percent of the original approved operating budget of each agency and of the judicial branch may be released until such time as annual plans for quarterly releases for all appropriations have been developed, approved, and furnished to the Chief Financial Officer by the Executive Office of the Governor for state agencies and by the Chief Justice of the Supreme Court for the judicial branch. The plans, including appropriate plans of releases for fixed capital outlay projects that correspond with each project schedule, shall attempt to maximize the use of trust funds and shall be transmitted to the Chief Financial Officer by August 1 of each fiscal year. Such releases shall at no time exceed the total appropriations available to a state agency or to the judicial branch, or the approved budget for such agency or the judicial branch if less. The Chief Financial Officer shall enter such releases in his or her records in accordance with the release plans prescribed by the Executive Office of the Governor and the Chief Justice, unless otherwise amended as provided by law. The Executive Office of the Governor and the Chief Justice shall transmit a copy of the approved annual releases to the head of the state agency, the chair and vice chair of the Legislative Budget Commission, and the Auditor General. The Chief Financial Officer shall authorize all expenditures to be made from the appropriations on the basis of such releases and in accordance with the approved budget, and not otherwise. Expenditures shall be authorized only in accordance with legislative authorizations. Nothing herein precludes periodic reexamination and revision by the Executive Office of the Governor or by the Chief Justice of the annual plans for release of appropriations and the notifications of the parties of all such revisions.</p>
+          </content>
+          <subsection eId="216_192__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Unless otherwise provided in law, on July 1 of each fiscal year, up to 25 percent of the original approved operating budget of each agency and of the judicial branch may be released until such time as annual plans for quarterly releases for all appropriations have been developed, approved, and furnished to the Chief Financial Officer by the Executive Office of the Governor for state agencies and by the Chief Justice of the Supreme Court for the judicial branch. The plans, including appropriate plans of releases for fixed capital outlay projects that correspond with each project schedule, shall attempt to maximize the use of trust funds and shall be transmitted to the Chief Financial Officer by August 1 of each fiscal year. Such releases shall at no time exceed the total appropriations available to a state agency or to the judicial branch, or the approved budget for such agency or the judicial branch if less. The Chief Financial Officer shall enter such releases in his or her records in accordance with the release plans prescribed by the Executive Office of the Governor and the Chief Justice, unless otherwise amended as provided by law. The Executive Office of the Governor and the Chief Justice shall transmit a copy of the approved annual releases to the head of the state agency, the chair and vice chair of the Legislative Budget Commission, and the Auditor General. The Chief Financial Officer shall authorize all expenditures to be made from the appropriations on the basis of such releases and in accordance with the approved budget, and not otherwise. Expenditures shall be authorized only in accordance with legislative authorizations. Nothing herein precludes periodic reexamination and revision by the Executive Office of the Governor or by the Chief Justice of the annual plans for release of appropriations and the notifications of the parties of all such revisions.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_192__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any department under the direct supervision of a member of the Cabinet or of a board consisting of the Governor and members of the Cabinet which contends that the plan for releases of funds appropriated to it is contrary to the approved operating budget shall have the right to have the issue reviewed by the Administration Commission which shall decide such issue by majority vote.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_192__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Executive Office of the Governor shall make releases within the amounts appropriated and as requested for all appropriations to the legislative branch, and the provisions of subsections (1) and (2) shall not apply to the legislative branch.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_192__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The annual plans of releases authorized by this section may be considered by the Revenue Estimating Conference in preparation of the statement of financial outlook.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_192__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In order to implement directives contained in the General Appropriations Act or to prevent deficits pursuant to s.216.221, the Executive Office of the Governor for the executive branch and the Chief Justice for the judicial branch may place appropriations in budget reserve or mandatory reserve.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_192__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>All budget actions taken pursuant to the provisions of this section are subject to the notice and review procedures set forth in s.216.177.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

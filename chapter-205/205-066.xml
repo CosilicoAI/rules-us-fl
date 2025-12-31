@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.066"/>
+          <FRBRuri value="/us-fl/act/fsa/205.066"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.066/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.066/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.066/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.066/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_066">
+          <num>205.066</num>
+          <heading>Exemptions; employees.</heading>
+          <content>
+            <p>An individual who engages in or manages a business, profession, or occupation as an employee of another person is not required to apply for an exemption from a local business tax, pay a local business tax, or obtain a local business tax receipt. An individual acting in the capacity of an independent contractor is not an employee.</p>
+          </content>
+          <subsection eId="205_066__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>An individual who engages in or manages a business, profession, or occupation as an employee of another person is not required to apply for an exemption from a local business tax, pay a local business tax, or obtain a local business tax receipt. An individual acting in the capacity of an independent contractor is not an employee.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_066__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An employee may not be held liable by any local governing authority for the failure of a principal or employer to apply for an exemption from a local business tax, pay a local business tax, or obtain a local business tax receipt. An individual exempt under this section may not be required by any local governing authority to apply for an exemption from a local business tax, otherwise prove his or her exempt status, or pay any tax or fee related to a local business tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_066__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A principal or employer who is required to obtain a local business tax receipt may not be required by a local governing authority to provide personal or contact information for individuals exempt under this section in order to obtain a local business tax receipt.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_066__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The exemption provided in this section does not apply to a business tax imposed on individual employees by a municipality or county pursuant to a resolution or ordinance adopted before October 13, 2010. Municipalities or counties that, before October 13, 2010, had a classification system that was in compliance with the requirements of this chapter and that actually resulted in individual employees paying a business tax may continue to impose such a tax in that manner.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

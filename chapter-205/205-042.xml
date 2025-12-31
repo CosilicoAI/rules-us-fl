@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.042"/>
+          <FRBRuri value="/us-fl/act/fsa/205.042"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.042/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.042/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.042/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.042/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_042">
+          <num>205.042</num>
+          <heading>Levy; municipalities.</heading>
+          <content>
+            <p>The governing body of an incorporated municipality may levy, by appropriate resolution or ordinance, a business tax for the privilege of engaging in or managing any business, profession, or occupation within its jurisdiction. However, the governing body must first give at least 14 days’ public notice between the first and last reading of the resolution or ordinance by publishing the notice in a newspaper of general circulation within its jurisdiction as defined by law. The notice must contain the proposed classifications and rates applicable to the business tax. The business tax may be levied on:</p>
+          </content>
+          <subsection eId="205_042__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any person who maintains a permanent business location or branch office within the municipality, for the privilege of engaging in or managing any business within its jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_042__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who maintains a permanent business location or branch office within the municipality, for the privilege of engaging in or managing any profession or occupation within its jurisdiction.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_042__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person who does not qualify under subsection (1) or subsection (2) and who transacts any business or engages in any occupation or profession in interstate commerce, if the business tax is not prohibited by s. 8, Art. I of the United States Constitution.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

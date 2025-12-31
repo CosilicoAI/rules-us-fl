@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.381"/>
+          <FRBRuri value="/us-fl/act/fsa/202.381"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.381/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.381/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.381/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.381/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_381">
+          <num>202.381</num>
+          <heading>Transition from previous taxes.</heading>
+          <content>
+            <p>The department is directed to implement the tax changes contained in this act, and in chapter 2000-260, Laws of Florida, in a manner that ensures that any request or action under existing statutes and rules, including, but not limited to, a claim for a credit or refund of an overpayment of tax, audits in progress, and protests of tax, penalty, or interest initiated before October 1, 2001, shall apply, to the fullest extent possible, to any tax that replaces an existing tax that is repealed effective October 1, 2001. It is the intent of the Legislature that a person not be subject to an adverse administrative action solely due to the tax changes that take effect October 1, 2001.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

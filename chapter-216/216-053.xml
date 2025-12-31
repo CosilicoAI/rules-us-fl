@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.053"/>
+          <FRBRuri value="/us-fl/act/fsa/216.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.053/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.053/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_053">
+          <num>216.053</num>
+          <heading>Summary information in the General Appropriations Act; construction of such information.</heading>
+          <content>
+            <p>For informational purposes only, the General Appropriations Act shall contain summary information that covers specific appropriations and summarizes program areas.</p>
+          </content>
+          <subsection eId="216_053__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For informational purposes only, the General Appropriations Act shall contain summary information that covers specific appropriations and summarizes program areas.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_053__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The purpose of the summary information is to help the public understand those budgetary decisions made by the Legislature and contained in the General Appropriations Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_053__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Summary information does not operate to further change, earmark, or restrict specific appropriations made in the General Appropriations Act, does not constitute specific appropriations, and is not subject to the Governor’s line-item veto.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_053__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In drafting the General Appropriations Act, the Legislature shall ensure that all specific appropriations are displayed so as not to impede the Governor’s authority under the State Constitution to line-item veto specific appropriations.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

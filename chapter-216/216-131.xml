@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.131"/>
+          <FRBRuri value="/us-fl/act/fsa/216.131"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.131/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.131/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.131/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.131/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_131">
+          <num>216.131</num>
+          <heading>Public hearings on legislative budgets.</heading>
+          <content>
+            <p>The Governor and the Chief Justice of the Supreme Court shall each provide for at least one public hearing prior to submission of budget recommendations to the Legislature on issues contained in agency legislative budget requests or in the judicial branch budget request and issues that may be included in budget recommendations to the Legislature, which hearing shall be held at such time as the Governor or the Chief Justice may fix. The Governor may require the attendance or participation, or both, at his or her hearings of the heads or responsible representatives of all state agencies supported by any form of taxation or licenses, fees, imposts, or exactions. The Governor and the Chief Justice may provide these hearings simultaneously via electronic format, such as teleconference, Internet, etc., provided that a means for active participation and questions by the audience is accommodated.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

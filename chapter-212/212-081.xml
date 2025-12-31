@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.081"/>
+          <FRBRuri value="/us-fl/act/fsa/212.081"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.081/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.081/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.081/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.081/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_081">
+          <num>212.081</num>
+          <heading>Legislative intent.</heading>
+          <content>
+            <p>It is hereby declared to be the legislative intent of the amendments to ss.212.11(1),1212.12(10), and 212.20 by chapter 57-398, Laws of Florida:</p>
+          </content>
+          <subsection eId="212_081__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To aid in the enforcement of this chapter by recognizing the effect of court rulings involving such enforcement and to incorporate herein substantial rulings of the department which have been recognized as necessary to supplement the interpretation of some of the terms used in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_081__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To arrange the exemptions allowed in this section in more orderly categories thereby eliminating some of the confusion attendant upon the present arrangement where cross-exemptions frequently occur.</p>
+            </content>
+            <paragraph eId="212_081__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>It is further declared to be the legislative intent that the tax levied by this chapter and imposed by this section is not a tax on motor vehicles as property but a tax on the privilege to sell, to rent, to use or to store for use in this state motor vehicles; that such tax is separate from and in addition to any license tax imposed on motor vehicles; and that such tax is not intended as an ad valorem tax on motor vehicles as prohibited by the Constitution.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_081__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>It is also the legislative intent that there shall be no pyramiding or duplication of excise taxes levied by the state under this chapter and no municipality shall levy any excise tax upon any privilege, admission, lease, rental, sale, use or storage for use or consumption which is subject to a tax under this chapter unless permitted by general law; provided, however, that this provision shall not impair valid municipal ordinances which are in effect and under which a municipal tax is being levied and collected on July 1, 1957.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_081__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>It is hereby declared to be the legislative intent that all purchases made by banks are subject to state sales tax in the same manner as is provided by law for all other purchasers. It is further declared to be the legislative intent that if for any reason the sales tax on federal banks is declared invalid, that sales tax shall not apply or be applicable to purchases made by state banks.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

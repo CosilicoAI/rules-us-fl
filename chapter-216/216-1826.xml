@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.1826"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1826"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.1826/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1826/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.1826/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1826/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_1826">
+          <num>216.1826</num>
+          <heading>Activity-based planning and budgeting.</heading>
+          <content>
+            <p>Agencies are directed to work in consultation with the Executive Office of the Governor and the appropriations and appropriate substantive committees of the Legislature, and the Chief Justice of the Supreme Court is directed to work with the appropriations and appropriate substantive committees of the Legislature, to identify and reach consensus on the appropriate services and activities for activity-based budgeting. It is the intent of the Legislature that all dollars within an agency or the judicial branch be allocated to the appropriate activity for budgeting purposes. Additionally, agencies or the judicial branch shall examine approved performance measures and recommend any changes so that outcomes are clearly delineated for each service or program, as appropriate, and outputs are aligned with activities. Output measures should be capable of being used to generate a unit cost for each activity resulting in a true accounting of what the state should spend on each activity it provides and what the state should expect to accomplish with those funds.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

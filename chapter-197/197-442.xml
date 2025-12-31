@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.442"/>
+          <FRBRuri value="/us-fl/act/fsa/197.442"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.442/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.442/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.442/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.442/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_442">
+          <num>197.442</num>
+          <heading>Tax collector not to sell certificates on land on which taxes have been paid; penalty.</heading>
+          <content>
+            <p>If a tax collector sells tax certificates on land upon which the taxes have been paid, upon written demand by the aggrieved taxpayer alleging the circumstances, the tax collector shall initiate action to cancel any improperly issued tax certificate or deed in accordance with the provisions of s.197.443. If the tax collector fails to act within a reasonable time, his or her office shall be liable for all legitimate expenses which the aggrieved taxpayer may spend in clearing his or her title, including a reasonable attorney’s fee.</p>
+          </content>
+          <subsection eId="197_442__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a tax collector sells tax certificates on land upon which the taxes have been paid, upon written demand by the aggrieved taxpayer alleging the circumstances, the tax collector shall initiate action to cancel any improperly issued tax certificate or deed in accordance with the provisions of s.197.443. If the tax collector fails to act within a reasonable time, his or her office shall be liable for all legitimate expenses which the aggrieved taxpayer may spend in clearing his or her title, including a reasonable attorney’s fee.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_442__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The office of the tax collector shall be responsible for costs of advertising property on which the taxes have been paid, and the office of the property appraiser shall be responsible for the costs of advertising property doubly assessed or assessed in error.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

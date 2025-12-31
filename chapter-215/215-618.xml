@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.618"/>
+          <FRBRuri value="/us-fl/act/fsa/215.618"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.618/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.618/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.618/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.618/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_618">
+          <num>215.618</num>
+          <heading>Bonds for acquisition and improvement of land, water areas, and related property interests and resources.</heading>
+          <content>
+            <p>The issuance of Florida Forever bonds, not to exceed $5.3 billion, to finance or refinance the cost of acquisition and improvement of land, water areas, and related property interests and resources, in urban and rural settings, for the purposes of restoration, conservation, recreation, water resource development, or historical preservation, and for capital improvements to lands and water areas that accomplish environmental restoration, enhance public access and recreational enjoyment, promote long-term management goals, and facilitate water resource development is hereby authorized, subject to s.259.105and pursuant to s. 11(e), Art. VII of the State Constitution and, on or after July 1, 2015, to also finance or refinance the acquisition and improvement of land, water areas, and related property interests as provided in s. 28, Art. X of the State Constitution. The $5.3 billion limitation on the issuance of Florida Forever bonds does not apply to refunding bonds. The duration of each series of Florida Forever bonds issued may not exceed 20 annual maturities. Not more than 58.25 percent of documentary stamp taxes collected may be taken into account for the purpose of satisfying an additional bonds test set forth in any authorizing resolution for bonds issued on or after July 1, 2015.</p>
+          </content>
+          <subsection eId="215_618__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The issuance of Florida Forever bonds, not to exceed $5.3 billion, to finance or refinance the cost of acquisition and improvement of land, water areas, and related property interests and resources, in urban and rural settings, for the purposes of restoration, conservation, recreation, water resource development, or historical preservation, and for capital improvements to lands and water areas that accomplish environmental restoration, enhance public access and recreational enjoyment, promote long-term management goals, and facilitate water resource development is hereby authorized, subject to s.259.105and pursuant to s. 11(e), Art. VII of the State Constitution and, on or after July 1, 2015, to also finance or refinance the acquisition and improvement of land, water areas, and related property interests as provided in s. 28, Art. X of the State Constitution. The $5.3 billion limitation on the issuance of Florida Forever bonds does not apply to refunding bonds. The duration of each series of Florida Forever bonds issued may not exceed 20 annual maturities. Not more than 58.25 percent of documentary stamp taxes collected may be taken into account for the purpose of satisfying an additional bonds test set forth in any authorizing resolution for bonds issued on or after July 1, 2015.</p>
+            </content>
+            <paragraph eId="215_618__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The issuance of Florida Forever bonds, not to exceed $5.3 billion, to finance or refinance the cost of acquisition and improvement of land, water areas, and related property interests and resources, in urban and rural settings, for the purposes of restoration, conservation, recreation, water resource development, or historical preservation, and for capital improvements to lands and water areas that accomplish environmental restoration, enhance public access and recreational enjoyment, promote long-term management goals, and facilitate water resource development is hereby authorized, subject to s.259.105and pursuant to s. 11(e), Art. VII of the State Constitution and, on or after July 1, 2015, to also finance or refinance the acquisition and improvement of land, water areas, and related property interests as provided in s. 28, Art. X of the State Constitution. The $5.3 billion limitation on the issuance of Florida Forever bonds does not apply to refunding bonds. The duration of each series of Florida Forever bonds issued may not exceed 20 annual maturities. Not more than 58.25 percent of documentary stamp taxes collected may be taken into account for the purpose of satisfying an additional bonds test set forth in any authorizing resolution for bonds issued on or after July 1, 2015.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_618__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Beginning July 1, 2010, the Legislature shall analyze the state’s debt ratio in relation to projected revenues prior to the authorization of any bonds for land acquisition.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_618__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The state covenants with the holders of Florida Forever bonds that it will not take any action which will materially and adversely affect the rights of such holders so long as such bonds are outstanding, including, but not limited to, a reduction in the portion of documentary stamp taxes distributable to the Land Acquisition Trust Fund for payment of debt service on Florida Forever bonds.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_618__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Bonds issued pursuant to this section are payable from taxes distributable to the Land Acquisition Trust Fund pursuant to s.201.15. Bonds issued pursuant to this section do not constitute a general obligation of, or a pledge of the full faith and credit of, the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_618__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Department of Environmental Protection shall request the Division of Bond Finance of the State Board of Administration to issue the Florida Forever bonds authorized by this section. The Division of Bond Finance shall issue such bonds pursuant to the State Bond Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_618__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The proceeds from the sale of bonds issued pursuant to this section, less the costs of issuance, the costs of funding reserve accounts, and other costs with respect to the bonds, shall be deposited into the Florida Forever Trust Fund. The bond proceeds deposited into the Florida Forever Trust Fund shall be distributed by the Department of Environmental Protection as provided in s.259.105. This subsection does not apply to proceeds from the sale of bonds issued for the purposes of s.373.4598.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_618__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>There shall be no sale, disposition, lease, easement, license, or other use of any land, water areas, or related property interests acquired or improved with proceeds of Florida Forever bonds which would cause all or any portion of the interest of such bonds to lose the exclusion from gross income for federal income tax purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_618__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The initial series of Florida Forever bonds shall be validated in addition to any other bonds required to be validated pursuant to s.215.82. Any complaint for validation of bonds issued pursuant to this section shall be filed only in the circuit court of the county where the seat of state government is situated, the notice required to be published by s.75.06shall be published only in the county where the complaint is filed, and the complaint and order of the circuit court shall be served only on the state attorney of the circuit in which the action is pending.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.163"/>
+          <FRBRuri value="/us-fl/act/fsa/216.163"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.163/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.163/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.163/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.163/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_163">
+          <num>216.163</num>
+          <heading>Governor’s recommended budget; form and content; declaration of collective bargaining impasses.</heading>
+          <content>
+            <p>The Governor’s recommended budget shall be referenced to the legislative budget requests prescribed in ss.216.023and216.043and shall be consistent with the format of the current fiscal year General Appropriations Act.</p>
+          </content>
+          <subsection eId="216_163__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Governor’s recommended budget shall be referenced to the legislative budget requests prescribed in ss.216.023and216.043and shall be consistent with the format of the current fiscal year General Appropriations Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_163__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Governor’s recommended budget shall also include:</p>
+            </content>
+            <paragraph eId="216_163__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Governor’s recommendations for operating each state agency, and those of the Chief Justice of the Supreme Court for operating the judicial branch, for the next fiscal year. These recommendations shall be displayed by appropriation category within each budget entity and shall also include the legislative budget request of the corresponding agency. In order to present a balanced budget as required by s.216.162, the Governor’s recommendations for operating appropriations may include an alternative recommendation to that of the Chief Justice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_163__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Governor’s recommendations and those of the Chief Justice for fixed capital outlay appropriations for the next fiscal year. These recommendations shall be displayed by budget entity and shall also include the legislative budget request of the corresponding agency. In order to present a balanced budget as required by s.216.162, the Governor’s recommendations for fixed capital outlay appropriations may include an alternative recommendation to that of the Chief Justice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_163__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The evaluation of the fixed capital outlay request of each agency and the judicial branch and alternatives to the proposed projects as made by the Department of Management Services pursuant to s.216.044.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_163__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A summary statement of the amount of appropriations requested by each state agency and as recommended by the Governor and by the judicial branch.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_163__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A distinct listing of all nonrecurring appropriations recommended by the Governor or the Chief Justice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_163__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Any additional information which the Governor or Chief Justice feels is needed to justify his or her recommendations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_163__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Governor shall provide to the Legislature a performance-based program budget. Information submitted to the Legislature shall be provided in a fashion that will allow comparison of the requested information with the agency request and legislative appropriation by the automated legislative appropriation planning and budgeting system.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_163__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Executive Office of the Governor shall review the findings of the Office of Program Policy Analysis and Government Accountability, to the extent they are available, request any reports or additional analyses as necessary, and submit a recommendation for executive agencies, which may include a recommendation regarding incentives or disincentives for agency performance. Incentives or disincentives may apply to all or part of a state agency. The Chief Justice shall review the findings of the Office of Program Policy Analysis and Government Accountability regarding judicial branch performance and make appropriate recommendations for the judicial branch.</p>
+            </content>
+            <paragraph eId="216_163__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Incentives may include, but are not limited to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_163__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Disincentives may include, but are not limited to:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_163__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>At the same time that the Governor furnishes each senator and representative with a copy of his or her recommended balanced budget under s.216.162(1), the Executive Office of the Governor shall electronically transmit to the legislative appropriations committees the Governor’s recommended budget, the Exhibit B, Major Issues, and D-3a’s.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_163__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>At the time the Governor is required to furnish copies of his or her recommended budget to each senator and representative under s.216.162(1), the Governor shall declare an impasse in all collective bargaining negotiations for which he or she is deemed to be the public employer and for which a collective bargaining agreement has not been executed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

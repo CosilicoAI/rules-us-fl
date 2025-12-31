@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.559"/>
+          <FRBRuri value="/us-fl/act/fsa/215.559"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.559/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.559/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.559/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.559/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_559">
+          <num>215.559</num>
+          <heading>Hurricane Loss Mitigation Program.</heading>
+          <content>
+            <p>A Hurricane Loss Mitigation Program is established in the Division of Emergency Management.</p>
+          </content>
+          <subsection eId="215_559__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Legislature shall annually appropriate $10 million of the moneys authorized for appropriation under s.215.555(7)(c) from the Florida Hurricane Catastrophe Fund to the division for the purposes set forth in this section. Of the amount:</p>
+            </content>
+            <paragraph eId="215_559__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Seven million dollars in funds shall be used for programs to improve the wind resistance of residences and mobile homes, including loans, subsidies, grants, demonstration projects, and direct assistance; educating persons concerning the Florida Building Code cooperative programs with local governments and the Federal Government; and other efforts to prevent or reduce losses or reduce the cost of rebuilding after a disaster.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_559__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Three million dollars in funds shall be used to construct or retrofit facilities used as public hurricane shelters. Each year the division shall prioritize the use of these funds for projects included in the annual report prepared in accordance with s.252.385(3). The division shall give funding priority to projects located in counties that have shelter deficits; projects that are publicly owned, other than schools; and projects that maximize the use of state funds.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_559__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Forty percent of the total appropriation in paragraph (1)(a) shall be used to inspect and improve tie-downs for mobile homes.</p>
+            </content>
+            <paragraph eId="215_559__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Forty percent of the total appropriation in paragraph (1)(a) shall be used to inspect and improve tie-downs for mobile homes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_559__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Manufactured Housing and Mobile Home Mitigation and Enhancement Program is established. The program shall require the mitigation of damage to or the enhancement of homes for the areas of concern raised by the Department of Highway Safety and Motor Vehicles in the 2004-2005 Hurricane Reports on the effects of the 2004 and 2005 hurricanes on manufactured and mobile homes in this state. The mitigation or enhancement must include, but need not be limited to, problems associated with weakened trusses, studs, and other structural components caused by wood rot or termite damage; site-built additions; or tie-down systems and may also address any other issues deemed appropriate by the Gulf Coast State College, the Federation of Manufactured Home Owners of Florida, Inc., the Florida Manufactured Housing Association, and the Department of Highway Safety and Motor Vehicles. The program shall include an education and outreach component to ensure that owners of manufactured and mobile homes are aware of the benefits of participation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_559__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Of moneys provided to the division in paragraph (1)(a), 10 percent shall be allocated to the Florida International University center dedicated to hurricane research. The center shall develop a preliminary work plan approved by the advisory council set forth in subsection (4) to eliminate the state and local barriers to upgrading existing mobile homes and communities, research and develop a program for the recycling of existing older mobile homes, and support programs of research and development relating to hurricane loss reduction devices and techniques for site-built residences. The State University System also shall consult with the division and assist the division with the report required under subsection (6).</p>
+            </content>
+          </subsection>
+          <subsection eId="215_559__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except for the programs set forth in subsection (3), the division shall develop the programs set forth in this section in consultation with an advisory council consisting of a representative designated by the Chief Financial Officer, a representative designated by the Florida Home Builders Association, a representative designated by the Florida Insurance Council, a representative designated by the Federation of Manufactured Home Owners, a representative designated by the Florida Association of Counties, a representative designated by the Florida Manufactured Housing Association, and a representative designated by the Florida Building Commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_559__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Moneys provided to the division under this section are intended to supplement, not supplant, the division’s other funding sources.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_559__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>On January 1st of each year, the division shall provide a full report and accounting of activities under this section and an evaluation of such activities to the Speaker of the House of Representatives, the President of the Senate, and the Majority and Minority Leaders of the House of Representatives and the Senate. Upon completion of the report, the division shall deliver the report to the Office of Insurance Regulation. The Office of Insurance Regulation shall review the report and shall make such recommendations available to the insurance industry as the Office of Insurance Regulation deems appropriate. These recommendations may be used by insurers for potential discounts or rebates pursuant to s.627.0629. The Office of Insurance Regulation shall make such recommendations within 1 year after receiving the report.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_559__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>This section is repealed June 30, 2032.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

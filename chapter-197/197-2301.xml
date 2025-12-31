@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.2301"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2301"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.2301/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2301/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.2301/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2301/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_2301">
+          <num>197.2301</num>
+          <heading>Payment of taxes prior to certified roll procedure.</heading>
+          <content>
+            <p>It is the legislative intent to provide a method for voluntary payment of ad valorem taxes when the tax roll cannot be certified for collection of taxes in time to allow payment prior to January 1 of the current tax year. It is the legislative intent that all taxpayers shall be afforded the opportunity to pay estimated taxes pursuant to this section.</p>
+          </content>
+          <subsection eId="197_2301__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is the legislative intent to provide a method for voluntary payment of ad valorem taxes when the tax roll cannot be certified for collection of taxes in time to allow payment prior to January 1 of the current tax year. It is the legislative intent that all taxpayers shall be afforded the opportunity to pay estimated taxes pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When it appears that it will be impossible for the property appraiser to certify the tax roll for collection in time sufficient to allow payment of current taxes prior to January 1, the property appraiser shall certify such circumstances in writing to the tax collector on or before December 1 and shall provide to the collector a true copy of the preceding year’s tax roll as certified for collection and a statement of current year’s millages from taxing authorities which have so certified. The property appraiser’s certification shall constitute authority for the collector to receive payments of estimated taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Immediately upon receipt of the property appraiser’s certification under subsection (2), the tax collector shall publish a notice in a newspaper of general circulation in the county that the tax roll will not be certified for collection before January 1 and that payments of estimated taxes may be made by taxpayers who submit payment to the collector on or before December 31.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax collector shall accept payment of estimated current taxes based upon an amount equal to the taxes levied against the parcel in the previous year or an amount the tax collector deems to be a more accurate representation of the taxpayer’s current tax liability.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>When estimated taxes are paid, the collector shall issue a validated temporary tax notice-receipt. Estimated taxes collected pursuant to this section shall be accounted for, deposited, and distributed as provided generally for ad valorem taxes. However, no distribution shall be made of estimated taxes collected until receipt of a tax roll properly certified for collection, except upon request for an emergency distribution made by the governing body of a taxing authority, certifying a lack of funds for current operations.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Discounts shall not be allowed on payments of estimated taxes, but shall be allowed on the amount of total taxes levied, determined at the time the tax roll has been certified for collection and final tax notice-receipts are issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Interest earned on payments of estimated taxes prior to certification of the tax roll for collection shall be retained by the tax collector’s office and disbursed as follows:</p>
+            </content>
+            <paragraph eId="197_2301__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>First, to pay the expenses of the tax collector’s office in administering and accounting for payments of estimated taxes;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2301__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Second, any excess remaining shall be distributed pro rata to the taxing authorities in the proportion that each authority’s tax levy for the prior tax year bears to the total ad valorem tax levy for the prior tax year; however, a taxing authority which has requested and received an emergency distribution of estimated taxes shall not receive this distribution.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_2301__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Upon receipt of the tax roll certified for collection, the tax collector shall prepare a tax notice-receipt for each taxpayer who has made payment of estimated taxes, showing the amount of estimated taxes paid and the taxes remaining unpaid or any overpayment. Each such tax notice-receipt shall show the periods in which discounts are authorized, the amount of discount, and the discount applied to the estimated taxes with the appropriate remainder due.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>After the discount has been applied to the estimated taxes paid and it is determined that an underpayment or overpayment occurred:</p>
+            </content>
+            <paragraph eId="197_2301__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the amount of underpayment is $10 or less, no additional billing is required except as determined by the tax collector.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2301__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the amount of overpayment is more than $10, the tax collector shall immediately refund to the person who paid the estimated tax the amount of overpayment. Department approval is not required for the refund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_2301__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Any remaining unpaid taxes which become delinquent after notice by the tax collector shall be collected as are other delinquent taxes pursuant to this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2301__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Payment of estimated taxes shall not preclude the right of the taxpayer to challenge his or her assessment as provided in chapter 194.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

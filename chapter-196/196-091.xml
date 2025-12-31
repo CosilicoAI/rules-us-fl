@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.091"/>
+          <FRBRuri value="/us-fl/act/fsa/196.091"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.091/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.091/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.091/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.091/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_091">
+          <num>196.091</num>
+          <heading>Exemption for disabled veterans confined to wheelchairs.</heading>
+          <content>
+            <p>Any real estate used and owned as a homestead by an ex-servicemember who has been honorably discharged with a service-connected total disability and who has a certificate from the United States Government or United States Department of Veterans Affairs or its predecessor, or its successors, certifying that the ex-servicemember is receiving or has received special pecuniary assistance due to disability requiring specially adapted housing and required to use a wheelchair for his or her transportation is exempt from taxation.</p>
+          </content>
+          <subsection eId="196_091__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any real estate used and owned as a homestead by an ex-servicemember who has been honorably discharged with a service-connected total disability and who has a certificate from the United States Government or United States Department of Veterans Affairs or its predecessor, or its successors, certifying that the ex-servicemember is receiving or has received special pecuniary assistance due to disability requiring specially adapted housing and required to use a wheelchair for his or her transportation is exempt from taxation.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_091__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The production by an ex-servicemember of a certificate of disability from the United States Government or the United States Department of Veterans Affairs or its predecessor before the property appraiser of the county wherein his or her property lies is prima facie evidence of the fact that he or she is entitled to such exemptions.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_091__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In the event the homestead of the wheelchair veteran was or is held with the veteran’s spouse as an estate by the entirety, and in the event the veteran did or shall predecease his or her spouse, the exemption from taxation shall carry over to the benefit of the veteran’s spouse, provided the spouse continues to reside on such real estate and uses it as his or her domicile or until such time as he or she remarries or sells or otherwise disposes of the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_091__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>An applicant for the exemption under this section may apply for the exemption before receiving the necessary documentation from the United States Government or the United States Department of Veterans Affairs or its predecessor. Upon receipt of the documentation, the exemption shall be granted as of the date of the original application, and the excess taxes paid shall be refunded. Any refund of excess taxes paid shall be limited to those paid during the 4-year period of limitation set forth in s.197.182(1)(e).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

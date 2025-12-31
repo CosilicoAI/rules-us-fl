@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.222"/>
+          <FRBRuri value="/us-fl/act/fsa/216.222"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.222/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.222/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.222/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.222/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_222">
+          <num>216.222</num>
+          <heading>Budget Stabilization Fund; criteria for withdrawing moneys.</heading>
+          <content>
+            <p>Moneys in the Budget Stabilization Fund may be transferred to the General Revenue Fund for:</p>
+          </content>
+          <subsection eId="216_222__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Moneys in the Budget Stabilization Fund may be transferred to the General Revenue Fund for:</p>
+            </content>
+            <paragraph eId="216_222__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Offsetting a deficit in the General Revenue Fund. A deficit is deemed to occur when the official estimate of funds available in the General Revenue Fund for a fiscal year falls below the total amount appropriated from the General Revenue Fund for that fiscal year. Such a transfer must be made pursuant to s.216.221, or pursuant to an appropriation by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_222__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Providing funding for an emergency as defined in s.252.34. The emergency must have been declared by the Governor pursuant to s.252.36or declared by law. Such a transfer must be made pursuant to s.252.37, subject to the conditions in that section, or pursuant to an appropriation by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_222__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Providing temporary transfers to the General Revenue Fund pursuant to s.215.18.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_222__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Moneys in the Budget Stabilization Fund may be transferred to the State Risk Management Trust Fund to provide funding for an emergency. For purposes of this subsection, an emergency exists when uninsured losses to state property exceed $2 million per occurrence or $5 million annual aggregate, as this constitutes an unanticipated financial need that the Legislature has found must be funded to serve an essential state responsibility.</p>
+            </content>
+            <paragraph eId="216_222__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Moneys in the Budget Stabilization Fund may be transferred to the State Risk Management Trust Fund to provide funding for an emergency. For purposes of this subsection, an emergency exists when uninsured losses to state property exceed $2 million per occurrence or $5 million annual aggregate, as this constitutes an unanticipated financial need that the Legislature has found must be funded to serve an essential state responsibility.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_222__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At such time that the Division of Risk Management certifies that uninsured property losses exceed $2 million per occurrence or $5 million annual aggregate, the division shall request a budget amendment through the procedures set out in s.216.181. Transfers into the State Risk Management Trust Fund pursuant to this paragraph may not exceed $38 million in any fiscal year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

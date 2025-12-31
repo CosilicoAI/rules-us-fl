@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.22"/>
+          <FRBRuri value="/us-fl/act/fsa/215.22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.22/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.22/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_22">
+          <num>215.22</num>
+          <heading>Certain income and certain trust funds exempt.</heading>
+          <content>
+            <p>The following income of a revenue nature or the following trust funds shall be exempt from the appropriation required by s.215.20(1):</p>
+          </content>
+          <subsection eId="215_22__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following income of a revenue nature or the following trust funds shall be exempt from the appropriation required by s.215.20(1):</p>
+            </content>
+            <paragraph eId="215_22__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Student financial aid or prepaid tuition receipts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Trust funds administered by the Department of the Lottery.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Departmental administrative assessments for administrative divisions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Funds charged by a state agency for services provided to another state agency, by a state agency for services provided to the judicial branch, or by the judicial branch for services provided to a state agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>State, agency, or political subdivision investments by the Chief Financial Officer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Retirement or employee benefit funds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Self-insurance programs administered by the Chief Financial Officer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Medicaid, Medicare, or third-party receipts for client custodial care.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Trust funds administered by the Department of Education.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Trust funds administered by the Department of Transportation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>The following trust funds administered by the Department of Agriculture and Consumer Services:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>The Motor Vehicle License Clearing Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>The Solid Waste Management Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_o">
+              <num>(o)</num>
+              <content>
+                <p>The Communications Working Capital Trust Fund of the Department of Management Services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_p">
+              <num>(p)</num>
+              <content>
+                <p>The Camp Blanding Management Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_q">
+              <num>(q)</num>
+              <content>
+                <p>That portion of the Highway Safety Operating Trust Fund funded by the motorcycle safety education fee collected pursuant to s.320.08(1)(c).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_r">
+              <num>(r)</num>
+              <content>
+                <p>Tobacco Settlement Trust Funds administered by any agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_s">
+              <num>(s)</num>
+              <content>
+                <p>The Save Our Everglades Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_t">
+              <num>(t)</num>
+              <content>
+                <p>Voluntary contributions collected pursuant to s.464.0195(3).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_u">
+              <num>(u)</num>
+              <content>
+                <p>Taxes imposed on slot machine revenues pursuant to s.551.106(2).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_22__subsec_1__para_v">
+              <num>(v)</num>
+              <content>
+                <p>That portion of the fines to be disbursed to the Florida Network of Children’s Advocacy Centers, Inc., collected pursuant to s.938.10.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_22__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Moneys and income of a revenue nature shared with political subdivisions or received from taxes or fees authorized to be levied by any political subdivision, including moneys from service charges, fees, costs, and fines deposited into the Clerks of the Court Trust Fund within the Department of Revenue, shall be exempt from the deduction required by s.215.20(1).</p>
+            </content>
+          </subsection>
+          <subsection eId="215_22__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In addition to the exemptions enumerated in subsections (1) and (2), the Executive Office of the Governor is authorized to exempt any income when, by the operation of this law and pursuant to s.215.24, federal matching funds or contributions or private grants to any trust fund would be lost to the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_22__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding the exemptions granted in subsections (1), (2), and (3), this section shall not exempt income of a revenue nature or any trust fund which was subject to the service charge pursuant to s.215.20on January 1, 1990.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

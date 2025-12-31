@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1979"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1979"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1979/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1979/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1979/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1979/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1979">
+          <num>196.1979</num>
+          <heading>County and municipal affordable housing property exemption.</heading>
+          <content>
+            <p>Notwithstanding ss.196.195and196.196, the board of county commissioners of a county or the governing body of a municipality may adopt an ordinance to exempt those portions of property used to provide affordable housing meeting the requirements of this section. Such property is considered property used for a charitable purpose. To be eligible for the exemption, the portions of property:</p>
+          </content>
+          <subsection eId="196_1979__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding ss.196.195and196.196, the board of county commissioners of a county or the governing body of a municipality may adopt an ordinance to exempt those portions of property used to provide affordable housing meeting the requirements of this section. Such property is considered property used for a charitable purpose. To be eligible for the exemption, the portions of property:</p>
+            </content>
+            <paragraph eId="196_1979__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Notwithstanding ss.196.195and196.196, the board of county commissioners of a county or the governing body of a municipality may adopt an ordinance to exempt those portions of property used to provide affordable housing meeting the requirements of this section. Such property is considered property used for a charitable purpose. To be eligible for the exemption, the portions of property:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Qualified property may receive an ad valorem property tax exemption of:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The board of county commissioners of the county or the governing body of the municipality, as applicable, may choose to adopt an ordinance that exempts property used to provide affordable housing for natural persons or families meeting the income limits of sub-subparagraph (a)1.a., natural persons or families meeting the income limits of sub-subparagraph (a)1.b., or both.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_1979__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a residential unit that in the previous year received the exemption under this section and was occupied by a tenant is vacant on January 1, the vacant unit may qualify for the exemption under this section if the use of the unit is restricted to providing affordable housing that would otherwise meet the requirements of this section and a reasonable effort is made to lease the unit to eligible persons or families.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1979__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An ordinance granting the exemption authorized by this section must:</p>
+            </content>
+            <paragraph eId="196_1979__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Be adopted under the procedures for adoption of a nonemergency ordinance by a board of county commissioners specified in chapter 125 or by a municipal governing body specified in chapter 166.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Designate the local entity under the supervision of the board of county commissioners or governing body of a municipality which must develop, receive, and review applications for certification and develop notices of determination of eligibility.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Require the property owner to apply for certification by the local entity in order to receive the exemption. The application for certification must be on a form provided by the local entity designated pursuant to paragraph (b) and include all of the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Require the local entity to verify and certify property that meets the requirements of the ordinance as qualified property and forward the certification to the property owner and the property appraiser. If the local entity denies the application for certification, it must notify the applicant and include reasons for the denial.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Require the eligible unit to meet the eligibility criteria of paragraph (1)(a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Require the property owner to submit an application for exemption, on a form prescribed by the department, accompanied by the certification of qualified property, to the property appraiser no later than the deadline specified in s.196.011.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Specify that the exemption applies only to the taxes levied by the unit of government granting the exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Specify that the property may not receive an exemption authorized by this section after expiration or repeal of the ordinance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Identify the percentage of the assessed value which is exempted, subject to the percentage limitations in paragraph (1)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Identify whether the exemption applies to natural persons or families meeting the income limits of sub-subparagraph (1)(a)1.a., natural persons or families meeting the income limits of sub-subparagraph (1)(a)1.b., or both.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Require that the deadline to submit an application for certification be published on the county’s or municipality’s website. The deadline must allow adequate time for a property owner to make a timely application for exemption to the property appraiser.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1979__subsec_3__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Require the county or municipality to post on its website a list of properties receiving the exemption for the purpose of facilitating access to affordable housing.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_1979__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A rental market study submitted as required by paragraph (3)(c) must identify the fair market value rent of each unit for which a property owner seeks an exemption. Only a certified general appraiser, as defined in s.475.611, may issue a rental market study. The certified general appraiser must be independent of the property owner who requests a rental market study. In preparing the rental market study, a certified general appraiser shall comply with the standards of professional practice pursuant to part II of chapter 475 and use comparable property within the same geographic area and of the same type as the property for which the exemption is sought. A rental market study must have been completed within 3 years before submission of the application.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1979__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>An ordinance adopted under this section must expire before the fourth January 1 after adoption; however, the board of county commissioners or the governing body of the municipality may adopt a new ordinance to renew the exemption. The board of county commissioners or the governing body of the municipality shall deliver a copy of an ordinance adopted under this section to the department and the property appraiser within 10 days after its adoption, but no later than January 1 of the year such exemption will take effect. If the ordinance expires or is repealed, the board of county commissioners or the governing body of the municipality must notify the department and the property appraiser within 10 days after its expiration or repeal, but no later than January 1 of the year the repeal or expiration of such exemption will take effect.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1979__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The property appraiser shall review each application for exemption and determine whether the applicant meets all of the requirements of this section and is entitled to an exemption. A property appraiser may request and review additional information necessary to make such determination. A property appraiser may grant an exemption only for a property for which the local entity has certified as qualified property and which the property appraiser determines is entitled to an exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1979__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>When determining the value of a unit for purposes of applying an exemption pursuant to this section, the property appraiser must include in such valuation the proportionate share of the residential common areas, including the land, fairly attributable to such unit.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1979__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>If the property appraiser determines that for any year during the immediately previous 10 years a person who was not entitled to an exemption under this section was granted such an exemption, the property appraiser must serve upon the owner a notice of intent to record in the public records of the county a notice of tax lien against any property owned by that person in the county, and that property must be identified in the notice of tax lien. Any property owned by the taxpayer and situated in this state is subject to the taxes exempted by the improper exemption, plus a penalty of 50 percent of the unpaid taxes for each year and interest at a rate of 15 percent per annum. If an exemption is improperly granted as a result of a clerical mistake or an omission by the property appraiser, the property owner improperly receiving the exemption may not be assessed a penalty or interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1979__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>This section first applies to the 2024 tax roll.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

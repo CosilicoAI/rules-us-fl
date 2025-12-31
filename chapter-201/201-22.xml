@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.22"/>
+          <FRBRuri value="/us-fl/act/fsa/201.22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.22/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.22/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_22">
+          <num>201.22</num>
+          <heading>Financing statements under chapter 679 of the Uniform Commercial Code.</heading>
+          <content>
+            <p>The excise tax on documents provided by this chapter shall be applicable to transactions covered by the Uniform Commercial Code to the same extent that it would be if the code had not been enacted. The clerk or filing officer shall not accept for filing or filing and recording any financing statement under chapter 679, unless there appears thereon a notation that the taxes required by this chapter have been paid on the promissory instruments secured by said financing statement and will be paid on any additional promissory instruments, advances, or similar instrument that may be secured by said financing statement. The failure to pay the tax required by this chapter, as so stated, shall be subject to the penalties provided by this chapter.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

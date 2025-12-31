@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.181"/>
+          <FRBRuri value="/us-fl/act/fsa/212.181"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.181/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.181/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.181/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.181/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_181">
+          <num>212.181</num>
+          <heading>Determination of business address situs, distributions, and adjustments.</heading>
+          <content>
+            <p>For each certificate of registration issued pursuant to s.212.18(3)(b), the department shall assign the place of business to a county based on the location address provided at the time of registration or at the time the dealer notifies the department of a change in a business location address.</p>
+          </content>
+          <subsection eId="212_181__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For each certificate of registration issued pursuant to s.212.18(3)(b), the department shall assign the place of business to a county based on the location address provided at the time of registration or at the time the dealer notifies the department of a change in a business location address.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_181__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each county that furnishes to the department information needed to update the electronic database created and maintained pursuant to s.202.22(2)(a), including addresses of new developments, changes in addresses, annexations, incorporations, reorganizations, and any other changes in jurisdictional boundaries within the county, must specify an effective date, which must be the next ensuing January 1 or July 1, and must be furnished to the department at least 120 days before the effective date. A county that provides notification to the department at least 120 days before the effective date that it has reviewed the database and has no changes for the ensuing January 1 or July 1 satisfies the requirement of this paragraph.</p>
+            </content>
+            <paragraph eId="212_181__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Each county that furnishes to the department information needed to update the electronic database created and maintained pursuant to s.202.22(2)(a), including addresses of new developments, changes in addresses, annexations, incorporations, reorganizations, and any other changes in jurisdictional boundaries within the county, must specify an effective date, which must be the next ensuing January 1 or July 1, and must be furnished to the department at least 120 days before the effective date. A county that provides notification to the department at least 120 days before the effective date that it has reviewed the database and has no changes for the ensuing January 1 or July 1 satisfies the requirement of this paragraph.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_181__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A county that imposes a tourist development tax in a subcounty special district pursuant to s.125.0104(3)(b) must identify the subcounty special district addresses to which the tourist development tax applies as part of the address information submission required under paragraph (a). This paragraph does not apply to counties that self-administer the tax pursuant to s.125.0104(10).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_181__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall update the electronic database created and maintained under s.202.22(2)(a) using the information furnished by local taxing jurisdictions under paragraph (a) and shall ensure each business location is correctly assigned to the applicable county pursuant to subsection (1). Each update must specify the effective date as the next ensuing January 1 or July 1 and must be posted by the department on a website not less than 90 days before the effective date.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_181__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For distributions made pursuant to ss.125.0104and212.20(6)(a), (b), and (d)2.b., misallocations occurring solely due to the assignment of an address to an incorrect county will be corrected prospectively only from the date the department is made aware of the misallocation, subject to the following:</p>
+            </content>
+            <paragraph eId="212_181__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>For distributions made pursuant to ss.125.0104and212.20(6)(a), (b), and (d)2.b., misallocations occurring solely due to the assignment of an address to an incorrect county will be corrected prospectively only from the date the department is made aware of the misallocation, subject to the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_181__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Nothing in this subsection prevents affected counties from determining an alternative method of adjustment pursuant to an interlocal agreement. Affected counties with an interlocal agreement must provide a copy of the interlocal agreement specifying an alternative method of adjustment to the department within 90 days after the date of the department’s notice of the misallocation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_181__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department may adopt rules to administer this section, including rules establishing procedures and forms.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

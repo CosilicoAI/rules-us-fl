@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.0442"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0442"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.0442/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0442/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.0442/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0442/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_0442">
+          <num>216.0442</num>
+          <heading>Truth in bonding; definitions; summary of state debt; statement of proposed financing; truth-in-bonding statement.</heading>
+          <content>
+            <p>As used in this section, the following words and terms shall have the following meanings, unless the context otherwise requires:</p>
+          </content>
+          <subsection eId="216_0442__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the following words and terms shall have the following meanings, unless the context otherwise requires:</p>
+            </content>
+            <paragraph eId="216_0442__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Costs of issuance” means all of those costs and expenses directly incurred by or on behalf of any state agency or the judicial branch in the process of issuing or incurring a debt or obligation. Such costs of issuance shall include, but shall not be limited to, the costs of rating the debt or obligation, the costs of retaining professional services such as bond counsel or financial advisers, the amount of underwriter’s discount, printing costs, and the costs of the entity responsible for issuing or incurring the debt or obligation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Debt” means a bond, certificate, note, or other evidence of indebtedness, including, but not limited to, an agreement to pay principal and any interest thereon, whether in the form of a contract to repay borrowed money or otherwise, and includes a share or other interest in any such agreement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Debt service” means the amounts due on any state debt or obligation for interest, any maturing principal, any required contributions to an amortization or sinking fund for a term debt or obligation, and any other continuing payments necessary or incidental to the repayment of a state debt or obligation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Interest” means the compensation for the use or detention of money or its equivalent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Interest rate” means the annual percentage of the outstanding state debt or obligation payable as interest.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Obligation” means an agreement to pay principal and interest thereon, other than a debt, whether in the form of a lease, lease-purchase, installment purchase, or otherwise, and includes a share, participation, or other interest in any such agreement. However, the term “obligation” does not include an agreement having a term of less than 5 years, unless the principal is more than $5 million and the term is more than 2 years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Outstanding state debt” means any state debt or obligation of which the principal has not been paid or for which an amount sufficient to provide for the payment of such state debt or obligation and the interest on such state debt or obligation to the maturity or early redemption of such state debt or obligation has not been set aside for the benefit of the holders of such state debt or obligation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Principal” means the face value of the debt or obligation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>“Proposed state debt or obligation” means any state debt or obligation proposed to be issued or incurred.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>“State debt or obligation” means a debt or obligation incurred or issued by or on behalf of the state or any state agency or the judicial branch.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_0442__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When required by statute to support the proposed debt financing of fixed capital outlay projects or operating capital outlay requests or to explain the issuance of a debt or obligation, one or more of the following documents shall be developed:</p>
+            </content>
+            <paragraph eId="216_0442__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A summary of outstanding state debt as furnished by the Chief Financial Officer pursuant to s.216.102.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement of proposed financing, which shall include the following items:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0442__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A truth-in-bonding statement, developed from the information compiled pursuant to this section, in substantially the following form:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_0442__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The failure of any state agency or the judicial branch to comply with the provisions of this section shall not affect the validity of any state debt or obligation.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0442__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The documents prepared pursuant to this section are for illustrative purposes only and shall not affect or control the actual terms and conditions of the debt or obligation.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

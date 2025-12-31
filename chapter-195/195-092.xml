@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.092"/>
+          <FRBRuri value="/us-fl/act/fsa/195.092"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.092/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.092/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.092/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.092/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_092">
+          <num>195.092</num>
+          <heading>Authority to bring and maintain suits.</heading>
+          <content>
+            <p>The Department of Revenue shall have authority to bring and maintain such actions at law or in equity by mandamus or injunction, or otherwise, to enforce the performance of any duties of any officer or official performing duties with relation to the execution of the tax laws of the state, or to enforce obedience to any lawful order, rule, regulation, or decision of the Department of Revenue lawfully made under the authority of these tax laws. Venue for such actions shall be in the county in which the official duties of the property appraiser are to be performed.</p>
+          </content>
+          <subsection eId="195_092__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue shall have authority to bring and maintain such actions at law or in equity by mandamus or injunction, or otherwise, to enforce the performance of any duties of any officer or official performing duties with relation to the execution of the tax laws of the state, or to enforce obedience to any lawful order, rule, regulation, or decision of the Department of Revenue lawfully made under the authority of these tax laws. Venue for such actions shall be in the county in which the official duties of the property appraiser are to be performed.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_092__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The property appraiser or any taxing authority shall have the authority to bring and maintain such actions as may be necessary to contest the validity of any rule, regulation, order, directive, or determination of any agency of the state, including, but not limited to, disapproval of all or any part of an assessment roll or a determination of assessment levels. The defendant in such actions shall be the agency head, and service of process shall be on such person or, when the head of the agency is a collegial body, its executive director, if there be one. Such action shall be brought within 60 days of the date the rule, regulation, order, directive, or determination becomes effective. Venue for such actions shall be in Leon County. The circuit court judge, upon proper motion, may agree to hear the case in the county where the property is located if trial in Leon County would result in substantial expense and inconvenience to the necessary participants. Appeal shall be to the First District Court of Appeal.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_092__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No action shall be instituted to compel reappraisal of property or adjustment of the tax rolls unless the executive director has first met or in good faith has attempted to meet in conference with the affected property appraiser and has been unable to resolve differences or obtain acceptable written assurance of the implementation of a plan to ensure compliance with general law and the constitutional requirement of just value.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_092__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In any action instituted against a property appraiser to compel the performance of his or her official duties, the court may order the implementation of a plan of reappraisal to be completed within a prescribed period of time. To implement its decision, the court shall have the power to:</p>
+            </content>
+            <paragraph eId="195_092__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Enter such orders as are necessary to ensure that assessments shall be uniform, equitable, at just value, and otherwise in compliance with law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_092__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Maintain jurisdiction until such time as all of the requirements of the court as expressed in its order have been met.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_092__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Chapter 120 shall not apply to this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

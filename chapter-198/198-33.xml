@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.33"/>
+          <FRBRuri value="/us-fl/act/fsa/198.33"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.33/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.33/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.33/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.33/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_33">
+          <num>198.33</num>
+          <heading>Discharge of estate, notice of lien, limitation on lien, etc.</heading>
+          <content>
+            <p>Where no receipt for the payment of taxes, or no affidavit or certificate of nonliability for taxes has been issued or recorded as provided for in this chapter, the property constituting the estate of the decedent in this state shall be deemed fully acquitted and discharged of all liability for estate and inheritance taxes under this chapter after a lapse of 10 years from the date of the filing with the department of an estate tax return, unless the department shall make out and file and have recorded in the public records of the county wherein any part of the estate of the decedent may be situated in this state, a notice of lien against the property of the estate, specifying the amount or approximate amount of taxes claimed to be due to the state under this chapter, which notice of lien shall continue said lien in force for an additional period of 5 years or until payment is made. Such notice of lien shall be filed and recorded in the book of deeds in the office of the clerk of the circuit court; provided, where no receipt for the payment of taxes, or no affidavit or certificate of nonliability for taxes, has been issued or recorded as provided for in this chapter, the property constituting the estate of the decedent in this state, if said decedent was a resident of this state at the time of death, shall be deemed fully acquitted and discharged of all liability for tax under this chapter after a lapse of 10 years from the date of the death of the decedent, unless the department shall make out and file and have recorded notice of lien as herein provided, which notice shall continue said lien in force against such property of the estate as is situate in the county wherein said notice of lien was recorded for an additional period of 5 years or until payment is made.</p>
+          </content>
+          <subsection eId="198_33__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Where no receipt for the payment of taxes, or no affidavit or certificate of nonliability for taxes has been issued or recorded as provided for in this chapter, the property constituting the estate of the decedent in this state shall be deemed fully acquitted and discharged of all liability for estate and inheritance taxes under this chapter after a lapse of 10 years from the date of the filing with the department of an estate tax return, unless the department shall make out and file and have recorded in the public records of the county wherein any part of the estate of the decedent may be situated in this state, a notice of lien against the property of the estate, specifying the amount or approximate amount of taxes claimed to be due to the state under this chapter, which notice of lien shall continue said lien in force for an additional period of 5 years or until payment is made. Such notice of lien shall be filed and recorded in the book of deeds in the office of the clerk of the circuit court; provided, where no receipt for the payment of taxes, or no affidavit or certificate of nonliability for taxes, has been issued or recorded as provided for in this chapter, the property constituting the estate of the decedent in this state, if said decedent was a resident of this state at the time of death, shall be deemed fully acquitted and discharged of all liability for tax under this chapter after a lapse of 10 years from the date of the death of the decedent, unless the department shall make out and file and have recorded notice of lien as herein provided, which notice shall continue said lien in force against such property of the estate as is situate in the county wherein said notice of lien was recorded for an additional period of 5 years or until payment is made.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_33__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding anything to the contrary in this section or this chapter, no lien for estate and inheritance taxes under this chapter shall continue for more than 20 years from the date of death of the decedent, whether the decedent be a resident or nonresident of this state.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

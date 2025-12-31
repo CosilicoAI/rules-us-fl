@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.042"/>
+          <FRBRuri value="/us-fl/act/fsa/192.042"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.042/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.042/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.042/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.042/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_042">
+          <num>192.042</num>
+          <heading>Date of assessment.</heading>
+          <content>
+            <p>All property shall be assessed according to its just value as follows:</p>
+          </content>
+          <subsection eId="192_042__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Real property, on January 1 of each year. Improvements or portions not substantially completed on January 1 shall have no value placed thereon. “Substantially completed” shall mean that the improvement or some self-sufficient unit within it can be used for the purpose for which it was constructed.</p>
+            </content>
+          </subsection>
+          <subsection eId="192_042__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Tangible personal property, on January 1, except construction work in progress shall have no value placed thereon until substantially completed as defined in s.192.001(11)(d).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

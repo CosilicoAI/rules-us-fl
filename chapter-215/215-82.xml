@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.82"/>
+          <FRBRuri value="/us-fl/act/fsa/215.82"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.82/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.82/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.82/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.82/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_82">
+          <num>215.82</num>
+          <heading>Validation; when required.</heading>
+          <content>
+            <p>Bonds issued pursuant to this act shall be validated in the manner provided by law through proceedings instituted by the attorneys for the division under chapter 75. Refunding bonds issued pursuant to s.215.79, bonds issued pursuant to s. 9(a)(2), Art. XII of the State Constitution to finance or refinance capital outlay projects authorized by the Legislature for the state system of public education, and bonds issued to finance the acquisition and construction of roads in a county pursuant to s. 9(c), Art. XII of the State Constitution may, as determined by the division, be validated pursuant to chapter 75. Nothing herein shall be construed to prevent sale or delivery of any bonds or notes after entry of a judgment of validation by the circuit court.</p>
+          </content>
+          <subsection eId="215_82__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Bonds issued pursuant to this act shall be validated in the manner provided by law through proceedings instituted by the attorneys for the division under chapter 75. Refunding bonds issued pursuant to s.215.79, bonds issued pursuant to s. 9(a)(2), Art. XII of the State Constitution to finance or refinance capital outlay projects authorized by the Legislature for the state system of public education, and bonds issued to finance the acquisition and construction of roads in a county pursuant to s. 9(c), Art. XII of the State Constitution may, as determined by the division, be validated pursuant to chapter 75. Nothing herein shall be construed to prevent sale or delivery of any bonds or notes after entry of a judgment of validation by the circuit court.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_82__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any bonds issued pursuant to this act which are validated shall be validated in the manner provided by chapter 75. In actions to validate bonds to be issued in the name of the State Board of Education under s. 9(a) and (d), Art. XII of the State Constitution and bonds to be issued pursuant to chapter 259, the Land Conservation Program, the complaint shall be filed in the circuit court of the county where the seat of state government is situated, the notice required to be published by s.75.06shall be published only in the county where the complaint is filed, and the complaint and order of the circuit court shall be served only on the state attorney of the circuit in which the action is pending. In any action to validate bonds issued pursuant to s.1010.62or issued pursuant to s. 9(a)(1), Art. XII of the State Constitution or issued pursuant to s.215.605, the complaint shall be filed in the circuit court of the county where the seat of state government is situated, the notice required to be published by s.75.06shall be published in a newspaper of general circulation in the county where the complaint is filed and in two other newspapers of general circulation in the state, and the complaint and order of the circuit court shall be served only on the state attorney of the circuit in which the action is pending; provided, however, that if publication of notice pursuant to this section would require publication in more newspapers than would publication pursuant to s.75.06, such publication shall be made pursuant to s.75.06.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

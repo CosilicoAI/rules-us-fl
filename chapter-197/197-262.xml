@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.262"/>
+          <FRBRuri value="/us-fl/act/fsa/197.262"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.262/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.262/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.262/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.262/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_262">
+          <num>197.262</num>
+          <heading>Deferred payment tax certificates.</heading>
+          <content>
+            <p>At a tax certificate sale, the tax collector shall strike to the county each certificate on property for which taxes have been deferred. Certificates issued pursuant to this section are exempt from the public sale of tax certificates held pursuant to s.197.432or s.197.4725.</p>
+          </content>
+          <subsection eId="197_262__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At a tax certificate sale, the tax collector shall strike to the county each certificate on property for which taxes have been deferred. Certificates issued pursuant to this section are exempt from the public sale of tax certificates held pursuant to s.197.432or s.197.4725.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_262__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The certificates so held by the county shall bear interest at a rate equal to the semiannually compounded rate of 0.5 percent plus the average yield to maturity of the long-term fixed-income portion of the Florida Retirement System investments as of the end of the quarter preceding the date of the sale of the deferred payment tax certificates. However, the interest rate may not exceed 7 percent.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

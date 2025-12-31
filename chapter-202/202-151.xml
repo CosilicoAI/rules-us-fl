@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.151"/>
+          <FRBRuri value="/us-fl/act/fsa/202.151"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.151/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.151/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.151/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.151/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_151">
+          <num>202.151</num>
+          <heading>Use tax imposed on certain purchasers of communications services.</heading>
+          <content>
+            <p>Any person who purchases communications services that are otherwise taxable under ss.202.12and202.19at retail from a seller in another state, territory, the District of Columbia, or any foreign country shall report and remit to the department the taxes imposed by or administered under this chapter on the communications services purchased and used, the same as if such communications services had been purchased at retail from a dealer in this state. This section does not apply if the out-of-state seller registers as a dealer in this state and collects from the purchaser the taxes imposed by or administered under this chapter. The department may adopt rules governing the reporting and remitting of communications services taxes by purchasers who purchase from out-of-state sellers who do not collect the taxes imposed by or administered under this chapter.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

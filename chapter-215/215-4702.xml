@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.4702"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4702"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.4702/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4702/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.4702/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4702/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_4702">
+          <num>215.4702</num>
+          <heading>Investments in publicly traded companies operating in Northern Ireland.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="215_4702__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_4702__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“MacBride Principles” means the objectives for companies operating in Northern Ireland to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4702__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Operating” means actively engaging in commerce geographically in Northern Ireland through the acquisition, development, maintenance, ownership, sale, possession, lease, or operation of equipment, facilities, personnel, products, services, or personal property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4702__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Publicly traded company” means any business organization having equity securities listed on a national or an international exchange that is regulated by a national or an international regulatory authority.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4702__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“State board” means the State Board of Administration.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4702__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The state board is encouraged to determine which publicly traded companies in which the Florida Retirement System Trust Fund is invested operate in Northern Ireland. If the state board determines that a publicly traded company meets such criteria, the state board is encouraged to:</p>
+            </content>
+            <paragraph eId="215_4702__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Notify the publicly traded company that the state board supports the MacBride Principles;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4702__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Inquire regarding the actions that the publicly traded company has taken in support of or furtherance of the MacBride Principles;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4702__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Encourage a publicly traded company that has not adopted the MacBride Principles to make all lawful efforts to implement the fair employment practices embodied in the MacBride Principles; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4702__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Support the adoption of the MacBride Principles in exercising its proxy voting authority. For these purposes, the state board may not be a fiduciary under this section in exercising its proxy voting authority.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4702__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In making the determination specified in subsection (2), the state board may, to the extent it deems appropriate, rely on available public information, including information provided by nonprofit organizations, research firms, international organizations, and government entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4702__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The state board may not be held liable for, and a cause of action does not arise from, any action or inaction by the state board in the administration of this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.3335"/>
+          <FRBRuri value="/us-fl/act/fsa/197.3335"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.3335/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.3335/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.3335/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.3335/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_3335">
+          <num>197.3335</num>
+          <heading>Tax payments when property is subject to adverse possession; refunds.</heading>
+          <content>
+            <p>Upon the receipt of a subsequent payment for the same annual tax assessment for a particular parcel of property, the tax collector must determine whether an adverse possession return has been submitted on the particular parcel. If an adverse possession return has been submitted, or is submitted within 30 days of the earlier payment, the tax collector must comply with subsection (2).</p>
+          </content>
+          <subsection eId="197_3335__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Upon the receipt of a subsequent payment for the same annual tax assessment for a particular parcel of property, the tax collector must determine whether an adverse possession return has been submitted on the particular parcel. If an adverse possession return has been submitted, or is submitted within 30 days of the earlier payment, the tax collector must comply with subsection (2).</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3335__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a person claiming adverse possession under s.95.18pays an annual tax assessment on a parcel of property before the assessment is paid by the owner of record, and the owner of record subsequently makes a payment of that same annual tax assessment before April 1 following the year in which the tax is assessed, the tax collector shall accept the payment made by the owner of record and refund within 60 days any payment made by the person claiming adverse possession. Such refunds do not require approval from the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3335__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For claims of adverse possession for a portion of a parcel of property as provided in s.95.18(5), the tax collector may accept a tax payment, based upon the value of the property assigned by the property appraiser under s.95.18(5)(c), from a person claiming adverse possession for the portion of the property subject to the claim. If the owner of record makes a payment of the annual tax assessment for the whole parcel before April 1 following the year in which the tax is assessed, the tax collector shall refund within 60 days any payment previously made for the portion of the parcel subject to the claim by the person claiming adverse possession.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

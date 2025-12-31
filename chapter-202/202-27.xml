@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.27"/>
+          <FRBRuri value="/us-fl/act/fsa/202.27"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.27/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.27/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.27/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.27/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_27">
+          <num>202.27</num>
+          <heading>Return filing; rules for self-accrual.</heading>
+          <content>
+            <p>For the purpose of ascertaining the amount of tax payable under this chapter and chapter 203, each dealer must file a return and remit the taxes required to be collected in any calendar month to the department, on or before the 20th day of the subsequent month, upon forms prepared and furnished by the department or in a format prescribed by it. The department shall, by rule, prescribe the information to be furnished by taxpayers on such returns. For the purpose of determining the taxes required to be remitted under this subsection, a dealer may elect to use an alternative-period basis. As used in this subsection, the term “alternative-period basis” means any month-long period, other than a calendar month, with an end date on or after the 15th day of the calendar month. The election shall be made on forms prepared and furnished by the department or in a format prescribed by the department. A dealer making such election is bound by the election for at least 12 months. If an election is made, the dealer must file a return and remit the taxes required to be collected in the chosen alternative-period basis to the department on or before the 20th day of the subsequent month.</p>
+          </content>
+          <subsection eId="202_27__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of ascertaining the amount of tax payable under this chapter and chapter 203, each dealer must file a return and remit the taxes required to be collected in any calendar month to the department, on or before the 20th day of the subsequent month, upon forms prepared and furnished by the department or in a format prescribed by it. The department shall, by rule, prescribe the information to be furnished by taxpayers on such returns. For the purpose of determining the taxes required to be remitted under this subsection, a dealer may elect to use an alternative-period basis. As used in this subsection, the term “alternative-period basis” means any month-long period, other than a calendar month, with an end date on or after the 15th day of the calendar month. The election shall be made on forms prepared and furnished by the department or in a format prescribed by the department. A dealer making such election is bound by the election for at least 12 months. If an election is made, the dealer must file a return and remit the taxes required to be collected in the chosen alternative-period basis to the department on or before the 20th day of the subsequent month.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_27__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may require:</p>
+            </content>
+            <paragraph eId="202_27__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A quarterly return and payment when the tax remitted by the dealer for the preceding four calendar quarters did not exceed $1,000.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_27__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A semiannual return and payment when the tax remitted by the dealer for the preceding four calendar quarters did not exceed $500.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_27__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An annual return and payment when the tax remitted by the dealer for the preceding four calendar quarters did not exceed $100.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_27__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A quarterly return and monthly payment when the tax remitted by the dealer for the preceding four calendar quarters exceeded $1,000 but did not exceed $12,000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_27__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department shall accept returns, except those required to be initiated through an electronic data interchange, as timely if postmarked on or before the 20th day of the month; if the 20th day falls on a Saturday, Sunday, or federal or state legal holiday, returns are timely if postmarked on the next succeeding workday. Each dealer shall file a return for each tax period even though no tax is due for such period.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_27__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Whenever returns are required to be made to the department, the full amount of the taxes required to be paid as shown by the return must be paid and accompany the return, and the failure to remit the full amount of taxes at the time of making the return shall cause the taxes to become delinquent. All taxes and all interest and penalties imposed or administered under this chapter must be remitted to the department at Tallahassee or at another office designated by the department, in the form required by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_27__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department may require all returns of taxes under this chapter to be accompanied by a written statement, by the person or by an officer of any firm or corporation required to pay such taxes, setting forth the facts that the department requires in order to ascertain the amount of taxes that are due and payable with the return. The filing of a return that is not accompanied by payment is prima facie evidence of the wrongful conversion of the money due. Any person or any duly authorized corporation officer or agent, or members of any firm or incorporated society or organization, who refuses to make a return and pay the taxes due, as required by the department and in the manner and in the form that the department requires, or to state in writing that the return is correct to the best of his or her knowledge and belief, as required by the department, is subject to a penalty of 6 percent per annum of the amount due and commits a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083. The signing of a written return has the same legal effect as if made under oath without the necessity of appending an oath thereto.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_27__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>In addition to the contact person identified on the return, each dealer of communications services obligated to collect and remit local communications services tax imposed under s.202.19may at any time, and shall within 10 days after a request, designate a managerial representative to whom the department shall direct any inquiry regarding the completeness or accuracy of the dealer’s return when the response provided by the contact person identified on the return has been inadequate. When the representative designated under this subsection is contacted by the department, the dealer shall respond to the department within 30 days.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_27__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The department may provide by rule for self-accrual of the communications services tax when:</p>
+            </content>
+            <paragraph eId="202_27__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Authorized by law for holders of direct-pay permits; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_27__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The taxable status of sales of communications services will be known only upon use.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

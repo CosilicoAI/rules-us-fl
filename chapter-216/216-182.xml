@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.182"/>
+          <FRBRuri value="/us-fl/act/fsa/216.182"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.182/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.182/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.182/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.182/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_182">
+          <num>216.182</num>
+          <heading>Approval of fixed capital outlay program plan.</heading>
+          <content>
+            <p>The Executive Office of the Governor shall have the authority to approve the program plan of fixed capital outlay projects to assure that each is consistent with legislative policies for operations, including approved operational standards related to program and utilization and reasonable continuing operating costs.</p>
+          </content>
+          <subsection eId="216_182__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Executive Office of the Governor shall have the authority to approve the program plan of fixed capital outlay projects to assure that each is consistent with legislative policies for operations, including approved operational standards related to program and utilization and reasonable continuing operating costs.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_182__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any department under the direct supervision of a member of the Cabinet or of a board consisting of the Governor and members of the Cabinet which contends that the determination of the program plan by the Executive Office of the Governor pursuant to subsection (1) is contrary to the orderly implementation of legislative authorization shall have the right to have the issue reviewed by the Administration Commission, which shall decide such issue by majority vote. The appropriations committees of the Legislature may advise the Administration Commission on the issue.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0602"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0602"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0602/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0602/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0602/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0602/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0602">
+          <num>212.0602</num>
+          <heading>Education; limited exemption.</heading>
+          <content>
+            <p>To facilitate investment in education and job training, there is also exempt from the taxes levied under this chapter, subject to this section, the purchase or lease of materials, equipment, and other items by any entity, institution, or organization that is primarily engaged in teaching students to perform any qualified production services, that conducts classes at a fixed location located in this state, that is licensed under chapter 1005, and that has at least 500 enrolled students. Any entity, institution, or organization meeting the requirements of this section is deemed to qualify for the exemptions in s.212.08(5)(f) and (12) and to qualify for an exemption for its purchase or lease of materials, equipment, and other items used for education or demonstration of the school’s curriculum, including supporting operations. This section does not preclude an entity described in this section from qualifying for any other exemption provided for in this chapter.</p>
+          </content>
+          <subsection eId="212_0602__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To facilitate investment in education and job training, there is also exempt from the taxes levied under this chapter, subject to this section, the purchase or lease of materials, equipment, and other items by any entity, institution, or organization that is primarily engaged in teaching students to perform any qualified production services, that conducts classes at a fixed location located in this state, that is licensed under chapter 1005, and that has at least 500 enrolled students. Any entity, institution, or organization meeting the requirements of this section is deemed to qualify for the exemptions in s.212.08(5)(f) and (12) and to qualify for an exemption for its purchase or lease of materials, equipment, and other items used for education or demonstration of the school’s curriculum, including supporting operations. This section does not preclude an entity described in this section from qualifying for any other exemption provided for in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0602__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in this section, the term “qualified production services” means any activity or service performed directly in connection with the production of a qualified motion picture, as defined in s.212.06(1)(b), and includes:</p>
+            </content>
+            <paragraph eId="212_0602__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Photography; sound and recording; casting; location managing and scouting; shooting; creation of special and optical effects; animation; adaptation, including language, media, electronic, or otherwise; technological modifications; computer graphics; set and stage support, including electricians, lighting designers and operators, greensmen, prop managers and assistants, and grips; wardrobe, including design, preparation, and management; hair and makeup, including design, production, and application; performing, including acting, dancing, and playing; designing and executing stunts; coaching; consulting; writing; scoring; composing; choreographing; script supervising; directing; producing; transmitting dailies; dubbing; mixing; editing; cutting; looping; printing; processing; duplicating; storing; and distributing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0602__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The design, planning, engineering, construction, alteration, repair, and maintenance of real or personal property, including stages, sets, props, models, paintings, and facilities principally required for the performance of the services listed in paragraph (a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0602__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Property management services directly related to property used in connection with the services listed in paragraphs (a) and (b).</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

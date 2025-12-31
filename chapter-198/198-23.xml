@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.23"/>
+          <FRBRuri value="/us-fl/act/fsa/198.23"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.23/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.23/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.23/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.23/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_23">
+          <num>198.23</num>
+          <heading>Personal liability of personal representative.</heading>
+          <content>
+            <p>If any personal representative shall make distribution either in whole or in part of any of the property of an estate to the heirs, next of kin, distributees, legatees, or devisees without having paid or secured the tax due the state under this chapter, or having obtained the release of such property from the lien of such tax either by the department or pursuant to s.198.32(2), he or she shall become personally liable for the tax so due the state, or so much thereof as may remain due and unpaid, to the full extent of the full value of any property belonging to such person or estate which may come into the personal representative’s hands, custody, or control.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

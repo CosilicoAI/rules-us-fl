@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.615"/>
+          <FRBRuri value="/us-fl/act/fsa/215.615"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.615/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.615/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.615/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.615/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_615">
+          <num>215.615</num>
+          <heading>Fixed-guideway transportation systems funding.</heading>
+          <content>
+            <p>The issuance of revenue bonds by the Division of Bond Finance, on behalf of the Department of Transportation, pursuant to s. 11, Art. VII of the State Constitution, is authorized, pursuant to the State Bond Act, to finance or refinance fixed capital expenditures for fixed-guideway transportation systems, as defined in s.341.031, including facilities appurtenant thereto, costs of issuance, and other amounts relating to such financing or refinancing. The Division of Bond Finance is authorized to consider innovative financing techniques that may include, but are not limited to, innovative bidding and structures of potential financings that may result in negotiated transactions. The following conditions apply to the issuance of revenue bonds for fixed-guideway transportation systems:</p>
+          </content>
+          <subsection eId="215_615__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The issuance of revenue bonds by the Division of Bond Finance, on behalf of the Department of Transportation, pursuant to s. 11, Art. VII of the State Constitution, is authorized, pursuant to the State Bond Act, to finance or refinance fixed capital expenditures for fixed-guideway transportation systems, as defined in s.341.031, including facilities appurtenant thereto, costs of issuance, and other amounts relating to such financing or refinancing. The Division of Bond Finance is authorized to consider innovative financing techniques that may include, but are not limited to, innovative bidding and structures of potential financings that may result in negotiated transactions. The following conditions apply to the issuance of revenue bonds for fixed-guideway transportation systems:</p>
+            </content>
+            <paragraph eId="215_615__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Revenue bonds issued pursuant to this subsection shall not constitute a general obligation of, or a pledge of the full faith and credit of, the State of Florida. Bonds issued pursuant to this section shall be payable from funds available pursuant to s.206.46(3), or other funds available to the project, subject to annual appropriation. The amount of revenues available for debt service shall never exceed a maximum of 2 percent of all state revenues deposited into the State Transportation Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_615__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The projects to be financed or refinanced with the proceeds of the revenue bonds issued hereunder are designated as state fixed capital outlay projects for purposes of s. 11(d), Art. VII of the State Constitution, and the specific projects to be financed or refinanced shall be determined by the Department of Transportation in accordance with state law and appropriations from the State Transportation Trust Fund. Each project to be financed with the proceeds of the bonds issued pursuant to this subsection must first be approved by the Legislature by an act of general law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_615__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Any complaint for validation of bonds issued pursuant to this section shall be filed in the circuit court of the county where the seat of state government is situated, the notice required to be published by s.75.06shall be published only in the county where the complaint is filed, and the complaint and order of the circuit court shall be served only on the state attorney of the circuit in which the action is pending.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_615__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The state does hereby covenant with holders of such revenue bonds or other instruments of indebtedness issued hereunder that it will not repeal or impair or amend these provisions in any manner that will materially and adversely affect the rights of such holders as long as bonds authorized by this subsection are outstanding.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_615__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>This subsection supersedes any inconsistent provisions in existing law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_615__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To be eligible for participation, fixed-guideway transportation system projects must be found to be consistent, to the maximum extent feasible, with approved local government comprehensive plans of the local governments in which such projects are located and must be included in the work program of the Department of Transportation pursuant to the provisions under s.339.135. The department shall certify that the expected useful life of the transportation improvements will equal or exceed the maturity date of the debt to be issued.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

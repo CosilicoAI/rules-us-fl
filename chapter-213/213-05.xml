@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.05"/>
+          <FRBRuri value="/us-fl/act/fsa/213.05"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.05/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.05/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.05/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.05/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_05">
+          <num>213.05</num>
+          <heading>Department of Revenue; control and administration of revenue laws.</heading>
+          <content>
+            <p>The Department of Revenue shall have only those responsibilities for ad valorem taxation specified to the department in chapter 192, taxation, general provisions; chapter 193, assessments; chapter 194, administrative and judicial review of property taxes; chapter 195, property assessment administration and finance; chapter 196, exemption; chapter 197, tax collections, sales, and liens; chapter 199, intangible personal property taxes; and chapter 200, determination of millage. The Department of Revenue shall have the responsibility of regulating, controlling, and administering all revenue laws and performing all duties as provided in s.125.0104, the Local Option Tourist Development Act; s.125.0108, tourist impact tax; chapter 198, estate taxes; chapter 201, excise tax on documents; chapter 202, communications services tax; chapter 203, gross receipts taxes; chapter 206, motor and other fuel taxes; chapter 211, tax on production of oil and gas and severance of solid minerals; chapter 212, tax on sales, use, and other transactions; chapter 220, income tax code; ss.336.021and336.025, taxes on motor fuel and special fuel;1s.376.11, pollutant spill prevention and control; s.403.718, waste tire fees; s.403.7185, lead-acid battery fees; s.538.09, registration of secondhand dealers; s.538.25, registration of secondary metals recyclers; s.624.4621, group self-insurer’s fund premium tax; s.624.5091, retaliatory tax; s.624.475, commercial self-insurance fund premium tax; ss.624.509-624.511, insurance code: administration and general provisions; s.624.515, State Fire Marshal regulatory assessment; s.627.357, medical malpractice self-insurance premium tax; s.629.5011, reciprocal insurers premium tax; and s.681.117, motor vehicle warranty enforcement.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

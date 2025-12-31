@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.332"/>
+          <FRBRuri value="/us-fl/act/fsa/197.332"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.332/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.332/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.332/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.332/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_332">
+          <num>197.332</num>
+          <heading>Duties of tax collectors; branch offices.</heading>
+          <content>
+            <p>The tax collector has the authority and obligation to collect all taxes as shown on the tax roll by the date of delinquency or to collect delinquent taxes, interest, and costs, by sale of tax certificates on real property and by seizure and sale of personal property. In exercising their powers to contract, the tax collector may perform such duties by use of contracted services or products or by electronic means. The use of contracted services, products, or vendors does not diminish the responsibility or liability of the tax collector to perform such duties pursuant to law. The tax collector may collect the cost of contracted services and reasonable attorney’s fees and court costs in actions on proceedings to recover delinquent taxes, interest, and costs.</p>
+          </content>
+          <subsection eId="197_332__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The tax collector has the authority and obligation to collect all taxes as shown on the tax roll by the date of delinquency or to collect delinquent taxes, interest, and costs, by sale of tax certificates on real property and by seizure and sale of personal property. In exercising their powers to contract, the tax collector may perform such duties by use of contracted services or products or by electronic means. The use of contracted services, products, or vendors does not diminish the responsibility or liability of the tax collector to perform such duties pursuant to law. The tax collector may collect the cost of contracted services and reasonable attorney’s fees and court costs in actions on proceedings to recover delinquent taxes, interest, and costs.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_332__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A county tax collector may establish one or more branch offices by acquiring title to real property or by lease agreement. The tax collector may hire staff and equip such branch offices to conduct state business, or, if authorized to do so by resolution of the county governing body, conduct county business pursuant to s. 1(k), Art. VIII of the State Constitution. The department shall rely on the tax collector’s determination that a branch office is necessary and shall base its approval of the tax collector’s budget in accordance with the procedures of s.195.087(2).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

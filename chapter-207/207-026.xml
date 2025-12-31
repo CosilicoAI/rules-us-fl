@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.026"/>
+          <FRBRuri value="/us-fl/act/fsa/207.026"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.026/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.026/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.026/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.026/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_026">
+          <num>207.026</num>
+          <heading>Allocation of tax.</heading>
+          <content>
+            <p>All moneys derived from the taxes and fees imposed by this chapter shall be paid into the State Treasury by the department for deposit in the Fuel Tax Collection Trust Fund from which the following transfers shall be made: After withholding $50,000 from the proceeds therefrom, to be used as a revolving cash balance, and the amount of funds necessary for the administration and enforcement of this tax, all other moneys shall be transferred in the same manner and for the same purpose as provided in ss.206.41,206.45,206.60,206.605,206.606,206.608,206.9945,336.021, and336.025.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0596"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0596"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0596/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0596/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0596/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0596/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0596">
+          <num>212.0596</num>
+          <heading>Taxation of remote sales.</heading>
+          <content>
+            <p>As used in this chapter, the term:</p>
+          </content>
+          <subsection eId="212_0596__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this chapter, the term:</p>
+            </content>
+            <paragraph eId="212_0596__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Remote sale” means a retail sale of tangible personal property ordered by mail, telephone, the Internet, or other means of communication from a person who receives the order outside of this state and transports the property or causes the property to be transported from any jurisdiction, including this state, to a location in this state. For purposes of this paragraph, tangible personal property delivered to a location within this state is presumed to be used, consumed, distributed, or stored to be used or consumed in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0596__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Substantial number of remote sales” means any number of taxable remote sales in the previous calendar year in which the sum of the sales prices, as defined in s.212.02(16), exceeded $100,000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0596__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Every person making a substantial number of remote sales is a dealer for purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0596__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department may establish by rule procedures for collecting the use tax from unregistered persons who but for their remote purchases would not be required to remit sales or use tax directly to the department. The procedures may provide for waiver of registration, provisions for irregular remittance of tax, elimination of the collection allowance, and nonapplication of local option surtaxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0596__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A marketplace provider that is a dealer under this chapter or a person who is required to collect and remit sales tax on remote sales is required to collect surtax when the taxable item of tangible personal property is delivered within a county imposing a surtax as provided in s.212.054(3)(a).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

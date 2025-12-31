@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.031"/>
+          <FRBRuri value="/us-fl/act/fsa/201.031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.031/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.031/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_031">
+          <num>201.031</num>
+          <heading>Discretionary surtax; administration and collection; Housing Assistance Loan Trust Fund; reporting requirements.</heading>
+          <content>
+            <p>Each county, as defined by s.125.011(1), may levy, subject to the provisions of s.125.0167, a discretionary surtax on documents taxable under the provisions of s.201.02, except that there shall be no surtax on any document pursuant to which the interest granted, assigned, transferred, or conveyed involves only a single-family residence. The single-family residence may be a condominium unit, a unit held through stock ownership or membership representing a proprietary interest in a corporation owning a fee or a leasehold initially in excess of 98 years, or a detached dwelling.</p>
+          </content>
+          <subsection eId="201_031__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each county, as defined by s.125.011(1), may levy, subject to the provisions of s.125.0167, a discretionary surtax on documents taxable under the provisions of s.201.02, except that there shall be no surtax on any document pursuant to which the interest granted, assigned, transferred, or conveyed involves only a single-family residence. The single-family residence may be a condominium unit, a unit held through stock ownership or membership representing a proprietary interest in a corporation owning a fee or a leasehold initially in excess of 98 years, or a detached dwelling.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_031__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All provisions of chapter 201, except s.201.15, apply to the surtax. The Department of Revenue shall pay to the governing authority of the county which levies the surtax all taxes, penalties, and interest collected under this section less any costs of administration.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_031__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Each county that levies the surtax shall:</p>
+            </content>
+            <paragraph eId="201_031__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Include in the financial report required under s.218.32information showing the revenues and the expenses of the trust fund for the fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_031__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Adopt a housing plan every 3 years which includes provisions substantially similar to the plans required in s.420.9075(1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_031__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Have adopted an affordable housing element of its comprehensive land use plan which complies with s.163.3177(6)(f).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_031__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Require by resolution that the staff or entity that has administrative authority for implementing the housing plan prepare and submit to the county’s governing body an annual report substantially similar to the annual report required in s.420.9075(10).</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

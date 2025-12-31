@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.37"/>
+          <FRBRuri value="/us-fl/act/fsa/213.37"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.37/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.37/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.37/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.37/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_37">
+          <num>213.37</num>
+          <heading>Authority to require sworn statements.</heading>
+          <content>
+            <p>The Department of Revenue may require verification of exemption applications, refund applications, and tax returns relevant to administration of the revenue laws of this state.</p>
+          </content>
+          <subsection eId="213_37__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue may require verification of exemption applications, refund applications, and tax returns relevant to administration of the revenue laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_37__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Verification shall be accomplished as provided in s.92.525(1)(c) and subject to the provisions of s.92.525(3).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

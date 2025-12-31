@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.193"/>
+          <FRBRuri value="/us-fl/act/fsa/205.193"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.193/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.193/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.193/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.193/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_193">
+          <num>205.193</num>
+          <heading>Mobile home setup operations; local business tax receipt prohibited; exception.</heading>
+          <content>
+            <p>A county, municipality, or other unit of local government may not require a licensed mobile home dealer or a licensed mobile home manufacturer, or an employee of a dealer or manufacturer, who performs setup operations as defined in s.320.822to be a business tax receiptholder to engage in such operations. However, such dealer or manufacturer must obtain a local receipt for his or her permanent business location or branch office, which receipt shall not require for its issuance any conditions other than those required by chapter 320.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

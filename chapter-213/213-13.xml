@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.13"/>
+          <FRBRuri value="/us-fl/act/fsa/213.13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.13/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.13/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_13">
+          <num>213.13</num>
+          <heading>Electronic remittance and distribution of funds collected by clerks of the court.</heading>
+          <content>
+            <p>Notwithstanding any other provision of law, the Department of Revenue shall establish procedures requiring the electronic transmittal of funds and associated return information submitted by clerks of the court. These procedures must be developed jointly by the Department of Revenue and the Florida Association of Court Clerks representing the clerks of the court. The department shall adopt rules necessary to implement the procedures contained in this section.</p>
+          </content>
+          <subsection eId="213_13__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other provision of law, the Department of Revenue shall establish procedures requiring the electronic transmittal of funds and associated return information submitted by clerks of the court. These procedures must be developed jointly by the Department of Revenue and the Florida Association of Court Clerks representing the clerks of the court. The department shall adopt rules necessary to implement the procedures contained in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_13__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The funds to be remitted electronically by the clerks include proceeds from the taxes imposed by chapter 199, chapter 201, and all other fees, fines, reimbursements, court costs, or other court-related funds that the clerks must remit to the state pursuant to law. At a minimum, these electronic remittance procedures must include:</p>
+            </content>
+            <paragraph eId="213_13__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The prescribed reporting frequency and time period for the clerks to remit such funds and the prescribed time period in which the department must electronically deposit the funds received to the appropriate state and local funds and accounts;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_13__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The electronic format and type of debit remittance system to be used by the clerks to remit the funds to the department;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_13__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The means of communication used to transmit the required information; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_13__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The information that must be submitted with such remittance.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_13__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The clerks shall submit return information with the electronic payments required by this section in a manner that is initiated through electronic means.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_13__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To ensure that the Department of Revenue deposits on a correct and timely basis the revenues electronically received from the clerks, the agencies that are statutorily authorized to receive such revenue deposits shall grant the department electronic access to their appropriate funds and accounts.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_13__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>All court-related collections, including fees, fines, reimbursements, court costs, and other court-related funds that the clerks must remit to the state pursuant to law, must be transmitted electronically by the 10th day of the month immediately following the month in which the funds are collected.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

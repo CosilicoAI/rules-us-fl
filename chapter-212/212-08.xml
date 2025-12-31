@@ -1,0 +1,1120 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.08"/>
+          <FRBRuri value="/us-fl/act/fsa/212.08"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.08/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.08/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.08/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.08/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_08">
+          <num>212.08</num>
+          <heading>Sales, rental, use, consumption, distribution, and storage tax; specified exemptions.</heading>
+          <content>
+            <p>The sale at retail, the rental, the use, the consumption, the distribution, and the storage to be used or consumed in this state of the following are hereby specifically exempt from the tax imposed by this chapter.</p>
+          </content>
+          <subsection eId="212_08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>EXEMPTIONS; GENERAL GROCERIES.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Food products for human consumption are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purpose of this chapter, as used in this subsection, the term “food products” means edible commodities, whether processed, cooked, raw, canned, or in any other form, which are generally regarded as food. This includes, but is not limited to, all of the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The exemption provided by this subsection does not apply to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Food or drinks not exempt under paragraphs (a), (b), (c), and (d) are exempt, notwithstanding those paragraphs, when purchased with food coupons or Special Supplemental Food Program for Women, Infants, and Children vouchers issued under authority of federal law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The application of the tax on a package that contains exempt food products and taxable nonfood products depends upon the essential character of the complete package.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>EXEMPTIONS; MEDICAL.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There shall be exempt from the tax imposed by this chapter any medical products and supplies or medicine dispensed according to an individual prescription or prescriptions written by a prescriber authorized by law to prescribe medicinal drugs; hypodermic needles; hypodermic syringes; chemical compounds and test kits used for the diagnosis or treatment of human disease, illness, or injury; and common household remedies recommended and generally sold for internal or external use in the cure, mitigation, treatment, or prevention of illness or disease in human beings, but not including cosmetics or toilet articles, notwithstanding the presence of medicinal ingredients therein, according to a list prescribed and approved by the Department of Business and Professional Regulation, which list shall be certified to the Department of Revenue from time to time and included in the rules promulgated by the Department of Revenue. There shall also be exempt from the tax imposed by this chapter artificial eyes and limbs; orthopedic shoes; prescription eyeglasses and items incidental thereto or which become a part thereof; dentures; hearing aids; crutches; prosthetic and orthopedic appliances; and funerals. In addition, any items intended for one-time use which transfer essential optical characteristics to contact lenses shall be exempt from the tax imposed by this chapter; however, this exemption shall apply only after $100,000 of the tax imposed by this chapter on such items has been paid in any calendar year by a taxpayer who claims the exemption in such year. Funeral directors shall pay tax on all tangible personal property used by them in their business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purposes of this subsection:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Chlorine shall not be exempt from the tax imposed by this chapter when used for the treatment of water in swimming pools.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Lithotripters are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Human organs are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Sales of drugs to or by physicians, dentists, veterinarians, and hospitals in connection with medical treatment are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Medical products and supplies used in the cure, mitigation, alleviation, prevention, or treatment of injury, disease, or incapacity which are temporarily or permanently incorporated into a patient or client by a practitioner of the healing arts licensed in the state are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>The purchase by a veterinarian of commonly recognized substances possessing curative or remedial properties which are ordered and dispensed as treatment for a diagnosed health disorder by or on the prescription of a duly licensed veterinarian, and which are applied to or consumed by animals for alleviation of pain or the cure or prevention of sickness, disease, or suffering are exempt. Also exempt are the purchase by a veterinarian of antiseptics, absorbent cotton, gauze for bandages, lotions, vitamins, and worm remedies.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Sales of therapeutic veterinary diets specifically formulated to aid in the management of illness and disease of a diagnosed health disorder in an animal and which are only available from a licensed veterinarian are exempt from the tax imposed under this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>X-ray opaques, also known as opaque drugs and radiopaque, such as the various opaque dyes and barium sulphate, when used in connection with medical X rays for treatment of bodies of humans and animals, are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Parts, special attachments, special lettering, and other like items that are added to or attached to tangible personal property so that a handicapped person can use them are exempt when such items are purchased by a person pursuant to an individual prescription.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_2__para_m">
+              <num>(m)</num>
+              <content>
+                <p>This subsection shall be strictly construed and enforced.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>EXEMPTIONS; CERTAIN FARM EQUIPMENT.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax may not be imposed on the sale, rental, lease, use, consumption, repair, or storage for use in this state of power farm equipment or irrigation equipment, including replacement parts and accessories for power farm equipment or irrigation equipment, which are used exclusively on a farm or in a forest in the agricultural production of crops or products produced by those agricultural industries included in s.570.02(1), or for fire prevention and suppression work with respect to such crops or products. Harvesting may not be construed to include processing activities. This exemption is not forfeited by moving farm equipment between farms or forests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax may not be imposed on the sales price for a trailer purchased by a farmer for exclusive use in agricultural production or to transport farm products from his or her farm to the place where the farmer transfers ownership of the farm products to another. This exemption is not forfeited by using a trailer to transport the farmer’s farm equipment. The exemption provided under this paragraph does not apply to the lease or rental of a trailer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The exemptions provided in paragraphs (a) and (b) are not allowed unless the purchaser, renter, or lessee signs a certificate stating that the farm equipment is to be used exclusively as required under this subsection. Possession by a seller, lessor, or other dealer of a written certification by the purchaser, renter, or lessee certifying the purchaser’s, renter’s, or lessee’s entitlement to an exemption permitted by this subsection relieves the seller from the responsibility of collecting the tax on the nontaxable amounts, and the department shall look solely to the purchaser for recovery of such tax if it determines that the purchaser was not entitled to the exemption.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>EXEMPTIONS; ITEMS BEARING OTHER EXCISE TAXES, ETC.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Also exempt are:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Alcoholic beverages and malt beverages are not exempt. The terms “alcoholic beverages” and “malt beverages” as used in this paragraph have the same meanings ascribed to them in ss.561.01(4) and563.01, respectively. It is determined by the Legislature that the classification of alcoholic beverages made in this paragraph for the purpose of extending the tax imposed by this chapter is reasonable and just, and it is intended that such tax be separate from, and in addition to, any other tax imposed on alcoholic beverages.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>EXEMPTIONS; ACCOUNT OF USE.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Machinery and equipment used to increase productive output.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Machinery and equipment used in production of electrical or steam energy.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Machinery and equipment used under federal procurement contract.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Gas or electricity used for certain agricultural purposes.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Motion picture or video equipment used in motion picture or television production activities and sound recording equipment used in the production of master tapes and master records.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Building materials used in the rehabilitation of real property located in an enterprise zone.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Business property used in an enterprise zone.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Aircraft modification services.—There shall be exempt from the tax imposed by this chapter all charges for aircraft modification services, including parts and equipment furnished or installed in connection therewith, performed under authority of a supplemental type certificate issued by the Federal Aviation Administration.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Machinery and equipment used in semiconductor, defense, or space technology production.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Samples.—Paint color card samples, flooring and wall samples, fabric swatch samples, window covering samples, and similar samples, when such samples serve no useful purpose other than as a comparison of color, texture, or design; are provided by the manufacturer to a dealer or ultimate consumer for no charge; and are given away by the dealer to the ultimate consumer for no charge, are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Growth enhancers or performance enhancers for cattle.—There is exempt from the tax imposed by this chapter the sale of performance-enhancing or growth-enhancing products for cattle.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Educational materials purchased by certain child care facilities.—Educational materials, such as glue, paper, paints, crayons, unique craft items, scissors, books, and educational toys, purchased by a child care facility that meets the standards delineated in s.402.305, is licensed under s.402.308, holds a current Gold Seal Quality Care designation pursuant to s.1002.945, and provides basic health insurance to all employees are exempt from the taxes imposed by this chapter. For purposes of this paragraph, the term “basic health insurance” shall be defined and promulgated in rules developed jointly by the Department of Education, the Agency for Health Care Administration, and the Financial Services Commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_n">
+              <num>(n)</num>
+              <content>
+                <p>Materials for construction of single-family homes in certain areas.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_o">
+              <num>(o)</num>
+              <content>
+                <p>Building materials in redevelopment projects.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_q">
+              <num>(q)</num>
+              <content>
+                <p>Building materials, the rental of tangible personal property, and pest control services used in new construction located in a rural area of opportunity.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_r">
+              <num>(r)</num>
+              <content>
+                <p>Data center property.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_s">
+              <num>(s)</num>
+              <content>
+                <p>Machinery and equipment used in aquacultural activities.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_5__para_t">
+              <num>(t)</num>
+              <content>
+                <p>Items that assist in independent living.—</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>EXEMPTIONS; POLITICAL SUBDIVISIONS.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There are also exempt from the tax imposed by this chapter sales made to the United States Government, a state, or any county, municipality, or political subdivision of a state when payment is made directly to the dealer by the governmental entity. This exemption shall not inure to any transaction otherwise taxable under this chapter when payment is made by a government employee by any means, including, but not limited to, cash, check, or credit card when that employee is subsequently reimbursed by the governmental entity. This exemption does not include sales, rental, use, consumption, or storage for use in any political subdivision or municipality in this state of machines and equipment and parts and accessories therefor used in the generation, transmission, or distribution of electrical energy by systems owned and operated by a political subdivision in this state for transmission or distribution expansion. Likewise exempt are charges for services rendered by radio and television stations, including line charges, talent fees, or license fees and charges for films, videotapes, and transcriptions used in producing radio or television broadcasts. The exemption provided in this subsection does not include sales, rental, use, consumption, or storage for use in any political subdivision or municipality in this state of machines and equipment and parts and accessories therefor used in providing two-way telecommunications services to the public for hire by the use of a telecommunications facility, as defined in s.364.02(14), and for which a certificate is required under chapter 364, which facility is owned and operated by any county, municipality, or other political subdivision of the state. Any immunity of any political subdivision of the state or other entity of local government from taxation of the property used to provide telecommunication services that is taxed as a result of this section is hereby waived. However, the exemption provided in this subsection includes t</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The exemption provided under this subsection does not include sales of tangible personal property made to contractors employed directly to or as agents of any such government or political subdivision when such tangible personal property goes into or becomes a part of public works owned by such government or political subdivision. A determination of whether a particular transaction is properly characterized as an exempt sale to a government entity or a taxable sale to a contractor shall be based upon the substance of the transaction rather than the form in which the transaction is cast. However, for sales of tangible personal property that go into or become a part of public works owned by a governmental entity, other than the Federal Government, a governmental entity claiming the exemption provided under this subsection shall certify to the dealer and the contractor the entity’s claim to the exemption by providing the dealer and the contractor a certificate of entitlement to the exemption for such sales. If the department later determines that such sales, in which the governmental entity provided the dealer and the contractor with a certificate of entitlement to the exemption, were not exempt sales to the governmental entity, the governmental entity shall be liable for any tax, penalty, and interest determined to be owed on such transactions. Possession by a dealer or contractor of a certificate of entitlement to the exemption from the governmental entity relieves the dealer from the responsibility of collecting tax on the sale and the contractor for any liability for tax, penalty, or interest related to the sale, and the department shall look solely to the governmental entity for recovery of tax, penalty, and interest if the department determines that the transaction was not an exempt sale to the governmental entity. The governmental entity may not transfer liability for such tax, penalty, and interest to another party by contract or agreement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall adopt rules for determining whether a particular transaction is properly characterized as an exempt sale to a governmental entity or a taxable sale to a contractor which give special consideration to factors that govern the status of the tangible personal property before being affixed to real property. In developing such rules, assumption of the risk of damage or loss is of paramount consideration in the determination. The department shall also adopt, by rule, a certificate of entitlement to exemption for use as provided in paragraph (b). The certificate shall require the governmental entity to affirm that it will comply with the requirements of this subsection and the rules adopted under paragraph (b) in order to qualify for the exemption and that it acknowledges its liability for any tax, penalty, or interest later determined by the department to be owed on such transactions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of paragraph (a), the phrase “when payment is made directly to the dealer by the governmental entity” includes situations in which an entity under contract with a municipality to maintain and operate a municipally owned golf course pays for a purchase or lease for the operation or maintenance of that golf course using the golf course revenues or other funds provided by the municipality for use by that entity. This paragraph applies to a municipally owned golf course that is:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>MISCELLANEOUS EXEMPTIONS.—Exemptions provided to any entity by this chapter do not inure to any transaction that is otherwise taxable under this chapter when payment is made by a representative or employee of the entity by any means, including, but not limited to, cash, check, or credit card, even when that representative or employee is subsequently reimbursed by the entity. In addition, exemptions provided to any entity by this subsection do not inure to any transaction that is otherwise taxable under this chapter unless the entity has obtained a sales tax exemption certificate from the department or the entity obtains or provides other documentation as required by the department. Eligible purchases or leases made with such a certificate must be in strict compliance with this subsection and departmental rules, and any person who makes an exempt purchase with a certificate that is not in strict compliance with this subsection and the rules is liable for and shall pay the tax. The department may adopt rules to administer this subsection.</p>
+            </content>
+            <paragraph eId="212_08__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Artificial commemorative flowers.—Exempt from the tax imposed by this chapter is the sale of artificial commemorative flowers by bona fide nationally chartered veterans’ organizations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Boiler fuels.—When purchased for use as a combustible fuel, purchases of natural gas, residual oil, recycled oil, waste oil, solid waste material, coal, sulfur, hydrogen, wood, wood residues or wood bark used in an industrial manufacturing, processing, compounding, or production process at a fixed location in this state are exempt from the taxes imposed by this chapter; however, such exemption shall not be allowed unless the purchaser signs a certificate stating that the fuel to be exempted is for the exclusive use designated herein. This exemption does not apply to the use of boiler fuels that are not used in manufacturing, processing, compounding, or producing items of tangible personal property for sale, or to the use of boiler fuels used by any firm subject to regulation by the Division of Hotels and Restaurants of the Department of Business and Professional Regulation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Crustacea bait.—Also exempt from the tax imposed by this chapter is the purchase by commercial fishers of bait intended solely for use in the entrapment ofCallinectes sapidusandMenippe mercenaria.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Feeds.—Feeds for poultry, ostriches, and livestock, including racehorses and dairy cows, are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Film rentals.—Film rentals are exempt when an admission is charged for viewing such film, and license fees and direct charges for films, videotapes, and transcriptions used by television or radio stations or networks are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Flags.—Also exempt are sales of the flag of the United States and the official state flag of Florida.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Florida Retired Educators Association and its local chapters.—Also exempt from payment of the tax imposed by this chapter are purchases of office supplies, equipment, and publications made by the Florida Retired Educators Association and its local chapters.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Guide dogs for the blind.—Also exempt are the sale or rental of guide dogs for the blind, commonly referred to as “seeing-eye dogs,” and the sale of food or other items for such guide dogs.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Hospital meals and rooms.—Also exempt from payment of the tax imposed by this chapter on rentals and meals are patients and inmates of any hospital or other physical plant or facility designed and operated primarily for the care of persons who are ill, aged, infirm, mentally or physically incapacitated, or otherwise dependent on special care or attention. Residents of a home for the aged are exempt from payment of taxes on meals provided through the facility. A home for the aged is defined as a facility that is licensed or certified in part or in whole under chapter 400, chapter 429, or chapter 651, or that is financed by a mortgage loan made or insured by the United States Department of Housing and Urban Development under s. 202, s. 202 with a s. 8 subsidy, s. 221(d)(3) or (4), s. 232, or s. 236 of the National Housing Act, or other such similar facility designed and operated primarily for the care of the aged.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Household fuels.—Also exempt from payment of the tax imposed by this chapter are sales of utilities to residential households or owners of residential models in this state by utility companies who pay the gross receipts tax imposed under s.203.01, and sales of fuel to residential households or owners of residential models, including oil, kerosene, liquefied petroleum gas, coal, wood, and other fuel products used in the household or residential model for the purposes of heating, cooking, lighting, and refrigeration, regardless of whether such sales of utilities and fuels are separately metered and billed direct to the residents or are metered and billed to the landlord. If any part of the utility or fuel is used for a nonexempt purpose, the entire sale is taxable. The landlord shall provide a separate meter for nonexempt utility or fuel consumption. For the purposes of this paragraph, licensed family day care homes shall also be exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Meals provided by certain nonprofit organizations.—There is exempt from the tax imposed by this chapter the sale of prepared meals by a nonprofit volunteer organization to handicapped, elderly, or indigent persons when such meals are delivered as a charitable function by the organization to such persons at their places of residence.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Organizations providing special educational, cultural, recreational, and social benefits to minors.—Also exempt from the tax imposed by this chapter are sales or leases to and sales of donated property by nonprofit organizations which are incorporated pursuant to chapter 617 the primary purpose of which is providing activities that contribute to the development of good character or good sportsmanship, or to the educational or cultural development, of minors. This exemption is extended only to that level of the organization that has a salaried executive officer or an elected nonsalaried executive officer. For the purpose of this paragraph, the term “donated property” means any property transferred to such nonprofit organization for less than 50 percent of its fair market value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Religious institutions.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_n">
+              <num>(n)</num>
+              <content>
+                <p>Veterans’ organizations.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_o">
+              <num>(o)</num>
+              <content>
+                <p>Schools, colleges, and universities.—Also exempt from the tax imposed by this chapter are sales or leases to state tax-supported schools, colleges, or universities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_p">
+              <num>(p)</num>
+              <content>
+                <p>Section 501(c)(3) organizations.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_q">
+              <num>(q)</num>
+              <content>
+                <p>Resource recovery equipment.—Also exempt is resource recovery equipment which is owned and operated by or on behalf of any county or municipality, certified by the Department of Environmental Protection under the provisions of s.403.715.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_r">
+              <num>(r)</num>
+              <content>
+                <p>School books and school lunches; institution of higher learning prepaid meal plans.—This exemption applies to school books used in regularly prescribed courses of study, and to school lunches served in public, parochial, or nonprofit schools operated for and attended by pupils of grades K through 12. Yearbooks, magazines, newspapers, directories, bulletins, and similar publications distributed by such educational institutions to their students are also exempt. School books and food sold or served at a college or institution of higher learning are taxable, except that prepaid meal plans purchased for use by students currently enrolled or preparing to enroll in a college or institution of higher learning are exempt. As used in this paragraph, the term “prepaid meal plans” means payment in advance, or payment using financial aid, once disbursed, to a college or institution of higher learning, or to a management entity under contract to provide prepaid meal plans on behalf of a college or institution of higher learning, for the provision of defined quantities of dollar equivalencies or meal plans that expire at the end of an academic term and cannot be refunded to the student upon expiration. Prepaid meal plans that contain a defined number of meals or a defined number of dollar equivalencies qualify for this exemption. However, the taxability of the dollar equivalencies of the prepaid meal plans shall be determined upon the plan’s use, and tax shall be due when the dollar equivalencies are used to make a purchase if that purchase is otherwise subject to sales tax pursuant to this chapter. As used in this paragraph, the term “dollar equivalencies” includes university-specific dollars on a declining balance, such as flex bucks or dining bucks.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_s">
+              <num>(s)</num>
+              <content>
+                <p>Tasting beverages.—Vinous and alcoholic beverages provided by distributors or vendors for the purpose of “wine tasting” and “spirituous beverage tasting” as contemplated under the provisions of9ss.564.06and565.12, respectively, are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_t">
+              <num>(t)</num>
+              <content>
+                <p>Boats temporarily docked in state.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_u">
+              <num>(u)</num>
+              <content>
+                <p>Volunteer fire departments.—Also exempt are firefighting and rescue service equipment and supplies purchased by volunteer fire departments, duly chartered under the Florida Statutes as corporations not for profit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_v">
+              <num>(v)</num>
+              <content>
+                <p>Professional services.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_w">
+              <num>(w)</num>
+              <content>
+                <p>Certain newspaper, magazine, and newsletter subscriptions, shoppers, and community newspapers.—Likewise exempt are newspaper, magazine, and newsletter subscriptions in which the product is delivered to the customer by mail. Also exempt are free, circulated publications that are published on a regular basis, the content of which is primarily advertising, and that are distributed through the mail, home delivery, or newsstands. The exemption for newspaper, magazine, and newsletter subscriptions which is provided in this paragraph applies only to subscriptions entered into after March 1, 1997.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_x">
+              <num>(x)</num>
+              <content>
+                <p>Sporting equipment brought into the state.—Sporting equipment brought into Florida, for a period of not more than 4 months in any calendar year, used by an athletic team or an individual athlete in a sporting event is exempt from the use tax if such equipment is removed from the state within 7 days after the completion of the event.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_y">
+              <num>(y)</num>
+              <content>
+                <p>Charter fishing vessels.—The charge for chartering any boat or vessel, with the crew furnished, solely for the purpose of fishing is exempt from the tax imposed under s.212.04or s.212.05. This exemption does not apply to any charge to enter or stay upon any “head-boat,” party boat, or other boat or vessel. Nothing in this paragraph shall be construed to exempt any boat from sales or use tax upon the purchase thereof except as provided in paragraph (t) and s.212.05.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_z">
+              <num>(z)</num>
+              <content>
+                <p>Vending machines sponsored by nonprofit or charitable organizations.—Also exempt are food or drinks for human consumption sold for 25 cents or less through a coin-operated vending machine sponsored by a nonprofit corporation qualified as nonprofit pursuant to s. 501(c)(3) or (4) of the Internal Revenue Code of 1986, as amended.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_aa">
+              <num>(aa)</num>
+              <content>
+                <p>Certain commercial vehicles.—Also exempt is the sale, lease, or rental of a commercial motor vehicle as defined in s.207.002, when the following conditions are met:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_bb">
+              <num>(bb)</num>
+              <content>
+                <p>Community cemeteries.—Also exempt are purchases by any nonprofit corporation that has qualified under s. 501(c)(13) of the Internal Revenue Code of 1986, as amended, and is operated for the purpose of maintaining a cemetery that was donated to the community by deed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_cc">
+              <num>(cc)</num>
+              <content>
+                <p>Works of art.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_dd">
+              <num>(dd)</num>
+              <content>
+                <p>Taxicab leases.—The lease of or license to use a taxicab or taxicab-related equipment and services provided by a taxicab company to an independent taxicab operator are exempt, provided, however, the exemptions provided under this paragraph only apply if sales or use tax has been paid on the acquisition of the taxicab and its related equipment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ee">
+              <num>(ee)</num>
+              <content>
+                <p>Aircraft repair and maintenance labor charges.—All labor charges for the repair and maintenance of qualified aircraft and aircraft of more than 2,000 pounds maximum certified takeoff weight, including rotary wing aircraft, are exempt from the tax imposed under this chapter. Except as otherwise provided in this chapter, charges for parts and equipment furnished in connection with such labor charges are taxable.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ff">
+              <num>(ff)</num>
+              <content>
+                <p>Certain electricity or steam uses.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_gg">
+              <num>(gg)</num>
+              <content>
+                <p>Fair associations.—Also exempt from the tax imposed by this chapter is the sale, use, lease, rental, or grant of a license to use, made directly to or by a fair association, of tangible personal property; any charge made by a fair association, or its agents, for parking, admissions, or for temporary parking of vehicles used for sleeping quarters; rentals, subleases, and sublicenses of tangible personal property between the owner of the central amusement attraction and any owner of an amusement ride, as those terms are used in ss.616.15(1)(b) and616.242(3)(a), for the furnishing of amusement rides at a public fair or exposition; and other transactions of a fair association which are incurred directly by the fair association in the financing, construction, and operation of a fair, exposition, or other event or facility that is authorized by s.616.08. As used in this paragraph, the terms “fair association” and “public fair or exposition” have the same meaning as those terms are defined in s.616.001. This exemption does not apply to the sale of tangible personal property made by a fair association through an agent or independent contractor; sales of admissions and tangible personal property by a concessionaire, vendor, exhibitor, or licensee; or rentals and subleases of tangible personal property between the owner of the central amusement attraction and a concessionaire, vendor, exhibitor, or licensee, except for the furnishing of amusement rides, which transactions are exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_hh">
+              <num>(hh)</num>
+              <content>
+                <p>Solar energy systems.—Also exempt are solar energy systems or any component thereof. The Florida Solar Energy Center shall from time to time certify to the department a list of equipment and requisite hardware considered to be a solar energy system or a component thereof.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Nonprofit cooperative hospital laundries.—Also exempt are sales or leases to nonprofit organizations that are incorporated under chapter 617 and which are treated, for federal income tax purposes, as cooperatives under subchapter T of the Internal Revenue Code, whose sole purpose is to offer laundry supplies and services to their members who must all be exempt from federal income tax pursuant to s. 501(c)(3) of the Internal Revenue Code. A member of a nonprofit cooperative hospital laundry whose Internal Revenue Code status changes shall, within 90 days after such change, divest all participation in the cooperative. The provision of laundry supplies and services to a nonmember business pursuant to a declaration of emergency under s.252.36(2) and a written emergency plan of operation executed by the members of the cooperative does not invalidate or cause the denial of a cooperative’s certificate of exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_jj">
+              <num>(jj)</num>
+              <content>
+                <p>Complimentary meals.—Also exempt from the tax imposed by this chapter are food or drinks that are furnished as part of a packaged room rate by any person offering for rent or lease any transient living accommodations as described in s.509.013(4)(a) which are licensed under part I of chapter 509 and which are subject to the tax under s.212.03, if a separate charge or specific amount for the food or drinks is not shown. Such food or drinks are considered to be sold at retail as part of the total charge for the transient living accommodations. Moreover, the person offering the accommodations is not considered to be the consumer of items purchased in furnishing such food or drinks and may purchase those items under conditions of a sale for resale.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_kk">
+              <num>(kk)</num>
+              <content>
+                <p>Nonprofit corporation conducting the correctional work programs.—Products sold pursuant to s.946.515by the corporation organized pursuant to part II of chapter 946 are exempt from the tax imposed by this chapter. This exemption applies retroactively to July 1, 1983.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ll">
+              <num>(ll)</num>
+              <content>
+                <p>Parent-teacher organizations, parent-teacher associations, and schools having grades K through 12.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_mm">
+              <num>(mm)</num>
+              <content>
+                <p>Mobile home lot improvements.—Items purchased by developers for use in making improvements to a mobile home lot owned by the developer may be purchased tax-exempt as a sale for resale if made pursuant to a contract that requires the developer to sell a mobile home to a purchaser, place the mobile home on the lot, and make the improvements to the lot for a single lump-sum price. The developer must collect and remit sales tax on the entire lump-sum price.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_nn">
+              <num>(nn)</num>
+              <content>
+                <p>United States Department of Veterans Affairs.—When a veteran of the armed forces purchases an aircraft, boat, mobile home, motor vehicle, or other vehicle from a dealer pursuant to the provisions of 38 U.S.C. s. 3902(a), or any successor provision of the United States Code, the amount that is paid directly to the dealer by the United States Department of Veterans Affairs is not taxable. However, any portion of the purchase price which is paid directly to the dealer by the veteran is taxable.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_oo">
+              <num>(oo)</num>
+              <content>
+                <p>Complimentary items.—There is exempt from the tax imposed by this chapter:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_pp">
+              <num>(pp)</num>
+              <content>
+                <p>Donated foods or beverages.—Any food or beverage donated by a dealer that sells food products at retail to a food bank or an organization that holds a current exemption from federal corporate income tax pursuant to s. 501(c) of the Internal Revenue Code of 1986, as amended, is exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_qq">
+              <num>(qq)</num>
+              <content>
+                <p>Racing dogs.—The sale of a racing dog by its owner is exempt if the owner is also the breeder of the animal.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_rr">
+              <num>(rr)</num>
+              <content>
+                <p>Equipment used in aircraft repair and maintenance.—Replacement engines, parts, and equipment used in the repair or maintenance of qualified aircraft and aircraft of more than 2,000 pounds maximum certified takeoff weight, including rotary wing aircraft, are exempt from the tax imposed under this chapter if such parts or equipment are installed on such aircraft that is being repaired or maintained in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ss">
+              <num>(ss)</num>
+              <content>
+                <p>Aircraft sales or leases.—The sale or lease of a qualified aircraft or an aircraft of more than 15,000 pounds maximum certified takeoff weight for use by a common carrier is exempt from the tax imposed by this chapter. As used in this paragraph, “common carrier” means an airline operating under Federal Aviation Administration regulations contained in Title 14, chapter I, part 121 or part 129 of the Code of Federal Regulations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_tt">
+              <num>(tt)</num>
+              <content>
+                <p>Nonprofit water systems.—Sales or leases to a not-for-profit corporation which holds a current exemption from federal income tax under s. 501(c)(4) or (12) of the Internal Revenue Code, as amended, are exempt from the tax imposed by this chapter if the sole or primary function of the corporation is to construct, maintain, or operate a water system in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_uu">
+              <num>(uu)</num>
+              <content>
+                <p>Library cooperatives.—Sales or leases to library cooperatives certified under s.257.41(2) are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_vv">
+              <num>(vv)</num>
+              <content>
+                <p>Advertising agencies.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ww">
+              <num>(ww)</num>
+              <content>
+                <p>Bullion.—The sale of gold, silver, or platinum bullion, or any combination thereof, in a single transaction is exempt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_xx">
+              <num>(xx)</num>
+              <content>
+                <p>Certain repair and labor charges.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_yy">
+              <num>(yy)</num>
+              <content>
+                <p>Film and other printing supplies.—Also exempt are the following materials purchased, produced, or created by businesses classified under SIC Industry Numbers 275, 276, 277, 278, or 279 for use in producing graphic matter for sale: film, photographic paper, dyes used for embossing and engraving, artwork, typography, lithographic plates, and negatives. As used in this paragraph, “SIC” means those classifications contained in the Standard Industrial Classification Manual, 1987, as published by the Office of Management and Budget, Executive Office of the President.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_zz">
+              <num>(zz)</num>
+              <content>
+                <p>People-mover systems.—People-mover systems, and parts thereof, which are purchased or manufactured by contractors employed either directly by or as agents for the United States Government, the state, a county, a municipality, a political subdivision of the state, or the public operator of a public-use airport as defined by s.332.004(14) are exempt from the tax imposed by this chapter when the systems or parts go into or become part of publicly owned facilities. In the case of contractors who manufacture and install such systems and parts, this exemption extends to the purchase of component parts and all other manufacturing and fabrication costs. The department may provide a form to be used by contractors to provide to suppliers of people-mover systems or parts to certify the contractors’ eligibility for the exemption provided under this paragraph. As used in this paragraph, “people-mover systems” includes wheeled passenger vehicles and related control and power distribution systems that are part of a transportation system for use by the general public, regardless of whether such vehicles are operator-controlled or driverless, self-propelled or propelled by external power and control systems, or conducted on roads, rails, guidebeams, or other permanent structures that are an integral part of such transportation system. “Related control and power distribution systems” includes any electrical or electronic control or signaling equipment, but does not include the embedded wiring, conduits, or cabling used to transmit electrical or electronic signals among such control equipment, power distribution equipment, signaling equipment, and wheeled vehicles.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_aaa">
+              <num>(aaa)</num>
+              <content>
+                <p>Florida Fire and Emergency Services Foundation.—Sales or leases to the Florida Fire and Emergency Services Foundation are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_bbb">
+              <num>(bbb)</num>
+              <content>
+                <p>Railroad roadway materials.—Also exempt from the tax imposed by this chapter are railroad roadway materials used in the construction, repair, or maintenance of railways. Railroad roadway materials shall include rails, ties, ballasts, communication equipment, signal equipment, power transmission equipment, and any other track materials.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ccc">
+              <num>(ccc)</num>
+              <content>
+                <p>Advertising materials distributed free of charge by mail in an envelope.—Likewise exempt are materials consisting exclusively of advertisements, such as individual coupons or other individual cards, sheets, or pages of printed advertising, that are distributed free of charge by mail in an envelope for 10 or more persons on a monthly, bimonthly, or other regular basis.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ddd">
+              <num>(ddd)</num>
+              <content>
+                <p>Certain delivery charges.—Separately stated charges that can be avoided at the option of the purchaser for the delivery, inspection, placement, or removal from packaging or shipping materials of furniture or appliances by the selling dealer at the premises of the purchaser or the removal of similar items from the premises of the purchaser are exempt. If any charge for delivery, inspection, placement, or removal of furniture or appliances includes the modification, assembly, or construction of such furniture or appliances, then all of the charges are taxable.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_eee">
+              <num>(eee)</num>
+              <content>
+                <p>Aircraft temporarily in the state.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_fff">
+              <num>(fff)</num>
+              <content>
+                <p>Fractional aircraft ownership programs.—The sale or use of aircraft primarily used in a fractional aircraft ownership program or of any parts or labor used in the completion, maintenance, repair, or overhaul of such aircraft is exempt from the tax imposed by this chapter. The exemption is not allowed unless the program manager of the fractional aircraft ownership program furnishes the dealer with a certificate stating that the lease, purchase, repair, or maintenance is for aircraft primarily used in a fractional aircraft ownership program and that the program manager qualifies for the exemption. If a program manager makes tax-exempt purchases on a continual basis, the program manager may allow the dealer to keep the certificate on file. The program manager must inform a dealer that keeps the certificate on file if the program manager no longer qualifies for the exemption. The department may adopt rules to administer this paragraph, including rules determining the format of the certificate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ggg">
+              <num>(ggg)</num>
+              <content>
+                <p>Items used in manufacturing and fabricating aircraft and gas turbine engines.—Chemicals, machinery, parts, and equipment used and consumed in the manufacture or fabrication of aircraft engines and gas turbine engines, including cores, electrical discharge machining supplies, brass electrodes, ceramic guides, reamers, grinding and deburring wheels, Norton vortex wheels, argon, nitrogen, helium, fluid abrasive cutters, solvents and soaps, borescopes, penetrants, patterns, dies, and molds consumed in the production of castings are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_hhh">
+              <num>(hhh)</num>
+              <content>
+                <p>Accessible taxicabs.—The sale or lease of accessible taxicabs is exempt from the tax imposed by this chapter. As used in this paragraph, the term “accessible taxicab” means a chauffeur-driven taxi, limousine, sedan, van, or other passenger vehicle for which an operator is hired to use for the transportation of persons for compensation; which transports eight passengers or fewer; is equipped with a lift or ramp designed specifically to transport physically disabled persons or contains any other device designed to permit access to, and enable the transportation of, physically disabled persons, including persons who use wheelchairs, motorized wheelchairs, or similar mobility aids; which complies with the accessibility requirements of the Americans with Disabilities Act of 1990, 49 C.F.R. ss.38.23,38.25, and38.31, as amended, regardless of whether such requirements would apply under federal law; and meets all applicable federal motor vehicle safety standards and regulations adopted thereunder. If the lift or ramp or any other device is installed through an aftermarket conversion of a stock vehicle, only the value of the conversion is exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_iii">
+              <num>(iii)</num>
+              <content>
+                <p>Certain machinery and equipment.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_jjj">
+              <num>(jjj)</num>
+              <content>
+                <p>Motor vehicle child restraint.—The sale of a child restraint system or booster seat for use in a motor vehicle is exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_kkk">
+              <num>(kkk)</num>
+              <content>
+                <p>Bicycle helmets.—The sale of a bicycle helmet is exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_lll">
+              <num>(lll)</num>
+              <content>
+                <p>Importation of motor vehicles; active United States Armed Forces members.—The importation of a motor vehicle purchased and used for 6 months or more in a foreign country by an active member of the United States Armed Forces or his or her spouse is also exempt from the tax imposed by this chapter when the vehicle is imported, registered, or titled in this state for personal use by the member or his or her spouse. Proof of the active status of the member, and, when applicable, proof of the spouse’s relationship to the member, must be provided when the vehicle is titled and registered in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_mmm">
+              <num>(mmm)</num>
+              <content>
+                <p>Products used to absorb menstrual flow.—Products used to absorb menstrual flow are exempt from the tax imposed by this chapter. As used in this paragraph, the term “products used to absorb menstrual flow” means products used to absorb or contain menstrual flow, including, but not limited to, tampons, sanitary napkins, pantiliners, and menstrual cups.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_nnn">
+              <num>(nnn)</num>
+              <content>
+                <p>Recycling roll off containers.—Recycling roll off containers purchased by a business whose primary business activity is within the industry classified under NAICS code 423930 and which are used exclusively for business activities within the industry classified under NAICS code 423930 are exempt from the tax imposed by this chapter. As used in this paragraph, the term “NAICS” means those classifications contained in the North American Industry Classification System, as published in 2007 by the Office of Management and Budget, Executive Office of the President.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_ooo">
+              <num>(ooo)</num>
+              <content>
+                <p>Green hydrogen.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_uuu">
+              <num>(uuu)</num>
+              <content>
+                <p>Batteries.—AA-cell, AAA-cell, C-cell, D-cell, 6-volt, or 9-volt batteries are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_vvv">
+              <num>(vvv)</num>
+              <content>
+                <p>Smoke detection devices.—Smoke detection devices as defined in s.83.51are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_www">
+              <num>(www)</num>
+              <content>
+                <p>Carbon monoxide alarms.—Carbon monoxide alarms as defined in s.553.885are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_xxx">
+              <num>(xxx)</num>
+              <content>
+                <p>Fire extinguishers.—Fire extinguishers as defined in s.633.102are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_yyy">
+              <num>(yyy)</num>
+              <content>
+                <p>Portable generators.—Portable generators are exempt from the tax imposed by this chapter. As used in this paragraph, the term “portable generator” means a portable engine-driven machine that converts chemical energy from the fuel powering the engine to mechanical energy, which, in turn, is converted to electrical power in the amount of 10,000 running watts or less.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_zzz">
+              <num>(zzz)</num>
+              <content>
+                <p>Waterproof tarpaulins and other flexible waterproof sheeting.—Waterproof tarpaulins and other flexible waterproof sheeting that are 1,000 square feet or less are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_aaaa">
+              <num>(aaaa)</num>
+              <content>
+                <p>Ground anchor systems and tie-down kits.—Items normally sold as, or generally advertised as, ground anchor systems or tie-down kits are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_bbbb">
+              <num>(bbbb)</num>
+              <content>
+                <p>Portable gas cans.—Portable gas or diesel fuel cans with a capacity of 5 gallons or less are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_cccc">
+              <num>(cccc)</num>
+              <content>
+                <p>Life jackets.—Life jackets are exempt from the tax imposed by this chapter. As used in this paragraph, the term “life jacket” means a personal flotation device approved by the United States Coast Guard that is intended to be worn by a person to provide buoyancy to support a person in the water.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_dddd">
+              <num>(dddd)</num>
+              <content>
+                <p>Sunscreen.—Sunscreen is exempt from the tax imposed by this chapter. As used in this paragraph, the term “sunscreen” means a topical product that is primarily intended for application to the skin of a person and classified by the United States Food and Drug Administration for the purpose of absorbing, reflecting, or scattering ultraviolet radiation. The term does not include cosmetics or other products that are not primarily intended to absorb, reflect, or scatter ultraviolet radiation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_7__para_eeee">
+              <num>(eeee)</num>
+              <content>
+                <p>Insect repellent.—Insect repellent is exempt from the tax imposed by this chapter. As used in this paragraph, the term “insect repellent” means a product registered by the United States Environmental Protection Agency which is designed to deter insects from landing on or biting a target and is intended for application to the skin of a person.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>PARTIAL EXEMPTIONS; VESSELS ENGAGED IN INTERSTATE OR FOREIGN COMMERCE.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The sale or use of vessels and parts thereof used to transport persons or property in interstate or foreign commerce, including commercial fishing vessels, is subject to the taxes imposed in this chapter only to the extent provided herein. The basis of the tax shall be the ratio of intrastate mileage to interstate or foreign mileage traveled by the carrier’s vessels which were used in interstate or foreign commerce and which had at least some Florida mileage during the previous fiscal year. The ratio would be determined at the close of the carrier’s fiscal year. However, during the fiscal year in which the vessel begins its initial operations in this state, the vessel’s mileage apportionment factor may be determined on the basis of an estimated ratio of anticipated miles in this state to anticipated total miles for that year and, subsequently, additional tax shall be paid on the vessel, or a refund may be applied for, on the basis of the actual ratio of the vessel’s miles in this state to its total miles for that year. This ratio shall be applied each month to the total Florida purchases of such vessels and parts thereof which are used in Florida to establish that portion of the total used and consumed in intrastate movement and subject to the tax at the applicable rate. The basis for imposition of any discretionary surtax shall be as set forth in s.212.054. Items, appropriate to carry out the purposes for which a vessel is designed or equipped and used, purchased by the owner, operator, or agent of a vessel for use on board such vessel shall be deemed to be parts of the vessel upon which the same are used or consumed. Vessels and parts thereof used to transport persons or property in interstate and foreign commerce are hereby determined to be susceptible to a distinct and separate classification for taxation under the provisions of this chapter. Vessels and parts thereof used exclusively in intrastate commerce do not qualify for the proration of tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The partial exemption provided for in this subsection shall not be allowed unless the purchaser signs an affidavit stating that the item or items to be partially exempted are for the exclusive use designated herein and setting forth the extent of such partial exemption. Any person furnishing a false affidavit to such effect for the purpose of evading payment of any tax imposed under this chapter is subject to the penalties set forth in s.212.12and as otherwise provided by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>It is the intent of the Legislature that neither subsection (4) nor this subsection shall be construed as imposing the tax provided by this chapter on vessels used as common carriers, contract carriers, or private carriers, engaged in interstate or foreign commerce, except to the extent provided by the pro rata formula provided in subsection (4) and in paragraph (a).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>PARTIAL EXEMPTIONS; RAILROADS AND MOTOR VEHICLES ENGAGED IN INTERSTATE OR FOREIGN COMMERCE.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Railroads that are licensed as common carriers by the Surface Transportation Board and parts thereof used to transport persons or property in interstate or foreign commerce are subject to tax imposed in this chapter only to the extent provided herein. The basis of the tax shall be the ratio of intrastate mileage to interstate or foreign mileage traveled by the carrier during the previous fiscal year of the carrier. Such ratio is to be determined at the close of the carrier’s fiscal year. However, during the fiscal year in which the railroad begins its initial operations in this state, the railroad’s mileage apportionment factor may be determined on the basis of an estimated ratio of anticipated miles in this state to anticipated total miles for that year and, subsequently, additional tax shall be paid on the railroad, or a refund may be applied for, on the basis of the actual ratio of the railroad’s miles in this state to its total miles for that year. This ratio shall be applied each month to the purchases of the railroad in this state which are used in this state to establish that portion of the total used and consumed in intrastate movement and subject to tax under this chapter. The basis for imposition of any discretionary surtax is set forth in s.212.054. Railroads that are licensed as common carriers by the Surface Transportation Board and parts thereof used to transport persons or property in interstate and foreign commerce are hereby determined to be susceptible to a distinct and separate classification for taxation under the provisions of this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Motor vehicles that are engaged in interstate commerce as common carriers, and parts thereof, used to transport persons or property in interstate or foreign commerce are subject to tax imposed in this chapter only to the extent provided herein. The basis of the tax shall be the ratio of intrastate mileage to interstate or foreign mileage traveled by the carrier’s motor vehicles which were used in interstate or foreign commerce and which had at least some Florida mileage during the previous fiscal year of the carrier. Such ratio is to be determined at the close of the carrier’s fiscal year. However, during the fiscal year in which the carrier begins its initial operations in this state, the carrier’s mileage apportionment factor may be determined on the basis of an estimated ratio of anticipated miles in this state to anticipated total miles for that year and, subsequently, additional tax shall be paid on the carrier, or a refund may be applied for, on the basis of the actual ratio of the carrier’s miles in this state to its total miles for that year. This ratio shall be applied each month to the purchases in this state of such motor vehicles and parts thereof which are used in this state to establish that portion of the total used and consumed in intrastate movement and subject to tax under this chapter. The basis for imposition of any discretionary surtax is set forth in s.212.054. Motor vehicles that are engaged in interstate commerce, and parts thereof, used to transport persons or property in interstate and foreign commerce are hereby determined to be susceptible to a distinct and separate classification for taxation under the provisions of this chapter. Motor vehicles and parts thereof used exclusively in intrastate commerce do not qualify for the proration of tax. For purposes of this paragraph, parts of a motor vehicle engaged in interstate commerce include a separate tank not connected to the fuel supply system of the motor vehicle into which diesel fuel is </p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>PARTIAL EXEMPTION; MOTOR VEHICLE SOLD TO RESIDENT OF ANOTHER STATE.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax collected on the sale of a new or used motor vehicle in this state to a resident of another state shall be an amount equal to the sales tax which would be imposed on such sale under the laws of the state of which the purchaser is a resident, except that such tax shall not exceed the tax that would otherwise be imposed under this chapter. At the time of the sale, the purchaser shall execute a notarized statement of his or her intent to license the vehicle in the state of which the purchaser is a resident within 45 days of the sale and of the fact of the payment to the State of Florida of a sales tax in an amount equivalent to the sales tax of his or her state of residence and shall submit the statement to the appropriate sales tax collection agency in his or her state of residence. Nothing in this subsection shall be construed to require the removal of the vehicle from this state following the filing of an intent to license the vehicle in the purchaser’s home state if the purchaser licenses the vehicle in his or her home state within 45 days after the date of sale.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding the partial exemption allowed in paragraph (a), a vehicle is subject to this state’s sales tax at the applicable state sales tax rate plus authorized surtaxes when the vehicle is purchased by a nonresident corporation or partnership and:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Nothing herein shall require the payment of tax to the State of Florida for assessments made prior to July 1, 2001, if the tax imposed by this section has been paid to the state in which the vehicle was licensed and the department has assessed a like amount of tax on the same transactions. This provision shall apply retroactively to assessments that have been protested prior to August 1, 1999, and have not been paid on the date this act takes effect.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>PARTIAL EXEMPTION; FLYABLE AIRCRAFT.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax imposed on the sale by a manufacturer of flyable aircraft, who designs such aircraft, which sale may include necessary equipment and modifications placed on such flyable aircraft prior to delivery by the manufacturer, shall be an amount equal to the sales tax which would be imposed on such sale under the laws of the state in which the aircraft will be domiciled.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This partial exemption applies only if the purchaser is a resident of another state who will not use the aircraft in this state, or if the purchaser is a resident of another state and uses the aircraft in interstate or foreign commerce, or if the purchaser is a resident of a foreign country.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The maximum tax collectible under this subsection may not exceed 6 percent of the sales price of such aircraft. No Florida tax may be imposed on the sale of such aircraft if the state in which the aircraft will be domiciled does not allow Florida sales or use tax to be credited against its sales or use tax. Furthermore, no tax may be imposed on the sale of such aircraft if the state in which the aircraft will be domiciled has enacted a sales and use tax exemption for flyable aircraft or if the aircraft will be domiciled outside the United States.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The purchaser shall execute a sworn affidavit attesting that he or she is not a resident of this state and stating where the aircraft will be domiciled. If the aircraft is subsequently used in this state within 6 months of the time of purchase, in violation of the intent of this subsection, the purchaser shall be liable for payment of the full use tax imposed by this chapter and shall be subject to the penalty imposed by s.212.12(2), which penalty shall be mandatory. Notwithstanding the provisions of this paragraph, the owner of an aircraft purchased pursuant to this subsection may permit the aircraft to be returned to this state for repairs within 6 months after the date of sale without the aircraft being in violation of the law and without incurring liability for payment of tax or penalty on the purchase price of the aircraft, so long as the aircraft is removed from this state within 20 days after the completion of the repairs and such removal can be proven by invoices for fuel, tie-down, or hangar charges issued by out-of-state vendors or suppliers or similar documentation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>PARTIAL EXEMPTION; MASTER TAPES, RECORDS, FILMS, OR VIDEO TAPES.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_12__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There are exempt from the taxes imposed by this chapter the gross receipts from the sale or lease of, and the storage, use, or other consumption in this state of, master tapes or master records embodying sound, or master films or master video tapes; except that amounts paid to recording studios or motion picture or television studios for the tangible elements of such master tapes, records, films, or video tapes are taxable as otherwise provided in this chapter. This exemption will inure to the taxpayer upon presentation of the certificate of exemption issued to the taxpayer under the provisions of s.288.1258.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For the purposes of this subsection, the term:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>LIMITATIONS ON EXEMPTIONS.—No transactions shall be exempt from the tax imposed by this chapter except those expressly exempted herein. All laws granting tax exemptions, to the extent they may be inconsistent or in conflict with this chapter, including, but not limited to, the following designated laws, shall yield to and be superseded by the provisions of this subsection: ss.125.019,153.76,154.2331,159.15,159.31,159.50,159.708,163.385,163.395,215.76,243.33,315.11,348.65,348.762,349.13,403.1834,616.07, and623.09, and the following Laws of Florida, acts of the year indicated: s. 31, chapter 30843, 1955; s. 19, chapter 30845, 1955; s. 12, chapter 30927, 1955; s. 8, chapter 31179, 1955; s. 15, chapter 31263, 1955; s. 13, chapter 31343, 1955; s. 16, chapter 59-1653; s. 13, chapter 59-1356; s. 12, chapter 61-2261; s. 19, chapter 61-2754; s. 10, chapter 61-2686; s. 11, chapter 63-1643; s. 11, chapter 65-1274; s. 16, chapter 67-1446; and s. 10, chapter 67-1681. This subsection does not supersede the authority of a local government to adopt financial and local government incentives pursuant to s.163.2517.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_08__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>TECHNICAL ASSISTANCE ADVISORY COMMITTEE.—The department shall establish a technical assistance advisory committee with public and private sector members, including representatives of both manufacturers and retailers, to advise the Department of Revenue and the Department of Health in determining the taxability of specific products and product lines pursuant to subsection (1) and paragraph (2)(a). In determining taxability and in preparing a list of specific products and product lines that are or are not taxable, the committee shall not be subject to the provisions of chapter 120. Private sector members shall not be compensated for serving on the committee.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_08__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>ELECTRICAL ENERGY USED IN AN ENTERPRISE ZONE.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Beginning July 1, 1995, charges for electrical energy used by a qualified business at a fixed location in an enterprise zone in a municipality which has enacted an ordinance pursuant to s.166.231(8) which provides for exemption of municipal utility taxes on such businesses or in an enterprise zone jointly authorized by a county and a municipality which has enacted an ordinance pursuant to s.166.231(8) which provides for exemption of municipal utility taxes on such businesses shall receive an exemption equal to 50 percent of the tax imposed by this chapter, or, if no less than 20 percent of the employees of the business are residents of an enterprise zone, excluding temporary and part-time employees, the exemption shall be equal to 100 percent of the tax imposed by this chapter. A qualified business may receive such exemption for a period of 5 years from the billing period beginning not more than 30 days following notification to the applicable utility company by the department that an exemption has been authorized pursuant to this subsection and s.166.231(8).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>To receive this exemption, a business must file an application, with the enterprise zone development agency having jurisdiction over the enterprise zone where the business is located, on a form provided by the department for the purposes of this subsection and s.166.231(8). The application shall be made under oath and shall include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_15__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Within 10 working days after receipt of an application, the enterprise zone development agency shall review the application to determine if it contains all information required pursuant to paragraph (b) and meets the criteria set out in this subsection. The agency shall certify all applications that contain the information required pursuant to paragraph (b) and meet the criteria set out in this subsection as eligible to receive an exemption. If applicable, the agency shall also certify if 20 percent of the employees of the business are residents of an enterprise zone, excluding temporary and part-time employees. The certification shall be in writing, and a copy of the certification shall be transmitted to the executive director of the Department of Revenue. The applicant shall be responsible for forwarding a certified application to the department within 6 months after the occurrence of the appropriate qualifying provision set out in paragraph (f).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_15__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If, in a subsequent audit conducted by the department, it is determined that the business did not meet the criteria mandated in this subsection, the amount of taxes exempted shall immediately be due and payable to the department by the business, together with the appropriate interest and penalty, computed from the due date of each bill for the electrical energy purchased as exempt under this subsection, in the manner prescribed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_15__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The department shall adopt rules governing applications for, issuance of, and the form of applications for the exemption authorized in this subsection and provisions for recapture of taxes exempted under this subsection, and the department may establish guidelines as to qualifications for exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_15__para_f">
+              <num>(f)</num>
+              <content>
+                <p>For the purpose of the exemption provided in this subsection, the term “qualified business” means a business which is:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_15__para_g">
+              <num>(g)</num>
+              <content>
+                <p>This subsection expires on the date specified in s.290.016for the expiration of the Florida Enterprise Zone Act, except that:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>EXEMPTIONS; SPACE ACTIVITIES.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_16__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There shall be exempt from the tax imposed by this chapter:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_16__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This subsection shall be strictly construed and enforced.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>EXEMPTIONS; CERTAIN GOVERNMENT CONTRACTORS.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_17__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subject to paragraph (d), the tax imposed by this chapter does not apply to the sale to or use by a government contractor of overhead materials. The term “government contractor” includes prime contractors and subcontractors.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_17__para_b">
+              <num>(b)</num>
+              <content>
+                <p>As used in this subsection, the term “overhead materials” means all tangible personal property, other than qualifying property as defined in s.212.02(14)(a) and electricity, which is used or consumed in the performance of a qualifying contract, title to which property vests in or passes to the government under the contract.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_17__para_c">
+              <num>(c)</num>
+              <content>
+                <p>As used in this subsection and in s.212.02(14)(a), the term “qualifying contract” means a contract with the United States Department of Defense or the National Aeronautics and Space Administration, or a subcontract thereunder, but does not include a contract or subcontract for the repair, alteration, improvement, or construction of real property, except to the extent that purchases under such a contract would otherwise be exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_17__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The exemption provided in this subsection applies as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_17__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Possession by a seller of a resale certificate or direct-pay permit relieves the seller from the responsibility of collecting the tax, and the department shall look solely to the contractor for recovery of such tax if it determines that the contractor was not entitled to the exemption. The contractor shall self-accrue and remit any applicable sales or use tax due with respect to overhead materials and with respect to costs allocable to contracts that are not qualifying contracts. The department may amend its rules to reflect the use of resale certificates and direct-pay permits with respect to the exemption provided for in this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_17__para_f">
+              <num>(f)</num>
+              <content>
+                <p>This subsection is not an expression of legislative intent as to the applicability of any tax to any sale or use of overhead materials prior to July 1, 1999. In addition, this subsection does not imply that transactions or costs that are not described in this subsection are taxable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>MACHINERY AND EQUIPMENT USED PREDOMINANTLY FOR RESEARCH AND DEVELOPMENT.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_18__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Machinery and equipment used predominantly for research and development as defined in this subsection are exempt from the tax imposed by this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_18__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this subsection:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_18__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department may adopt rules pursuant to ss.120.536(1) and120.54that provide for administering and implementing this exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_18__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A person who claims the exemption provided in this subsection shall furnish the vendor of the machinery or equipment, including the vendor of materials and labor used in self-fabrication of the machinery or equipment, an affidavit stating that the item or items for which an exemption is claimed are machinery and equipment that will be used predominantly for research and development as required by this subsection. A purchaser who claims the exemption by refund shall include the affidavit with the refund application. The affidavit must contain the purchaser’s name, address, sales and use tax registration number, and, if applicable, federal employer’s identification number. Any person fraudulently furnishing an affidavit to the vendor for the purpose of evading payment of any tax imposed under this chapter shall be subject to the penalty set forth in s.212.085and as otherwise provided by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_18__para_e">
+              <num>(e)</num>
+              <content>
+                <p>In lieu of furnishing an affidavit, a purchaser claiming the exemption provided in this subsection who has a direct-pay permit may furnish the vendor with a copy of the direct-pay permit and shall maintain all documentation necessary to prove the exempt status of the purchases and fabrication activity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_18__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Purchasers shall maintain all documentation necessary to prove the exempt status of purchases and fabrication activity and make such documentation available for inspection pursuant to the requirements of s.212.13(2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_08__subsec_20">
+            <num>(20)</num>
+            <content>
+              <p>ANNUAL BACK-TO-SCHOOL SALES TAX HOLIDAY.—</p>
+            </content>
+            <paragraph eId="212_08__subsec_20__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax imposed by this chapter may not be collected on sales made during the month of August on the following items:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_08__subsec_20__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax exemptions provided in this subsection do not apply to sales within a theme park or entertainment complex as defined in s.509.013(9), within a public lodging establishment as defined in s.509.013(4), or within an airport as defined in s.330.27(2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

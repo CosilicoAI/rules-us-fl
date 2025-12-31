@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/219.05"/>
+          <FRBRuri value="/us-fl/act/fsa/219.05"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/219.05/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/219.05/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/219.05/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/219.05/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>Chapter 219</num>
+        <heading>County Public Money, Handling by State and County</heading>
+        <section eId="sec_219_05">
+          <num>219.05</num>
+          <heading>Depositories.</heading>
+          <content>
+            <p>Public money, as defined in this act, may be deposited in a depository qualified under the provisions of chapter 136. Such deposits shall be made sufficiently often to keep the amount of the money in the office within the insurance coverage; provided, that any public money may be paid directly to the officer, person, or fund entitled to receive it, without first depositing it in the depository, if a receipt is taken and the transaction is properly recorded in the cash book.</p>
+          </content>
+          <subsection eId="219_05__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Public money, as defined in this act, may be deposited in a depository qualified under the provisions of chapter 136. Such deposits shall be made sufficiently often to keep the amount of the money in the office within the insurance coverage; provided, that any public money may be paid directly to the officer, person, or fund entitled to receive it, without first depositing it in the depository, if a receipt is taken and the transaction is properly recorded in the cash book.</p>
+            </content>
+          </subsection>
+          <subsection eId="219_05__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The title of each depository account shall include the name of the office, the name of the county, and such other suitable designation as may be required or desired; and withdrawals shall be made only by checks signed with the title of the account, by such officer, or by his or her duly authorized and bonded deputy or employee, by warrants or as otherwise provided in s.136.06.</p>
+            </content>
+          </subsection>
+          <subsection eId="219_05__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Whenever a county office is vacated by any officer who carries a depository account carried under this act, the retiring officer shall transfer each of his or her official depository accounts to the incoming officer, and if the retiring officer should fail to do so, the depository shall transfer such account or accounts to the person succeeding to the office, upon his or her written request, and exhibition to the said depository of his or her commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="219_05__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>No handling or service charges shall be deducted by the depository from the amounts deposited. Any handling or service charges which are authorized by the depository agreement or by applicable federal law shall be billed to the board of county commissioners and paid by the said board from the general fund of the county.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

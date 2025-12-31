@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.02"/>
+          <FRBRuri value="/us-fl/act/fsa/215.02"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.02/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.02/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.02/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.02/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_02">
+          <num>215.02</num>
+          <heading>Manner of paying money into the Treasury.</heading>
+          <content>
+            <p>Whenever any officer of this state or other person desires to pay any money into the Treasury of the state on account of his or her indebtedness to the state, the person shall first go to the Department of Financial Services, ascertain from the department’s books the amount of his or her indebtedness to the state, and pay over to the Chief Financial Officer the amount ascertained. The Chief Financial Officer shall receive the money, make a proper entry thereof, and give to the party paying over the money a receipt for the amount and enter a credit on the party’s account in his or her books for the amount thus paid by him or her.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

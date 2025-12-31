@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.19"/>
+          <FRBRuri value="/us-fl/act/fsa/202.19"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.19/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.19/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.19/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.19/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_19">
+          <num>202.19</num>
+          <heading>Authorization to impose local communications services tax.</heading>
+          <content>
+            <p>The governing authority of each county and municipality may, by ordinance, levy a local communications services tax as provided in this section.</p>
+          </content>
+          <subsection eId="202_19__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The governing authority of each county and municipality may, by ordinance, levy a local communications services tax as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_19__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Charter counties and municipalities may levy the tax authorized by subsection (1) at a rate of up to 5.1 percent for municipalities and charter counties that have not chosen to levy permit fees, and at a rate of up to 4.98 percent for municipalities and charter counties that have chosen to levy permit fees.</p>
+            </content>
+            <paragraph eId="202_19__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Charter counties and municipalities may levy the tax authorized by subsection (1) at a rate of up to 5.1 percent for municipalities and charter counties that have not chosen to levy permit fees, and at a rate of up to 4.98 percent for municipalities and charter counties that have chosen to levy permit fees.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Noncharter counties may levy the tax authorized by subsection (1) at a rate of up to 1.6 percent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The maximum rates authorized by paragraphs (a) and (b) do not include the add-ons of up to 0.12 percent for municipalities and charter counties or of up to 0.24 percent for noncharter counties authorized pursuant to s.337.401, nor do they supersede conversion or emergency rates authorized by s.202.20which are in excess of these maximum rates.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The local communications services tax rate in effect on January 1, 2023, may not be increased before January 1, 2031.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_19__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax authorized under this section includes and is in lieu of any fee or other consideration, including, but not limited to, application fees, transfer fees, renewal fees, or claims for related costs, to which the municipality or county is otherwise entitled for granting permission to dealers of communications services, including, but not limited to, providers of cable television services, as authorized in 47 U.S.C. s. 542, to use or occupy its roads or rights-of-way for the placement, construction, and maintenance of poles, wires, and other fixtures used in the provision of communications services.</p>
+            </content>
+            <paragraph eId="202_19__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>The tax authorized under this section includes and is in lieu of any fee or other consideration, including, but not limited to, application fees, transfer fees, renewal fees, or claims for related costs, to which the municipality or county is otherwise entitled for granting permission to dealers of communications services, including, but not limited to, providers of cable television services, as authorized in 47 U.S.C. s. 542, to use or occupy its roads or rights-of-way for the placement, construction, and maintenance of poles, wires, and other fixtures used in the provision of communications services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>This subsection does not supersede or impair the right, if any, of a municipality or county to require the payment of consideration or to require the payment of regulatory fees or assessments by persons using or occupying its roads or rights-of-way in a capacity other than that of a dealer of communications services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Each county and municipality must prioritize the use of proceeds distributed pursuant to s.202.18(3)(c) on the timely review, processing, and approval of permit applications for the use of rights-of-way by communications services providers to ensure that the county or municipality complies with state and federal law, including, but not limited to, the timelines under s.337.401(7)(d).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_19__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as otherwise provided in this section, the tax imposed by any municipality shall be on all communications services subject to tax under s.202.12which:</p>
+            </content>
+            <paragraph eId="202_19__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Except as otherwise provided in this section, the tax imposed by any municipality shall be on all communications services subject to tax under s.202.12which:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this section, the tax imposed by any county under subsection (1) shall be on all communications services subject to tax under s.202.12which:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_19__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In addition to the communications services taxes authorized by subsection (1), a discretionary sales surtax that a county or school board has levied under s.212.055is imposed as a local communications services tax under this section, and the rate shall be determined in accordance with s.202.20(3). However, any increase to the discretionary sales surtax levied under s.212.055on or after January 1, 2023, may not be added to the local communications services tax under this section before January 1, 2031.</p>
+            </content>
+            <paragraph eId="202_19__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in this subsection, each such tax rate shall be applied, in addition to the other tax rates applied under this chapter, to communications services subject to tax under s.202.12which:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_19__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>With respect to private communications services, the tax shall be on the sales price of such services provided within the county, which shall be determined in accordance with the following provisions:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_19__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Notwithstanding any other provision of this section, a tax imposed under this section does not apply to any direct-to-home satellite service.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_19__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Notwithstanding any law to the contrary, a tax imposed under this section shall not exceed $25,000 per calendar year on communications services charges billed to a service address located in a municipality or county imposing a local communications services tax for interstate communications services that originate outside this state and terminate within this state. This subsection applies only to holders of a direct-pay permit issued under s.202.12(3). A person who does not qualify for a direct-pay permit under s.202.12(3) does not qualify for a direct-pay permit under this subsection. A refund may not be given for taxes paid before receiving a direct-pay permit. Upon application, the department shall identify the service addresses qualifying for the limitation provided by this subsection on the direct-pay permit issued under s.202.12(3) and authorize such purchaser to pay the local communications tax on such interstate services directly to the department if the application indicates that the majority of such services used by such person and billed to a service address are for communications originating outside of this state and terminating in this state. The direct-pay permit shall also indicate the counties or municipalities to which it applies. Any dealer of communications services furnishing communications services to the holder of a valid direct-pay permit is relieved of the obligation to collect and remit the tax on such services. Tax payments and returns pursuant to a direct-pay permit shall be monthly. As used in this subsection, “person” means a single legal entity and does not mean a group or combination of affiliated entities or entities controlled by one person or group of persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_19__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The revenues raised by any tax imposed under subsection (1) or s.202.20(1), or distributed to a local government pursuant to s.202.18, may be used by a municipality or county for any public purpose, including, but not limited to, pledging such revenues for the repayment of current or future bonded indebtedness. Revenues raised by a tax imposed under subsection (5) shall be used for the same purposes as the underlying discretionary sales surtax imposed by the county or school board under s.212.055.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_19__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Notwithstanding any provision of law to the contrary, the exemption set forth in s.202.125(1) shall not apply to a tax imposed by a municipality, school board, or county pursuant to subsection (4) or subsection (5).</p>
+            </content>
+          </subsection>
+          <subsection eId="202_19__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>To the extent that a provider of communications services is required to pay to a local taxing jurisdiction a tax, charge, or other fee under any franchise agreement or ordinance with respect to the services or revenues that are also subject to the tax imposed by this section, such provider is entitled to a credit against the amount payable to the state pursuant to this section in the amount of such tax, charge, or fee with respect to such services or revenues. The amount of such credit shall be deducted from the amount that such local taxing jurisdiction is entitled to receive under s.202.18(3).</p>
+            </content>
+          </subsection>
+          <subsection eId="202_19__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Notwithstanding any other provision of this section, with respect to mobile communications services, the rate of a local communications services tax levied under this section shall be applied to the sales price of all mobile communications services deemed to be provided to a customer by a home service provider pursuant to s. 117(a) of the Mobile Telecommunications Sourcing Act, Pub. L. No. 106-252, if such customer’s service address is located within the municipality levying the tax or within the unincorporated area of the county levying the tax, as the case may be.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

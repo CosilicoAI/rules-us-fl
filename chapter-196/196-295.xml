@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.295"/>
+          <FRBRuri value="/us-fl/act/fsa/196.295"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.295/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.295/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.295/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.295/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_295">
+          <num>196.295</num>
+          <heading>Property transferred to exempt governmental unit; tax payment into escrow; taxes due from prior years.</heading>
+          <content>
+            <p>In the event fee title to property is acquired between January 1 and November 1 of any year by a governmental unit exempt under this chapter by any means except condemnation or is acquired by any means except condemnation for use exclusively for federal, state, county, or municipal purposes, the taxpayer shall be required to place in escrow with the county tax collector an amount equal to the current taxes prorated to the date of transfer of title, based upon the current assessment and millage rates on the land involved. This fund shall be used to pay any ad valorem taxes due, and the remainder of taxes which would otherwise have been due for that current year shall stand canceled.</p>
+          </content>
+          <subsection eId="196_295__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In the event fee title to property is acquired between January 1 and November 1 of any year by a governmental unit exempt under this chapter by any means except condemnation or is acquired by any means except condemnation for use exclusively for federal, state, county, or municipal purposes, the taxpayer shall be required to place in escrow with the county tax collector an amount equal to the current taxes prorated to the date of transfer of title, based upon the current assessment and millage rates on the land involved. This fund shall be used to pay any ad valorem taxes due, and the remainder of taxes which would otherwise have been due for that current year shall stand canceled.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_295__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the event fee title to property is acquired by a governmental unit exempt under this chapter by any means except condemnation or is acquired by any means except condemnation for use exclusively for federal, state, county, or municipal purposes, the taxpayer is required to pay all taxes due from prior years.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

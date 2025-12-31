@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1985"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1985"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1985/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1985/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1985/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1985/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1985">
+          <num>196.1985</num>
+          <heading>Labor organization property exemption.</heading>
+          <content>
+            <p>Real property owned and used by any labor organization which has a charter from a state or national organization, which property is used predominantly by such organization for educational purposes, is hereby defined as property within the purview of s. 3, Art. VII of the State Constitution and shall be exempt from ad valorem taxation to the extent of such use pursuant to s.196.192(2). Any portion of such property used for nonexempt purposes may be valued and placed upon the tax rolls separately from any portion entitled to exemption pursuant to this section.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

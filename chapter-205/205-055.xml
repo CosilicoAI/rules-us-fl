@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.055"/>
+          <FRBRuri value="/us-fl/act/fsa/205.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.055/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.055/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_055">
+          <num>205.055</num>
+          <heading>Exemptions; veterans, spouses of veterans and certain servicemembers, and low-income persons.</heading>
+          <content>
+            <p>The following persons are entitled to an exemption from a business tax and any fees imposed under this chapter:</p>
+          </content>
+          <subsection eId="205_055__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following persons are entitled to an exemption from a business tax and any fees imposed under this chapter:</p>
+            </content>
+            <paragraph eId="205_055__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A veteran of the United States Armed Forces who was honorably discharged upon separation from service, or the spouse or unremarried surviving spouse of such a veteran.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_055__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The spouse of an active duty military servicemember who has relocated to the county or municipality pursuant to a permanent change of station order.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_055__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A person who is receiving public assistance as defined in s.409.2554.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_055__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A person whose household income is below 130 percent of the federal poverty level based on the current year’s federal poverty guidelines.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="205_055__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A person must complete and sign, under penalty of perjury, a Request for Fee Exemption to be furnished by the local governing authority and provide written documentation in support of his or her request for an exemption under subsection (1).</p>
+            </content>
+          </subsection>
+          <subsection eId="205_055__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a person who is exempt under subsection (1) owns a majority interest in a business with fewer than 100 employees, the business is exempt. Such person must complete and sign, under penalty of perjury, a Request for Fee Exemption to be furnished by the local governing authority and provide written documentation in support of his or her request for an exemption for the business under this subsection.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

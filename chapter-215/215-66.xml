@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.66"/>
+          <FRBRuri value="/us-fl/act/fsa/215.66"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.66/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.66/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.66/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.66/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_66">
+          <num>215.66</num>
+          <heading>Request for issuance of bonds; procedure requirements.</heading>
+          <content>
+            <p>Before any bonds may be issued by the division on behalf of a state agency, such state agency shall file a request with the division by appropriate resolution for approval of the issuance of such proposed bonds, which request shall state such facts and shall have annexed thereto such exhibits in regard to such bonds and to such state agency and its financial condition as may be required by the division.</p>
+          </content>
+          <subsection eId="215_66__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Before any bonds may be issued by the division on behalf of a state agency, such state agency shall file a request with the division by appropriate resolution for approval of the issuance of such proposed bonds, which request shall state such facts and shall have annexed thereto such exhibits in regard to such bonds and to such state agency and its financial condition as may be required by the division.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_66__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In any case in which any bonds proposed by any state agency shall be required by the constitution or statutes to be submitted to the qualified electors or qualified electors who are freeholders for approval or disapproval at a bond election prior to the issuance of such bonds, the request shall be filed with the division at least 60 days prior to the date of the holding of such proposed bond election. No such bond election shall be held on the question of the issuance of such bonds until the Legislature has approved the holding of such bond election.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

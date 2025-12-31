@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.24"/>
+          <FRBRuri value="/us-fl/act/fsa/202.24"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.24/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.24/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.24/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.24/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_24">
+          <num>202.24</num>
+          <heading>Limitations on local taxes and fees imposed on dealers of communications services.</heading>
+          <content>
+            <p>The authority of a public body to require taxes, fees, charges, or other impositions from dealers of communications services for occupying its roads and rights-of-way is specifically preempted by the state because of unique circumstances applicable to communications services dealers. Communications services may be provided by certain dealers of communications services in a manner that requires the use of public roads or rights-of-way while similar communications services may be provided by other dealers of communications services in a manner that does not require the use of public roads or rights-of-way. Although similar communications services may be provided by different means, the state seeks to treat dealers of communications services in a nondiscriminatory and competitively neutral manner.</p>
+          </content>
+          <subsection eId="202_24__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The authority of a public body to require taxes, fees, charges, or other impositions from dealers of communications services for occupying its roads and rights-of-way is specifically preempted by the state because of unique circumstances applicable to communications services dealers. Communications services may be provided by certain dealers of communications services in a manner that requires the use of public roads or rights-of-way while similar communications services may be provided by other dealers of communications services in a manner that does not require the use of public roads or rights-of-way. Although similar communications services may be provided by different means, the state seeks to treat dealers of communications services in a nondiscriminatory and competitively neutral manner.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_24__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except as provided in paragraph (c), each public body is prohibited from:</p>
+            </content>
+            <paragraph eId="202_24__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Except as provided in paragraph (c), each public body is prohibited from:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_24__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this subsection, a tax, charge, fee, or other imposition includes any amount or in-kind payment of property or services which is required by ordinance or agreement to be paid or furnished to a public body by or through a dealer of communications services in its capacity as a dealer of communications services, regardless of whether such amount or in-kind payment of property or services is:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_24__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>This subsection does not apply to:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_24__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As used in this section, “public body” has the meaning ascribed in s.1.01(8), and includes, without limitation, every division, agency, and instrumentality thereof; however, the term does not include the state or any branch of state government.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.015"/>
+          <FRBRuri value="/us-fl/act/fsa/216.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.015/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.015/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_015">
+          <num>216.015</num>
+          <heading>Capital facilities planning and budgeting process.</heading>
+          <content>
+            <p>Sections216.015-216.016may be cited as the “Capital Facilities Planning and Budgeting Act.”</p>
+          </content>
+          <subsection eId="216_015__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Sections216.015-216.016may be cited as the “Capital Facilities Planning and Budgeting Act.”</p>
+            </content>
+          </subsection>
+          <subsection eId="216_015__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Legislature finds that there is a need to establish a comprehensive capital facilities planning and budgeting process that is fully integrated with the state financial planning and debt management activities and that incorporates the long-range plans of all state agencies and the judicial branch and major public benefit corporations to ensure that projects with the greatest potential for improving the prosperity and well-being of the people of the state receive their proper allocation of limited resources. It is, therefore, the intent of the Legislature in enacting this legislation that a comprehensive capital facilities planning and budgeting process be established and maintained to enable the state to better meet the demands for new and properly maintained infrastructure in a fiscally responsible manner.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_015__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The comprehensive capital facilities planning and budgeting process requires integration and coordination by all government agencies and by the judicial branch. The process includes:</p>
+            </content>
+            <paragraph eId="216_015__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>An inventory of current facilities owned, leased, rented, or otherwise occupied by any agency of the state or the judicial branch;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_015__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An assessment of current population, economic, social, physical, and environmental trends and conditions that relate to public facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_015__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A determination of future demographic conditions deemed most appropriate and likely for this state and of a set of goals and objectives;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_015__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A determination of unmet needs by comparing existing facilities to goals and objectives;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_015__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A strategic matching of funding options and facility needs to ensure the most effective development strategy; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_015__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>A management structure that maintains, operates, repairs, renovates, and replaces capital facilities to obtain the maximum value for each public dollar spent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_015__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>In order to carry out this act, the Executive Office of the Governor is designated as the agency responsible for the coordination, development, direction, monitoring, and evaluation of the comprehensive capital facilities planning and budgeting process, including the plans revised pursuant to that process. The Executive Office of the Governor shall publish an annual report of the progress being made by the state toward meeting the state goals and objectives of the plans.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_015__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>All agencies of government and the judicial branch are directed to extend maximum cooperation and assistance in the furtherance of this program.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

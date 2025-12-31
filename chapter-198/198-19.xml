@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.19"/>
+          <FRBRuri value="/us-fl/act/fsa/198.19"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.19/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.19/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.19/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.19/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_19">
+          <num>198.19</num>
+          <heading>Receipts for taxes.</heading>
+          <content>
+            <p>The department shall issue to the personal representative, upon payment of the tax imposed by this chapter, receipts in triplicate, any of which shall be sufficient evidence of such payment and shall entitle the personal representative to be credited and allowed the amount thereof by any court having jurisdiction to audit or settle his or her accounts. If the personal representative files a complete return and makes written application to the department for determination of the amount of the tax and discharge from personal liability therefor, the department as soon as possible, and in any event within 1 year after receipt of such application, shall notify the personal representative of the amount of the tax; and upon payment thereof the personal representative shall be discharged from personal liability for any additional tax thereafter found to be due and shall be entitled to receive from the department a receipt in writing showing such discharge; however, such discharge shall not operate to release the gross estate of the lien of any additional tax that may thereafter be found to be due, while the title to the gross estate remains in the personal representative or in the heirs, devisees, or distributees thereof; but after such discharge is given, no part of the gross estate shall be subject to such lien or to any claim or demand for any such tax after the title thereto has passed to a bona fide purchaser for value.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.572"/>
+          <FRBRuri value="/us-fl/act/fsa/197.572"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.572/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.572/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.572/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.572/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_572">
+          <num>197.572</num>
+          <heading>Certain easements survive tax sales and deeds.</heading>
+          <content>
+            <p>When any lands are sold for the nonpayment of taxes, or any tax certificate is issued thereon by a governmental unit or agency or pursuant to any tax lien foreclosure proceeding, the title to the lands shall continue to be subject to any easement:</p>
+          </content>
+          <subsection eId="197_572__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When any lands are sold for the nonpayment of taxes, or any tax certificate is issued thereon by a governmental unit or agency or pursuant to any tax lien foreclosure proceeding, the title to the lands shall continue to be subject to any easement:</p>
+            </content>
+            <paragraph eId="197_572__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For conservation purposes as provided in s.704.06or for telephone, telegraph, pipeline, power transmission, or other public service purpose.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_572__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>That supports improvements that may be constructed above the lands.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_572__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For the purposes of drainage or of ingress and egress to and from other land.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_572__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For base buffering encroachment lands acquired through a fee simple or less-than-fee simple acquisition under s.288.980(2)(b).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_572__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An easement described in subsection (1) and the rights of the owner of the easement shall survive and be enforceable after the execution, delivery, and recording of a tax deed, a master’s deed, or a clerk’s certificate of title pursuant to foreclosure of a tax deed, tax certificate, or tax lien, to the same extent as though the land had been conveyed by voluntary deed. The easement must be evidenced by written instrument recorded in the office of the clerk of the circuit court in the county where such land is located before the recording of such tax deed or master’s deed, or, if not recorded, an easement for a public service purpose must be evidenced by wires, poles, or other visible occupation, an easement for drainage must be evidenced by a waterway, water bed, or other visible occupation, and an easement for the purpose of ingress and egress must be evidenced by a road or other visible occupation to be entitled to the benefit of this section; however, this shall apply only to tax deeds issued after the effective date of this act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

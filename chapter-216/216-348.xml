@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.348"/>
+          <FRBRuri value="/us-fl/act/fsa/216.348"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.348/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.348/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.348/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.348/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_348">
+          <num>216.348</num>
+          <heading>Fixed capital outlay grants and aids appropriations to certain nonprofit entities.</heading>
+          <content>
+            <p>If a bill appropriating a fixed capital outlay grants and aids appropriation requires compliance with this section, the following conditions shall apply, except to the extent that such bill modifies these conditions:</p>
+          </content>
+          <subsection eId="216_348__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="216_348__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Administering agency” means the governmental agency or entity which is charged by the bill appropriating the fixed capital outlay grants and aids appropriation to a grantee with administering that appropriation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_348__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Grant” means a fixed capital outlay grants and aids appropriation to a nonprofit entity other than a governmental entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_348__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Grantee” means a nonprofit entity, other than a governmental entity, to which the Legislature has appropriated over $50,000 pursuant to a fixed capital outlay grants and aids appropriation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_348__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Prior to the receipt of any grant money from the administering agency, a grantee must provide the administering agency with an affidavit by an officer or director of the grantee certifying under oath that the grantee is a nonprofit entity and must execute a written agreement with the administering agency, in a form approved by the administering agency, pursuant to subsection (3).</p>
+            </content>
+          </subsection>
+          <subsection eId="216_348__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the grantee is acquiring real property with the grant, or if the grantee owns the real property upon which an improvement is being constructed, renovated, altered, modified, or maintained with the grant, the grantee must execute, deliver, and record in the county in which the subject property is located an agreement that:</p>
+            </content>
+            <paragraph eId="216_348__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>If the grantee is acquiring real property with the grant, or if the grantee owns the real property upon which an improvement is being constructed, renovated, altered, modified, or maintained with the grant, the grantee must execute, deliver, and record in the county in which the subject property is located an agreement that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_348__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the grantee is not acquiring real property, or does not own the real property being improved, the agreement shall:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_348__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>All agreements required by this subsection shall:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_348__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The administering agency may:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_348__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The agreement must provide that the administering agency shall execute a satisfaction of the agreement in recordable form upon full compliance by the grantee with the terms of the agreement.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.26"/>
+          <FRBRuri value="/us-fl/act/fsa/198.26"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.26/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.26/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.26/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.26/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_26">
+          <num>198.26</num>
+          <heading>No discharge of personal representative until tax is paid.</heading>
+          <content>
+            <p>No final account of a personal representative shall be allowed by any court unless and until such account shows, and the judge of said court finds, that the tax imposed by the provisions of this chapter upon the personal representative, which has become payable, has been paid. The certificate of the department of nonliability for the tax or its receipt for the amount of tax therein certified shall be conclusive in such proceedings as to the liability or the payment of the tax to the extent of said certificate. In the case of a nontaxable estate, the court may consider the affidavit prepared pursuant to s.198.32(2) as evidence of the nonliability for tax.</p>
+          </content>
+          <subsection eId="198_26__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No final account of a personal representative shall be allowed by any court unless and until such account shows, and the judge of said court finds, that the tax imposed by the provisions of this chapter upon the personal representative, which has become payable, has been paid. The certificate of the department of nonliability for the tax or its receipt for the amount of tax therein certified shall be conclusive in such proceedings as to the liability or the payment of the tax to the extent of said certificate. In the case of a nontaxable estate, the court may consider the affidavit prepared pursuant to s.198.32(2) as evidence of the nonliability for tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_26__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this section and applicable to the estate of a decedent who dies after December 31, 2004, if, upon the death of the decedent, a state estate tax credit or a generation-skipping transfer credit is not allowable pursuant to the Internal Revenue Code of 1986, as amended, this section shall not apply.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

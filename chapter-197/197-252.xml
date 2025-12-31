@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.252"/>
+          <FRBRuri value="/us-fl/act/fsa/197.252"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.252/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.252/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.252/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.252/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_252">
+          <num>197.252</num>
+          <heading>Homestead tax deferral.</heading>
+          <content>
+            <p>Any person who is entitled to claim homestead tax exemption under s.196.031(1) may apply to defer payment of a portion of the combined total of the ad valorem taxes, non-ad valorem assessments, and interest accumulated on a tax certificate. Any applicant who is entitled to receive the homestead tax exemption but has waived it for any reason shall furnish a certificate of eligibility to receive the exemption. Such certificate shall be prepared by the county property appraiser upon request of the taxpayer.</p>
+          </content>
+          <subsection eId="197_252__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any person who is entitled to claim homestead tax exemption under s.196.031(1) may apply to defer payment of a portion of the combined total of the ad valorem taxes, non-ad valorem assessments, and interest accumulated on a tax certificate. Any applicant who is entitled to receive the homestead tax exemption but has waived it for any reason shall furnish a certificate of eligibility to receive the exemption. Such certificate shall be prepared by the county property appraiser upon request of the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_252__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Approval of an application for homestead tax deferral shall defer the combined total of ad valorem taxes and non-ad valorem assessments:</p>
+            </content>
+            <paragraph eId="197_252__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Approval of an application for homestead tax deferral shall defer the combined total of ad valorem taxes and non-ad valorem assessments:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_252__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The household income of an applicant who applies for a tax deferral before the end of the calendar year in which the taxes and non-ad valorem assessments are assessed shall be for the current year, adjusted to reflect estimated income for the full calendar year period. The estimate of a full year’s household income shall be made by multiplying the household income received to the date of application by a fraction, the numerator being 365 and the denominator being the number of days expired in the calendar year to the date of application.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_252__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The property appraiser shall promptly notify the tax collector if there is a change in ownership or the homestead exemption has been denied on property that has been granted a tax deferral.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

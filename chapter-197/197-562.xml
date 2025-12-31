@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.562"/>
+          <FRBRuri value="/us-fl/act/fsa/197.562"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.562/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.562/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.562/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.562/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_562">
+          <num>197.562</num>
+          <heading>Grantee of tax deed entitled to immediate possession.</heading>
+          <content>
+            <p>Any person, firm, corporation, or county that is the grantee of any tax deed under this law shall be entitled to the immediate possession of the lands described in the deed. If a demand for possession is refused, the purchaser may apply to the circuit court for a writ of assistance upon 5 days’ notice directed to the person refusing to deliver possession. Upon service of the responsive pleadings, if any, the matter shall proceed as in chancery cases. If the court finds for the applicant, an order shall be issued by the court directing the sheriff to put the grantee in possession of the lands.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

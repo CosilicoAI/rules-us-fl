@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.2526"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2526"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.2526/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2526/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.2526/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2526/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_2526">
+          <num>197.2526</num>
+          <heading>Eligibility for tax deferral for affordable rental housing property.</heading>
+          <content>
+            <p>The tax deferral authorized by s.197.2524applies only on a pro rata basis to the ad valorem taxes levied on residential units within a property which meet the following conditions:</p>
+          </content>
+          <subsection eId="197_2526__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Units for which the monthly rent along with taxes, insurance, and utilities does not exceed 30 percent of the median adjusted gross annual income as defined in s.420.0004for the households described in subsection (2).</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2526__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Units that are occupied by extremely-low-income persons, very-low-income persons, low-income persons, or moderate-income persons as these terms are defined in s.420.0004.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.4401"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4401"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.4401/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4401/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.4401/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4401/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_4401">
+          <num>215.4401</num>
+          <heading>Board of Administration; public record exemptions.</heading>
+          <content>
+            <p>In order to effectively and efficiently administer the real estate investment program of the State Board of Administration, the Legislature finds a public necessity in protecting specified records of the board. Accordingly, records and information relating to acquiring, hypothecating, or disposing of real property or related personal property or mortgage interests in same, as well as interest in collective real estate investment funds, publicly traded securities, or private placement investments, are confidential and exempt from s.119.07(1) in order to protect proprietary information requisite to the board’s ability to transact arms length negotiations necessary to successfully compete in the real estate investment market. All reports and documents relating to value, offers, counteroffers, or negotiations are confidential and exempt from s.119.07(1) until closing is complete and all funds have been disbursed. Reports and documents relating to tenants, leases, contracts, rent rolls, and negotiations in progress are confidential and exempt from the provisions of s.119.07(1) until the executive director determines that releasing such information would not be detrimental to the interests of the board and would not cause a conflict with the fiduciary responsibilities of the State Board of Administration.</p>
+          </content>
+          <subsection eId="215_4401__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In order to effectively and efficiently administer the real estate investment program of the State Board of Administration, the Legislature finds a public necessity in protecting specified records of the board. Accordingly, records and information relating to acquiring, hypothecating, or disposing of real property or related personal property or mortgage interests in same, as well as interest in collective real estate investment funds, publicly traded securities, or private placement investments, are confidential and exempt from s.119.07(1) in order to protect proprietary information requisite to the board’s ability to transact arms length negotiations necessary to successfully compete in the real estate investment market. All reports and documents relating to value, offers, counteroffers, or negotiations are confidential and exempt from s.119.07(1) until closing is complete and all funds have been disbursed. Reports and documents relating to tenants, leases, contracts, rent rolls, and negotiations in progress are confidential and exempt from the provisions of s.119.07(1) until the executive director determines that releasing such information would not be detrimental to the interests of the board and would not cause a conflict with the fiduciary responsibilities of the State Board of Administration.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4401__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In order to effectively and efficiently administer the investment programs of the board, the Legislature finds a public necessity in protecting records other than those described in subsection (1). Accordingly, records and other information relating to investments made by the board pursuant to its constitutional and statutory investment duties and responsibilities are confidential and exempt from s.119.07(1) until 30 days after completion of an investment transaction. However, if in the opinion of the executive director of the board it would be detrimental to the financial interests of the board or would cause a conflict with the fiduciary responsibilities of the board, information concerning service provider fees may be maintained as confidential and exempt from s.119.07(1) until 6 months after negotiations relating to such fees have been terminated. This exemption prevents the use of confidential internal investment decisions of the State Board of Administration for improper personal gain.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4401__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As used in this subsection, the term:</p>
+            </content>
+            <paragraph eId="215_4401__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4401__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Proprietary confidential business information held by the State Board of Administration regarding alternative investments is confidential and exempt from s.119.07(1) and s. 24(a), Art. I of the State Constitution for 10 years after the termination of the alternative investment. This exemption applies to proprietary confidential business information held by the State Board of Administration before, on, or after October 1, 2006.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4401__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the provisions of paragraph (b), a request to inspect or copy a record under s.119.07(1) that contains proprietary confidential business information shall be granted if the proprietor of the information fails, within a reasonable period of time after the request is received by the State Board of Administration, to verify the following to the State Board of Administration through a written declaration in the manner provided by s.92.525:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4401__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Any person may petition a court of competent jurisdiction for an order for the public release of those portions of any record made confidential and exempt by paragraph (b). Any action under this paragraph must be brought in Leon County, Florida, and the petition or other initial pleading shall be served on the State Board of Administration and, if determinable upon diligent inquiry, on the proprietor of the information sought to be released. In any order for the public release of a record under this paragraph, the court shall make a finding that the record or portion thereof is not a trade secret as defined in s.688.002, that a compelling public interest is served by the release of the record or portions thereof which exceed the public necessity for maintaining the confidentiality of such record, and that the release of the record will not cause damage to or adversely affect the interests of the proprietor of the released information, other private persons or business entities, the State Board of Administration, or any trust fund, the assets of which are invested by the State Board of Administration.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

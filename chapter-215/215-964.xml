@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.964"/>
+          <FRBRuri value="/us-fl/act/fsa/215.964"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.964/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.964/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.964/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.964/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_964">
+          <num>215.964</num>
+          <heading>Process for acquisition of commodities or services that include the use of card-based technology.</heading>
+          <content>
+            <p>Whenever any state agency intends to issue a bid, request for proposals, or contract in any manner to acquire commodities or services that include the use of card-based technology and will require the agency to expend more than the threshold amount provided in s.287.017for CATEGORY FIVE, such acquisition documentation must be submitted to the Florida Fiscal Accounting Management Information System Coordinating Council for approval prior to issuance. The Florida Fiscal Accounting Management Information System Coordinating Council shall consider whether the proposed transaction is structured to encourage vendor competition, cooperation among agencies in the use of card-based technology, and other financial terms and conditions that are appropriate with regard to the nature of the card-based technology application being acquired.</p>
+          </content>
+          <subsection eId="215_964__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Whenever any state agency intends to issue a bid, request for proposals, or contract in any manner to acquire commodities or services that include the use of card-based technology and will require the agency to expend more than the threshold amount provided in s.287.017for CATEGORY FIVE, such acquisition documentation must be submitted to the Florida Fiscal Accounting Management Information System Coordinating Council for approval prior to issuance. The Florida Fiscal Accounting Management Information System Coordinating Council shall consider whether the proposed transaction is structured to encourage vendor competition, cooperation among agencies in the use of card-based technology, and other financial terms and conditions that are appropriate with regard to the nature of the card-based technology application being acquired.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_964__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Nothing contained in this act shall be construed to prohibit an agency from continuing to use a card-based technology system that was lawfully acquired before the effective date of this act unless specifically directed otherwise in the General Appropriations Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_964__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An extension or renewal of an existing contract in any manner for commodities or services that include the use of card-based technology and will require the agency to expend more than the threshold amount provided in s.287.017for CATEGORY FIVE, is subject to the provisions of subsection (1).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.25"/>
+          <FRBRuri value="/us-fl/act/fsa/202.25"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.25/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.25/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.25/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.25/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_25">
+          <num>202.25</num>
+          <heading>Jurisdiction; dealers not qualified to do business in this state.</heading>
+          <content>
+            <p>All suits brought by the department against any dealer for any violation of this chapter for the purpose of collecting any tax due from the dealer, including garnishment proceedings, regardless of the amount, must be brought in the circuit court of this state having jurisdiction of the subject matter.</p>
+          </content>
+          <subsection eId="202_25__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All suits brought by the department against any dealer for any violation of this chapter for the purpose of collecting any tax due from the dealer, including garnishment proceedings, regardless of the amount, must be brought in the circuit court of this state having jurisdiction of the subject matter.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_25__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each dealer who is not qualified to do business in this state shall designate with the department an agent within this state for service of process to enforce this chapter. If a dealer fails to designate such an agent, the Secretary of State or any agent or employee of the dealer within this state constitutes the agent for the service of such process.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

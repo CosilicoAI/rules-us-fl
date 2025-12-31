@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.06"/>
+          <FRBRuri value="/us-fl/act/fsa/198.06"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.06/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.06/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.06/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.06/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_06">
+          <num>198.06</num>
+          <heading>Examination of books, papers, records, or memoranda by the department.</heading>
+          <content>
+            <p>The department, for the purpose of ascertaining the correctness of any return, or for the purpose of making a return where none has been made, may examine any books, papers, records, or memoranda, bearing upon the matter required to be included in the return; may require the attendance of persons rendering return or of any officer or employee of such persons, or of any person having knowledge in the premises, at any convenient place in the county in which such person resides, and may take his or her testimony with reference to the matter required by law to be included in such return, and may administer oaths to such persons.</p>
+          </content>
+          <subsection eId="198_06__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department, for the purpose of ascertaining the correctness of any return, or for the purpose of making a return where none has been made, may examine any books, papers, records, or memoranda, bearing upon the matter required to be included in the return; may require the attendance of persons rendering return or of any officer or employee of such persons, or of any person having knowledge in the premises, at any convenient place in the county in which such person resides, and may take his or her testimony with reference to the matter required by law to be included in such return, and may administer oaths to such persons.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_06__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If any person summoned to appear under this chapter to testify, or to produce books, papers, or other data, shall refuse to do so, the circuit court for the county in which such person resides shall have jurisdiction by appropriate process to compel such attendance, testimony, or production of books, papers, or other data.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

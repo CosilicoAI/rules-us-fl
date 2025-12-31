@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.444"/>
+          <FRBRuri value="/us-fl/act/fsa/197.444"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.444/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.444/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.444/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.444/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_444">
+          <num>197.444</num>
+          <heading>Cancellation of tax certificates; suit by holder.</heading>
+          <content>
+            <p>The holder of any tax certificate that is void for any reason has the right to bring an action in circuit court to have such tax certificate canceled and to obtain the return of the money paid for the tax certificate. The plaintiff may include as many void certificates as he or she sees fit. The only necessary party defendant shall be the tax collector.</p>
+          </content>
+          <subsection eId="197_444__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The holder of any tax certificate that is void for any reason has the right to bring an action in circuit court to have such tax certificate canceled and to obtain the return of the money paid for the tax certificate. The plaintiff may include as many void certificates as he or she sees fit. The only necessary party defendant shall be the tax collector.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_444__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The complaint shall briefly describe the tax certificate, state that it is void and the reason therefor, and demand that the certificate be declared void and that all amounts received by the governmental unit be returned. The plaintiff may include as many void certificates as desired, whether they cover the same land or different parcels of land.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_444__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the court finds for the plaintiff, it shall enter a final judgment declaring the tax certificate void, canceling it of record, and ordering each governmental unit or agency receiving any sums for the tax certificate to return the amounts received by it to the plaintiff, and, thereupon, the amount received for the certificate by the governmental units or agencies shall be returned.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_444__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The provisions of this section may also be used by the holder of any tax certificate who pays, redeems, or causes to be canceled and surrenders any other tax certificate in connection with an application for tax deed or in connection with tax foreclosure proceedings, if the other tax certificate is void for any reason.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_444__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The provisions of this section are not exclusive, and a refund of moneys may be obtained under s.197.442or s.197.443.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

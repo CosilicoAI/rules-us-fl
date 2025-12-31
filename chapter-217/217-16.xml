@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/217.16"/>
+          <FRBRuri value="/us-fl/act/fsa/217.16"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/217.16/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/217.16/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/217.16/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/217.16/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>Chapter 217</num>
+        <heading>Surplus Property</heading>
+        <section eId="sec_217_16">
+          <num>217.16</num>
+          <heading>Authority granted to other public entities of the state.</heading>
+          <content>
+            <p>The authority granted to the state by s.217.03, pertaining to surplus property is also granted to the following public entities of the state:</p>
+          </content>
+          <subsection eId="217_16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Every county of the state, boards of county commissioners, school boards, or other county agency, and every county officer authorized by law to make purchases of material, supplies and equipment or other property, real or personal, for county use or purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="217_16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Every municipality of the state, and every officer thereof, authorized by law to make purchases of material, supplies and equipment or other property, real or personal, for municipal use or purposes.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

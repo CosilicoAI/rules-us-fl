@@ -1,0 +1,280 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.5602"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5602"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.5602/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5602/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.5602/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5602/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_5602">
+          <num>215.5602</num>
+          <heading>James and Esther King Biomedical Research Program.</heading>
+          <content>
+            <p>There is established within the Department of Health the James and Esther King Biomedical Research Program. The purpose of the James and Esther King Biomedical Research Program is to provide an annual and perpetual source of funding in order to support research initiatives that address the health care problems of Floridians in the areas of tobacco-related cancer, cardiovascular disease, stroke, and pulmonary disease. The long-term goals of the program are to:</p>
+          </content>
+          <subsection eId="215_5602__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is established within the Department of Health the James and Esther King Biomedical Research Program. The purpose of the James and Esther King Biomedical Research Program is to provide an annual and perpetual source of funding in order to support research initiatives that address the health care problems of Floridians in the areas of tobacco-related cancer, cardiovascular disease, stroke, and pulmonary disease. The long-term goals of the program are to:</p>
+            </content>
+            <paragraph eId="215_5602__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Improve the health of Floridians by researching better prevention, diagnoses, treatments, and cures for cancer, cardiovascular disease, stroke, and pulmonary disease.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Expand the foundation of biomedical knowledge relating to the prevention, diagnosis, treatment, and cure of diseases related to tobacco use, including cancer, cardiovascular disease, stroke, and pulmonary disease.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Improve the quality of the state’s academic health centers by bringing the advances of biomedical research into the training of physicians and other health care providers.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Increase the state’s per capita funding for research by undertaking new initiatives in public health and biomedical research that will attract additional funding from outside the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Stimulate economic activity in the state in areas related to biomedical research, such as the research and production of pharmaceuticals, biotechnology, and medical devices.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5602__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Funds appropriated for the James and Esther King Biomedical Research Program shall be used exclusively for the award of grants and fellowships as established in this section; for research relating to the prevention, diagnosis, treatment, and cure of diseases related to tobacco use, including cancer, cardiovascular disease, stroke, and pulmonary disease; and for expenses incurred in the administration of this section. Priority shall be granted to research designed to prevent or cure disease.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5602__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>There is created within the Department of Health the Biomedical Research Advisory Council.</p>
+            </content>
+            <paragraph eId="215_5602__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The council shall consist of 11 members, including: the chief executive officer of the Florida Division of the American Cancer Society, or a designee; the chief executive officer of the Greater Southeast Affiliate of the American Heart Association, or a designee; and the chief executive officer of the American Lung Association of Florida, or a designee. The remaining 8 members of the council shall be appointed as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The council shall adopt internal organizational procedures as necessary for its efficient organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department shall provide such staff, information, and other assistance as is reasonably necessary to assist the council in carrying out its responsibilities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Members of the council shall serve without compensation, but may receive reimbursement as provided in s.112.061for travel and other necessary expenses incurred in the performance of their official duties.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5602__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The council shall advise the State Surgeon General as to the direction and scope of the biomedical research program. The responsibilities of the council may include, but are not limited to:</p>
+            </content>
+            <paragraph eId="215_5602__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Providing advice on program priorities and emphases.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Providing advice on the overall program budget.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Participating in periodic program evaluation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Assisting in the development of guidelines to ensure fairness, neutrality, and adherence to the principles of merit and quality in the conduct of the program.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Assisting in the development of appropriate linkages to nonacademic entities, such as voluntary organizations, health care delivery institutions, industry, government agencies, and public officials.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Developing criteria and standards for the award of research grants.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Developing guidelines relating to solicitation, review, and award of research grants and fellowships, to ensure an impartial, high-quality peer review system.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Reviewing reports of peer review panels and making recommendations for research grants and fellowships.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Developing and providing oversight regarding mechanisms for the dissemination of research results.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_4__para_j">
+              <num>(j)</num>
+              <content>
+                <p>The council shall select, by majority vote, six members of the council who must combine with seven members of the Florida Cancer Control and Research Advisory Council to form a joint committee to develop performance measures, a rating system, a rating standard, and an application form for the Cancer Center of Excellence Award created in s.381.925.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5602__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Applications for biomedical research funding under the program may be submitted from any university or established research institute in the state. All qualified investigators in the state, regardless of institution affiliation, shall have equal access and opportunity to compete for the research funding.</p>
+            </content>
+            <paragraph eId="215_5602__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Applications for biomedical research funding under the program may be submitted from any university or established research institute in the state. All qualified investigators in the state, regardless of institution affiliation, shall have equal access and opportunity to compete for the research funding.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Grants and fellowships shall be awarded by the State Surgeon General, after consultation with the council, on the basis of scientific merit, as determined by the competitively open peer-reviewed process to ensure objectivity, consistency, and high quality. The following types of applications may be considered for funding:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5602__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>To ensure that all proposals for research funding are appropriate and are evaluated fairly on the basis of scientific merit, the Department of Health shall appoint peer review panels of independent, scientifically qualified individuals to review the scientific merit of each proposal and establish its scientific priority score. The priority scores shall be forwarded to the council and must be considered in determining which proposals shall be recommended for funding.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5602__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The council and the peer review panels shall establish and follow rigorous guidelines for ethical conduct and adhere to a strict policy with regard to conflict of interest. A member of the council or a panel may not participate in any discussion or decision of the council or a panel with respect to a research proposal by any firm, entity, or agency with which the member is associated as a member of the governing body or as an employee, or with which the member has entered into a contractual arrangement.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5602__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The department may contract on a competitive-bid basis with an appropriate entity to administer the program. Administrative expenses may not exceed 15 percent of the total funds available to the program in any given year.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5602__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The grant programs under the purview of the council are exempt from chapter 120.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5602__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The council shall submit a fiscal-year progress report on the programs under its purview to the Governor, the State Surgeon General, the President of the Senate, and the Speaker of the House of Representatives by December 15. The report must include:</p>
+            </content>
+            <paragraph eId="215_5602__subsec_10__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For each research project supported by grants or fellowships awarded under the program:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The state ranking and total amount of biomedical research funding currently flowing into the state from the National Institutes of Health.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Progress towards programmatic goals, particularly in the prevention, diagnosis, treatment, and cure of diseases related to tobacco use, including cancer, cardiovascular disease, stroke, and pulmonary disease.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Recommendations to further the mission of the programs.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_5602__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The council shall award grants for cancer research through the William G. “Bill” Bankhead, Jr., and David Coley Cancer Research Program created in s.381.922.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5602__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>Each fiscal year, $25 million from the revenue deposited into the Health Care Trust Fund pursuant to ss.210.011(9) and210.276(7) shall be reserved for research of tobacco-related or cancer-related illnesses. Of the revenue deposited in the Health Care Trust Fund pursuant to this section, $25 million shall be transferred to the Biomedical Research Trust Fund within the Department of Health. Subject to annual appropriations in the General Appropriations Act, $5 million shall be appropriated to the James and Esther King Biomedical Research Program, and $5 million shall be appropriated to the William G. “Bill” Bankhead, Jr., and David Coley Cancer Research Program created under s.381.922.</p>
+            </content>
+            <paragraph eId="215_5602__subsec_12__para_12">
+              <num>(12)</num>
+              <content>
+                <p>Each fiscal year, $25 million from the revenue deposited into the Health Care Trust Fund pursuant to ss.210.011(9) and210.276(7) shall be reserved for research of tobacco-related or cancer-related illnesses. Of the revenue deposited in the Health Care Trust Fund pursuant to this section, $25 million shall be transferred to the Biomedical Research Trust Fund within the Department of Health. Subject to annual appropriations in the General Appropriations Act, $5 million shall be appropriated to the James and Esther King Biomedical Research Program, and $5 million shall be appropriated to the William G. “Bill” Bankhead, Jr., and David Coley Cancer Research Program created under s.381.922.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_5602__subsec_12__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An entity that performs or is associated with cancer research or care that receives a specific appropriation for biomedical research, research-related functions, operations or other supportive functions, or expansion of operations in the General Appropriations Act without statutory reporting requirements for the receipt of those funds must submit an annual fiscal-year progress report to the President of the Senate and the Speaker of the House of Representatives by December 15. The report must:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

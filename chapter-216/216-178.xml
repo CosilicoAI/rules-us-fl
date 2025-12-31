@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.178"/>
+          <FRBRuri value="/us-fl/act/fsa/216.178"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.178/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.178/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.178/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.178/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_178">
+          <num>216.178</num>
+          <heading>General Appropriations Act; format; procedure.</heading>
+          <content>
+            <p>Any information contained in a conference committee report on a general or supplemental appropriations bill, on any other bill adopted by the same conference committee to implement a general or supplemental appropriations bill and effective for the same period as such appropriations bill, or on a revenue bill during any regular or special legislative session must be made available to the members of the Legislature and to the public at least 72 hours before the report may be voted on by the Senate or the House of Representatives.</p>
+          </content>
+          <subsection eId="216_178__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any information contained in a conference committee report on a general or supplemental appropriations bill, on any other bill adopted by the same conference committee to implement a general or supplemental appropriations bill and effective for the same period as such appropriations bill, or on a revenue bill during any regular or special legislative session must be made available to the members of the Legislature and to the public at least 72 hours before the report may be voted on by the Senate or the House of Representatives.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_178__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Office of Planning and Budgeting shall develop a final budget report that reflects the net appropriations for each budget item. The report shall reflect actual expenditures for each of the 2 preceding fiscal years and the estimated expenditures for the current fiscal year. In addition, the report must contain the actual revenues and cash balances for the preceding 2 fiscal years and the estimated revenues and cash balances for the current fiscal year. The report may also contain expenditure data, program objectives, and program measures for each state agency program. The report must be produced by the 120th day of each fiscal year. A copy of the report must be made available to each member of the Legislature, to the head of each state agency, to the Auditor General, to the director of the Office of Program Policy Analysis and Government Accountability, and to the public.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

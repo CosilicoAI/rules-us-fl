@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.733"/>
+          <FRBRuri value="/us-fl/act/fsa/213.733"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.733/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.733/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.733/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.733/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_733">
+          <num>213.733</num>
+          <heading>Satisfaction of warrant.</heading>
+          <content>
+            <p>If a warrant is filed in the public records for any tax administered by the department and the department is satisfied that no tax liability exists or that the tax liability has been discharged or provided for or the warrant has become unenforceable or was filed in error, the department shall cancel the warrant, amend or modify any portion of it, and refile it in the public records, making specific reference to the fact that the warrant was filed in error. An amendment or modification does not affect the priority of the original warrant. At the written request of the taxpayer, the department shall furnish a credit agency specified by the taxpayer a copy of the cancellation, amendment, or modification of the warrant.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

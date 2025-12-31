@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.051"/>
+          <FRBRuri value="/us-fl/act/fsa/212.051"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.051/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.051/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.051/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.051/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_051">
+          <num>212.051</num>
+          <heading>Equipment, machinery, and other materials for pollution control; not subject to sales or use tax.</heading>
+          <content>
+            <p>Notwithstanding any provision to the contrary, sales, use, or privilege taxes shall not be collected with respect to any facility, device, fixture, equipment, machinery, specialty chemical, or bioaugmentation product used primarily for the control or abatement of pollution or contaminants in manufacturing, processing, compounding, or producing for sale items of tangible personal property at a fixed location, or any structure, machinery, or equipment installed in the reconstruction or replacement of such facility, device, fixture, equipment, or machinery. To qualify, such facility, device, fixture, equipment, structure, specialty chemical, or bioaugmentation product must be used, installed, or constructed to meet a law implemented by, or a condition of a permit issued by, the Department of Environmental Protection; however, such exemption shall not be allowed unless the purchaser signs a certificate stating that the facility, device, fixture, equipment, structure, specialty chemical, or bioaugmentation product to be exempted is required to meet such law or condition.</p>
+          </content>
+          <subsection eId="212_051__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any provision to the contrary, sales, use, or privilege taxes shall not be collected with respect to any facility, device, fixture, equipment, machinery, specialty chemical, or bioaugmentation product used primarily for the control or abatement of pollution or contaminants in manufacturing, processing, compounding, or producing for sale items of tangible personal property at a fixed location, or any structure, machinery, or equipment installed in the reconstruction or replacement of such facility, device, fixture, equipment, or machinery. To qualify, such facility, device, fixture, equipment, structure, specialty chemical, or bioaugmentation product must be used, installed, or constructed to meet a law implemented by, or a condition of a permit issued by, the Department of Environmental Protection; however, such exemption shall not be allowed unless the purchaser signs a certificate stating that the facility, device, fixture, equipment, structure, specialty chemical, or bioaugmentation product to be exempted is required to meet such law or condition.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_051__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Equipment, machinery, or materials required to meet any law implemented by, or any condition of a permit issued by, the Department of Environmental Protection that are purchased for the monitoring, prevention, abatement, or control of pollution or contaminants at privately owned or operated landfills or construction and demolition debris disposal facilities shall be exempt from taxation as otherwise imposed by this chapter; however, such exemption shall not be allowed unless the purchaser signs a certificate stating that the equipment, machinery, or materials to be exempted are required to meet such law or condition. This exemption does not include solid waste collection vehicles, compactors, graders, or other earthmoving equipment.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_051__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For the purposes of this section, “specialty chemicals” means those chemicals used to enhance or further treat wastewater, including, but not limited to, defoamers, nutrients, and polymers, and “bioaugmentation products” means the microorganisms used in waste treatment plants to break down solids and consume organic matter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

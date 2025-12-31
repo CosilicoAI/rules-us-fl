@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.15"/>
+          <FRBRuri value="/us-fl/act/fsa/212.15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.15/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.15/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_15">
+          <num>212.15</num>
+          <heading>Taxes declared state funds; penalties for failure to remit taxes; due and delinquent dates; judicial review.</heading>
+          <content>
+            <p>The taxes imposed by this chapter shall, except as provided in s.212.06(5)(a)2.e., become state funds at the moment of collection and shall for each month be due to the department on the first day of the succeeding month and be delinquent on the 21st day of such month. All returns postmarked after the 20th day of such month are delinquent.</p>
+          </content>
+          <subsection eId="212_15__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The taxes imposed by this chapter shall, except as provided in s.212.06(5)(a)2.e., become state funds at the moment of collection and shall for each month be due to the department on the first day of the succeeding month and be delinquent on the 21st day of such month. All returns postmarked after the 20th day of such month are delinquent.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_15__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who, with intent to unlawfully deprive or defraud the state of its moneys or the use or benefit thereof, fails to remit taxes collected or paid on behalf of a purchaser under this chapter commits theft of state funds, punishable as follows:</p>
+            </content>
+            <paragraph eId="212_15__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the total amount of stolen revenue is less than $1,000, the offense is a misdemeanor of the second degree, punishable as provided in s.775.082or s.775.083. Upon a second conviction, the offender commits a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083. Upon a third or subsequent conviction, the offender commits a felony of the third degree, punishable as provided in s.775.082, s.775.083, or s.775.084.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_15__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the total amount of stolen revenue is $1,000 or more, but less than $20,000, the offense is a felony of the third degree, punishable as provided in s.775.082, s.775.083, or s.775.084.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_15__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If the total amount of stolen revenue is $20,000 or more, but less than $100,000, the offense is a felony of the second degree, punishable as provided in s.775.082, s.775.083, or s.775.084.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_15__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If the total amount of stolen revenue is $100,000 or more, the offense is a felony of the first degree, punishable as provided in s.775.082, s.775.083, or s.775.084.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_15__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Prosecution of a misdemeanor under this section shall commence no later than 2 years from the date of the offense. Prosecution of a felony under this section shall commence no later than 5 years from the date of the offense.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_15__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>All taxes collected under this chapter shall be remitted to the department. In addition to criminal sanctions, the department is empowered, and it shall be its duty, when any tax becomes delinquent or is otherwise in jeopardy under this chapter, to issue a warrant for the full amount of the tax due or estimated to be due, with the interest, penalties, and cost of collection, directed to all and singular the sheriffs of the state, and mail the warrant to the clerk of the circuit court of the county where any property of the taxpayer is located. Upon receipt of the warrant, the clerk of the circuit court shall record it, and thereupon the amount of the warrant shall become a lien on any real or personal property of the taxpayer in the same manner as a recorded judgment. The department may issue a tax execution to enforce the collection of taxes imposed by this chapter and deliver it to any sheriff. The sheriff shall thereupon proceed in the same manner as prescribed by law for executions and shall be entitled to the same fees for his or her services in executing the warrant to be collected. The department may also have a writ of garnishment to subject any indebtedness due to the delinquent dealer by a third person in any goods, money, chattels, or effects of the delinquent dealer in the hands, possession, or control of the third person in the manner provided by law for the payment of the tax due. Upon payment of the execution, warrant, judgment, or garnishment, the department shall satisfy the lien of record within 30 days. If there is jeopardy to the revenue and jeopardy is asserted in or with an assessment, the department shall proceed in the manner specified for jeopardy assessment in s.213.732.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

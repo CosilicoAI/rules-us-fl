@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.89"/>
+          <FRBRuri value="/us-fl/act/fsa/215.89"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.89/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.89/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.89/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.89/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_89">
+          <num>215.89</num>
+          <heading>Charts of account.</heading>
+          <content>
+            <p>LEGISLATIVE INTENT.—It is the intent of the Legislature that a mechanism be provided for obtaining detailed, uniform reporting of government financial information to enable citizens to view compatible information on the use of public funds by governmental entities. The Legislature intends that uniform reporting requirements be developed specifically to promote accountability and transparency in the use of public funds. In order to accommodate the different financial management systems currently in use, separate charts of account may be used as long as the financial information is captured and reported consistently and is compatible with any reporting entity.</p>
+          </content>
+          <subsection eId="215_89__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>LEGISLATIVE INTENT.—It is the intent of the Legislature that a mechanism be provided for obtaining detailed, uniform reporting of government financial information to enable citizens to view compatible information on the use of public funds by governmental entities. The Legislature intends that uniform reporting requirements be developed specifically to promote accountability and transparency in the use of public funds. In order to accommodate the different financial management systems currently in use, separate charts of account may be used as long as the financial information is captured and reported consistently and is compatible with any reporting entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_89__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>DEFINITIONS.—As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_89__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Charts of account” means a compilation of uniform data codes that are to be used for reporting governmental assets, liabilities, equities, revenues, and expenditures to the Chief Financial Officer. Uniform data codes shall capture specific details of the assets, liabilities, equities, revenues, and expenditures that are of interest to the public.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_89__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“State agency” means an official, officer, commission, board, authority, council, committee, or department of the executive branch; a state attorney, public defender, criminal conflict and civil regional counsel, or capital collateral regional counsel; the Florida Clerks of Court Operations Corporation; the Justice Administrative Commission; the Florida Housing Finance Corporation; the Florida Public Service Commission; the State Board of Administration; the Supreme Court or a district court of appeal, circuit court, or county court; or the Judicial Qualifications Commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_89__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Local government” means a municipality, county, water management district, special district, or any other entity created by a local government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_89__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Educational entity” means a school district or an entity created by a school district.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_89__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Entity of higher education” means a state university, a state or Florida College System institution, or an entity created by a state university or state or Florida College System institution.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_89__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“State and local government financial information” means the assets, liabilities, equities, revenues, and expenditure information that is recorded in financial management systems of state agencies, local governments, educational entities, and entities of higher education.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_89__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>REPORTING STRUCTURE.—</p>
+            </content>
+            <paragraph eId="215_89__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Chief Financial Officer shall accept comments from state agencies, local governments, educational entities, entities of higher education, and other interested parties regarding the proposed charts of account until November 1, 2013.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_89__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>By January 15, 2014, the Chief Financial Officer, after consultation with affected state agencies, local governments, educational entities, entities of higher education, and the Auditor General, shall submit to the Governor, the President of the Senate, and the Speaker of the House of Representatives a report recommending a uniform charts of account which requires specific enterprise-wide information related to revenues and expenditures of state agencies, local governments, educational entities, and entities of higher education. The report must include the estimated cost of adopting and implementing a uniform enterprise-wide charts of account.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

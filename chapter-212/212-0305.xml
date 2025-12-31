@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0305"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0305"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0305/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0305/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0305/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0305/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0305">
+          <num>212.0305</num>
+          <heading>Convention development taxes; intent; administration; authorization; use of proceeds.</heading>
+          <content>
+            <p>TITLE.—This section may be cited as the “Convention Development Tax Act.”</p>
+          </content>
+          <subsection eId="212_0305__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>TITLE.—This section may be cited as the “Convention Development Tax Act.”</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0305__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>LEGISLATIVE INTENT.—No convention development tax on transient rentals shall be imposed by the governing body of any county unless specifically authorized herein. Any tax authorized pursuant to this section shall be administered and collected exclusively as provided herein and may consist of one or more component levies as enumerated in subsection (4). It is the legislative intent that any authorization for imposition of a convention development tax shall be published in the Florida Statutes as a paragraph of subsection (4), irrespective of the duration of the levy. Each enactment shall specify the types of local governments authorized to levy a convention development tax; the rate or rates which may be imposed; the maximum length of time the tax may be imposed, if any; the procedure which must be followed to secure voter approval, if required; the purpose for which the proceeds may be expended; and such other requirements as the Legislature may provide. One of the principal purposes of the convention development tax is to promote tourism and the use of hotel facilities by facilitating the improvement and construction of convention centers. Any municipality or county wherein the convention development tax is levied is specifically authorized to adopt and implement a convention center booking policy to apply to convention centers owned or operated by a municipality or county which gives priority to bookings after July 1, 1993, in accordance with the minimum number of hotel rooms to be utilized in connection with such convention center bookings or in accordance with the impact of such bookings on the convention development tax generated.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0305__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>APPLICATION; ADMINISTRATION; PENALTIES.—</p>
+            </content>
+            <paragraph eId="212_0305__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The convention development tax on transient rentals imposed by the governing body of any county authorized to so levy shall apply to the amount of any payment made by any person to rent, lease, or use for a period of 6 months or less any living quarters or accommodations in a hotel, apartment hotel, motel, resort motel, apartment, apartment motel, roominghouse, tourist or trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort. When receipt of consideration is by way of property other than money, the tax shall be levied and imposed on the fair market value of such nonmonetary consideration. Any payment made by a person to rent, lease, or use any living quarters or accommodations which are exempt from the tax imposed under s.212.03shall likewise be exempt from any tax imposed under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax shall be charged by the person receiving the consideration for the lease or rental, and the tax shall be collected from the lessee, tenant, or customer at the time of payment of the consideration for such lease or rental.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The person receiving the consideration for such rental or lease shall receive, account for, and remit the tax to the department at the time and in the manner provided for persons who collect and remit taxes under s.212.03. The same duties and privileges imposed by this chapter upon dealers in tangible property respecting the collection and remission of tax; the making of returns; the keeping of books, records, and accounts; and compliance with the rules of the department in the administration of this chapter apply to and are binding upon all persons who are subject to the provisions of this section. However, the department may authorize a quarterly return and payment when the tax remitted by the dealer for the preceding quarter did not exceed $25.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The department shall keep records showing the amount of taxes collected, which records shall disclose the taxes collected from each county in which a local government resort tax is levied. These records shall be subject to the provisions of s.213.053and are confidential and exempt from the provisions of s.119.07(1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The collections received by the department from the tax, less costs of administration, shall be paid and returned monthly to the county which imposed the tax, for use by the county as provided in this section. Such receipts shall be placed in a specific trust fund or funds created by the county.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The department shall promulgate such rules and shall prescribe and publish such forms as may be necessary to effectuate the purposes of this section. The department is authorized to establish audit procedures and to assess for delinquent taxes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The estimated tax provisions contained in s.212.11do not apply to the administration of any tax levied under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Any person taxable under this section who, either by himself or herself or through the person’s agents or employees, fails or refuses to charge and collect the taxes herein provided from the person paying any rental or lease is, in addition to being personally liable for the payment of the tax, guilty of a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>No person shall advertise or hold out to the public in any manner, directly or indirectly, that he or she will absorb all or any part of the tax; that he or she will relieve the person paying the rental of the payment of all or any part of the tax; or that the tax will not be added to the rental or lease consideration or, if added, that the tax or any part thereof will be refunded or refused, either directly or indirectly, by any method whatsoever. Any person who willfully violates any provision of this paragraph is guilty of a misdemeanor of the first degree, punishable as provided in s.775.082or s.775.083.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_j">
+              <num>(j)</num>
+              <content>
+                <p>The tax shall constitute a lien on the property of the lessee, customer, or tenant in the same manner as, and shall be collectible as are, liens authorized and imposed by ss.713.67,713.68, and713.69.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Any tax levied pursuant to this section shall be in addition to any other tax imposed pursuant to this chapter and in addition to all other taxes and fees and the consideration for the rental or lease.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_3__para_l">
+              <num>(l)</num>
+              <content>
+                <p>The department shall administer the taxes levied herein as increases in the rate of the tax authorized in s.125.0104. The department shall collect and enforce the provisions of this section and s.125.0104in conjunction with each other in those counties authorized to levy the taxes authorized herein. The department shall distribute the proceeds received from the taxes levied pursuant to this section and s.125.0104in proportion to the rates of the taxes authorized to the appropriate trust funds as provided by law. In the event of underpayment of the total amount due by a taxpayer pursuant to this section and s.125.0104, the department shall distribute the amount received in proportion to the rates of the taxes authorized to the appropriate trust funds as provided by law and the penalties and interest due on both of said taxes shall be applicable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0305__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>AUTHORIZATION TO LEVY; USE OF PROCEEDS; OTHER REQUIREMENTS.—</p>
+            </content>
+            <paragraph eId="212_0305__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Consolidated government levy for convention development.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Charter county levy for convention development.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Special district levy for convention development.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Special levy for convention development.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Subcounty levy for convention development.—</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_0305__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>LOCAL ADMINISTRATION OF TAX.—</p>
+            </content>
+            <paragraph eId="212_0305__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A county levying a tax under the provisions of this section may be exempt from the requirements of this section that the tax collected be remitted to the Department of Revenue before being returned to the county and that such tax be administered according to the provisions of this chapter, if the county adopts an ordinance providing for the collection and administration of the tax on a local basis.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The ordinance shall include provision for, but need not be limited to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_0305__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A county adopting an ordinance providing for the collection and administration of the tax on a local basis shall also adopt an ordinance electing either to assume all responsibility for auditing the records and accounts of dealers, and assessing, collecting, and enforcing payments of delinquent taxes, or to delegate such authority to the Department of Revenue. If the county elects to assume such responsibility, it shall be bound by the rules promulgated by the Department of Revenue pursuant to paragraph (3)(f), as well as those rules pertaining to the sales and use tax on transient rentals imposed by s.212.03. The county may use any power granted in this chapter to the department to determine the amount of tax, penalties, and interest to be paid by each dealer and to enforce payment of such tax, penalties, and interest. The county may use a certified public accountant licensed in this state in the administration of its statutory duties and responsibilities. Such certified public accountants are bound by the same confidentiality requirements and subject to the same penalties as the county under s.213.053. If the county delegates such authority to the department, the department shall distribute any collections so received, less costs of administration, to the county. The amount deducted for costs of administration by the department shall be used only for those costs which are solely and directly attributable to auditing, assessing, collecting, processing, and enforcing payments of delinquent taxes authorized in this section. If a county elects to delegate such authority to the department, the department shall audit only those businesses in the county that it audits pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

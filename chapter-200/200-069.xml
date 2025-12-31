@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.069"/>
+          <FRBRuri value="/us-fl/act/fsa/200.069"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.069/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.069/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.069/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.069/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_069">
+          <num>200.069</num>
+          <heading>Notice of proposed property taxes and non-ad valorem assessments.</heading>
+          <content>
+            <p>Pursuant to s.200.065(2)(b), the property appraiser, in the name of the taxing authorities and local governing boards levying non-ad valorem assessments within his or her jurisdiction and at the expense of the county, shall prepare and deliver by first-class mail to each taxpayer to be listed on the current year’s assessment roll a notice of proposed property taxes, which notice shall contain the elements and use the format provided in the following form. Notwithstanding the provisions of s.195.022, no county officer shall use a form other than that provided herein. The Department of Revenue may adjust the spacing and placement on the form of the elements listed in this section as it considers necessary based on changes in conditions necessitated by various taxing authorities. If the elements are in the order listed, the placement of the listed columns may be varied at the discretion and expense of the property appraiser, and the property appraiser may use printing technology and devices to complete the form, the spacing, and the placement of the information in the columns. In addition, the property appraiser may not include in the mailing of the notice of ad valorem taxes and non-ad valorem assessments additional information or items unless such information or items explain a component of the notice or provide information directly related to the assessment and taxation of the property. A county officer may use a form other than that provided by the department for purposes of this part, but only if his or her office pays the related expenses and he or she obtains prior written permission from the executive director of the department; however, a county officer may not use a form the substantive content of which is at variance with the form prescribed by the department. The county officer may continue to use such an approved form until the law that specifies the form is amended or repealed or until the officer receives written disapproval from the executive director.</p>
+          </content>
+          <subsection eId="200_069__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The first page of the notice shall read:</p>
+            </content>
+          </subsection>
+          <subsection eId="200_069__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The notice shall include a brief legal description of the property, the name and mailing address of the owner of record, and the tax information applicable to the specific parcel in question. The information shall be in columnar form. There shall be seven column headings which shall read: “Taxing Authority,” “Your Property Taxes Last Year,” “Last Year’s Adjusted Tax Rate (Millage),” “Your Taxes This Year IF NO Budget Change Is Adopted,” “Tax Rate This Year IF PROPOSED Budget Is Adopted (Millage),” “Your Taxes This Year IF PROPOSED Budget Change Is Adopted,” and “A Public Hearing on the Proposed Taxes and Budget Will Be Held:.”</p>
+            </content>
+            <paragraph eId="200_069__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The notice shall include a brief legal description of the property, the name and mailing address of the owner of record, and the tax information applicable to the specific parcel in question. The information shall be in columnar form. There shall be seven column headings which shall read: “Taxing Authority,” “Your Property Taxes Last Year,” “Last Year’s Adjusted Tax Rate (Millage),” “Your Taxes This Year IF NO Budget Change Is Adopted,” “Tax Rate This Year IF PROPOSED Budget Is Adopted (Millage),” “Your Taxes This Year IF PROPOSED Budget Change Is Adopted,” and “A Public Hearing on the Proposed Taxes and Budget Will Be Held:.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>As used in this section, the term “last year’s adjusted tax rate” means the rolled-back rate calculated pursuant to s.200.065(1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="200_069__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>There shall be under each column heading an entry for the county; the school district levy required pursuant to s.1011.60(6); other operating school levies; the municipality or municipal service taxing unit or units in which the parcel lies, if any; the water management district levying pursuant to s.373.503; the independent special districts in which the parcel lies, if any; and for all voted levies for debt service applicable to the parcel, if any.</p>
+            </content>
+          </subsection>
+          <subsection eId="200_069__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For each entry listed in subsection (3), there shall appear on the notice the following:</p>
+            </content>
+            <paragraph eId="200_069__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In the first column, a brief, commonly used name for the taxing authority or its governing body. The entry in the first column for the levy required pursuant to s.1011.60(6) shall be “By State Law.” The entry for other operating school district levies shall be “By Local Board.” Both school levy entries shall be indented and preceded by the notation “Public Schools:”. For each voted levy for debt service, the entry shall be “Voter Approved Debt Payments.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In the second column, the gross amount of ad valorem taxes levied against the parcel in the previous year. If the parcel did not exist in the previous year, the second column shall be blank.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In the third column, last year’s adjusted tax rate or, in the case of voted levies for debt service, the tax rate previously authorized by referendum.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>In the fourth column, the gross amount of ad valorem taxes which will apply to the parcel in the current year if each taxing authority levies last year’s adjusted tax rate or, in the case of voted levies for debt service, the amount previously authorized by referendum.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>In the fifth column, the tax rate that each taxing authority must levy against the parcel to fund the proposed budget or, in the case of voted levies for debt service, the tax rate previously authorized by referendum.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>In the sixth column, the gross amount of ad valorem taxes that must be levied in the current year if the proposed budget is adopted.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>In the seventh column, the date, the time, and a brief description of the location of the public hearing required pursuant to s.200.065(2)(c).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="200_069__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Following the entries for each taxing authority, a final entry shall show: in the first column, the words “Total Property Taxes:” and in the second, fourth, and sixth columns, the sum of the entries for each of the individual taxing authorities. The second, fourth, and sixth columns shall, immediately below said entries, be labeled Column 1, Column 2, and Column 3, respectively. Below these labels shall appear, in boldfaced type, the statement: SEE REVERSE SIDE FOR EXPLANATION.</p>
+            </content>
+          </subsection>
+          <subsection eId="200_069__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The second page of the notice shall state the parcel’s market value and for each taxing authority that levies an ad valorem tax against the parcel:</p>
+            </content>
+            <paragraph eId="200_069__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>The second page of the notice shall state the parcel’s market value and for each taxing authority that levies an ad valorem tax against the parcel:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The reverse side of the second page shall contain definitions and explanations for the values included on the front side.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="200_069__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The following statement shall appear after the values listed on the front of the second page:</p>
+            </content>
+          </subsection>
+          <subsection eId="200_069__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The reverse side of the first page of the form shall read:</p>
+            </content>
+          </subsection>
+          <subsection eId="200_069__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The bottom portion of the notice shall further read in bold, conspicuous print:</p>
+            </content>
+          </subsection>
+          <subsection eId="200_069__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>If requested by the local governing board levying non-ad valorem assessments and agreed to by the property appraiser, the notice specified in this section may contain a notice of proposed or adopted non-ad valorem assessments. If so agreed, the notice shall be titled:</p>
+            </content>
+            <paragraph eId="200_069__subsec_10__para_10">
+              <num>(10)</num>
+              <content>
+                <p>If requested by the local governing board levying non-ad valorem assessments and agreed to by the property appraiser, the notice specified in this section may contain a notice of proposed or adopted non-ad valorem assessments. If so agreed, the notice shall be titled:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="200_069__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the notice includes all adopted non-ad valorem assessments, the provisions contained in subsection (9) shall not be placed on the notice.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

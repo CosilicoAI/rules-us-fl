@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.22"/>
+          <FRBRuri value="/us-fl/act/fsa/198.22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.22/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.22/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_22">
+          <num>198.22</num>
+          <heading>Lien for unpaid taxes.</heading>
+          <content>
+            <p>Unless the tax is sooner paid in full, it shall be a lien for 12 years upon the gross estate of the decedent, except that such part of the gross estate as is used for the payment of charges against the estate and expenses of its administration, allowed by any court having jurisdiction thereof, shall be divested of such lien, and except that such part of the gross estate of a resident decedent as is transferred to a bona fide purchaser, mortgagee, or pledgee, for an adequate and full consideration in money or money’s worth shall be divested of such lien and such lien shall then attach to the consideration received for such property from such purchaser, mortgagee, or pledgee. If the department is satisfied that no tax liability exists or that the tax liability of an estate has been fully discharged or provided for, it may issue a waiver releasing any or all property of such estate from the lien herein imposed.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

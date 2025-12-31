@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.251"/>
+          <FRBRuri value="/us-fl/act/fsa/216.251"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.251/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.251/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.251/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.251/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_251">
+          <num>216.251</num>
+          <heading>Salary appropriations; limitations.</heading>
+          <content>
+            <p>The annual rate of salary of any officer or employee filling the position specifically named in an item in the appropriations acts shall be as provided in one of the following paragraphs:</p>
+          </content>
+          <subsection eId="216_251__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The annual rate of salary of any officer or employee filling the position specifically named in an item in the appropriations acts shall be as provided in one of the following paragraphs:</p>
+            </content>
+            <paragraph eId="216_251__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In the amount appropriated for such position;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_251__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount appropriated in an item for the named positions in that item, shall be divided by the indicated number of such positions, and the resulting quotient shall be the annual rate of salary of each such position; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_251__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Within the amounts appropriated where such salary may be otherwise fixed pursuant to law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_251__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The salary for each position not specifically indicated in the appropriations acts shall be as provided in one of the following subparagraphs:</p>
+            </content>
+            <paragraph eId="216_251__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The salary for each position not specifically indicated in the appropriations acts shall be as provided in one of the following subparagraphs:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_251__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Salary payments shall be made only to employees filling established positions included in the agency’s or in the judicial branch’s approved budgets and amendments thereto as may be provided by law; provided, however:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_251__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An agency may not provide general salary increases or pay additives for a cohort of positions sharing the same job classification or job occupations which the Legislature has not authorized in the General Appropriations Act or other laws.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

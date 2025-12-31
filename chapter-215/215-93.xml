@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.93"/>
+          <FRBRuri value="/us-fl/act/fsa/215.93"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.93/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.93/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.93/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.93/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_93">
+          <num>215.93</num>
+          <heading>Florida Financial Management Information System.</heading>
+          <content>
+            <p>To provide the information necessary to carry out the intent of the Legislature, there shall be a Florida Financial Management Information System. The Florida Financial Management Information System shall be fully implemented and shall be upgraded as necessary to ensure the efficient operation of an integrated financial management information system and to provide necessary information for the effective operation of state government. Upon the recommendation of the coordinating council and approval of the board, the Florida Financial Management Information System may require data from any state agency information system or information subsystem or may request data from any judicial branch information system or information subsystem that the coordinating council and board have determined to have statewide financial management significance. Each functional owner information subsystem within the Florida Financial Management Information System shall be developed in such a fashion as to allow for timely, positive, preplanned, and prescribed data transfers between the Florida Financial Management Information System functional owner information subsystems and from other information systems. The principal unit of the system shall be the functional owner information subsystem, and the system shall include, but shall not be limited to, the following:</p>
+          </content>
+          <subsection eId="215_93__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To provide the information necessary to carry out the intent of the Legislature, there shall be a Florida Financial Management Information System. The Florida Financial Management Information System shall be fully implemented and shall be upgraded as necessary to ensure the efficient operation of an integrated financial management information system and to provide necessary information for the effective operation of state government. Upon the recommendation of the coordinating council and approval of the board, the Florida Financial Management Information System may require data from any state agency information system or information subsystem or may request data from any judicial branch information system or information subsystem that the coordinating council and board have determined to have statewide financial management significance. Each functional owner information subsystem within the Florida Financial Management Information System shall be developed in such a fashion as to allow for timely, positive, preplanned, and prescribed data transfers between the Florida Financial Management Information System functional owner information subsystems and from other information systems. The principal unit of the system shall be the functional owner information subsystem, and the system shall include, but shall not be limited to, the following:</p>
+            </content>
+            <paragraph eId="215_93__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Planning and Budgeting Subsystem.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_93__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Florida Accounting Information Resource Subsystem.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_93__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Financial Management Subsystem.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_93__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Purchasing Subsystem.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_93__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Personnel Information System.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_93__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each information subsystem shall have a functional owner, who may establish additional functions for the subsystem unless specifically prohibited by ss.215.90-215.96. However, without the express approval of the board upon recommendation of the coordinating council, no functional owner nor any other agency shall have the authority to establish or maintain additional subsystems which duplicate any of the information subsystems of the Florida Financial Management Information System. Each functional owner shall solicit input and responses from agencies utilizing the information subsystem. Each functional owner may contract with the other functional owners or private sector entities in the design, development, and implementation of their information systems and subsystems. Each functional owner shall include in its information subsystem functional specifications the data requirements and standards of the Florida Financial Management Information System as approved by the board. Each functional owner shall establish design teams that shall plan and coordinate the design and implementation of its subsystem within the framework established by the board. The design teams shall assist the design and coordination staff in carrying out the duties assigned by the board or the coordinating council. The coordinating council shall review and approve the work plans for these projects.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_93__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Florida Financial Management Information System shall include financial management data and utilize the chart of accounts approved by the Chief Financial Officer. Common financial management data shall include, but not be limited to, data codes, titles, and definitions used by one or more of the functional owner subsystems. The Florida Financial Management Information System shall utilize common financial management data codes. The council shall recommend and the board shall adopt policies regarding the approval and publication of the financial management data. The Chief Financial Officer shall adopt policies regarding the approval and publication of the chart of accounts. The Chief Financial Officer’s chart of accounts shall be consistent with the common financial management data codes established by the coordinating council. Further, all systems not a part of the Florida Financial Management Information System which provide information to the system shall use the common data codes from the Florida Financial Management Information System and the Chief Financial Officer’s chart of accounts. Data codes that cannot be supplied by the Florida Financial Management Information System and the Chief Financial Officer’s chart of accounts and that are required for use by the information subsystems shall be approved by the board upon recommendation of the coordinating council.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_93__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Florida Financial Management Information System shall be designed, installed, and operated in a fashion compatible with the legislative appropriations system.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_93__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Functional owners are legally responsible for the security and integrity of all data records existing within or transferred from their information subsystems. Each agency and the judicial branch shall be responsible for the accuracy of the information entered into the Florida Financial Management Information System.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

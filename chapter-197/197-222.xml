@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.222"/>
+          <FRBRuri value="/us-fl/act/fsa/197.222"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.222/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.222/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.222/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.222/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_222">
+          <num>197.222</num>
+          <heading>Prepayment of estimated tax by installment method.</heading>
+          <content>
+            <p>Taxes collected pursuant to this chapter may be prepaid in installments as provided in this section. A taxpayer may elect to prepay by installments for each tax notice for taxes estimated to be more than $100. A taxpayer who elects to prepay shall make payments based upon an estimated tax equal to the actual taxes levied upon the subject property in the prior year. In order to prepay by installments, the taxpayer must complete and file an application for each tax notice with the tax collector on or before April 30 of the year in which the taxpayer elects to prepay the taxes. After submission of an initial application, a taxpayer is not required to submit additional annual applications as long as he or she continues to elect to prepay taxes in installments. However, if in any year the taxpayer does not so elect, reapplication is required for a subsequent election. Installment payments shall be made according to the following schedule:</p>
+          </content>
+          <subsection eId="197_222__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Taxes collected pursuant to this chapter may be prepaid in installments as provided in this section. A taxpayer may elect to prepay by installments for each tax notice for taxes estimated to be more than $100. A taxpayer who elects to prepay shall make payments based upon an estimated tax equal to the actual taxes levied upon the subject property in the prior year. In order to prepay by installments, the taxpayer must complete and file an application for each tax notice with the tax collector on or before April 30 of the year in which the taxpayer elects to prepay the taxes. After submission of an initial application, a taxpayer is not required to submit additional annual applications as long as he or she continues to elect to prepay taxes in installments. However, if in any year the taxpayer does not so elect, reapplication is required for a subsequent election. Installment payments shall be made according to the following schedule:</p>
+            </content>
+            <paragraph eId="197_222__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The first payment of one-quarter of the total amount of estimated taxes due must be made by June 30 of the year in which the taxes are assessed. A 6 percent discount applied against the amount of the installment shall be granted for such payment. The tax collector shall accept a late payment of the first installment through July 31.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_222__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The second payment of one-quarter of the total amount of estimated taxes must be made by September 30 of the year in which the taxes are assessed. A 4.5 percent discount applied against the amount of the installment shall be granted for such payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_222__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The third payment of one-quarter of the total amount of estimated taxes due, plus one-half of any adjustment made pursuant to a determination of actual tax liability, must be made by December 31 of the year in which taxes are assessed. A 3 percent discount applied against the amount of the installment shall be granted for such payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_222__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The fourth payment of one-quarter of the total amount of estimated taxes due, plus one-half of any adjustment made pursuant to a determination of actual tax liability, must be made by March 31 following the year in which taxes are assessed. A discount may not be granted for such payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_222__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>If an installment due date falls on a Saturday, Sunday, or legal holiday, the due date for the installment is the next working day, if the installment payment is delivered to a designated collection office of the tax collector. Taxpayers making such payment shall be entitled to the applicable discount rate authorized in this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_222__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A taxpayer must pay the first installment payment as required in paragraph (1)(a) in order to participate in the installment payment plan. If the taxpayer fails to do so, he or she will not be allowed to participate in the installment payment plan for that year, and subsequent participation will require reapplication as specified in subsection (1). Once a taxpayer elects to participate by timely paying the first payment, he or she is required to continue participation for the tax year in which the payment was first made and is not entitled to the discounts provided in s.197.162. In the event a taxpayer fails to timely make an installment payment subsequent to the first payment, such taxpayer shall be required to remit with his or her next installment payment an amount equal to the current installment amount plus any installment amount due but unpaid. Delinquent payments shall be computed without allowance for any discount. Any amounts which remain unpaid as of the date of delinquency established for regular tax payments under s.197.333shall be subject to all the provisions of law applicable to delinquent taxes.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_222__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon receiving a taxpayer’s application for participation in the prepayment installment plan, and for those taxpayers who participated in the prepayment installment plan the previous year and who are not required to reapply, the tax collector shall send a quarterly tax notice with the discount rates provided in this section according to the payment schedule provided by the department. The postage or cost of electronic mailing shall be paid out of the general fund of the county, upon statement of the costs by the tax collector.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_222__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The moneys collected under this section shall be placed in an interest-earning escrow account. The taxes and penalties collected shall be distributed as provided in s.197.383. The interest earned on this account shall be distributed as provided in s.197.383or, at the option of the tax collector, as provided in s.219.075(2).</p>
+            </content>
+          </subsection>
+          <subsection eId="197_222__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notice of the right to prepay taxes pursuant to this section shall be provided with the notice of taxes. The notice shall inform the taxpayer of the right to prepay taxes in installments, that application forms can be obtained from the tax collector, and that reapplication is not necessary if the taxpayer participated in the prepayment installment plan for the previous year. The application forms shall be provided by the tax collector to those taxpayers requesting an application.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.63"/>
+          <FRBRuri value="/us-fl/act/fsa/215.63"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.63/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.63/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.63/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.63/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_63">
+          <num>215.63</num>
+          <heading>Transfer to division of assets and liabilities of the Revenue Bond Department of Development Commission.</heading>
+          <content>
+            <p>All obligations of the Florida Development Commission in connection with outstanding bond issues shall be assumed and performed either by the division or by the State Board of Administration, as provided by law or by contract. Any bond proceedings taken by the Florida Development Commission prior to July 1, 1969, when ratified by the board shall be deemed to have been taken by the board and the division on behalf of said commission, and any further necessary services in connection with such bond issues shall be performed by the board or the division in the manner provided by this act.</p>
+          </content>
+          <subsection eId="215_63__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All obligations of the Florida Development Commission in connection with outstanding bond issues shall be assumed and performed either by the division or by the State Board of Administration, as provided by law or by contract. Any bond proceedings taken by the Florida Development Commission prior to July 1, 1969, when ratified by the board shall be deemed to have been taken by the board and the division on behalf of said commission, and any further necessary services in connection with such bond issues shall be performed by the board or the division in the manner provided by this act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_63__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any legal commitments, contracts, or other obligations heretofore entered into or assumed by the Florida Development Commission in connection with its revenue bond program outstanding on July 1, 1969, are hereby charged to and shall be performed by the division. All of the powers and duties granted to and vested in the Florida Development Commission by any statutes and laws of this state relating to the revenue bond program of said commission are granted to, vested in and shall be exercised by the division, and all of said statutes and laws not expressly repealed hereby shall remain in full force and effect, subject to the powers and duties therein prescribed being performed by the division.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

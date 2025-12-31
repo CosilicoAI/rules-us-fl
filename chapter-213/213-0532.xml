@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.0532"/>
+          <FRBRuri value="/us-fl/act/fsa/213.0532"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.0532/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.0532/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.0532/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.0532/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_0532">
+          <num>213.0532</num>
+          <heading>Information-sharing agreements with financial institutions.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="213_0532__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="213_0532__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Account” means a demand deposit account, checking or negotiable withdrawal order account, savings account, time deposit account, or money market mutual fund account.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Department” means the Department of Revenue.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Financial institution” means:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Obligor” means any person against whose property the department has filed a warrant or judgment lien certificate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Person” has the same meaning as provided in s.212.02.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_0532__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall request information and assistance from a financial institution as necessary to enforce the tax laws of this state. Pursuant to this subsection, financial institutions doing business in this state and having deposits of at least $50 million shall enter into agreements with the department to develop and operate a data match system, using an automated data exchange to the maximum extent feasible, under which the financial institution shall provide, to the extent allowable by law, for each calendar quarter the name, record address, social security number or other taxpayer identification number, average daily account balance, and other identifying information for:</p>
+            </content>
+            <paragraph eId="213_0532__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each obligor who maintains an account at the financial institution as identified to the institution by the department by name and social security number or other taxpayer identification number; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At the financial institution’s option, each person who maintains an account at the institution.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_0532__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department may enter into agreements to operate an automated data exchange with financial institutions having deposits that do not exceed $50 million.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0532__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department may use the information received pursuant to this section only for the purpose of enforcing the collection of taxes and fees administered by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0532__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>To the extent possible and in compliance with state and federal law, the department shall administer this section in conjunction with s.409.25657in order to avoid duplication and reduce the burden on financial institutions.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0532__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The department shall pay a reasonable fee to the financial institution for conducting the data match provided for in this section, which may not exceed actual costs incurred by the financial institution.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0532__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A financial institution is not required to provide notice to its customers and is not liable to any person for:</p>
+            </content>
+            <paragraph eId="213_0532__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Disclosing to the department any information required under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Encumbering or surrendering any assets held by the financial institution in response to a notice of lien or levy issued by the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Disclosing any information in connection with a data match.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0532__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Taking any other action in good faith to comply with the requirements of this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_0532__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Any financial records obtained pursuant to this section may be disclosed only for the purpose of, and to the extent necessary for, administration and enforcement of the tax laws of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0532__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The department may adopt rules establishing the procedures and requirements for conducting automated data matches with financial institutions pursuant to this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

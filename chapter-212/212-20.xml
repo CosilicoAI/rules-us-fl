@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.20"/>
+          <FRBRuri value="/us-fl/act/fsa/212.20"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.20/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.20/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.20/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.20/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_20">
+          <num>212.20</num>
+          <heading>Funds collected, disposition; additional powers of department; operational expense; refund of taxes adjudicated unconstitutionally collected.</heading>
+          <content>
+            <p>The department shall pay over to the Chief Financial Officer of the state all funds received and collected by it under the provisions of this chapter, to be credited to the account of the General Revenue Fund of the state.</p>
+          </content>
+          <subsection eId="212_20__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department shall pay over to the Chief Financial Officer of the state all funds received and collected by it under the provisions of this chapter, to be credited to the account of the General Revenue Fund of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_20__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department is authorized to employ all necessary assistants to administer this chapter properly and is also authorized to purchase all necessary supplies and equipment which may be required for this purpose.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_20__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The estimated amount of money needed for the administration of this chapter shall be included by the department in its annual legislative budget request for the operation of its office.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_20__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>When there has been a final adjudication that any tax pursuant to s.212.0596or s.212.05965was levied, collected, or both, contrary to the Constitution of the United States or the State Constitution, the department shall, in accordance with rules, determine, based upon claims for refund and other evidence and information, who paid such tax or taxes, and refund to each such person the amount of tax paid. For purposes of this subsection, a “final adjudication” is a decision of a court of competent jurisdiction from which no appeal can be taken or from which the official or officials of this state with authority to make such decisions has or have decided not to appeal.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_20__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>For the purposes of this section:</p>
+            </content>
+            <paragraph eId="212_20__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Proceeds” means all tax or fee revenue collected or received by the department, including interest and penalties.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_20__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Reallocate” means reduction of the accounts of initial deposit and redeposit into the indicated account.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_20__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Distribution of all proceeds under this chapter and ss.202.18(1)(b) and (2)(b) and203.01(1)(a)3. is as follows:</p>
+            </content>
+            <paragraph eId="212_20__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Proceeds from the convention development taxes authorized under s.212.0305shall be reallocated to the Convention Development Tax Clearing Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_20__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Proceeds from discretionary sales surtaxes imposed pursuant to ss.212.054and212.055shall be reallocated to the Discretionary Sales Surtax Clearing Trust Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_20__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Proceeds from the fees imposed under ss.212.05(1)(h)3. and 212.18(3) shall remain with the General Revenue Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_20__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The proceeds of all other taxes and fees imposed pursuant to this chapter or remitted pursuant to s.202.18(1)(b) and (2)(b) shall be distributed as follows:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

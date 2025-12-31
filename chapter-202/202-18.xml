@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.18"/>
+          <FRBRuri value="/us-fl/act/fsa/202.18"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.18/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.18/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.18/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.18/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_18">
+          <num>202.18</num>
+          <heading>Allocation and disposition of tax proceeds.</heading>
+          <content>
+            <p>The proceeds of the communications services taxes remitted under this chapter shall be treated as follows:</p>
+          </content>
+          <subsection eId="202_18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The proceeds of the taxes remitted under s.202.12(1)(a) shall be divided as follows:</p>
+            </content>
+            <paragraph eId="202_18__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The portion of such proceeds which constitutes gross receipts taxes, imposed at the rate prescribed in chapter 203, shall be deposited as provided by law and in accordance with s. 9, Art. XII of the State Constitution.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_18__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The remaining portion shall be distributed according to s.212.20(6).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The proceeds of the taxes remitted under s.202.12(1)(b) shall be allocated as follows:</p>
+            </content>
+            <paragraph eId="202_18__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The portion of the proceeds which constitutes gross receipts taxes, imposed at the rate prescribed in chapter 203, shall be deposited as provided by law and in accordance with s. 9, Art. XII of the State Constitution.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_18__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Fifty-five and nine-tenths percent of the remainder shall be allocated to the state and distributed pursuant to s.212.20(6), except that the proceeds allocated pursuant to s.212.20(6)(d)2.b. shall be prorated to the participating counties in the same proportion as that month’s collection of the taxes and fees imposed pursuant to chapter 212 and paragraph (1)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_18__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>During each calendar year, the remaining portion of the proceeds shall be transferred to the Local Government Half-cent Sales Tax Clearing Trust Fund. Seventy percent of such proceeds shall be allocated in the same proportion as the allocation of total receipts of the half-cent sales tax under s.218.61and the emergency distribution under s.218.65in the prior state fiscal year. Thirty percent of such proceeds shall be distributed pursuant to s.218.67.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_18__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding any law to the contrary, the proceeds of each local communications services tax levied by a municipality or county pursuant to s.202.19(1) or s.202.20(1), less the department’s costs of administration, shall be transferred to the Local Communications Services Tax Clearing Trust Fund and held there to be distributed to such municipality or county. However, the proceeds of any communications services tax imposed pursuant to s.202.19(5) shall be deposited and disbursed in accordance with ss.212.054and212.055. For purposes of this section, the proceeds of any tax levied by a municipality, county, or school board under s.202.19(1) or s.202.20(1) are all funds collected and received by the department pursuant to a specific levy authorized by such sections, including any interest and penalties attributable to the tax levy.</p>
+            </content>
+            <paragraph eId="202_18__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Notwithstanding any law to the contrary, the proceeds of each local communications services tax levied by a municipality or county pursuant to s.202.19(1) or s.202.20(1), less the department’s costs of administration, shall be transferred to the Local Communications Services Tax Clearing Trust Fund and held there to be distributed to such municipality or county. However, the proceeds of any communications services tax imposed pursuant to s.202.19(5) shall be deposited and disbursed in accordance with ss.212.054and212.055. For purposes of this section, the proceeds of any tax levied by a municipality, county, or school board under s.202.19(1) or s.202.20(1) are all funds collected and received by the department pursuant to a specific levy authorized by such sections, including any interest and penalties attributable to the tax levy.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_18__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount deducted for the costs of administration may not exceed 1 percent of the total revenue generated for all municipalities, counties, and school boards levying a tax pursuant to s.202.19. The amount deducted for the costs of administration shall be used only for those costs that are attributable to the taxes imposed pursuant to s.202.19. The total cost of administration shall be prorated among those jurisdictions levying the tax on the basis of the amount collected for a particular jurisdiction to the total amount collected for all such jurisdictions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_18__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Except as otherwise provided in this paragraph, proceeds of the taxes levied pursuant to s.202.19, less amounts deducted for costs of administration in accordance with paragraph (b), shall be distributed monthly to the appropriate jurisdictions. The proceeds of taxes imposed pursuant to s.202.19(5) shall be distributed in the same manner as discretionary surtaxes are distributed, in accordance with ss.212.054and212.055.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

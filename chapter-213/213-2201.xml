@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.2201"/>
+          <FRBRuri value="/us-fl/act/fsa/213.2201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.2201/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.2201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.2201/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.2201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_2201">
+          <num>213.2201</num>
+          <heading>Publications by the department.</heading>
+          <content>
+            <p>The department may from time to time cause the laws under its jurisdiction, together with any rules and other publications, to be published in pamphlet form for free distribution in this state. The department may make charges for these technical and educational publications and mimeographed material of use for educational or reference purposes, except that charges may not be made for providing publications to any agency of the state. The charges shall be made at the discretion of the department. The charges may be sufficient to cover the cost of research, preparation, printing, binding, publishing, and distribution. All moneys received for publications shall be deposited into the fund from which the cost of the publication was paid. The department may also enter into agreements with persons, firms, corporations, governmental agencies, and other institutions whereby publications may be exchanged reciprocally in lieu of payments for the publications.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

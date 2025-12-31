@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.068"/>
+          <FRBRuri value="/us-fl/act/fsa/200.068"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.068/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.068/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.068/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.068/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_068">
+          <num>200.068</num>
+          <heading>Certification of compliance with this chapter.</heading>
+          <content>
+            <p>Not later than 30 days following adoption of an ordinance or resolution establishing a property tax levy, each taxing authority shall certify compliance with the provisions of this chapter to the Department of Revenue. In addition to a statement of compliance, such certification shall include a copy of the ordinance or resolution so adopted; a copy of the certification of value showing rolled-back millage and proposed millage rates, as provided to the property appraiser pursuant to s.200.065(1) and (2)(b); maximum millage rates calculated pursuant to s.200.065(5), together with values and calculations upon which the maximum millage rates are based; and a certified copy of the advertisement, as published pursuant to s.200.065(3). In certifying compliance, the governing body of the county shall also include a certified copy of the notice required under s.194.037. However, if the value adjustment board completes its hearings after the deadline for certification under this section, the county shall submit such copy to the department not later than 30 days following completion of such hearings.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.235"/>
+          <FRBRuri value="/us-fl/act/fsa/213.235"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.235/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.235/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.235/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.235/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_235">
+          <num>213.235</num>
+          <heading>Determination of interest on deficiencies.</heading>
+          <content>
+            <p>Notwithstanding any other provision of law, the annual rate of interest applicable to tax payment deficiencies that arise on or after January 1, 2000, shall be the adjusted rate established by the executive director of the department under subsection (2), unless a lower rate for the particular tax is specifically provided for in law, in which case the lower rate applies. This annual rate of interest applies to all taxes enumerated in s.213.05.</p>
+          </content>
+          <subsection eId="213_235__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other provision of law, the annual rate of interest applicable to tax payment deficiencies that arise on or after January 1, 2000, shall be the adjusted rate established by the executive director of the department under subsection (2), unless a lower rate for the particular tax is specifically provided for in law, in which case the lower rate applies. This annual rate of interest applies to all taxes enumerated in s.213.05.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_235__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the adjusted prime rate charged by banks, rounded to the nearest full percent, plus 4 percentage points, during either:</p>
+            </content>
+            <paragraph eId="213_235__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The 6-month period ending on September 30 of any calendar year, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_235__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The 6-month period ending on March 31 of any calendar year</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_235__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An adjusted rate of interest established under this section becomes effective:</p>
+            </content>
+            <paragraph eId="213_235__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>On January 1 of the succeeding year, if based upon the adjusted prime rate plus 4 percentage points for the 6-month period ending on September 30; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_235__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>On July 1 of the same calendar year, if based upon the adjusted prime rate plus 4 percentage points for the 6-month period ending on March 31.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_235__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>As used in this section, the term “adjusted prime rate charged by banks” means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_235__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Once established, an adjusted rate of interest remains in effect until further adjusted under subsection (2).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

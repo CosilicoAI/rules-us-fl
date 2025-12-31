@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.12"/>
+          <FRBRuri value="/us-fl/act/fsa/201.12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.12/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.12/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_12">
+          <num>201.12</num>
+          <heading>Duties of clerks of the circuit court.</heading>
+          <content>
+            <p>Clerks of the circuit court shall report to the Department of Revenue the names and addresses of any and all individuals, firms, or corporations, who shall fail to have affixed either the required amount of stamps or a notation that the proper stamps and the amount of same have been paid or will be paid directly to the department on any conveyance or taxable instrument or document which may be recorded in their respective offices; and any such clerk who knowingly fails to report any such violation within 30 days after recording of any taxable instrument or document, without such stamps or notation, shall be deemed guilty of a misdemeanor and upon conviction punished accordingly.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

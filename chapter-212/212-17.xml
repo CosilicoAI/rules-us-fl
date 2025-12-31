@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.17"/>
+          <FRBRuri value="/us-fl/act/fsa/212.17"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.17/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.17/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.17/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.17/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_17">
+          <num>212.17</num>
+          <heading>Tax credits or refunds.</heading>
+          <content>
+            <p>If purchases are returned to a dealer by the purchaser or consumer after the tax imposed by this chapter has been collected from or charged to the account of the consumer or user, the dealer is entitled to reimbursement of the amount of tax collected or charged by the dealer, in the manner prescribed by the department.</p>
+          </content>
+          <subsection eId="212_17__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If purchases are returned to a dealer by the purchaser or consumer after the tax imposed by this chapter has been collected from or charged to the account of the consumer or user, the dealer is entitled to reimbursement of the amount of tax collected or charged by the dealer, in the manner prescribed by the department.</p>
+            </content>
+            <paragraph eId="212_17__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>If purchases are returned to a dealer by the purchaser or consumer after the tax imposed by this chapter has been collected from or charged to the account of the consumer or user, the dealer is entitled to reimbursement of the amount of tax collected or charged by the dealer, in the manner prescribed by the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A registered dealer that purchases property for the dealer’s own use, pays tax on acquisition, and sells the property subsequent to acquisition without having used the property is entitled to reimbursement, in the manner prescribed by the department, of the amount of tax paid on the property’s acquisition.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If the tax has not been remitted by a dealer to the department, the dealer may deduct the same in submitting his or her return upon receipt of a signed statement by the dealer as to the gross amount of such refunds during the period covered by the signed statement, which may not be longer than 90 days. The department shall issue to the dealer an official credit memorandum equal to the net amount remitted by the dealer for such tax collected or paid. Such memorandum shall be accepted by the department at full face value from the dealer to whom it is issued upon the remittance of subsequent taxes accrued under this chapter. If a dealer has retired from business and filed a final return, a refund of tax may be made if it can be established to the satisfaction of the department that the tax was not due.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_17__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A dealer who has paid the tax imposed by this chapter on tangible personal property sold under a retained title, conditional sale, or similar contract, or under a contract in which the dealer retains a security interest in the property pursuant to chapter 679, may take credit or obtain a refund for the tax paid by the dealer on the unpaid balance due him or her when he or she repossesses the property, with or without judicial process, within 12 months after the month in which the property was repossessed. If such repossessed property is resold, the sale is subject in all respects to the tax imposed by this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_17__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Except as provided in subsection (4), a dealer who has paid the tax imposed by this chapter on tangible personal property or services may take a credit or obtain a refund for any tax paid by the dealer on the unpaid balance due on worthless accounts within 12 months after the month in which the bad debt has been charged off for federal income tax purposes. If any accounts so charged off for which a credit or refund has been obtained are subsequently, in whole or in part, paid to the dealer, the amount so paid shall be included in the first return filed after such collection and the tax paid accordingly.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_17__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>With respect to the payment of taxes on purchases made through a private-label credit card program:</p>
+            </content>
+            <paragraph eId="212_17__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If consumer accounts or receivables are found to be worthless or uncollectible, the dealer may claim a credit for, or obtain a refund of, the tax remitted by the dealer on the unpaid balance due if:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the dealer or the lender subsequently collects, in whole or in part, the accounts or receivables for which a credit or refund has been granted under paragraph (a), the dealer shall include the taxable percentage of the amount collected in the first return filed after the collection and pay the tax on the portion of that amount for which a credit or refund was granted.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The credit or refund allowed includes all credit sale transaction amounts that are outstanding in the specific private-label credit card account or receivable at the time the account or receivable is charged off, regardless of the date on which the credit sale transaction actually occurred.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A dealer must use one of the following methods to determine the amount of the credit or refund:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>For purposes of computing the credit or refund, payments on the accounts or receivables shall be allocated based on the terms and conditions of the contract between the dealer or lender and the consumer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The credit or refund for tax on bad debt may be claimed on any return filed by an entity related by a direct or indirect common ownership of 50 percent or more.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The amount of the credit or refund that a dealer is eligible to recover under this subsection is limited to 64.4 percent of the tax paid to the department which is attributable to bad debt.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_4__para_h">
+              <num>(h)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_17__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If admissions, license fees, rental payments, or payments for services are made and returned to payors after the taxes have been paid, the department shall return or credit the taxpayer for taxes paid on the moneys returned in the same manner as provided for returns or credits of taxes if purchases or tangible personal property are returnable to a dealer.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_17__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The department shall:</p>
+            </content>
+            <paragraph eId="212_17__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Design, prepare, print and furnish to all dealers, except dealers filing through electronic data interchange, or make available or prescribe to the dealers, all necessary forms for filing returns and instructions to ensure a full collection from dealers and an accounting for the taxes due. The failure of a dealer to secure such forms does not relieve the dealer from the payment of the tax at the time and in the manner provided.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_17__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Prescribe the format and instructions necessary for filing returns in a manner that is initiated through an electronic data interchange to ensure a full collection from dealers and an accounting for the taxes due. The failure of a dealer to use such format does not relieve the dealer from the payment of the tax at the time and in the manner provided.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_17__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The department and its assistants are authorized and empowered to administer the oath for the purpose of enforcing and administering this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_17__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The department may adopt rules to administer and enforce this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

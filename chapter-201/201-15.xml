@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.15"/>
+          <FRBRuri value="/us-fl/act/fsa/201.15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.15/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.15/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_15">
+          <num>201.15</num>
+          <heading>Distribution of taxes collected.</heading>
+          <content>
+            <p>All taxes collected under this chapter are hereby pledged and shall be first made available to make payments when due on bonds issued pursuant to s.215.618or s.215.619, or any other bonds authorized to be issued on a parity basis with such bonds. Such pledge and availability for the payment of these bonds shall have priority over any requirement for the payment of service charges or costs of collection and enforcement under this section. All taxes collected under this chapter, except taxes distributed to the Land Acquisition Trust Fund pursuant to subsections (1) and (2), are subject to the service charge imposed in s.215.20(1). Before distribution pursuant to this section, the Department of Revenue shall deduct amounts necessary to pay the costs of the collection and enforcement of the tax levied by this chapter. The costs and service charge may not be levied against any portion of taxes pledged to debt service on bonds to the extent that the costs and service charge are required to pay any amounts relating to the bonds. All of the costs of the collection and enforcement of the tax levied by this chapter and service charge shall be available and transferred to the extent necessary to pay debt service and any other amounts payable with respect to bonds authorized before January 1, 2017, secured by revenues distributed pursuant to this section. All taxes remaining after deduction of costs shall be distributed as follows:</p>
+          </content>
+          <subsection eId="201_15__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Amounts necessary to make payments on bonds issued pursuant to s.215.618or s.215.619, as provided under paragraphs (3)(a) and (b), or on any other bonds authorized to be issued on a parity basis with such bonds shall be deposited into the Land Acquisition Trust Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_15__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If the amounts deposited pursuant to subsection (1) are less than 33 percent of all taxes collected after first deducting the costs of collection, an amount equal to 33 percent of all taxes collected after first deducting the costs of collection, minus the amounts deposited pursuant to subsection (1), shall be deposited into the Land Acquisition Trust Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_15__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Amounts on deposit in the Land Acquisition Trust Fund shall be used in the following order:</p>
+            </content>
+            <paragraph eId="201_15__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Payment of debt service or funding of debt service reserve funds, rebate obligations, or other amounts payable with respect to Florida Forever bonds issued pursuant to s.215.618. The amount used for such purposes may not exceed $300 million in each fiscal year. It is the intent of the Legislature that all bonds issued to fund the Florida Forever Act be retired by December 31, 2040. Except for bonds issued to refund previously issued bonds, no series of bonds may be issued pursuant to this paragraph unless such bonds are approved and the debt service for the remainder of the fiscal year in which the bonds are issued is specifically appropriated in the General Appropriations Act or other law with respect to bonds issued for the purposes of s.373.4598.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Payment of debt service or funding of debt service reserve funds, rebate obligations, or other amounts due with respect to Everglades restoration bonds issued pursuant to s.215.619. Taxes distributed under paragraph (a) and this paragraph must be collectively distributed on a pro rata basis when the available moneys under this subsection are not sufficient to cover the amounts required under paragraph (a) and this paragraph.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_15__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>After the required distributions to the Land Acquisition Trust Fund pursuant to subsections (1) and (2) and deduction of the service charge imposed pursuant to s.215.20(1), the remainder shall be distributed as follows:</p>
+            </content>
+            <paragraph eId="201_15__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The lesser of 20.5453 percent of the remainder or $360.08 million in each fiscal year shall be paid into the State Treasury to the credit of the State Transportation Trust Fund. Notwithstanding any other law, the amount credited to the State Transportation Trust Fund shall be used for:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The lesser of 0.1456 percent of the remainder or $3.25 million in each fiscal year shall be paid into the State Treasury to the credit of the Grants and Donations Trust Fund in the Department of Commerce to fund technical assistance to local governments.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An amount equaling 4.5 percent of the remainder in each fiscal year shall be paid into the State Treasury to the credit of the State Housing Trust Fund. The funds shall be used as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>An amount equaling 5.20254 percent of the remainder in each fiscal year shall be paid into the State Treasury to the credit of the State Housing Trust Fund. Of such funds:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The lesser of 0.017 percent of the remainder or $300,000 in each fiscal year shall be paid into the State Treasury to the credit of the General Inspection Trust Fund to be used to fund oyster management and restoration programs as provided in s.379.362(3).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>A total of $75 million shall be paid into the State Treasury to the credit of the State Economic Enhancement and Development Trust Fund within the Department of Commerce.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>An amount equaling 5.4175 percent of the remainder shall be paid into the Resilient Florida Trust Fund to be used for the purposes for which the Resilient Florida Trust Fund was created and exists by law. Funds may be used for planning and project grants.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_15__subsec_4__para_h">
+              <num>(h)</num>
+              <content>
+                <p>An amount equaling 5.4175 percent of the remainder shall be paid into the Water Protection and Sustainability Program Trust Fund to be used to fund water quality improvement grants as specified in s.403.0673.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_15__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding s.215.32(2)(b)4.a., funds distributed to the State Housing Trust Fund and the Local Government Housing Trust Fund pursuant to paragraphs (4)(c) and (d) may not be transferred to the General Revenue Fund in the General Appropriations Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_15__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>After the distributions provided in the preceding subsections, any remaining taxes shall be paid into the State Treasury to the credit of the General Revenue Fund.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
