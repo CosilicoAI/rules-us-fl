@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.096"/>
+          <FRBRuri value="/us-fl/act/fsa/212.096"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.096/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.096/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.096/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.096/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_096">
+          <num>212.096</num>
+          <heading>Sales, rental, storage, use tax; enterprise zone jobs credit against sales tax.</heading>
+          <content>
+            <p>For the purposes of the credit provided in this section:</p>
+          </content>
+          <subsection eId="212_096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the purposes of the credit provided in this section:</p>
+            </content>
+            <paragraph eId="212_096__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Eligible business” means any sole proprietorship, firm, partnership, corporation, bank, savings association, estate, trust, business trust, receiver, syndicate, or other group or combination, or successor business, located in an enterprise zone. The business must demonstrate to the department that, on the date of application, the total number of full-time jobs defined under paragraph (d) is greater than the total was 12 months prior to that date. An eligible business does not include any business which has claimed the credit permitted under s.220.181for any new business employee first beginning employment with the business after July 1, 1995.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Month” means either a calendar month or the time period from any day of any month to the corresponding day of the next succeeding month or, if there is no corresponding day in the next succeeding month, the last day of the succeeding month.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“New employee” means a person residing in an enterprise zone or a participant in the welfare transition program who begins employment with an eligible business after July 1, 1995, and who has not been previously employed full time within the preceding 12 months by the eligible business, or a successor eligible business, claiming the credit allowed by this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Job” means a full-time position, as consistent with terms used by the Department of Commerce and the United States Department of Labor for purposes of reemployment assistance tax administration and employment estimation resulting directly from a business operation in this state. This term does not include a temporary construction job involved with the construction of facilities or any job that has previously been included in any application for tax credits under s.220.181(1). The term also includes employment of an employee leased from an employee leasing company licensed under chapter 468 if such employee has been continuously leased to the employer for an average of at least 36 hours per week for more than 6 months.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“New job has been created” means that, on the date of application, the total number of full-time jobs is greater than the total was 12 months prior to that date, as demonstrated to the department by a business located in the enterprise zone.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon an affirmative showing by an eligible business to the satisfaction of the department that the requirements of this section have been met, the business shall be allowed a credit against the tax remitted under this chapter.</p>
+            </content>
+            <paragraph eId="212_096__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Upon an affirmative showing by an eligible business to the satisfaction of the department that the requirements of this section have been met, the business shall be allowed a credit against the tax remitted under this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The credit shall be computed as 20 percent of the actual monthly wages paid in this state to each new employee hired when a new job has been created, unless the business is located within a rural enterprise zone pursuant to s.290.004, in which case the credit shall be 30 percent of the actual monthly wages paid. If no less than 20 percent of the employees of the business are residents of an enterprise zone, excluding temporary and part-time employees, the credit shall be computed as 30 percent of the actual monthly wages paid in this state to each new employee hired when a new job has been created, unless the business is located within a rural enterprise zone, in which case the credit shall be 45 percent of the actual monthly wages paid. If the new employee hired when a new job is created is a participant in the welfare transition program, the following credit shall be a percent of the actual monthly wages paid: 40 percent for $4 above the hourly federal minimum wage rate; 41 percent for $5 above the hourly federal minimum wage rate; 42 percent for $6 above the hourly federal minimum wage rate; 43 percent for $7 above the hourly federal minimum wage rate; and 44 percent for $8 above the hourly federal minimum wage rate. For purposes of this paragraph, monthly wages shall be computed as one-twelfth of the expected annual wages paid to such employee. The amount paid as wages to a new employee is the compensation paid to such employee that is subject to reemployment assistance tax. The credit shall be allowed for up to 24 consecutive months, beginning with the first tax return due pursuant to s.212.11after approval by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_096__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In order to claim this credit, an eligible business must file under oath with the governing body or enterprise zone development agency having jurisdiction over the enterprise zone where the business is located, as applicable, a statement which includes:</p>
+            </content>
+            <paragraph eId="212_096__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For each new employee for whom this credit is claimed, the employee’s name and place of residence, including the identifying number assigned pursuant to s.290.0065to the enterprise zone in which the employee resides if the new employee is a person residing in an enterprise zone, and, if applicable, documentation that the employee is a welfare transition program participant.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If applicable, the name and address of each permanent employee of the business, including, for each employee who is a resident of an enterprise zone, the identifying number assigned pursuant to s.290.0065to the enterprise zone in which the employee resides.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The name and address of the eligible business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The starting salary or hourly wages paid to the new employee.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Demonstration to the department that, on the date of application, the total number of full-time jobs defined under paragraph (1)(d) is greater than the total was 12 months prior to that date.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The identifying number assigned pursuant to s.290.0065to the enterprise zone in which the business is located.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Whether the business is a small business as defined by s.288.703(6).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Within 10 working days after receipt of an application, the governing body or enterprise zone development agency shall review the application to determine if it contains all the information required pursuant to this subsection and meets the criteria set out in this section. The governing body or agency shall certify all applications that contain the information required pursuant to this subsection and meet the criteria set out in this section as eligible to receive a credit. If applicable, the governing body or agency shall also certify if 20 percent of the employees of the business are residents of an enterprise zone, excluding temporary and part-time employees. The certification shall be in writing, and a copy of the certification shall be transmitted to the executive director of the Department of Revenue. The business shall be responsible for forwarding a certified application to the department within the time specified in paragraph (i).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>All applications for a credit pursuant to this section must be submitted to the department within 6 months after the new employee is hired, except applications for credit for leased employees. Applications for credit for leased employees must be submitted to the department within 7 months after the employee is leased.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_096__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Within 10 working days after receipt of a completed application for a credit authorized in this section, the department shall inform the business that the application has been approved. The credit may be taken on the first return due after receipt of approval from the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>In the event the application is incomplete or insufficient to support the credit authorized in this section, the department shall deny the credit and notify the business of that fact. The business may reapply for this credit.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The credit provided in this section does not apply:</p>
+            </content>
+            <paragraph eId="212_096__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For any new employee who is an owner, partner, or majority stockholder of an eligible business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_096__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For any new employee who is employed for any period less than 3 months.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_096__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The credit provided in this section shall not be allowed for any month in which the tax due for such period or the tax return required pursuant to s.212.11for such period is delinquent.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>In the event an eligible business has a credit larger than the amount owed the state on the tax return for the time period in which the credit is claimed, the amount of the credit for that time period shall be the amount owed the state on that tax return.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Any business which has claimed this credit shall not be allowed any credit under the provisions of s.220.181for any new employee beginning employment after July 1, 1995.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>It shall be the responsibility of each business to affirmatively demonstrate to the satisfaction of the department that it meets the requirements of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Any person who fraudulently claims this credit is liable for repayment of the credit plus a mandatory penalty of 100 percent of the credit plus interest at the rate provided in this chapter, and such person is guilty of a misdemeanor of the second degree, punishable as provided in s.775.082or s.775.083.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_096__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>This section, except for subsection (11), expires on the date specified in s.290.016for the expiration of the Florida Enterprise Zone Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.0012"/>
+          <FRBRuri value="/us-fl/act/fsa/195.0012"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.0012/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.0012/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.0012/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.0012/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_0012">
+          <num>195.0012</num>
+          <heading>Legislative intent.</heading>
+          <content>
+            <p>It is declared to be the legislative purpose and intent in this entire chapter to recognize and fulfill the state’s responsibility to secure a just valuation for ad valorem tax purposes of all property and to provide for a uniform assessment as between property within each county and property in every other county or taxing district.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

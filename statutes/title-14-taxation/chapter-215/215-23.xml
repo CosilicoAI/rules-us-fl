@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.23"/>
+          <FRBRuri value="/us-fl/act/fsa/215.23"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.23/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.23/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.23/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.23/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_23">
+          <num>215.23</num>
+          <heading>When contributions to be made.</heading>
+          <content>
+            <p>The deductions required by s.215.20shall be paid into the appropriate fund by the Chief Financial Officer for quarterly periods ending March 31, June 30, September 30, and December 31 of each year, and when so paid shall thereupon become a part of that fund to be accounted for and disbursed as provided by law.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

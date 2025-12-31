@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.24"/>
+          <FRBRuri value="/us-fl/act/fsa/213.24"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.24/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.24/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.24/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.24/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_24">
+          <num>213.24</num>
+          <heading>Accrual of penalties and interest on deficiencies; deficiency billing costs.</heading>
+          <content>
+            <p>If notice and demand is made for the payment of any amount due under laws applicable to this chapter and if such amount is paid within 30 days after the date of such billing or notice and demand, no additional penalties or interest under this section on the amount so paid shall be imposed for the period after the date of such notice and demand.</p>
+          </content>
+          <subsection eId="213_24__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If notice and demand is made for the payment of any amount due under laws applicable to this chapter and if such amount is paid within 30 days after the date of such billing or notice and demand, no additional penalties or interest under this section on the amount so paid shall be imposed for the period after the date of such notice and demand.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_24__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Billings for deficiencies or automated refunds of tax, penalty, or interest may not be issued for an amount less than the actual costs incurred to produce a billing or automated refund.</p>
+            </content>
+            <paragraph eId="213_24__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Billings for deficiencies or automated refunds of tax, penalty, or interest may not be issued for an amount less than the actual costs incurred to produce a billing or automated refund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_24__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The cost of issuing billings or automated refunds for any tax or fee enumerated in s.213.05or chapter 443 shall be computed in a study performed by the inspector general of the department. The study shall be conducted every 3 years and at such other times as deemed necessary by the inspector general. A minimum billing and automated refund amount shall be established and adjusted in accordance with the results of such study.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_24__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Any change in minimum billing or automated refund amounts is effective on July 1 following the completion of the study.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_24__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An administrative collection processing fee shall be imposed to offset payment processing and administrative costs incurred by the state due to late payment of a collection event.</p>
+            </content>
+            <paragraph eId="213_24__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_24__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department shall collect the fee from a taxpayer who fails to pay the full amount of tax, penalty, and interest due within 90 days following initial notification of the collection event. The department may waive or reduce the fee if the taxpayer demonstrates that the failure to pay the full amount due within 90 days following the initial notification was due to extraordinary circumstances. The fee applies to those taxes and fees listed in s.213.05and chapter 443 and administered by the department.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_24__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The fee is equal to 10 percent of the total amount of tax, penalty, and interest which remains unpaid after 90 days, or $10 for each collection event, whichever is greater. The fee shall be imposed in addition to the taxes, fees, penalties, and interest prescribed by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_24__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Fees collected pursuant to this subsection shall be distributed each fiscal year as follows:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

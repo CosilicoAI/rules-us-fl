@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.052"/>
+          <FRBRuri value="/us-fl/act/fsa/212.052"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.052/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.052/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.052/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.052/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_052">
+          <num>212.052</num>
+          <heading>Research or development costs; exemption.</heading>
+          <content>
+            <p>For the purposes of the exemption provided in this section:</p>
+          </content>
+          <subsection eId="212_052__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the purposes of the exemption provided in this section:</p>
+            </content>
+            <paragraph eId="212_052__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The term “research or development” means research which has one of the following as its ultimate goal:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_052__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The term “costs” means cost price as defined in s.212.02(4).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_052__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The term “product” means any item, device, technique, prototype, invention, or process which is, was, or may be commercially exploitable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_052__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding any provision of this chapter to the contrary, any person, including an affiliated group as defined in s. 1504 of the Internal Revenue Code of 1954, as amended, who manufactures, produces, compounds, processes, or fabricates in any manner tangible personal property for such taxpayer’s own use directly and solely in research or development shall not be subject to the tax imposed by this chapter upon the cost of the product so manufactured, produced, compounded, processed, or fabricated.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_052__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>This section does not apply to any product of research or development which is used by a person, including an affiliated group as defined in s. 1504 of the Internal Revenue Code of 1954, as amended, in the ordinary course of business, other than for research or development, except and to the extent that the knowledge, technology, science, design, plan, patent, or understanding which is derived from the product of research or development is applied in the ordinary course of business. In addition, this section does not apply to any product of research or development that is tangible personal property which is offered for sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_052__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any person, including an affiliated group as defined in s. 1504 of the Internal Revenue Code of 1954, as amended, who makes a fraudulent claim under this section shall be liable for the payment of the tax due, together with the penalties set forth in s.212.085, and as otherwise provided by law.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_052__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department shall promulgate rules governing the implementation and operation of this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

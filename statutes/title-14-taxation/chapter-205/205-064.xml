@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.064"/>
+          <FRBRuri value="/us-fl/act/fsa/205.064"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.064/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.064/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.064/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.064/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_064">
+          <num>205.064</num>
+          <heading>Farm, aquacultural, grove, horticultural, floricultural, tropical piscicultural, and tropical fish farm products; certain exemptions.</heading>
+          <content>
+            <p>A local business tax receipt is not required of any person for the privilege of engaging in the selling of farm, aquacultural, grove, horticultural, floricultural, tropical piscicultural, or tropical fish farm products, or products manufactured therefrom, except intoxicating liquors, wine, or beer, when such products were grown or produced by such person in the state.</p>
+          </content>
+          <subsection eId="205_064__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A local business tax receipt is not required of any person for the privilege of engaging in the selling of farm, aquacultural, grove, horticultural, floricultural, tropical piscicultural, or tropical fish farm products, or products manufactured therefrom, except intoxicating liquors, wine, or beer, when such products were grown or produced by such person in the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_064__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A wholesale farmers’ produce market may pay a tax of not more than $200 for a receipt that will entitle the market’s stall tenants to engage in the selling of agricultural and horticultural products therein, in lieu of such tenants being required to obtain individual local business tax receipts to so engage.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

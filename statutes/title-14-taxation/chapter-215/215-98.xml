@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.98"/>
+          <FRBRuri value="/us-fl/act/fsa/215.98"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.98/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.98/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.98/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.98/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_98">
+          <num>215.98</num>
+          <heading>State debt fiscal responsibility.</heading>
+          <content>
+            <p>It is the public policy of this state to encourage fiscal responsibility on matters pertaining to state debt. In an effort to finance essential capital projects for the benefit of residents at favorable interest rates, the state must continue to maintain its excellent credit standing with investors. Authorizations of state debt must take into account the ability of the state to meet its total debt service requirements in light of other demands on the state’s fiscal resources. The Legislature declares that it is the policy of this state to exercise prudence in undertaking the authorization and issuance of debt. In order to implement this policy, the Legislature desires to authorize the issuance of additional state tax-supported debt only when such authorization would not cause the ratio of debt service to revenue available to pay debt service on tax-supported debt to exceed 6 percent. If the 6-percent target debt ratio will be exceeded, the authorization of such additional debt must be accompanied by a legislative statement of determination that such authorization and issuance is in the best interest of the state and should be implemented. The Legislature shall not authorize the issuance of additional state tax-supported debt if such authorization would cause the designated benchmark debt ratio of debt service to revenues available to pay debt service to exceed 7 percent unless the Legislature determines that such additional debt is necessary to address a critical state emergency.</p>
+          </content>
+          <subsection eId="215_98__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is the public policy of this state to encourage fiscal responsibility on matters pertaining to state debt. In an effort to finance essential capital projects for the benefit of residents at favorable interest rates, the state must continue to maintain its excellent credit standing with investors. Authorizations of state debt must take into account the ability of the state to meet its total debt service requirements in light of other demands on the state’s fiscal resources. The Legislature declares that it is the policy of this state to exercise prudence in undertaking the authorization and issuance of debt. In order to implement this policy, the Legislature desires to authorize the issuance of additional state tax-supported debt only when such authorization would not cause the ratio of debt service to revenue available to pay debt service on tax-supported debt to exceed 6 percent. If the 6-percent target debt ratio will be exceeded, the authorization of such additional debt must be accompanied by a legislative statement of determination that such authorization and issuance is in the best interest of the state and should be implemented. The Legislature shall not authorize the issuance of additional state tax-supported debt if such authorization would cause the designated benchmark debt ratio of debt service to revenues available to pay debt service to exceed 7 percent unless the Legislature determines that such additional debt is necessary to address a critical state emergency.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_98__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Division of Bond Finance shall conduct a debt affordability analysis each year. Proposed capital projects that require funding by the issuance of additional state debt shall be evaluated on the basis of the analysis to assist the Governor and the Legislature in setting priorities among capital projects and related appropriations.</p>
+            </content>
+            <paragraph eId="215_98__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Division of Bond Finance shall annually prepare a debt affordability report, to be presented to the governing board of the Division of Bond Finance, the President of the Senate, the Speaker of the House of Representatives, and the chair of each appropriations committee by December 15 of each year, for purposes of providing a framework for the Legislature to evaluate and establish priorities for bills that propose the authorization of additional state debt during the next budget year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_98__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The report shall include, but not be limited to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_98__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The Division of Bond Finance shall prepare an update of the report set forth above upon completion of the revenue estimates prepared in connection with the legislative session.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_98__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Any entity issuing debt secured by state revenues shall provide the information necessary to prepare the debt affordability report.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_98__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Debt Reduction Program is created within the State Board of Administration for the purpose of reducing the state’s tax-supported debt by accelerating the retirement of bonds prior to maturity. The Division of Bond Finance shall use its best efforts to utilize any funds transferred for the purpose of this program to redeem, defease, purchase, or otherwise extinguish outstanding state bonds, other than state bonds of the Department of Transportation or the Florida Turnpike Enterprise, and may use the funds to make any other payments necessary or incidental to the transactions for the purpose of realizing debt service savings and reducing the amount of state debt outstanding.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_98__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Failure to comply with this section shall not affect the validity of any debt or the authorization of such debt.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

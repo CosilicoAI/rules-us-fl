@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.79"/>
+          <FRBRuri value="/us-fl/act/fsa/215.79"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.79/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.79/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.79/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.79/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_79">
+          <num>215.79</num>
+          <heading>Refunding bonds.</heading>
+          <content>
+            <p>The board is authorized to provide by resolution for the issuance by the division of refunding bonds of the state, or on behalf of any state agency, for the purpose of refunding any bonds then outstanding. The board is further authorized to provide by resolution for the issuance of bonds for the combined purposes of paying the cost of the construction or acquisition of capital projects and refunding any bonds then outstanding. Any outstanding bonds may be so refunded at any time prior to the date or dates on which they shall mature or shall be subject to redemption prior to maturity or can be acquired for voluntary exchange. The proceeds of any refunding bonds may be invested in direct obligations of the United States maturing not later than the date upon which such outstanding bonds will mature or any date upon which such outstanding bonds will be redeemed.</p>
+          </content>
+          <subsection eId="215_79__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board is authorized to provide by resolution for the issuance by the division of refunding bonds of the state, or on behalf of any state agency, for the purpose of refunding any bonds then outstanding. The board is further authorized to provide by resolution for the issuance of bonds for the combined purposes of paying the cost of the construction or acquisition of capital projects and refunding any bonds then outstanding. Any outstanding bonds may be so refunded at any time prior to the date or dates on which they shall mature or shall be subject to redemption prior to maturity or can be acquired for voluntary exchange. The proceeds of any refunding bonds may be invested in direct obligations of the United States maturing not later than the date upon which such outstanding bonds will mature or any date upon which such outstanding bonds will be redeemed.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_79__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The amount of refunding bonds to be issued for the purposes of refunding outstanding bonds, or for refunding outstanding bonds and the construction or acquisition of capital projects, may be increased in the amount necessary for the payment of all costs and expenses of the issuance of such bonds and also for the purpose of depositing in escrow until the date upon which any outstanding bonds will mature or be redeemed or acquired all interest and redemption premiums which will accrue to and including the date on which said outstanding bonds shall mature or be redeemed or acquired. In determining the amount of such refunding bonds to be issued, the amounts of any discounts or interest on such direct obligations of the United States to be deposited in escrow, which will accrue to and be deposited in the escrow account prior to the date or dates on which the outstanding bonds being so refunded shall mature or be redeemed or acquired, may be taken into account. Deposit in escrow of direct obligations of the United States in an amount which, at maturity, together with interest to accrue thereon prior to the date or dates on which the outstanding bonds being refunded shall mature or be redeemed or acquired, will equal the total amounts of principal, interest, and any redemption premiums required to redeem, retire, or purchase such outstanding bonds on such date or dates shall be sufficient to terminate the lien of such outstanding bonds on all funds except such escrow fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_79__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Bonds issued pursuant to this section for the purpose of refunding outstanding bonds shall be sold at public sale as provided in s.215.68unless the board, by resolution, authorizes a negotiated sale.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

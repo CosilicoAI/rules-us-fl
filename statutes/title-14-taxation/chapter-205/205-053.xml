@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.053"/>
+          <FRBRuri value="/us-fl/act/fsa/205.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.053/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.053/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_053">
+          <num>205.053</num>
+          <heading>Business tax receipts; dates due and delinquent; penalties.</heading>
+          <content>
+            <p>All business tax receipts shall be sold by the appropriate tax collector beginning July 1 of each year, are due and payable on or before September 30 of each year, and expire on September 30 of the succeeding year. If September 30 falls on a weekend or holiday, the tax is due and payable on or before the first working day following September 30. Provisions for partial receipts may be made in the resolution or ordinance authorizing such receipts. Receipts that are not renewed when due and payable are delinquent and subject to a delinquency penalty of 10 percent for the month of October, plus an additional 5 percent penalty for each subsequent month of delinquency until paid. However, the total delinquency penalty may not exceed 25 percent of the business tax for the delinquent establishment.</p>
+          </content>
+          <subsection eId="205_053__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All business tax receipts shall be sold by the appropriate tax collector beginning July 1 of each year, are due and payable on or before September 30 of each year, and expire on September 30 of the succeeding year. If September 30 falls on a weekend or holiday, the tax is due and payable on or before the first working day following September 30. Provisions for partial receipts may be made in the resolution or ordinance authorizing such receipts. Receipts that are not renewed when due and payable are delinquent and subject to a delinquency penalty of 10 percent for the month of October, plus an additional 5 percent penalty for each subsequent month of delinquency until paid. However, the total delinquency penalty may not exceed 25 percent of the business tax for the delinquent establishment.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_053__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who engages in or manages any business, occupation, or profession without first obtaining a local business tax receipt, if required, is subject to a penalty of 25 percent of the tax due, in addition to any other penalty provided by law or ordinance.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_053__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person who engages in any business, occupation, or profession covered by this chapter, who does not pay the required business tax within 150 days after the initial notice of tax due, and who does not obtain the required receipt is subject to civil actions and penalties, including court costs, reasonable attorneys’ fees, additional administrative costs incurred as a result of collection efforts, and a penalty of up to $250.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

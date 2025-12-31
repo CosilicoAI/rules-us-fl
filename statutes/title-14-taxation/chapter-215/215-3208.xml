@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.3208"/>
+          <FRBRuri value="/us-fl/act/fsa/215.3208"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.3208/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.3208/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.3208/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.3208/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_3208">
+          <num>215.3208</num>
+          <heading>Trust funds; legislative review.</heading>
+          <content>
+            <p>In order to implement s. 19(f), Art. III of the State Constitution, for the purpose of reviewing trust funds prior to their automatic termination pursuant to the provisions of s. 19(f)(2), Art. III of the State Constitution, the Legislature shall review all state trust funds at least once every 4 years. The schedule for such review may be included in the legislative budget instructions developed pursuant to the requirements of s.216.023. The Legislature shall review trust funds as they are identified by a classification scheme set out in the legislative budget request instructions pursuant to s.216.023consistent with the Department of Financial Services’ financial systems. When a statutorily created trust fund that was in existence on November 4, 1992, has more than one fund code in the financial systems, the Legislature may treat it as a single trust fund for the purposes of this section. The Legislature may also conduct its review concerning accounts within such trust funds.</p>
+          </content>
+          <subsection eId="215_3208__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In order to implement s. 19(f), Art. III of the State Constitution, for the purpose of reviewing trust funds prior to their automatic termination pursuant to the provisions of s. 19(f)(2), Art. III of the State Constitution, the Legislature shall review all state trust funds at least once every 4 years. The schedule for such review may be included in the legislative budget instructions developed pursuant to the requirements of s.216.023. The Legislature shall review trust funds as they are identified by a classification scheme set out in the legislative budget request instructions pursuant to s.216.023consistent with the Department of Financial Services’ financial systems. When a statutorily created trust fund that was in existence on November 4, 1992, has more than one fund code in the financial systems, the Legislature may treat it as a single trust fund for the purposes of this section. The Legislature may also conduct its review concerning accounts within such trust funds.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_3208__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the Legislature terminates a trust fund, the agency or branch of state government that administers the trust fund shall pay any outstanding debts or obligations of the trust fund as soon as practicable, and the Chief Financial Officer shall close out and remove the trust fund from the various state financial systems, using generally accepted accounting principles concerning assets, liabilities, and warrants outstanding.</p>
+            </content>
+            <paragraph eId="215_3208__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>When the Legislature terminates a trust fund, the agency or branch of state government that administers the trust fund shall pay any outstanding debts or obligations of the trust fund as soon as practicable, and the Chief Financial Officer shall close out and remove the trust fund from the various state financial systems, using generally accepted accounting principles concerning assets, liabilities, and warrants outstanding.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_3208__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the Legislature determines to terminate a trust fund, it may provide for the distribution of moneys in that trust fund. If such a distribution is not provided, the moneys remaining after all outstanding obligations of the trust fund are met shall be deposited in the General Revenue Fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

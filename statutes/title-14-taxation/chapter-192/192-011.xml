@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.011"/>
+          <FRBRuri value="/us-fl/act/fsa/192.011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.011/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.011/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_011">
+          <num>192.011</num>
+          <heading>All property to be assessed.</heading>
+          <content>
+            <p>The property appraiser shall assess all property located within the county, except inventory, whether such property is taxable, wholly or partially exempt, or subject to classification reflecting a value less than its just value at its present highest and best use. Extension on the tax rolls shall be made according to regulation promulgated by the department in order properly to reflect the general law. Streets, roads, and highways which have been dedicated to or otherwise acquired by a municipality, a county, or a state agency may be assessed, but need not be.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

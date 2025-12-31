@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.4725"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4725"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.4725/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4725/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.4725/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4725/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_4725">
+          <num>215.4725</num>
+          <heading>Prohibited investments; companies and other entities that boycott Israel.</heading>
+          <content>
+            <p>DEFINITIONS.—As used in this section, the term:</p>
+          </content>
+          <subsection eId="215_4725__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>DEFINITIONS.—As used in this section, the term:</p>
+            </content>
+            <paragraph eId="215_4725__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Agency” means any of the various state officers, departments, boards, commissions, divisions, bureaus, and councils and any other unit of organization, however designated, of the executive branch of state government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Boycott Israel” or “boycott of Israel” means refusing to deal, terminating business activities, or taking other actions to limit commercial relations with Israel, or persons or entities doing business in Israel or in Israeli-controlled territories, in a discriminatory manner. A statement by a company, an educational institution, a nonprofit organization, an agency, a local governmental entity or unit thereof, or a foreign government that it is participating in a boycott of Israel, or that it has initiated a boycott in response to a request for a boycott of Israel or in compliance with, or in furtherance of, calls for a boycott of Israel, may be considered by the State Board of Administration to be evidence that a company or other entity is participating in a boycott of Israel. The term includes taking adverse action, including changes to published commercial financial ratings, risk ratings, and controversy ratings based on nonpecuniary factors, to inflict economic harm on Israel or persons or entities doing business in Israel or in Israeli-controlled territories. The term includes trade practices that are prohibited by federal regulations issued in compliance with 50 U.S.C. s. 4842 and does not include trade practices that are preempted by federal law. The term also includes an academic boycott of Israel in which an educational institution enacts or implements restrictive policies, or otherwise participates in activities having the object or effect of restricting ongoing or potential academic relationships, on the basis of ties to the State of Israel or its academic, educational, or research institutions, or by holding researchers, students, prospective students, guest lecturers, and artists-in-residence or institutions collectively liable for any alleged objectionable conduct by the State of Israel. An educational institution is deemed to have engaged in an academic boycott of Israel if any of its departments, centers, or other organs engages in a boycott, or, in </p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Company” means an organization, an association, a corporation, a partnership, a joint venture, a limited partnership, a limited liability partnership, a limited liability company, or other entity or business association, including all wholly owned subsidiaries, majority-owned subsidiaries, and parent companies, or affiliates, having more than 10 full-time employees. The term does not include a natural person or a sole proprietorship.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Direct holdings” in a company means all securities of that company that are held directly by the public fund or in an account or fund in which the public fund owns all shares or interests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Indirect holdings” in a company means all securities of that company that are held in a commingled fund or other collective investment, such as a mutual or index fund, in which the public fund owns shares or interests, together with other investors not subject to this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Local governmental entity” means a county, municipality, special district, or other political subdivision.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Other entity” means an educational institution, a nonprofit organization, an agency, a local governmental entity or unit thereof, or a foreign government, including any of its public investment funds, public pension funds, sovereign wealth funds, or other government-sponsored investment funds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Public fund” means all funds, assets, trustees, and other designates under the State Board of Administration pursuant to part I of chapter 121.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>“Scrutinized companies or other entities” means companies or other entities that boycott Israel or engage in a boycott of Israel.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4725__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>IDENTIFICATION OF COMPANIES OR OTHER ENTITIES.—</p>
+            </content>
+            <paragraph eId="215_4725__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The public fund shall make its best efforts to identify all scrutinized companies or other entities in which the public fund has direct or indirect holdings or could possibly have such holdings in the future. Such efforts include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>By the first meeting of the public fund following the identification of scrutinized companies in accordance with paragraph (a), the public fund shall compile and make available the “Scrutinized Companies or Other Entities that Boycott Israel List.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The public fund shall update and make publicly available quarterly the Scrutinized Companies or Other Entities that Boycott Israel List based on evolving information from, among other sources, those listed in paragraph (a).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4725__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>REQUIRED ACTIONS.—The public fund shall adhere to the following procedures for assembling companies or other entities on the Scrutinized Companies or Other Entities that Boycott Israel List.</p>
+            </content>
+            <paragraph eId="215_4725__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Engagement.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Divestment.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Prohibition.—The public fund is prohibited from acquiring securities of companies or other entities on the Scrutinized Companies or Other Entities that Boycott Israel List, except as provided in paragraph (d) and subsection (6). The public fund and the endowments and retirement funds of the State University System may not acquire or hold the debt of a foreign government that is on the Scrutinized Companies or Other Entities that Boycott Israel List, or of a foreign government with a sovereign wealth fund that is on the Scrutinized Companies or Other Entities that Boycott Israel List where the foreign government has authority to actively control or manage the fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Excluded securities.—Notwithstanding this section, paragraphs (b) and (c) do not apply to:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4725__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>REPORTING.—</p>
+            </content>
+            <paragraph eId="215_4725__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The public fund shall file a report with each member of the Board of Trustees of the State Board of Administration, the President of the Senate, and the Speaker of the House of Representatives which includes the Scrutinized Companies or Other Entities that Boycott Israel List within 30 days after the list is created. This report shall be made available to the public.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_4725__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At each quarterly meeting of the Board of Trustees thereafter, the public fund shall file a report, which shall be made available to the public and to each member of the Board of Trustees of the State Board of Administration, the President of the Senate, and the Speaker of the House of Representatives, which includes:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_4725__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>INVESTMENT POLICY STATEMENT OBLIGATIONS.—The public fund’s actions taken in compliance with this section, including all good faith determinations regarding companies or other entities as required by this act, shall be adopted and incorporated into the public fund’s investment policy statement as provided in s.215.475.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4725__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>INVESTMENT AND REINVESTMENT IN CERTAIN SCRUTINIZED COMPANIES OR OTHER ENTITIES.—Notwithstanding any other provision of this section, the public fund may invest in, cease divestment from, or reinvest in certain scrutinized companies or other entities if clear and convincing evidence shows that the value of all assets under management by the public fund becomes equal to or less than 99.50 percent, or 50 basis points, of the hypothetical value of all assets under management by the public fund, assuming no investment prohibition or divestment for any company or other entity had occurred under subsection (3). Cessation of the investment prohibition or the divestment, or reinvestment or any new investment, in a scrutinized company or other entity is limited to the minimum steps necessary to avoid the contingency described in this subsection. For any cessation of the investment prohibition or divestment, or reinvestment or new investment authorized by this subsection, the public fund shall provide a written report to each member of the Board of Trustees of the State Board of Administration, the President of the Senate, and the Speaker of the House of Representatives in advance of the cessation of investment prohibition or the divestment, or reinvestment or new investment, updated semiannually thereafter as applicable, setting forth the reasons and justification, supported by clear and convincing evidence, for its decisions to cease the investment prohibition or divestment, or to reinvest in scrutinized companies or other entities.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4725__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>STATE UNIVERSITY SYSTEM COMPLIANCE.—The endowment and retirement funds of the universities of the State University System are required to comply with the divestment requirement and prohibition of acquiring securities of companies or other entities on the Scrutinized Companies or Other Entities that Boycott Israel List. The endowment and retirement funds of the universities of the State University System are provided the same exemption as provided in paragraph (3)(d).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

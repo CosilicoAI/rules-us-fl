@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.83"/>
+          <FRBRuri value="/us-fl/act/fsa/215.83"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.83/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.83/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.83/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.83/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_83">
+          <num>215.83</num>
+          <heading>Construction of State Bond Act.</heading>
+          <content>
+            <p>The provisions of this act shall be liberally construed to effect its purposes. The exercise of the powers provided by this act and the issuance of bonds and federal arbitrage compliance functions provided for hereunder shall not be subject to the limitations and provisions of any other law or laws which are inconsistent with the provisions of this act, and any provisions of any other laws relating to the issuance of bonds by any state agency or affecting such federal arbitrage compliance functions which are inconsistent with the provisions of this act are hereby superseded to the extent of such inconsistent provisions. The provisions of all resolutions adopted by the board which authorize the issuance and sale of bonds, and all other proceedings taken pursuant to this act for the sale, issuance, and delivery of the bonds, shall be liberally construed in favor of the bondholders of such bonds.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

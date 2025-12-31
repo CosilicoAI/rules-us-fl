@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.015"/>
+          <FRBRuri value="/us-fl/act/fsa/198.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.015/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.015/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_015">
+          <num>198.015</num>
+          <heading>Domicile of decedent.</heading>
+          <content>
+            <p>For the purposes of this chapter, every person shall be presumed to have died a resident and not a nonresident of the state:</p>
+          </content>
+          <subsection eId="198_015__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the purposes of this chapter, every person shall be presumed to have died a resident and not a nonresident of the state:</p>
+            </content>
+            <paragraph eId="198_015__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If such person has dwelt or lodged in the state during and for the greater part of any period of 12 consecutive months in the 24 months next preceding death, notwithstanding the fact that from time to time during such 24 months such person may have sojourned outside of this state, and without regard to whether or not such person may have voted, may have been entitled to vote, or may have been assessed for taxes in this state; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="198_015__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If such person has been a resident of Florida, sojourning outside of this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="198_015__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The burden of proof in an estate tax proceeding shall be upon any person claiming exemption by reason of alleged nonresidency. Domicile shall be determined exclusively in the proceedings provided in this chapter, and orders relating to domicile previously entered in the probate proceedings shall not be conclusive for the purposes of this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

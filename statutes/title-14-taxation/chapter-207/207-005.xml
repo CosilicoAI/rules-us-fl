@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.005"/>
+          <FRBRuri value="/us-fl/act/fsa/207.005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.005/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.005/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_005">
+          <num>207.005</num>
+          <heading>Returns and payment of tax; delinquencies; calculation of fuel used during operations in the state; credit; bond.</heading>
+          <content>
+            <p>The taxes levied under this chapter shall be due and payable on the first day of the month following the last month of the reporting period. The department may promulgate rules for requiring and establishing procedures for annual, semiannual, or quarterly filing. The reporting period shall be the 12 months beginning July 1 and ending June 30. It shall be the duty of each motor carrier registered or required to be registered under the provisions of this chapter to submit a return within 30 days after the due date. The due date shall be as follows:</p>
+          </content>
+          <subsection eId="207_005__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The taxes levied under this chapter shall be due and payable on the first day of the month following the last month of the reporting period. The department may promulgate rules for requiring and establishing procedures for annual, semiannual, or quarterly filing. The reporting period shall be the 12 months beginning July 1 and ending June 30. It shall be the duty of each motor carrier registered or required to be registered under the provisions of this chapter to submit a return within 30 days after the due date. The due date shall be as follows:</p>
+            </content>
+            <paragraph eId="207_005__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If annual filing, the due date shall be July 1;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_005__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If semiannual filing, the due dates shall be January 1 and July 1; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_005__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If quarterly filing, the due dates shall be January 1, April 1, July 1, and October 1.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="207_005__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The amount of fuel used in the propulsion of any commercial motor vehicle within this state may be calculated, if the motor carrier maintains adequate records, by applying total interstate vehicular consumption of all diesel fuel and motor fuel used as related to total miles traveled and applying such rate to total miles traveled within this state. In the absence of adequate documentation by the motor carrier, the department is authorized to promulgate rules converting miles driven to gallons used.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_005__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For the purpose of computing the carrier’s liability for the road privilege tax, the total gallons of fuel used in the propulsion of any commercial motor vehicle in this state shall be multiplied by the rates provided in parts I-III of chapter 206. From the sum determined by this calculation, there shall be allowed a credit equal to the amount of the tax per gallon under parts I-III of chapter 206 for each gallon of fuel purchased in this state during the reporting period when the diesel fuel or motor fuel tax was paid at the time of purchase. If the tax paid under parts I-III of chapter 206 exceeds the total tax due under this chapter, the excess may be allowed as a credit against future tax payments, until the credit is fully offset or until eight calendar quarters shall have passed since the end of the calendar quarter in which the credit accrued, whichever occurs first. A refund may be made for this credit provided it exceeds $10.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_005__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department is authorized to promulgate the necessary rules to provide for an adequate bond from each motor carrier to ensure payment of taxes required under this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

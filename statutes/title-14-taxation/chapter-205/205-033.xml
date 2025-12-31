@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.033"/>
+          <FRBRuri value="/us-fl/act/fsa/205.033"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.033/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.033/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.033/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.033/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_033">
+          <num>205.033</num>
+          <heading>Conditions for levy; counties.</heading>
+          <content>
+            <p>The following conditions are imposed on the authority of a county governing body to levy a business tax:</p>
+          </content>
+          <subsection eId="205_033__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following conditions are imposed on the authority of a county governing body to levy a business tax:</p>
+            </content>
+            <paragraph eId="205_033__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax must be based upon reasonable classifications and must be uniform throughout any class.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_033__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless the county implements s.205.0535or adopts a new business tax ordinance under s.205.0315, a business tax levied under this subsection may not exceed the rate provided by this chapter in effect for the year beginning October 1, 1971; however, beginning October 1, 1980, the county governing body may increase business taxes authorized by this chapter. The amount of the increase above the tax rate levied on October 1, 1971, for taxes levied at a flat rate may be up to 100 percent for business taxes that are $100 or less; 50 percent for business taxes that are between $101 and $300; and 25 percent for business taxes that are more than $300. Beginning October 1, 1982, the increase may not exceed 25 percent for taxes levied at graduated or per unit rates. Authority to increase business taxes does not apply to licenses or receipts granted to any utility franchised by the county for which a franchise fee is paid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_033__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A receipt is not valid for more than 1 year, and all receipts expire on September 30 of each year, except as otherwise provided by law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="205_033__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any receipt may be transferred to a new owner, when there is a bona fide sale of the business, upon payment of a transfer fee of up to 10 percent of the annual business tax, but not less than $3 nor more than $25, and presentation of the original receipt and evidence of the sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_033__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon written request and presentation of the original receipt, any receipt may be transferred from one location to another location in the same county upon payment of a transfer fee of up to 10 percent of the annual business tax, but not less than $3 nor more than $25.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_033__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The revenues derived from the business tax, exclusive of the costs of collection and any credit given for municipal business taxes, shall be apportioned between the unincorporated area of the county and the incorporated municipalities located therein by a ratio derived by dividing their respective populations by the population of the county. This subsection does not apply to counties that have established a new rate structure under s.205.0535.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_033__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The revenues so apportioned shall be sent to the governing authority of each municipality, according to its ratio, and to the governing authority of the county, according to the ratio of the unincorporated area, within 15 days following the month of receipt. This subsection does not apply to counties that have established a new rate structure under s.205.0535.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_033__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Each county, as defined in s.125.011(1), or any county adjacent thereto may levy and collect, by an ordinance enacted by the governing body of the county, an additional business tax up to 50 percent of the appropriate business tax imposed under subsection (1).</p>
+            </content>
+            <paragraph eId="205_033__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Each county, as defined in s.125.011(1), or any county adjacent thereto may levy and collect, by an ordinance enacted by the governing body of the county, an additional business tax up to 50 percent of the appropriate business tax imposed under subsection (1).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_033__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Subsections (4) and (5) do not apply to any revenues derived from the additional tax imposed under this subsection. Proceeds from the additional business tax must be placed in a separate interest-earning account, and the governing body of the county shall distribute this revenue, plus accrued interest, each fiscal year to an organization or agency designated by the governing body of the county to oversee and implement a comprehensive economic development strategy through advertising, promotional activities, and other sales and marketing techniques.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_033__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An ordinance that levies an additional business tax under this subsection may not be adopted after January 1, 1995.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="205_033__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this chapter, the revenue received from a county business tax may be used for overseeing and implementing a comprehensive economic development strategy through advertising, promotional activities, and other sales and marketing techniques.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

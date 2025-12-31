@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.032"/>
+          <FRBRuri value="/us-fl/act/fsa/205.032"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.032/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.032/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.032/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.032/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_032">
+          <num>205.032</num>
+          <heading>Levy; counties.</heading>
+          <content>
+            <p>The governing body of a county may levy, by appropriate resolution or ordinance, a business tax for the privilege of engaging in or managing any business, profession, or occupation within its jurisdiction. However, the governing body must first give at least 14 days’ public notice between the first and last reading of the resolution or ordinance by publishing a notice in a newspaper of general circulation within its jurisdiction as defined by law. The public notice must contain the proposed classifications and rates applicable to the business tax.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

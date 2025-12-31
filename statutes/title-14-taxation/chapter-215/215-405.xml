@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.405"/>
+          <FRBRuri value="/us-fl/act/fsa/215.405"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.405/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.405/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.405/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.405/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_405">
+          <num>215.405</num>
+          <heading>State agencies and the judicial branch authorized to collect costs of fingerprinting.</heading>
+          <content>
+            <p>Any state agency, or the judicial branch, exercising regulatory authority and authorized to take fingerprints of persons within or seeking to come within such agency’s or the judicial branch’s regulatory power may collect from the person or entity on whose behalf the fingerprints were submitted the actual costs of processing such fingerprints including, but not limited to, any charges imposed by the Department of Law Enforcement or any agency or branch of the United States Government. This provision shall constitute express authority for state agencies and the judicial branch to collect the actual costs of processing the fingerprints either prior to or subsequent to the actual processing and shall supersede any other law to the contrary. To administer the provisions of this section, a state agency, or the judicial branch, electing to collect the cost of fingerprinting is empowered to promulgate and adopt rules to establish the amounts and the methods of payment needed to collect such costs. Collections made under these provisions shall be deposited with the Chief Financial Officer to an appropriate trust fund account to be designated by the Executive Office of the Governor.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

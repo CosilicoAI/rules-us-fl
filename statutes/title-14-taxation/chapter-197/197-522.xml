@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.522"/>
+          <FRBRuri value="/us-fl/act/fsa/197.522"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.522/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.522/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.522/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.522/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_522">
+          <num>197.522</num>
+          <heading>Notice to owner when application for tax deed is made.</heading>
+          <content>
+            <p>The clerk of the circuit court shall notify, by certified mail with return receipt requested or by registered mail if the notice is to be sent outside the continental United States, the persons listed in the tax collector’s statement pursuant to s.197.502(4) that an application for a tax deed has been made. Such notice shall be mailed at least 20 days prior to the date of sale. If no address is listed in the tax collector’s statement, then no notice shall be required.</p>
+          </content>
+          <subsection eId="197_522__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The clerk of the circuit court shall notify, by certified mail with return receipt requested or by registered mail if the notice is to be sent outside the continental United States, the persons listed in the tax collector’s statement pursuant to s.197.502(4) that an application for a tax deed has been made. Such notice shall be mailed at least 20 days prior to the date of sale. If no address is listed in the tax collector’s statement, then no notice shall be required.</p>
+            </content>
+            <paragraph eId="197_522__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>The clerk of the circuit court shall notify, by certified mail with return receipt requested or by registered mail if the notice is to be sent outside the continental United States, the persons listed in the tax collector’s statement pursuant to s.197.502(4) that an application for a tax deed has been made. Such notice shall be mailed at least 20 days prior to the date of sale. If no address is listed in the tax collector’s statement, then no notice shall be required.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_522__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The clerk shall enclose with every copy mailed a statement as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_522__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The clerk shall complete and attach to the affidavit of the publisher a certificate containing the names and addresses of those persons notified and the date the notice was mailed. The certificate shall be signed by the clerk and the clerk’s official seal affixed. The certificate shall be prima facie evidence of the fact that the notice was mailed. If no address is listed on the tax collector’s certification, the clerk shall execute a certificate to that effect.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_522__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The failure of anyone to receive notice as provided herein shall not affect the validity of the tax deed issued pursuant to the notice.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_522__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A printed copy of the notice as published in the newspaper, accompanied by the warning statement described in paragraph (b), shall be deemed sufficient notice.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_522__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to the notice provided in subsection (1), the sheriff of the county in which the legal titleholder resides shall, at least 20 days prior to the date of sale, notify the legal titleholder of record of the property on which the tax certificate is outstanding. The original notice and sufficient copies shall be prepared by the clerk and provided to the sheriff. Such notice shall be served as specified in chapter 48; if the sheriff is unable to make service, he or she shall post a copy of the notice in a conspicuous place at the legal titleholder’s last known address. The inability of the sheriff to serve notice on the legal titleholder shall not affect the validity of the tax deed issued pursuant to the notice. A legal titleholder of record who resides outside the state may be notified by the clerk as provided in subsection (1). The notice shall be in substantially the following form:</p>
+            </content>
+            <paragraph eId="197_522__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>In addition to the notice provided in subsection (1), the sheriff of the county in which the legal titleholder resides shall, at least 20 days prior to the date of sale, notify the legal titleholder of record of the property on which the tax certificate is outstanding. The original notice and sufficient copies shall be prepared by the clerk and provided to the sheriff. Such notice shall be served as specified in chapter 48; if the sheriff is unable to make service, he or she shall post a copy of the notice in a conspicuous place at the legal titleholder’s last known address. The inability of the sheriff to serve notice on the legal titleholder shall not affect the validity of the tax deed issued pursuant to the notice. A legal titleholder of record who resides outside the state may be notified by the clerk as provided in subsection (1). The notice shall be in substantially the following form:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_522__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to the notice provided in subsection (1), the clerk shall notify by certified mail with return receipt requested, or by registered mail if the notice is to be sent outside the continental United States, the persons listed in the tax collector’s statement pursuant to s.197.502(4)(h) that application for a tax deed has been made. Such notice shall be mailed at least 20 days prior to the date of sale. If no address is listed in the tax collector’s statement, then no notice shall be required. Enclosed with the copy of the notice shall be a statement in substantially the following form:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_522__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>When sending or serving a notice under this section, the clerk of the circuit court may rely on the addresses provided by the tax collector based on the certified tax roll and property information reports. The clerk of the circuit court has no duty to seek further information as to the validity of such addresses, because property owners are presumed to know that taxes are due and payable annually under s.197.122.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_522__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Nothing in this chapter shall be construed to prevent the tax collector, or any other public official, in his or her discretion from giving additional notice in any form concerning tax certificates and tax sales beyond the minimum requirements of this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.155"/>
+          <FRBRuri value="/us-fl/act/fsa/198.155"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.155/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.155/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.155/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.155/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_155">
+          <num>198.155</num>
+          <heading>Payment of tax on generation-skipping transfers.</heading>
+          <content>
+            <p>The person liable for payment of the federal generation-skipping transfer tax shall be liable for the tax imposed by ss.198.021and198.031.</p>
+          </content>
+          <subsection eId="198_155__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The person liable for payment of the federal generation-skipping transfer tax shall be liable for the tax imposed by ss.198.021and198.031.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_155__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax imposed by ss.198.021and198.031is due upon a taxable distribution or taxable termination as determined under applicable provisions of the federal generation-skipping transfer tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_155__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax becomes delinquent the day after the last day allowed for filing a return for the generation-skipping transfer.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_155__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax shall be paid to the Department of Revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_155__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the tax, or any portion thereof, is not paid before it becomes delinquent, it shall bear interest at the rate of 1 percent per month for each month or fraction thereof that it is delinquent.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

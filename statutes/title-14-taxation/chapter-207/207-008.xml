@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.008"/>
+          <FRBRuri value="/us-fl/act/fsa/207.008"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.008/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.008/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.008/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.008/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_008">
+          <num>207.008</num>
+          <heading>Retention of records by motor carrier.</heading>
+          <content>
+            <p>Each registered motor carrier shall maintain and keep pertinent records and papers as may be required by the department for the reasonable administration of this chapter and shall preserve the records upon which each quarterly tax return is based for 4 years following the due date or filing date of the return, whichever is later.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

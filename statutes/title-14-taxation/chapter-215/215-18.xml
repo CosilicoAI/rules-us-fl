@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.18"/>
+          <FRBRuri value="/us-fl/act/fsa/215.18"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.18/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.18/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.18/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.18/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_18">
+          <num>215.18</num>
+          <heading>Transfers between funds; limitation.</heading>
+          <content>
+            <p>Whenever there is a deficiency in any fund provided for by s.215.32which would render such fund insufficient to meet its just requirements, and other funds in the State Treasury have moneys which are for the time being or otherwise in excess of the amounts necessary to meet the just requirements of such last-mentioned funds, the Governor may order a temporary transfer of moneys from one fund to another in order to meet temporary deficiencies in a particular fund without resorting to the necessity of borrowing money and paying interest thereon. Any action proposed under this section is subject to the notice and objection procedures set forth in s.216.177, and the Governor shall provide notice of such action at least 7 days before the effective date of the transfer of funds. Except as otherwise provided in s.216.222(1)(a)2., the fund from which any money is temporarily transferred must be repaid the amount transferred from it by the end of the fiscal year in which such transfer is made, the date of repayment to be specified in the order of the Governor.</p>
+          </content>
+          <subsection eId="215_18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Whenever there is a deficiency in any fund provided for by s.215.32which would render such fund insufficient to meet its just requirements, and other funds in the State Treasury have moneys which are for the time being or otherwise in excess of the amounts necessary to meet the just requirements of such last-mentioned funds, the Governor may order a temporary transfer of moneys from one fund to another in order to meet temporary deficiencies in a particular fund without resorting to the necessity of borrowing money and paying interest thereon. Any action proposed under this section is subject to the notice and objection procedures set forth in s.216.177, and the Governor shall provide notice of such action at least 7 days before the effective date of the transfer of funds. Except as otherwise provided in s.216.222(1)(a)2., the fund from which any money is temporarily transferred must be repaid the amount transferred from it by the end of the fiscal year in which such transfer is made, the date of repayment to be specified in the order of the Governor.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

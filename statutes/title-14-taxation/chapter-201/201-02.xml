@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.02"/>
+          <FRBRuri value="/us-fl/act/fsa/201.02"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.02/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.02/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.02/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.02/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_02">
+          <num>201.02</num>
+          <heading>Tax on deeds and other instruments relating to real property or interests in real property.</heading>
+          <content>
+            <p>On deeds, instruments, or writings whereby any lands, tenements, or other real property, or any interest therein, shall be granted, assigned, transferred, or otherwise conveyed to, or vested in, the purchaser or any other person by his or her direction, on each $100 of the consideration therefor the tax shall be 70 cents. When the full amount of the consideration for the execution, assignment, transfer, or conveyance is not shown in the face of such deed, instrument, document, or writing, the tax shall be at the rate of 70 cents for each $100 or fractional part thereof of the consideration therefor. For purposes of this section, consideration includes, but is not limited to, the money paid or agreed to be paid; the discharge of an obligation; and the amount of any mortgage, purchase money mortgage lien, or other encumbrance, whether or not the underlying indebtedness is assumed. If the consideration paid or given in exchange for real property or any interest therein includes property other than money, it is presumed that the consideration is equal to the fair market value of the real property or interest therein.</p>
+          </content>
+          <subsection eId="201_02__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>On deeds, instruments, or writings whereby any lands, tenements, or other real property, or any interest therein, shall be granted, assigned, transferred, or otherwise conveyed to, or vested in, the purchaser or any other person by his or her direction, on each $100 of the consideration therefor the tax shall be 70 cents. When the full amount of the consideration for the execution, assignment, transfer, or conveyance is not shown in the face of such deed, instrument, document, or writing, the tax shall be at the rate of 70 cents for each $100 or fractional part thereof of the consideration therefor. For purposes of this section, consideration includes, but is not limited to, the money paid or agreed to be paid; the discharge of an obligation; and the amount of any mortgage, purchase money mortgage lien, or other encumbrance, whether or not the underlying indebtedness is assumed. If the consideration paid or given in exchange for real property or any interest therein includes property other than money, it is presumed that the consideration is equal to the fair market value of the real property or interest therein.</p>
+            </content>
+            <paragraph eId="201_02__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>On deeds, instruments, or writings whereby any lands, tenements, or other real property, or any interest therein, shall be granted, assigned, transferred, or otherwise conveyed to, or vested in, the purchaser or any other person by his or her direction, on each $100 of the consideration therefor the tax shall be 70 cents. When the full amount of the consideration for the execution, assignment, transfer, or conveyance is not shown in the face of such deed, instrument, document, or writing, the tax shall be at the rate of 70 cents for each $100 or fractional part thereof of the consideration therefor. For purposes of this section, consideration includes, but is not limited to, the money paid or agreed to be paid; the discharge of an obligation; and the amount of any mortgage, purchase money mortgage lien, or other encumbrance, whether or not the underlying indebtedness is assumed. If the consideration paid or given in exchange for real property or any interest therein includes property other than money, it is presumed that the consideration is equal to the fair market value of the real property or interest therein.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this paragraph the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Conversion or merger of a trust that is not a legal entity that owns real property in this state into a legal entity shall be treated as a conveyance of the real property for the purposes of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Taxes imposed by this subsection shall be paid pursuant to s.201.133when no document is recorded. If a document is recorded, taxes imposed by the paragraph shall be paid as required for all other taxable documents that are recorded.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_02__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax imposed by subsection (1) shall also be payable upon documents by which the right is granted to a tenant-stockholder to occupy an apartment in a building owned by a cooperative apartment corporation or in a dwelling on real property owned by any other form of cooperative association as defined in s.719.103.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_02__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax imposed by subsection (2) shall be paid by the purchaser, and the document recorded in the office of the clerk of the circuit court as evidence of ownership.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_02__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax imposed by subsection (1) shall also be payable upon documents which convey or transfer, pursuant to s.689.071, any beneficial interest in lands, tenements, or other real property, or any interest therein, even though such interest may be designated as personal property, notwithstanding the provisions of s.689.071(6). The tax shall be paid upon execution of any such document.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_02__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>All conveyances of real property to a partner from a partnership which property was conveyed to the partnership after July 1, 1986, are taxable if:</p>
+            </content>
+            <paragraph eId="201_02__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The partner receiving the real property from the partnership is a partner other than the partner who conveyed the real property to the partnership; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The partner receiving the real property from the partnership is the partner who conveyed the real property to the partnership and there is a mortgage debt or other debt secured by such real property for which the partner was not personally liable prior to conveying the real property to the partnership.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_02__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Taxes imposed by this section shall not apply to any assignment, transfer, or other disposition, or any document, which arises out of a transfer of real property from a nonprofit organization to the Board of Trustees of the Internal Improvement Trust Fund, to any state agency, to any water management district, or to any local government. For purposes of this subsection, “nonprofit organization” means an organization whose purpose is the preservation of natural resources and which is exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code. The Department of Revenue shall provide a form, or a place on an existing form, for the nonprofit organization to indicate its exempt status.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_02__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Taxes imposed by this section do not apply to:</p>
+            </content>
+            <paragraph eId="201_02__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A deed, transfer, or conveyance between spouses or former spouses pursuant to an action for dissolution of their marriage wherein the real property is or was their marital home or an interest therein. Taxes paid pursuant to this section shall be refunded in those cases in which a deed, transfer, or conveyance occurred 1 year before a dissolution of marriage. This paragraph applies in spite of any consideration as defined in subsection (1). This paragraph does not apply to a deed, transfer, or conveyance executed before July 1, 1997.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A deed or other instrument that transfers or conveys homestead property or any interest in homestead property between spouses, if the only consideration for the transfer or conveyance is the amount of a mortgage or other lien encumbering the homestead property at the time of the transfer or conveyance. This paragraph applies to transfers or conveyances from one spouse to another, from one spouse to both spouses, or from both spouses to one spouse. For the purpose of this paragraph, the term “homestead property” has the same meaning as the term “homestead” as defined in s.192.001.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_02__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Taxes imposed by this section do not apply to a contract to sell the residence of an employee relocating at his or her employer’s direction or to documents related to the contract, which contract is between the employee and the employer or between the employee and a person in the business of providing employee relocation services. In the case of such transactions, taxes apply only to the transfer of the real property comprising the residence by deed that vests legal title in a named grantee.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_02__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>A certificate of title issued by the clerk of court under s.45.031(5) in a judicial sale of real property under an order or final judgment issued pursuant to a foreclosure proceeding is subject to the tax imposed by subsection (1). However, the amount of the tax shall be computed based solely on the amount of the highest and best bid received for the property at the foreclosure sale. This subsection is intended to clarify existing law and shall be applied retroactively.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_02__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>In recognition of the special escrow requirements that apply to sales of timeshare interests in timeshare plans pursuant to s.721.08, tax on deeds or other instruments conveying any interest in Florida real property which are executed in conjunction with the sale by a developer of a timeshare interest in a timeshare plan is due and payable on the earlier of the date on which:</p>
+            </content>
+            <paragraph eId="201_02__subsec_10__para_10">
+              <num>(10)</num>
+              <content>
+                <p>In recognition of the special escrow requirements that apply to sales of timeshare interests in timeshare plans pursuant to s.721.08, tax on deeds or other instruments conveying any interest in Florida real property which are executed in conjunction with the sale by a developer of a timeshare interest in a timeshare plan is due and payable on the earlier of the date on which:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If tax has been paid to the department pursuant to subparagraph (a)2., and the deed or other instrument conveying the interest in Florida real property with respect to which the tax was paid is subsequently recorded, a notation reflecting the prior payment of the tax must be made upon the deed or other instrument conveying the interest in Florida real property.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_02__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The taxable consideration for a short sale transfer does not include unpaid indebtedness that is forgiven or released by a mortgagee holding a mortgage on the grantor’s interest in the property. For purposes of this subsection, the term “short sale” means a purchase and sale of real property in which all of the following apply:</p>
+            </content>
+            <paragraph eId="201_02__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The releasing mortgagee does not receive, directly or indirectly, any interest in the property transferred.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_02__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The releasing mortgagee is not controlled by or related to the grantor or the grantee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.15"/>
+          <FRBRuri value="/us-fl/act/fsa/198.15"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.15/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.15/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.15/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.15/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_15">
+          <num>198.15</num>
+          <heading>When tax due; extension; interest; penalty.</heading>
+          <content>
+            <p>The tax imposed by this chapter is due and payable on or before the last day prescribed by law for paying the federal estate tax pursuant to the initial estate tax return and shall be paid by the personal representative to the department. The department shall extend the time for payment of the tax or any part of the tax if the time for paying the federal estate tax is extended, provided the personal representative files with the department a copy of the approved federal extension notice within 30 days after receiving such notice. No extension shall be for more than 1 year, and the aggregate of extensions with respect to any estate shall not exceed 10 years from the due date. In such case, the amount in respect of which the extension is granted shall be paid on or before the date of the expiration of the period of the extension, unless a further extension is granted. If the time for the payment is thus extended, there shall be collected, as part of such amount, interest thereon at the rate of 1 percent per month of the amount due from the due date of the tax to the date the same is paid.</p>
+          </content>
+          <subsection eId="198_15__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The tax imposed by this chapter is due and payable on or before the last day prescribed by law for paying the federal estate tax pursuant to the initial estate tax return and shall be paid by the personal representative to the department. The department shall extend the time for payment of the tax or any part of the tax if the time for paying the federal estate tax is extended, provided the personal representative files with the department a copy of the approved federal extension notice within 30 days after receiving such notice. No extension shall be for more than 1 year, and the aggregate of extensions with respect to any estate shall not exceed 10 years from the due date. In such case, the amount in respect of which the extension is granted shall be paid on or before the date of the expiration of the period of the extension, unless a further extension is granted. If the time for the payment is thus extended, there shall be collected, as part of such amount, interest thereon at the rate of 1 percent per month of the amount due from the due date of the tax to the date the same is paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_15__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For any tax that is due on or after July 1, 1991, and that is not paid by the due date or by the due date of any extension granted by the department, in addition to any other penalties, a specific penalty shall be added to the tax in the amount of 10 percent of any unpaid tax if the failure is for not more than 30 days, or 20 percent of the aggregate of any unpaid tax if the failure is for more than 30 days.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

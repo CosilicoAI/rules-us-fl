@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1993"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1993"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1993/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1993/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1993/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1993/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1993">
+          <num>196.1993</num>
+          <heading>Certain agreements with local governments for use of public property; exemption.</heading>
+          <content>
+            <p>Any agreement entered into with a local governmental authority prior to January 1, 1969, for use of public property, under which it was understood and agreed in a written instrument or by special act that no ad valorem real property taxes would be paid by the licensee or lessee, shall be deemed a license or management agreement for the use or management of public property. Such interest shall be deemed not to convey an interest in the property and shall not be subject to ad valorem real property taxation. Nothing in this section shall be deemed to exempt such licensee from the ad valorem intangible tax and the ad valorem personal property tax.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

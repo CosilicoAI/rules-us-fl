@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.444"/>
+          <FRBRuri value="/us-fl/act/fsa/215.444"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.444/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.444/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.444/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.444/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_444">
+          <num>215.444</num>
+          <heading>Investment Advisory Council.</heading>
+          <content>
+            <p>There is created a nine-member Investment Advisory Council to review the investments made by the staff of the Board of Administration and to make recommendations to the board regarding investment policy, strategy, and procedures. The council shall meet with staff of the board at least once each quarter and shall provide a quarterly report directly to the Board of Trustees of the State Board of Administration at a meeting of the board.</p>
+          </content>
+          <subsection eId="215_444__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is created a nine-member Investment Advisory Council to review the investments made by the staff of the Board of Administration and to make recommendations to the board regarding investment policy, strategy, and procedures. The council shall meet with staff of the board at least once each quarter and shall provide a quarterly report directly to the Board of Trustees of the State Board of Administration at a meeting of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_444__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The members of the council shall be appointed by the board as a resource to the Board of Trustees of the State Board of Administration and shall be subject to confirmation by the Senate. These individuals shall possess special knowledge, experience, and familiarity with portfolio management, institutional investments, and fiduciary responsibilities. Members shall be appointed for 4-year terms. A vacancy shall be filled for the remainder of the unexpired term. The council shall annually elect a chair and a vice chair from its membership. A member may not be elected to consecutive terms as chair or vice chair.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_444__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The council members must undergo regular fiduciary training as required by the board and must complete an annual conflict disclosure statement. In carrying out their duties, council members must make recommendations consistent with the fiduciary standards applicable to the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_444__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The council may create subcommittees as necessary to carry out its duties and responsibilities.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

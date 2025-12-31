@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.1827"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1827"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.1827/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1827/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.1827/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.1827/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_1827">
+          <num>216.1827</num>
+          <heading>Requirements for performance measures and standards.</heading>
+          <content>
+            <p>Agencies and the judicial branch shall maintain a comprehensive performance accountability system containing, at a minimum, a list of performance measures and standards that are adopted by the Legislature and subsequently amended pursuant to this section.</p>
+          </content>
+          <subsection eId="216_1827__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Agencies and the judicial branch shall maintain a comprehensive performance accountability system containing, at a minimum, a list of performance measures and standards that are adopted by the Legislature and subsequently amended pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_1827__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Agencies and the judicial branch shall submit output and outcome measures and standards, as well as historical baseline and performance data pursuant to s.216.013.</p>
+            </content>
+            <paragraph eId="216_1827__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Agencies and the judicial branch shall submit output and outcome measures and standards, as well as historical baseline and performance data pursuant to s.216.013.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1827__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Agencies and the judicial branch shall also submit performance data, measures, and standards to the Office of Program Policy Analysis and Government Accountability upon request for review of the adequacy of the legislatively approved measures and standards.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_1827__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An agency may submit requests to delete or amend its existing approved performance measures and standards or activities, including alignment of activities to performance measures, or submit requests to create additional performance measures and standards or activities to the Executive Office of the Governor for review and approval. The request shall document the justification for the change and ensure that the revision, deletion, or addition is consistent with legislative intent. Revisions or deletions to or additions of performance measures and standards approved by the Executive Office of the Governor are subject to the review and objection procedure set forth in s.216.177.</p>
+            </content>
+            <paragraph eId="216_1827__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>An agency may submit requests to delete or amend its existing approved performance measures and standards or activities, including alignment of activities to performance measures, or submit requests to create additional performance measures and standards or activities to the Executive Office of the Governor for review and approval. The request shall document the justification for the change and ensure that the revision, deletion, or addition is consistent with legislative intent. Revisions or deletions to or additions of performance measures and standards approved by the Executive Office of the Governor are subject to the review and objection procedure set forth in s.216.177.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1827__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Chief Justice of the Supreme Court may submit deletions or amendments of the judicial branch’s existing approved performance measures and standards or may submit additional performance measures and standards to the Legislature accompanied with justification for the change and ensure that the revision, deletion, or addition is consistent with legislative intent. Revisions or deletions to, or additions of performance measures and standards submitted by the Chief Justice of the Supreme Court are subject to the review and objection procedure set forth in s.216.177.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_1827__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Legislature may create, amend, and delete performance measures and standards. The Legislature may confer with the Executive Office of the Governor for state agencies and the Chief Justice of the Supreme Court for the judicial branch prior to any such action.</p>
+            </content>
+            <paragraph eId="216_1827__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>The Legislature may create, amend, and delete performance measures and standards. The Legislature may confer with the Executive Office of the Governor for state agencies and the Chief Justice of the Supreme Court for the judicial branch prior to any such action.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1827__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Legislature may require state agencies to submit requests for revisions, additions, or deletions to approved performance measures and standards to the Executive Office of the Governor for review and approval, subject to the review and objection procedure set forth in s.216.177.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1827__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The Legislature may require the judicial branch to submit revisions, additions, or deletions to approved performance measures and standards to the Legislature, subject to the review and objection procedure set forth in s.216.177.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_1827__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Any new agency created by the Legislature is subject to the initial performance measures and standards established by the Legislature. The Legislature may require state agencies and the judicial branch to provide any information necessary to create initial performance measures and standards.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/217.04"/>
+          <FRBRuri value="/us-fl/act/fsa/217.04"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/217.04/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/217.04/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/217.04/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/217.04/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>Chapter 217</num>
+        <heading>Surplus Property</heading>
+        <section eId="sec_217_04">
+          <num>217.04</num>
+          <heading>Department of Management Services as state agency to negotiate with federal agency.</heading>
+          <content>
+            <p>The Department of Management Services is designated the official agency of the state to negotiate with any federal agency in accordance and compliance with the Federal Property and Administrative Services Act of 1949 and subsequent amendments thereto, and any other federal law or regulation providing for the procurement and distribution of federal surplus personal property.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.05"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.05/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.05/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_05">
+          <num>212.05</num>
+          <heading>Sales, storage, use tax.</heading>
+          <content>
+            <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who engages in the business of selling tangible personal property at retail in this state, including the business of making or facilitating remote sales; who rents or furnishes any of the things or services taxable under this chapter; or who stores for use or consumption in this state any item or article of tangible personal property as defined herein and who leases or rents such property within the state.</p>
+          </content>
+          <subsection eId="212_05__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the exercise of such privilege, a tax is levied on each taxable transaction or incident, which tax is due and payable as follows:</p>
+            </content>
+            <paragraph eId="212_05__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At the rate of 6 percent of the cost price of each item or article of tangible personal property when the same is not sold but is used, consumed, distributed, or stored for use or consumption in this state; however, for tangible property originally purchased exempt from tax for use exclusively for lease and which is converted to the owner’s own use, tax may be paid on the fair market value of the property at the time of conversion. If the fair market value of the property cannot be determined, use tax at the time of conversion shall be based on the owner’s acquisition cost. Under no circumstances may the aggregate amount of sales tax from leasing the property and use tax due at the time of conversion be less than the total sales tax that would have been due on the original acquisition cost paid by the owner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>At the rate of 6 percent of the lease or rental price paid by a lessee or rentee, or contracted or agreed to be paid by a lessee or rentee, to the owner of the tangible personal property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>At the rate of 6 percent on the sale, rental, use, consumption, or storage for use in this state of machines and equipment, and parts and accessories therefor, used in manufacturing, processing, compounding, producing, mining, or quarrying personal property for sale or to be used in furnishing communications, transportation, or public utility services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>At the rate of 6 percent on the retail price of newspapers and magazines sold or used in Florida.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>A tax is imposed at the rate of 4 percent on the charges for the use of coin-operated amusement machines. The tax shall be calculated by dividing the gross receipts from such charges for the applicable reporting period by a divisor, determined as provided in this subparagraph, to compute gross taxable sales, and then subtracting gross taxable sales from gross receipts to arrive at the amount of tax due. For counties that do not impose a discretionary sales surtax, the divisor is equal to 1.04; for counties that impose a 0.5 percent discretionary sales surtax, the divisor is equal to 1.045; for counties that impose a 1 percent discretionary sales surtax, the divisor is equal to 1.050; and for counties that impose a 2 percent sales surtax, the divisor is equal to 1.060. If a county imposes a discretionary sales surtax that is not listed in this subparagraph, the department shall make the applicable divisor available in an electronic format or otherwise. Additional divisors shall bear the same mathematical relationship to the next higher and next lower divisors as the new surtax rate bears to the next higher and next lower surtax rates for which divisors have been established. When a machine is activated by a slug, token, coupon, or any similar device which has been purchased, the tax is on the price paid by the user of the device for such device.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>At the rate of 6 percent on charges for all:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>At the rate of 6 percent of the sales price of each gallon of diesel fuel not taxed under chapter 206 purchased for use in a vessel, except dyed diesel fuel that is exempt pursuant to s.212.08(4)(a)4.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Florists located in this state are liable for sales tax on sales to retail customers regardless of where or by whom the items sold are to be delivered. Florists located in this state are not liable for sales tax on payments received from other florists for items delivered to customers in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Operators of game concessions or other concessionaires who customarily award tangible personal property as prizes may, in lieu of paying tax on the cost price of such property, pay tax on 25 percent of the gross receipts from such concession activity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_05__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>At the rate of 3 percent of the sales price on the retail sale of a new mobile home. As used in this paragraph, the term “new mobile home” has the same meaning as in s.319.001.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_05__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax shall be collected by the dealer, as defined herein, and remitted by the dealer to the state at the time and in the manner as hereinafter provided.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax so levied is in addition to all other taxes, whether levied in the form of excise, license, or privilege taxes, and in addition to all other fees and taxes levied.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax imposed pursuant to this chapter shall be due and payable according to the algorithm provided in s.212.12.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_05__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding any other provision of this chapter, the maximum amount of tax imposed under this chapter and collected on each sale or use of a boat in this state may not exceed $18,000 and on each repair of a boat in this state may not exceed $60,000.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

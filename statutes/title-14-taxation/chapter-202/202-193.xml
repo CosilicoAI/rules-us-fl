@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.193"/>
+          <FRBRuri value="/us-fl/act/fsa/202.193"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.193/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.193/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.193/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.193/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_193">
+          <num>202.193</num>
+          <heading>Local Communications Services Tax Clearing Trust Fund.</heading>
+          <content>
+            <p>The Local Communications Services Tax Clearing Trust Fund is created within the Department of Revenue. Proceeds from the local communications services tax levied pursuant to s.202.19shall be deposited in the trust fund for distribution to municipalities and counties as provided in s.202.18. Moneys deposited in the trust fund are exempt from the service charges imposed under s.215.20.</p>
+          </content>
+          <subsection eId="202_193__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Local Communications Services Tax Clearing Trust Fund is created within the Department of Revenue. Proceeds from the local communications services tax levied pursuant to s.202.19shall be deposited in the trust fund for distribution to municipalities and counties as provided in s.202.18. Moneys deposited in the trust fund are exempt from the service charges imposed under s.215.20.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_193__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding the provisions of s.216.301and pursuant to s.216.351, any balance in the Local Communications Services Tax Clearing Trust Fund at the end of any fiscal year shall remain in the trust fund at the end of the year and shall be available for carrying out the purposes of the trust fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_193__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Pursuant to the provisions of s. 19(f)(3), Art. III of the State Constitution, the Local Communications Services Tax Clearing Trust Fund is exempt from the termination provisions of s. 19(f)(2), Art. III of the State Constitution.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

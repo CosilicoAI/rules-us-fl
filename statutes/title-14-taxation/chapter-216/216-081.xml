@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.081"/>
+          <FRBRuri value="/us-fl/act/fsa/216.081"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.081/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.081/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.081/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.081/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_081">
+          <num>216.081</num>
+          <heading>Data on legislative and judicial branch expenses.</heading>
+          <content>
+            <p>In sufficient time to be included in the Governor’s recommended budget, estimates of the financial needs of the legislative branch and the judicial branch during the ensuing fiscal year shall be furnished to the Governor pursuant to chapter 11.</p>
+          </content>
+          <subsection eId="216_081__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In sufficient time to be included in the Governor’s recommended budget, estimates of the financial needs of the legislative branch and the judicial branch during the ensuing fiscal year shall be furnished to the Governor pursuant to chapter 11.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_081__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All of the data relative to the legislative branch and to the judicial branch shall be for information and guidance in estimating the total financial needs of the state for the ensuing fiscal year; none of these estimates shall be subject to revision or review by the Governor, and they must be included in the Governor’s recommended budget.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_081__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If the Governor does not receive timely estimates of the financial needs of the legislative branch, the Governor’s recommended budget shall include the amounts appropriated and budget entity structure established in the most recent General Appropriations Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

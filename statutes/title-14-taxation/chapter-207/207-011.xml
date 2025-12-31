@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.011"/>
+          <FRBRuri value="/us-fl/act/fsa/207.011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.011/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.011/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_011">
+          <num>207.011</num>
+          <heading>Inspection of records; hearings; forms; rules.</heading>
+          <content>
+            <p>The department shall have the authority to prescribe all forms upon which reports shall be made to it and any other forms required for the proper administration of this chapter.</p>
+          </content>
+          <subsection eId="207_011__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department shall have the authority to prescribe all forms upon which reports shall be made to it and any other forms required for the proper administration of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_011__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department has authority to adopt rules pursuant to ss.120.536(1) and120.54to enforce the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_011__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department, or any authorized agent thereof, is authorized to examine the records, books, papers, and equipment of any motor carrier, any retail dealer of diesel fuels, and any wholesale distributor of diesel fuels or motor fuels that are deemed necessary to verify the truth and accuracy of any statement or report and ascertain whether the tax imposed by this chapter has been paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_011__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department or any of its duly authorized agents shall have the power in the enforcement of the provisions of this chapter to hold hearings, administer oaths to witnesses, and take the sworn testimony of any person and cause it to be transcribed into writing; for such purposes, the department shall be authorized to issue subpoenas and subpoenas duces tecum and conduct such investigations as it may deem necessary.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_011__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If any person unreasonably refuses access to such records, books, papers, other documents, or equipment, or if any person fails or refuses to obey such subpoenas duces tecum or to testify, except for lawful reasons, before the department or any of its authorized agents, the department shall certify the names and facts to the clerk of the circuit court of any county; and the circuit court shall enter such order against such person in the premises as the enforcement of this chapter requires.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_011__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>In any action or proceeding for the collection of the tax and penalties or interest imposed in connection therewith, an assessment by the department of the amount of the tax, penalties, or interest due shall be prima facie evidence of the claim of the state; and the burden of proof shall be upon the person charged to show that the assessment was incorrect and contrary to law.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/203.0111"/>
+          <FRBRuri value="/us-fl/act/fsa/203.0111"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/203.0111/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/203.0111/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/203.0111/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/203.0111/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>Chapter 203</num>
+        <heading>Gross Receipts Taxes</heading>
+        <section eId="sec_203_0111">
+          <num>203.0111</num>
+          <heading>Application of tax increase.</heading>
+          <content>
+            <p>With respect to utility services regularly billed on a monthly cycle basis, each increase in the gross receipts tax provided for in this act shall apply to any bill dated on or after July 1 in the year in which the increase becomes effective.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

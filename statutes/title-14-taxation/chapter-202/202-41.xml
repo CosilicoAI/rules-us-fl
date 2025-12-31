@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.41"/>
+          <FRBRuri value="/us-fl/act/fsa/202.41"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.41/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.41/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.41/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.41/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_41">
+          <num>202.41</num>
+          <heading>Security for bonded indebtedness pledged under previous law.</heading>
+          <content>
+            <p>Revenue received by a taxing authority under this act shall be deemed to replace any taxes or fees previously imposed but repealed by this act without any further action on the part of such taxing authority. If the repeal under this act of a taxing authority’s authority to levy taxes or fees impairs security pledged to retire the authority’s bonded indebtedness secured by such taxes or fees, then to the extent of any such impairment, a like sum of revenue received by the authority under this act shall be deemed as a matter of law to replace said taxes and fees as security for the bonded indebtedness.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

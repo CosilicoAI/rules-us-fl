@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.133"/>
+          <FRBRuri value="/us-fl/act/fsa/212.133"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.133/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.133/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.133/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.133/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_133">
+          <num>212.133</num>
+          <heading>Information reports required for sales of alcoholic beverages and tobacco products.</heading>
+          <content>
+            <p>For the sole purpose of enforcing the collection of the tax levied by this chapter on retail sales, the department shall require every seller of alcoholic beverages or tobacco products to file an information report of any sales of those products to any retailer in this state.</p>
+          </content>
+          <subsection eId="212_133__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the sole purpose of enforcing the collection of the tax levied by this chapter on retail sales, the department shall require every seller of alcoholic beverages or tobacco products to file an information report of any sales of those products to any retailer in this state.</p>
+            </content>
+            <paragraph eId="212_133__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>For the sole purpose of enforcing the collection of the tax levied by this chapter on retail sales, the department shall require every seller of alcoholic beverages or tobacco products to file an information report of any sales of those products to any retailer in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_133__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>As used in this section, the term:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_133__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The information report must be filed electronically by using the department’s e-filing website or secure file transfer protocol or electronic data interchange files with the department’s e-filing provider. The information report must contain:</p>
+            </content>
+            <paragraph eId="212_133__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The information report must be filed electronically by using the department’s e-filing website or secure file transfer protocol or electronic data interchange files with the department’s e-filing provider. The information report must contain:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_133__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may annually waive the requirement to submit the information report through an electronic data interchange due to problems arising from the seller’s computer capabilities, data system changes, or operating procedures. The annual request for a waiver must be in writing, and the seller must demonstrate that such circumstances exist. A waiver under this paragraph does not operate to relieve the seller from the obligation to file an information report.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_133__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The information report must contain the required information for the period from July 1 through June 30. The information report is due annually on July 1 for the preceding reporting period and is delinquent if not received by the department by September 30.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_133__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Any seller who fails to provide the information report by September 30 is subject to a penalty of $1,000 for every month, or part thereof, the report is not provided, up to a maximum amount of $10,000. This penalty must be settled or compromised if it is determined by the department that the noncompliance is due to reasonable cause and not to willful negligence, willful neglect, or fraud.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

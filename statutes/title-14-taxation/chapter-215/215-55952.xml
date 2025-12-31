@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.55952"/>
+          <FRBRuri value="/us-fl/act/fsa/215.55952"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.55952/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.55952/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.55952/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.55952/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_55952">
+          <num>215.55952</num>
+          <heading>Triennial report on economic impact of a 1-in-100-year hurricane.</heading>
+          <content>
+            <p>The Chief Financial Officer shall provide a report on the economic impact on the state of a 1-in-100-year hurricane to the Governor, the President of the Senate, and the Speaker of the House of Representatives by March 1, 2025, and each triennial year thereafter. The report shall include an estimate of the short-term and long-term fiscal impacts of such a storm on Citizens Property Insurance Corporation, the Florida Hurricane Catastrophe Fund, the private insurance and reinsurance markets, the state economy, and the state debt. The report shall also include an analysis of the average premium increase to fund a 1-in-100-year hurricane event and list the average cost, in both a percentage and dollar amount, impact to consumers on a county-level basis. The report may also include recommendations by the Chief Financial Officer for preparing for such a hurricane and reducing the economic impact of such a hurricane on the state. In preparing the analysis, the Chief Financial Officer shall coordinate with and obtain data from the Office of Insurance Regulation, Citizens Property Insurance Corporation, the Florida Hurricane Catastrophe Fund, the Florida Commission on Hurricane Loss Projection Methodology, the State Board of Administration, the Office of Economic and Demographic Research, and other state agencies.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

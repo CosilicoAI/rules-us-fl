@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.4701"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4701"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.4701/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4701/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.4701/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4701/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_4701">
+          <num>215.4701</num>
+          <heading>Trademarks, copyrights, or patents.</heading>
+          <content>
+            <p>The State Board of Administration, on behalf of the Florida Retirement System or any other trust fund under its jurisdiction, may develop work products that are subject to trademark, copyright, or patent statutes. The board may, in its own name or through the growth initiative program created pursuant to s.215.47(7) or any other program developed with or for the board:</p>
+          </content>
+          <subsection eId="215_4701__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Perform all things necessary to secure letters of patent, copyrights, or trademarks on any work products and enforce its rights therein.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4701__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>License, lease, assign, or otherwise give written consent to any person for the manufacture or use of its work products on a royalty basis or for such other consideration as the board deems proper.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4701__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Take any action necessary, including legal action, to protect its work products against improper or unlawful use or infringement.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4701__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Enforce the collection of any sums due the board for the manufacture or use of its work products by any other party.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4701__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Sell any of its work products and execute all instruments necessary to consummate any such sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4701__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Do all other acts necessary and proper for the execution of powers and duties provided under this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

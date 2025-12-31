@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.0113"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0113"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.0113/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0113/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.0113/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0113/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_0113">
+          <num>216.0113</num>
+          <heading>Preferred pricing clauses in state contracts; compliance required.</heading>
+          <content>
+            <p>Each state agency, as defined in s.216.011, shall review its contracts and, for any contract with a preferred-pricing clause, the agency shall ensure that the contractor complies with such clause.</p>
+          </content>
+          <subsection eId="216_0113__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each state agency, as defined in s.216.011, shall review its contracts and, for any contract with a preferred-pricing clause, the agency shall ensure that the contractor complies with such clause.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0113__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each contract executed, renewed, extended, or modified on or after July 1, 2010, which includes a preferred-pricing clause, must require an affidavit from an authorized representative of the contractor attesting that the contract is in compliance with the preferred-pricing clause. Such affidavit must be submitted at least annually. A contractor’s failure to comply with a preferred-pricing clause is grounds for terminating the contract at the state agency’s sole discretion.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0113__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As used in this section, the term “preferred-pricing clause” means a contractual provision under which the state is offered the most favorable price that the contractor offers to any client.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

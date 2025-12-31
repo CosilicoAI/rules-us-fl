@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.044"/>
+          <FRBRuri value="/us-fl/act/fsa/216.044"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.044/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.044/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.044/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.044/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_044">
+          <num>216.044</num>
+          <heading>Budget evaluation by Department of Management Services.</heading>
+          <content>
+            <p>Any state agency or judicial branch entity requesting a fixed capital outlay project to be managed by the Department of Management Services shall consult with that department during the budget development process. The Department of Management Services shall provide recommendations regarding construction requirements, cost of the project, and project alternatives to be incorporated in the agency’s or entity’s proposed fixed capital outlay budget request and narrative justification.</p>
+          </content>
+          <subsection eId="216_044__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any state agency or judicial branch entity requesting a fixed capital outlay project to be managed by the Department of Management Services shall consult with that department during the budget development process. The Department of Management Services shall provide recommendations regarding construction requirements, cost of the project, and project alternatives to be incorporated in the agency’s or entity’s proposed fixed capital outlay budget request and narrative justification.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_044__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Concurrently with the submission of the fixed capital outlay legislative budget request to the Executive Office of the Governor or to the Chief Justice of the Supreme Court, the agency or judicial branch shall submit a copy of the legislative budget request to the Department of Management Services for evaluation.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_044__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Department of Management Services shall advise the Executive Office of the Governor, the Chief Justice, and the Legislature regarding alternatives to the proposed fixed capital outlay project and make recommendations relating to the construction requirements and cost of the project. These recommendations shall be provided to the Legislature and Executive Office of the Governor at a time specified by the Governor, but not less than 90 days prior to the regular session of the Legislature. When evaluating alternatives, the Department of Management Services shall include information as to whether it would be more cost-efficient to lease private property or facilities, to construct facilities on property presently owned by the state, or to acquire property on which to construct the facilities. In determining the cost to the state of constructing facilities on property presently owned by the state or the cost of acquiring property on which to construct facilities, the Department of Management Services shall include the costs which would be incurred by a private person in acquiring the property and constructing the facilities, including, but not limited to, taxes and return on investment.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

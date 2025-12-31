@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.084"/>
+          <FRBRuri value="/us-fl/act/fsa/195.084"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.084/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.084/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.084/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.084/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_084">
+          <num>195.084</num>
+          <heading>Information exchange.</heading>
+          <content>
+            <p>The department shall promulgate rules and regulations for the exchange of information among the department, the property appraisers’ offices, the tax collector, the Auditor General, and the Office of Program Policy Analysis and Government Accountability. All records and returns of the department useful to the property appraiser or the tax collector shall be made available upon request but subject to the reasonable conditions imposed by the department. This section shall supersede statutes prohibiting disclosure only with respect to the property appraiser, the tax collector, the Auditor General, and the Office of Program Policy Analysis and Government Accountability, but the department may establish regulations setting reasonable conditions upon the access to and custody of such information. The Auditor General, the Office of Program Policy Analysis and Government Accountability, the tax collectors, and the property appraisers shall be bound by the same requirements of confidentiality as the Department of Revenue. Breach of confidentiality shall be a misdemeanor of the first degree, punishable as provided by ss.775.082and775.083.</p>
+          </content>
+          <subsection eId="195_084__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department shall promulgate rules and regulations for the exchange of information among the department, the property appraisers’ offices, the tax collector, the Auditor General, and the Office of Program Policy Analysis and Government Accountability. All records and returns of the department useful to the property appraiser or the tax collector shall be made available upon request but subject to the reasonable conditions imposed by the department. This section shall supersede statutes prohibiting disclosure only with respect to the property appraiser, the tax collector, the Auditor General, and the Office of Program Policy Analysis and Government Accountability, but the department may establish regulations setting reasonable conditions upon the access to and custody of such information. The Auditor General, the Office of Program Policy Analysis and Government Accountability, the tax collectors, and the property appraisers shall be bound by the same requirements of confidentiality as the Department of Revenue. Breach of confidentiality shall be a misdemeanor of the first degree, punishable as provided by ss.775.082and775.083.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_084__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All of the records of property appraisers and collectors, including, but not limited to, worksheets and property record cards, shall be made available to the Department of Revenue, the Auditor General, and the Office of Program Policy Analysis and Government Accountability. Property appraisers and collectors are hereby directed to cooperate fully with representatives of the Department of Revenue, the Auditor General, and the Office of Program Policy Analysis and Government Accountability in realizing the objectives stated in s.195.0012.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

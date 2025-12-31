@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.211"/>
+          <FRBRuri value="/us-fl/act/fsa/215.211"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.211/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.211/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.211/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.211/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_211">
+          <num>215.211</num>
+          <heading>Service charge; elimination or reduction for specified proceeds.</heading>
+          <content>
+            <p>Notwithstanding the provisions of s.215.20(1) and former s.215.20(3), the service charge provided in s.215.20(1) and former s.215.20(3), which is deducted from the proceeds of the taxes distributed under ss.206.606(1),207.026,212.0501(6), and319.32(5), shall be eliminated beginning July 1, 2000.</p>
+          </content>
+          <subsection eId="215_211__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding the provisions of s.215.20(1) and former s.215.20(3), the service charge provided in s.215.20(1) and former s.215.20(3), which is deducted from the proceeds of the taxes distributed under ss.206.606(1),207.026,212.0501(6), and319.32(5), shall be eliminated beginning July 1, 2000.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_211__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding the provisions of s.215.20(1) and former s.215.20(3), the service charge provided in s.215.20(1) and former s.215.20(3), which is deducted from the proceeds of the taxes distributed under ss.206.608and320.072(4), shall be eliminated beginning July 1, 2001.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_211__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding the provisions of s.215.20(1), the service charge provided in s.215.20(1) may not be deducted from the proceeds of the local option fuel tax distributed under s.336.025(1)(a).</p>
+            </content>
+          </subsection>
+          <subsection eId="215_211__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>From the revenues derived from s.336.025(1)(a), an amount equal to 7 percent of those revenues shall be deposited in the State Transportation Trust Fund and used to fund the County Incentive Grant Program and the Small County Outreach Program. Up to 20 percent of such funds shall be used for the purpose of implementing the Small County Outreach Program as provided in this act. Notwithstanding any other laws to the contrary, the requirements of ss.339.135,339.155, and339.175shall not apply to these funds and programs.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.015"/>
+          <FRBRuri value="/us-fl/act/fsa/196.015"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.015/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.015/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.015/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.015/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_015">
+          <num>196.015</num>
+          <heading>Permanent residency; factual determination by property appraiser.</heading>
+          <content>
+            <p>Intention to establish a permanent residence in this state is a factual determination to be made, in the first instance, by the property appraiser. Although any one factor is not conclusive of the establishment or nonestablishment of permanent residence, the following are relevant factors that may be considered by the property appraiser in making his or her determination as to the intent of a person claiming a homestead exemption to establish a permanent residence in this state:</p>
+          </content>
+          <subsection eId="196_015__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A formal declaration of domicile by the applicant recorded in the public records of the county in which the exemption is being sought.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Evidence of the location where the applicant’s dependent children are registered for school.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The place of employment of the applicant.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The previous permanent residency by the applicant in a state other than Florida or in another country and the date non-Florida residency was terminated.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Proof of voter registration in this state with the voter information card address of the applicant, or other official correspondence from the supervisor of elections providing proof of voter registration, matching the address of the physical location where the exemption is being sought.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A valid Florida driver license issued under s.322.18or a valid Florida identification card issued under s.322.051and evidence of relinquishment of driver licenses from any other states.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Issuance of a Florida license tag on any motor vehicle owned by the applicant.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The address as listed on federal income tax returns filed by the applicant.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The location where the applicant’s bank statements and checking accounts are registered.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_015__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>Proof of payment for utilities at the property for which permanent residency is being claimed.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

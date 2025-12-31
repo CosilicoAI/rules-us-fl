@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0501"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0501"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0501/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0501/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0501/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0501/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0501">
+          <num>212.0501</num>
+          <heading>Tax on diesel fuel for business purposes; purchase, storage, and use.</heading>
+          <content>
+            <p>It is declared to be the legislative intent that every person is exercising a taxable privilege who purchases any diesel fuel as defined in chapter 206 for use by that person in a trade or business.</p>
+          </content>
+          <subsection eId="212_0501__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is declared to be the legislative intent that every person is exercising a taxable privilege who purchases any diesel fuel as defined in chapter 206 for use by that person in a trade or business.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0501__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each person who purchases diesel fuel for consumption, use, or storage by a trade or business shall register as a dealer and remit a use tax, at the rate of 6 percent, on the total cost price of diesel fuel consumed.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0501__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this section, “consumption, use, or storage by a trade or business” does not include those uses of diesel fuel specifically exempt on account of residential purposes; or in any tractor, vehicle, or other equipment used exclusively on a farm or for processing farm products on the farm, no part of which diesel fuel is used in any licensed motor vehicle on the public highways of this state; or the purchase or storage of diesel fuel held for resale.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0501__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as otherwise provided in s.212.05(1)(k), a licensed sales tax dealer may elect to collect such tax pursuant to this chapter on all sales to each person who purchases diesel fuel, except dyed diesel fuel used for commercial fishing and aquacultural purposes listed in s.206.41(4)(c)3., for consumption, use, or storage by a trade or business. When the licensed sales tax dealer has not elected to collect such tax on all such sales, the purchaser or ultimate consumer shall be liable for the payment of tax directly to the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0501__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Diesel fuel upon which the fuel taxes pursuant to chapter 206 have been paid is exempt from the tax imposed by this chapter. Liquefied petroleum gas or other fuel used to heat a structure in which started pullets or broilers are raised is exempt from the tax imposed by this chapter; however, such exemption shall not be allowed unless the purchaser or lessee signs a certificate stating that the fuel to be exempted is for the exclusive use designated herein.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0501__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>All taxes required to be paid on fuel used in self-propelled off-road equipment shall be deposited in the Fuel Tax Collection Trust Fund, to be distributed to the State Transportation Trust Fund. The department shall, each month, make a transfer, from general revenue collections, equal to such use tax reported on dealers’ sales and use tax returns.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

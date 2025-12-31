@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.18"/>
+          <FRBRuri value="/us-fl/act/fsa/201.18"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.18/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.18/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.18/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.18/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_18">
+          <num>201.18</num>
+          <heading>Penalties for illegal use of stamps.</heading>
+          <content>
+            <p>Whoever fraudulently cuts, tears, or removes from any vellum, parchment, paper, instrument, writing, or document, upon which any tax is imposed by this chapter, any adhesive stamp used in pursuance of this chapter, or fraudulently uses, joins, fixes, or places to, with, or upon any vellum, parchment, paper, instrument, writing, or document, upon which any tax is imposed by this chapter:</p>
+          </content>
+          <subsection eId="201_18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Whoever fraudulently cuts, tears, or removes from any vellum, parchment, paper, instrument, writing, or document, upon which any tax is imposed by this chapter, any adhesive stamp used in pursuance of this chapter, or fraudulently uses, joins, fixes, or places to, with, or upon any vellum, parchment, paper, instrument, writing, or document, upon which any tax is imposed by this chapter:</p>
+            </content>
+            <paragraph eId="201_18__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any adhesive stamp which has been cut, torn, or removed from any other vellum, parchment, paper, instrument, writing, or document, upon which any tax is imposed by this chapter,</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_18__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any adhesive stamp of insufficient value, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="201_18__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Any forged or counterfeited stamp; or</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="201_18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whoever willfully removes or alters the cancellation or defacing marks of, or otherwise prepares, any adhesive stamp with intent to use or cause the same to be used after it has already been used, or knowingly or willfully buys, sells, offers for sale, or gives away any such washed or restored stamp to any person for use, or knowingly uses the same, or whoever knowingly and without lawful excuse has in possession any washed, restored, or altered stamp which has been removed from any vellum, parchment, paper, instrument, writing, or document; or</p>
+            </content>
+          </subsection>
+          <subsection eId="201_18__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Whoever knowingly or willfully prepares, buys, sells, offers for sale, or has in his, her, or its possession any counterfeit stamps,</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

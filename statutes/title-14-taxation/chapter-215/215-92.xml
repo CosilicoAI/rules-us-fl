@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.92"/>
+          <FRBRuri value="/us-fl/act/fsa/215.92"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.92/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.92/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.92/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.92/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_92">
+          <num>215.92</num>
+          <heading>Definitions relating to Florida Financial Management Information System Act.</heading>
+          <content>
+            <p>For the purposes of ss.215.90-215.96:</p>
+          </content>
+          <subsection eId="215_92__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Auditable” means the presence of features and characteristics that are needed to verify the proper functioning of controls in any given information subsystem.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Board” means the Financial Management Information Board.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Coordinating council” or “council” means the Florida Financial Management Information System Coordinating Council.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Data or data code” means representation of facts, concepts, or instructions in a formalized manner suitable for communication, interpretation, or processing by humans or by automatic means. The term includes any representations such as characters or analog quantities to which meaning is, or might be, assigned.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Design and coordination staff” means the personnel responsible for providing administrative and clerical support to the board, coordinating council, and secretary to the board. The design and coordination staff shall function as the agency clerk for the board and the coordinating council. For administrative purposes, the design and coordination staff are assigned to the Department of Financial Services but they are functionally assigned to the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Functional owner” means the agency, or the part of the judicial branch, that has the legal responsibility to ensure that a subsystem is designed, implemented, and operated in accordance with ss.215.90-215.96.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Functional system specifications” means the detailed written description of an information subsystem. These specifications are prepared by the functional owner of the system; describe, in the functional owner’s language, what an information subsystem is required to do; and describe the features, characteristics, controls, and internal control measures to be incorporated into the information subsystem. Such specifications are the basis for the preparation of the technical system specifications by the functional owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“Information system” means a group of interrelated information subsystems.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_92__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>“Information subsystem” means the entire collection of procedures, equipment, and people devoted to the generation, collection, evaluation, storage, retrieval, and dissemination of data and information within an organization or functional area in order to promote the flow of information from source to user.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

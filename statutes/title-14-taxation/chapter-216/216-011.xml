@@ -1,0 +1,376 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.011"/>
+          <FRBRuri value="/us-fl/act/fsa/216.011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.011/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.011/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_011">
+          <num>216.011</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>For the purpose of fiscal affairs of the state, appropriations acts, legislative budgets, and approved budgets, each of the following terms has the meaning indicated:</p>
+          </content>
+          <subsection eId="216_011__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the purpose of fiscal affairs of the state, appropriations acts, legislative budgets, and approved budgets, each of the following terms has the meaning indicated:</p>
+            </content>
+            <paragraph eId="216_011__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Activity” means a unit of work that has identifiable starting and ending points, consumes resources, and produces outputs.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Annual salary rate” means the monetary compensation authorized to be paid a position on an annualized basis. The term does not include moneys authorized for benefits associated with the position.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Appropriation” means a legal authorization to make expenditures for specific purposes within the amounts authorized by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Appropriations act” means the authorization of the Legislature, based upon legislative budgets or based upon legislative findings of the necessity for an authorization when no legislative budget is filed, for the expenditure of amounts of money by an agency, the judicial branch, or the legislative branch for stated purposes in the performance of the functions it is authorized by law to perform. The categories contained in the appropriations act include, but are not limited to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Authorized position” means a position included in an approved budget. In counting the number of authorized positions, part-time positions shall be converted to full-time equivalents.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Baseline data” means indicators of a state agency’s current performance level, pursuant to guidelines established by the Executive Office of the Governor, in consultation with legislative appropriations and appropriate substantive committees.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Budget entity” means a unit or function at the lowest level to which funds are specifically appropriated in the appropriations act. “Budget entity” and “service” have the same meaning.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Budget reserve” means the withholding, as authorized by the Legislature, of an appropriation, or portion thereof. The need for a budget reserve may exist until certain conditions set by the Legislature are met by the affected agency, or such need may exist due to financial or program changes that have occurred since, and were unforeseen at the time of, passage of the General Appropriations Act.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>“Chairs of the legislative appropriations committees” means the chairs of the committees of the Senate and the House of Representatives responsible for producing the General Appropriations Act.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_j">
+              <num>(j)</num>
+              <content>
+                <p>“Consultation” means communication to allow government officials and agencies to deliberate and to seek and provide advice in an open and forthright manner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_k">
+              <num>(k)</num>
+              <content>
+                <p>“Continuing appropriation” means an appropriation automatically renewed without further legislative action, period after period, until altered or revoked by the Legislature.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_l">
+              <num>(l)</num>
+              <content>
+                <p>“Data processing services” means the appropriation category used to fund electronic data processing services provided by state agencies or the judicial branch, which services include, but are not limited to, systems design, software development, or time-sharing by other governmental units or budget entities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_m">
+              <num>(m)</num>
+              <content>
+                <p>“Disbursement” means the payment of an expenditure.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>“Disincentive” means a sanction as described in s.216.163.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_o">
+              <num>(o)</num>
+              <content>
+                <p>“Expenditure” means the creation or incurring of a legal obligation to disburse money.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_p">
+              <num>(p)</num>
+              <content>
+                <p>“Expense” means the appropriation category used to fund the usual, ordinary, and incidental expenditures by an agency or the judicial branch, including such items as commodities, supplies of a consumable nature, current obligations, and fixed charges, and excluding expenditures classified as operating capital outlay. Payments to other funds or local, state, or federal agencies may be included in this category.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_q">
+              <num>(q)</num>
+              <content>
+                <p>“Fiscal year of the state” means a period of time beginning July 1 and ending on the following June 30, both dates inclusive.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_r">
+              <num>(r)</num>
+              <content>
+                <p>“Fixed capital outlay” means the appropriation category used to fund real property (land, buildings, including appurtenances, fixtures and fixed equipment, structures, etc.), including additions, replacements, major repairs, and renovations to real property which materially extend its useful life or materially improve or change its functional use and including furniture and equipment necessary to furnish and operate a new or improved facility, when appropriated by the Legislature in the fixed capital outlay appropriation category.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_s">
+              <num>(s)</num>
+              <content>
+                <p>“Food products” means the appropriation category used to fund food consumed and purchased in state-run facilities that provide housing to individuals.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_t">
+              <num>(t)</num>
+              <content>
+                <p>“Grants and aids” means the appropriation category used to fund contributions to units of government or nonstate entities to be used for one or more specified purposes or activities. Funds appropriated to units of government and nonprofit entities under this category may be advanced.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_u">
+              <num>(u)</num>
+              <content>
+                <p>“Grants and aids to local governments and nonstate entities-fixed capital outlay” means the appropriation category used to fund:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_v">
+              <num>(v)</num>
+              <content>
+                <p>“Incentive” means a mechanism, as described in s.216.163, for recognizing the achievement of performance standards or for motivating performance that exceeds performance standards.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_w">
+              <num>(w)</num>
+              <content>
+                <p>“Incurred obligation” means a legal obligation for goods or services that have been contracted for, referred to as an encumbrance in the state’s financial system, or received or incurred by the state and referred to as a payable in the state’s financial system.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_x">
+              <num>(x)</num>
+              <content>
+                <p>“Independent judgment” means an evaluation of actual needs made separately and apart from the legislative budget request of any other agency or of the judicial branch, or any assessments by the Governor. Such evaluation shall not be limited by revenue estimates of the Revenue Estimating Conference.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_y">
+              <num>(y)</num>
+              <content>
+                <p>“Judicial branch” means all officers, employees, and offices of the Supreme Court, district courts of appeal, circuit courts, county courts, and the Judicial Qualifications Commission.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_z">
+              <num>(z)</num>
+              <content>
+                <p>“Lease or lease-purchase of equipment” means the appropriations category used to fund the lease or lease-purchase of equipment, fixtures, and other tangible personal property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_aa">
+              <num>(aa)</num>
+              <content>
+                <p>“Legislative branch” means the various officers, committees, and other units of the legislative branch of state government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_bb">
+              <num>(bb)</num>
+              <content>
+                <p>“Legislative budget instructions” means the annual set of instructions developed to assist agencies in submitting budget requests to the Legislature and to generate information necessary for budgetary decisionmaking. Such instructions may include program-based performance budget instructions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_cc">
+              <num>(cc)</num>
+              <content>
+                <p>“Legislative budget request” means a request to the Legislature, filed pursuant to s.216.023, or supplemental detailed requests filed with the Legislature, for the amounts of money such agency or branch believes will be needed in the performance of the functions that it is authorized, or which it is requesting authorization by law, to perform.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_dd">
+              <num>(dd)</num>
+              <content>
+                <p>“Long-range financial outlook” means a document issued by the Legislative Budget Commission based on a 3-year forecast of revenues and expenditures.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_ee">
+              <num>(ee)</num>
+              <content>
+                <p>“Long-range program plan” means a plan developed pursuant to s.216.013.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_ff">
+              <num>(ff)</num>
+              <content>
+                <p>“Lump-sum appropriation” means the appropriation category used to fund a specific activity or project which must be transferred to one or more appropriation categories for expenditure.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_gg">
+              <num>(gg)</num>
+              <content>
+                <p>“Mandatory reserve” means the reduction of an appropriation by the Governor or the Legislative Budget Commission due to an anticipated deficit in a fund, pursuant to s.216.221. Action may not be taken to restore a mandatory reserve either directly or indirectly.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_hh">
+              <num>(hh)</num>
+              <content>
+                <p>“Operating capital outlay” means the appropriation category used to fund equipment, fixtures, and other tangible personal property of a nonconsumable and nonexpendable nature under s.273.025.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_ii">
+              <num>(ii)</num>
+              <content>
+                <p>“Original approved budget” means the approved plan of operation of an agency or of the judicial branch consistent with the General Appropriations Act or special appropriations acts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_jj">
+              <num>(jj)</num>
+              <content>
+                <p>“Other personal services” means the appropriation category used to fund the compensation for services rendered by a person who is not filling an established position. This definition includes, but is not limited to, services of temporary employees, student or graduate assistants, persons on fellowships, part-time academic employees, board members, and consultants and other services specifically budgeted by each agency, or by the judicial branch, in this category. In distinguishing between payments to be made from salaries and benefits appropriations and other-personal-services appropriations:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_kk">
+              <num>(kk)</num>
+              <content>
+                <p>“Outcome” means an indicator of the actual impact or public benefit of a program.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_ll">
+              <num>(ll)</num>
+              <content>
+                <p>“Output” means the actual service or product delivered by a state agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_mm">
+              <num>(mm)</num>
+              <content>
+                <p>“Performance measure” means a quantitative or qualitative indicator used to assess state agency performance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_nn">
+              <num>(nn)</num>
+              <content>
+                <p>“Program” means a set of services and activities undertaken in accordance with a plan of action organized to realize identifiable goals and objectives based on legislative authorization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_oo">
+              <num>(oo)</num>
+              <content>
+                <p>“Program component” means an aggregation of generally related objectives which, because of their special character, related workload, and interrelated output, can logically be considered an entity for purposes of organization, management, accounting, reporting, and budgeting.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_pp">
+              <num>(pp)</num>
+              <content>
+                <p>“Proviso” means language that qualifies or restricts a specific appropriation and which can be logically and directly related to the specific appropriation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_qq">
+              <num>(qq)</num>
+              <content>
+                <p>“Qualified expenditure category” means the appropriations category used to fund specific activities and projects which must be transferred to one or more appropriation categories for expenditure upon recommendation by the Governor or Chief Justice, as appropriate, and subject to approval by the Legislative Budget Commission. The Legislature by law may provide that a specific portion of the funds appropriated in this category be transferred to one or more appropriation categories without approval by the commission and may provide that requirements or contingencies be satisfied prior to the transfer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_rr">
+              <num>(rr)</num>
+              <content>
+                <p>“Salaries and benefits” means the appropriation category used to fund the monetary or cash-equivalent compensation for work performed by state employees for a specific period of time. Benefits shall be as provided by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_ss">
+              <num>(ss)</num>
+              <content>
+                <p>“Salary” means the cash compensation for services rendered for a specific period of time.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_tt">
+              <num>(tt)</num>
+              <content>
+                <p>“Salary rate reserve” means the withholding of a portion of the annual salary rate for a specific purpose.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_uu">
+              <num>(uu)</num>
+              <content>
+                <p>“Special category” means the appropriation category used to fund amounts appropriated for a specific need or classification of expenditures.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_vv">
+              <num>(vv)</num>
+              <content>
+                <p>“Standard” means the level of performance of an outcome or output.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_1__para_ww">
+              <num>(ww)</num>
+              <content>
+                <p>“State agency” or “agency” means any official, officer, commission, board, authority, council, committee, or department of the executive branch of state government. For purposes of this chapter and chapter 215, “state agency” or “agency” includes, but is not limited to, state attorneys, public defenders, criminal conflict and civil regional counsel, capital collateral regional counsel, the Justice Administrative Commission, the Florida Housing Finance Corporation, and the Florida Public Service Commission. Solely for the purposes of implementing s. 19(h), Art. III of the State Constitution, the terms “state agency” or “agency” include the judicial branch.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_011__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of this chapter, terms related to personnel affairs of the state shall be defined as set forth in s.110.107.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_011__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this chapter, the term:</p>
+            </content>
+            <paragraph eId="216_011__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Approved operating budget” or “approved budget” means the plan of operations consisting of the original approved operating budget.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Commission” means the Legislative Budget Commission created in s.11.90.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_011__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Statutorily authorized entity” means any entity primarily acting as an instrumentality of the state, any regulatory or governing body, or any other governmental or quasi-governmental organization that receives, disburses, expends, administers, awards, recommends expenditure of, handles, manages, or has custody or control of funds appropriated by the Legislature and:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

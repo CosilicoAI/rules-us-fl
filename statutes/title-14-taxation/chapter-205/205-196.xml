@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.196"/>
+          <FRBRuri value="/us-fl/act/fsa/205.196"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.196/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.196/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.196/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.196/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_196">
+          <num>205.196</num>
+          <heading>Pharmacies and pharmacists.</heading>
+          <content>
+            <p>A state, county, or municipal licensing agency may not issue a business tax receipt to operate a pharmacy unless the applicant produces a current permit issued by the Board of Pharmacy; however, no such receipt is required to practice the profession of pharmacy.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

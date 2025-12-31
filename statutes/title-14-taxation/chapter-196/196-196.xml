@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.196"/>
+          <FRBRuri value="/us-fl/act/fsa/196.196"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.196/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.196/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.196/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.196/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_196">
+          <num>196.196</num>
+          <heading>Determining whether property is entitled to charitable, religious, scientific, or literary exemption.</heading>
+          <content>
+            <p>In the determination of whether an applicant is actually using all or a portion of its property predominantly for a charitable, religious, scientific, or literary purpose, the following criteria shall be applied:</p>
+          </content>
+          <subsection eId="196_196__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In the determination of whether an applicant is actually using all or a portion of its property predominantly for a charitable, religious, scientific, or literary purpose, the following criteria shall be applied:</p>
+            </content>
+            <paragraph eId="196_196__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The nature and extent of the charitable, religious, scientific, or literary activity of the applicant, a comparison of such activities with all other activities of the organization, and the utilization of the property for charitable, religious, scientific, or literary activities as compared with other uses.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_196__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The extent to which the property has been made available to groups who perform exempt purposes at a charge that is equal to or less than the cost of providing the facilities for their use. Such rental or service shall be considered as part of the exempt purposes of the applicant.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_196__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Only those portions of property used predominantly for charitable, religious, scientific, or literary purposes are exempt. The portions of property which are not predominantly used for charitable, religious, scientific, or literary purposes are not exempt. An exemption for the portions of property used for charitable, religious, scientific, or literary purposes is not affected so long as the predominant use of such property is for charitable, religious, scientific, or literary purposes. In no event shall an incidental use of property either qualify such property for an exemption or impair the exemption of an otherwise exempt property.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_196__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Property owned by an exempt organization is used for a religious purpose if the institution has taken affirmative steps to prepare the property for use as a house of public worship. The term “affirmative steps” means environmental or land use permitting activities, creation of architectural plans or schematic drawings, land clearing or site preparation, construction or renovation activities, or other similar activities that demonstrate a commitment of the property to a religious use as a house of public worship. For purposes of this section, the term “public worship” means religious worship services and those other activities that are incidental to religious worship services, such as educational activities, parking, recreation, partaking of meals, and fellowship.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_196__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Except as otherwise provided herein, property claimed as exempt for literary, scientific, religious, or charitable purposes which is used for profitmaking purposes shall be subject to ad valorem taxation. Use of property for functions not requiring a business or occupational license conducted by the organization at its primary residence, the revenue of which is used wholly for exempt purposes, shall not be considered profit making. In this connection the playing of bingo on such property shall not be considered as using such property in such a manner as would impair its exempt status.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_196__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Property owned by an exempt organization qualified as charitable under s. 501(c)(3) of the Internal Revenue Code is used for a charitable purpose if the organization has taken affirmative steps to prepare the property to provide affordable housing to persons or families that meet the extremely-low-income, very-low-income, low-income, or moderate-income limits, as specified in s.420.0004. The term “affirmative steps” means environmental or land use permitting activities, creation of architectural plans or schematic drawings, land clearing or site preparation, construction or renovation activities, or other similar activities that demonstrate a commitment of the property to providing affordable housing.</p>
+            </content>
+            <paragraph eId="196_196__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>Property owned by an exempt organization qualified as charitable under s. 501(c)(3) of the Internal Revenue Code is used for a charitable purpose if the organization has taken affirmative steps to prepare the property to provide affordable housing to persons or families that meet the extremely-low-income, very-low-income, low-income, or moderate-income limits, as specified in s.420.0004. The term “affirmative steps” means environmental or land use permitting activities, creation of architectural plans or schematic drawings, land clearing or site preparation, construction or renovation activities, or other similar activities that demonstrate a commitment of the property to providing affordable housing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_196__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If property owned by an organization granted an exemption under this subsection is transferred for a purpose other than directly providing affordable homeownership or rental housing to persons or families who meet the extremely-low-income, very-low-income, low-income, or moderate-income limits, as specified in s.420.0004, or is not in actual use to provide such affordable housing within 5 years after the date the organization is granted the exemption, the property appraiser making such determination shall serve upon the organization that illegally or improperly received the exemption a notice of intent to record in the public records of the county a notice of tax lien against any property owned by that organization in the county, and such property shall be identified in the notice of tax lien. The organization owning such property is subject to the taxes otherwise due and owing as a result of the failure to use the property to provide affordable housing plus 15 percent interest per annum and a penalty of 50 percent of the taxes owed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_196__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Property that is used as a parsonage, burial grounds, or a tomb and is owned by an exempt organization that owns a house of public worship is used for a religious purpose.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

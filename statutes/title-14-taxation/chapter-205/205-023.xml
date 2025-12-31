@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.023"/>
+          <FRBRuri value="/us-fl/act/fsa/205.023"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.023/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.023/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.023/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.023/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_023">
+          <num>205.023</num>
+          <heading>Requirement to report status of fictitious name registration.</heading>
+          <content>
+            <p>As a prerequisite to receiving a local business tax receipt under this chapter or transferring a business license under s.205.033(2) or s.205.043(2), the applicant or new owner must present to the county or municipality that has jurisdiction to issue or transfer the receipt either:</p>
+          </content>
+          <subsection eId="205_023__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A copy of the applicant’s or new owner’s current fictitious name registration, issued by the Division of Corporations of the Department of State; or</p>
+            </content>
+          </subsection>
+          <subsection eId="205_023__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A written statement, signed by the applicant or new owner, which sets forth the reason that the applicant or new owner need not comply with the Fictitious Name Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

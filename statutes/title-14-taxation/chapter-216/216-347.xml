@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.347"/>
+          <FRBRuri value="/us-fl/act/fsa/216.347"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.347/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.347/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.347/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.347/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_347">
+          <num>216.347</num>
+          <heading>Disbursement of grants and aids appropriations for lobbying prohibited.</heading>
+          <content>
+            <p>A state agency, a water management district, or the judicial branch may not authorize or make any disbursement of grants and aids appropriations pursuant to a contract or grant to any person or organization unless the terms of the grant or contract prohibit the expenditure of funds for the purpose of lobbying the Legislature, the judicial branch, or a state agency. The provisions of this section are supplemental to the provisions of s.11.062and any other law prohibiting the use of state funds for lobbying purposes. However, for the purposes of this section and s.11.062, the payment of funds for the purpose of registering as a lobbyist shall not be considered a lobbying purpose.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

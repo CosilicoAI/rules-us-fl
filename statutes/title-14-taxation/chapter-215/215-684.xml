@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.684"/>
+          <FRBRuri value="/us-fl/act/fsa/215.684"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.684/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.684/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.684/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.684/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_684">
+          <num>215.684</num>
+          <heading>Limitation on engaging services of securities broker or bond underwriter convicted of fraud.</heading>
+          <content>
+            <p>Subject to the notice provided in subsection (2), the State of Florida shall not engage the services of any person or firm as a securities broker or bond underwriter that has been convicted or entered a plea of guilty or nolo contendere to fraud in a federal or state court, for a period of 2 years from the date of such conviction.</p>
+          </content>
+          <subsection eId="215_684__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Subject to the notice provided in subsection (2), the State of Florida shall not engage the services of any person or firm as a securities broker or bond underwriter that has been convicted or entered a plea of guilty or nolo contendere to fraud in a federal or state court, for a period of 2 years from the date of such conviction.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_684__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Upon notification under chapter 517 that a person or firm has been convicted or has pleaded as provided in subsection (1), the Chief Financial Officer shall issue a notice of intent to take action to disqualify such person or firm, which notice must state that:</p>
+            </content>
+            <paragraph eId="215_684__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Such person or firm is considered a disqualified securities broker or bond underwriter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A state agency may not enter into a contract with such person or firm as a securities broker or bond underwriter for any new business for a period of 2 years;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The substantial rights of such person or firm as a securities broker or bond underwriter are being affected and the person or firm has the rights accorded pursuant to ss.120.569and120.57; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Such person or firm may petition to mitigate the duration of his or her disqualification, based on the criteria established in subsection (3) and may request that such mitigation be considered as part of any hearing under ss.120.569and120.57.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_684__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Chief Financial Officer shall decide, based on the following criteria, whether or not to mitigate the duration of the disqualification:</p>
+            </content>
+            <paragraph eId="215_684__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The nature and details of the crime;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The degree of culpability of the person or firm proposed to be requalified;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Prompt or voluntary payment of any damages or penalty as a result of the conviction and disassociation from any other person or firm involved in the crimes of fraud;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Cooperation with state or federal investigation or prosecution of the crime of fraud;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Prior or future self-policing by the person or firm to prevent crimes of fraud; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_684__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Reinstatement or clemency in any jurisdiction in relation to the crime at issue in the proceeding.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_684__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the Chief Financial Officer in his or her sole discretion decides to mitigate the duration of the disqualification based on the foregoing, the duration of disqualification shall be for any period the Chief Financial Officer specifies up to 2 years from the date of the person’s or firm’s conviction or plea. If the Chief Financial Officer refuses to mitigate the duration of the disqualification, such person or firm may again file for mitigation no sooner than 9 months after denial by the Chief Financial Officer.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_684__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding subsection (4), a firm or person at any time may petition the Chief Financial Officer for termination of the disqualification based upon a reversal of the conviction of the firm or person by an appellate court or a pardon.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_684__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The person’s or firm’s conviction of, or plea of nolo contendere to, fraud, or the disqualification of a person or firm under this section, shall not affect any rights or obligations under any contract, franchise, or other binding agreement which predates such conviction, plea, or disqualification.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_684__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>A person or firm requesting a hearing pursuant to ss.120.569and120.57may consent to a disqualification beginning prior to the disposition of the proceedings, in which case the period of disqualification shall run from such agreed upon date.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_684__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Except when otherwise provided by law for crimes of fraud with respect to the transaction of business with any public entity or with an agency or political subdivision of any other state or with the United States, this act constitutes the sole authorization for determining when a person or firm convicted or having pleaded guilty or nolo contendere to the crime of fraud may not be engaged to provide services as a securities broker or bond underwriter with the state. Nothing in this act shall be construed to affect the authority granted the Chief Financial Officer under chapter 517 to revoke or suspend the license of such securities dealer or bond underwriter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

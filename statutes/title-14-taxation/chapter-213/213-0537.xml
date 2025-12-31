@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.0537"/>
+          <FRBRuri value="/us-fl/act/fsa/213.0537"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.0537/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.0537/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.0537/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.0537/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_0537">
+          <num>213.0537</num>
+          <heading>Electronic notification with affirmative consent.</heading>
+          <content>
+            <p>Notwithstanding any other provision of law, the Department of Revenue may send notices electronically, by postal mail, or both. Electronic transmission may be used only with the affirmative consent of the taxpayer or its representative. Documents sent pursuant to this section comply with the same timing and form requirements as documents sent by postal mail. If a document sent electronically is returned as undeliverable, the department must resend the document by postal mail. However, the original electronic transmission used with the affirmative consent of the taxpayer or its representative is the official mailing for purposes of this chapter.</p>
+          </content>
+          <subsection eId="213_0537__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding any other provision of law, the Department of Revenue may send notices electronically, by postal mail, or both. Electronic transmission may be used only with the affirmative consent of the taxpayer or its representative. Documents sent pursuant to this section comply with the same timing and form requirements as documents sent by postal mail. If a document sent electronically is returned as undeliverable, the department must resend the document by postal mail. However, the original electronic transmission used with the affirmative consent of the taxpayer or its representative is the official mailing for purposes of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0537__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A notice sent electronically will be considered to have been received by the recipient if the transmission is addressed to the address provided by the taxpayer or its representative. A notice sent electronically will be considered received even if no individual is aware of its receipt. In addition, a notice sent electronically shall be considered received if the department does not receive notification that the document was undeliverable.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_0537__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For the purposes of this section, the term:</p>
+            </content>
+            <paragraph eId="213_0537__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Affirmative consent” means that the taxpayer or its representative expressly consented to receive notices electronically either in response to a clear and conspicuous request for the taxpayer’s or its representative’s consent, or at the taxpayer’s or its representative’s own initiative.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_0537__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Notice” means all communications from the department to the taxpayer or its representative, including, but not limited to, billings, notices issued during the course of an audit, proposed assessments, and final assessments authorized by this chapter and any other actions constituting final agency action within the meaning of chapter 120.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

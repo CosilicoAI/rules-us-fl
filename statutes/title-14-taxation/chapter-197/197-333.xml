@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.333"/>
+          <FRBRuri value="/us-fl/act/fsa/197.333"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.333/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.333/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.333/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.333/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_333">
+          <num>197.333</num>
+          <heading>When taxes due; delinquent.</heading>
+          <content>
+            <p>All taxes shall be due and payable on November 1 of each year or as soon thereafter as the certified tax roll is received by the tax collector. Taxes shall become delinquent on April 1 following the year in which they are assessed or immediately after 60 days have expired from the mailing of the original tax notice, whichever is later. If the delinquency date for ad valorem taxes is later than April 1 of the year following the year in which taxes are assessed, all dates or time periods specified in this chapter relative to the collection of, or administrative procedures regarding, delinquent taxes shall be extended a like number of days.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.425"/>
+          <FRBRuri value="/us-fl/act/fsa/215.425"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.425/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.425/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.425/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.425/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_425">
+          <num>215.425</num>
+          <heading>Extra compensation claims prohibited; bonuses; severance pay.</heading>
+          <content>
+            <p>No extra compensation shall be made to any officer, agent, employee, or contractor after the service has been rendered or the contract made; nor shall any money be appropriated or paid on any claim the subject matter of which has not been provided for by preexisting laws, unless such compensation or claim is allowed by a law enacted by two-thirds of the members elected to each house of the Legislature. However, when adopting salary schedules for a fiscal year, a district school board or community college district board of trustees may apply the schedule for payment of all services rendered subsequent to July 1 of that fiscal year.</p>
+          </content>
+          <subsection eId="215_425__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No extra compensation shall be made to any officer, agent, employee, or contractor after the service has been rendered or the contract made; nor shall any money be appropriated or paid on any claim the subject matter of which has not been provided for by preexisting laws, unless such compensation or claim is allowed by a law enacted by two-thirds of the members elected to each house of the Legislature. However, when adopting salary schedules for a fiscal year, a district school board or community college district board of trustees may apply the schedule for payment of all services rendered subsequent to July 1 of that fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_425__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This section does not apply to:</p>
+            </content>
+            <paragraph eId="215_425__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A bonus or severance pay that is paid wholly from nontax revenues and nonstate-appropriated funds, the payment and receipt of which does not otherwise violate part III of chapter 112, and which is paid to an officer, agent, employee, or contractor of a public hospital that is operated by a county or a special district; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A clothing and maintenance allowance given to plainclothes deputies pursuant to s.30.49.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_425__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any policy, ordinance, rule, or resolution designed to implement a bonus scheme must:</p>
+            </content>
+            <paragraph eId="215_425__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Base the award of a bonus on work performance;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Describe the performance standards and evaluation process by which a bonus will be awarded;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notify all employees of the policy, ordinance, rule, or resolution before the beginning of the evaluation period on which a bonus will be based; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Consider all employees for the bonus.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_425__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>On or after July 1, 2011, a unit of government that enters into a contract or employment agreement, or renewal or renegotiation of an existing contract or employment agreement, that contains a provision for severance pay with an officer, agent, employee, or contractor must include the following provisions in the contract:</p>
+            </content>
+            <paragraph eId="215_425__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>On or after July 1, 2011, a unit of government that enters into a contract or employment agreement, or renewal or renegotiation of an existing contract or employment agreement, that contains a provision for severance pay with an officer, agent, employee, or contractor must include the following provisions in the contract:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>On or after July 1, 2011, an officer, agent, employee, or contractor may receive severance pay that is not provided for in a contract or employment agreement if the severance pay represents the settlement of an employment dispute. Such severance pay may not exceed an amount greater than 6 weeks of compensation. The settlement may not include provisions that limit the ability of any party to the settlement to discuss the dispute or settlement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>This subsection does not create an entitlement to severance pay in the absence of its authorization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_425__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>As used in this subsection, the term “severance pay” means the actual or constructive compensation, including salary, benefits, or perquisites, for employment services yet to be rendered which is provided to an employee who has recently been or is about to be terminated. The term does not include compensation for:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_425__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Any agreement or contract, executed on or after July 1, 2011, which involves extra compensation between a unit of government and an officer, agent, employee, or contractor may not include provisions that limit the ability of any party to the agreement or contract to discuss the agreement or contract.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

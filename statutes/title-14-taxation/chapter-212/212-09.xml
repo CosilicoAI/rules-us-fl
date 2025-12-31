@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.09"/>
+          <FRBRuri value="/us-fl/act/fsa/212.09"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.09/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.09/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.09/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.09/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_09">
+          <num>212.09</num>
+          <heading>Trade-ins deducted; exception.</heading>
+          <content>
+            <p>Where used articles, accepted and intended for resale, are taken in trade, or a series of trades, as a credit or part payment on the sale of new articles, the tax levied by this chapter shall be paid on the sales price of the new article, less the credit for the used article taken in trade.</p>
+          </content>
+          <subsection eId="212_09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Where used articles, accepted and intended for resale, are taken in trade, or a series of trades, as a credit or part payment on the sale of new articles, the tax levied by this chapter shall be paid on the sales price of the new article, less the credit for the used article taken in trade.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Where used articles, accepted and intended for resale, are taken in trade, or a series of trades, as a credit or part payment on the sale of used articles, the tax levied by this chapter shall be paid on the sales price of the used article less the credit for the used article taken in trade.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A person who is not registered with the department as a seller of aircraft, boats, mobile homes, or vehicles who is selling an aircraft, boat, mobile home, or vehicle and who takes in trade an item other than an aircraft, boat, mobile home, or vehicle may not use the item as a credit against sales price.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

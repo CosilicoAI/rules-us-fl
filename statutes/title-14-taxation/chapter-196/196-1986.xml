@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1986"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1986"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1986/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1986/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1986/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1986/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1986">
+          <num>196.1986</num>
+          <heading>Community centers exemption.</heading>
+          <content>
+            <p>A single general-purpose structure represented as a community center owned and operated by a private, nonprofit organization and used predominantly for educational, literary, scientific, religious, or charitable purposes is hereby defined as property within the purview of s. 3(a), Art. VII of the State Constitution and shall be exempt from ad valorem taxes imposed by taxing authorities. However, no use shall be considered to serve an exempt purpose if, in conjunction with that use, alcoholic beverages are served or consumed on the premises. Any portion of such property used for nonexempt purposes may be valued and placed upon the tax roll separately from any portion entitled to exemption pursuant to this section.</p>
+          </content>
+          <subsection eId="196_1986__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A single general-purpose structure represented as a community center owned and operated by a private, nonprofit organization and used predominantly for educational, literary, scientific, religious, or charitable purposes is hereby defined as property within the purview of s. 3(a), Art. VII of the State Constitution and shall be exempt from ad valorem taxes imposed by taxing authorities. However, no use shall be considered to serve an exempt purpose if, in conjunction with that use, alcoholic beverages are served or consumed on the premises. Any portion of such property used for nonexempt purposes may be valued and placed upon the tax roll separately from any portion entitled to exemption pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1986__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This exemption shall not apply to condominium common elements and shall not apply to any structure unless it is generally open and available for use by the general public.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

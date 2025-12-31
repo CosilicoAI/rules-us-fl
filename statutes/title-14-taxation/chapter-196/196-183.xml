@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.183"/>
+          <FRBRuri value="/us-fl/act/fsa/196.183"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.183/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.183/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.183/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.183/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_183">
+          <num>196.183</num>
+          <heading>Exemption for tangible personal property.</heading>
+          <content>
+            <p>Each tangible personal property tax return is eligible for an exemption from ad valorem taxation of up to $25,000 of assessed value. A single return must be filed for each site in the county where the owner of tangible personal property transacts business. Owners of freestanding property placed at multiple sites, other than sites where the owner transacts business, must file a single return, including all such property located in the county. Freestanding property placed at multiple sites includes vending and amusement machines, LP/propane tanks, utility and cable company property, billboards, leased equipment, and similar property that is not customarily located in the offices, stores, or plants of the owner, but is placed throughout the county. Railroads, private carriers, and other companies assessed pursuant to s.193.085shall be allowed one $25,000 exemption for each county to which the value of their property is allocated. The $25,000 exemption for freestanding property placed at multiple locations and for centrally assessed property shall be allocated to each taxing authority based on the proportion of just value of such property located in the taxing authority; however, the amount of the exemption allocated to each taxing authority may not change following the extension of the tax roll pursuant to s.193.122.</p>
+          </content>
+          <subsection eId="196_183__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each tangible personal property tax return is eligible for an exemption from ad valorem taxation of up to $25,000 of assessed value. A single return must be filed for each site in the county where the owner of tangible personal property transacts business. Owners of freestanding property placed at multiple sites, other than sites where the owner transacts business, must file a single return, including all such property located in the county. Freestanding property placed at multiple sites includes vending and amusement machines, LP/propane tanks, utility and cable company property, billboards, leased equipment, and similar property that is not customarily located in the offices, stores, or plants of the owner, but is placed throughout the county. Railroads, private carriers, and other companies assessed pursuant to s.193.085shall be allowed one $25,000 exemption for each county to which the value of their property is allocated. The $25,000 exemption for freestanding property placed at multiple locations and for centrally assessed property shall be allocated to each taxing authority based on the proportion of just value of such property located in the taxing authority; however, the amount of the exemption allocated to each taxing authority may not change following the extension of the tax roll pursuant to s.193.122.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_183__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>For purposes of this section, a “site where the owner of tangible personal property transacts business” includes facilities where the business ships or receives goods, employees of the business are located, goods or equipment of the business are stored, or goods or services of the business are produced, manufactured, or developed, or similar facilities located in offices, stores, warehouses, plants, or other locations of the business. Sites where only the freestanding property of the owner is located shall not be considered sites where the owner of tangible personal property transacts business.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_183__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The requirement that an annual tangible personal property tax return pursuant to s.193.052be filed for taxpayers owning taxable property the value of which, as listed on the return, does not exceed the exemption provided in this section is waived. In order to qualify for this waiver, a taxpayer must file an initial return on which the exemption is taken. If, in subsequent years, the taxpayer owns taxable property the value of which, as listed on the return, exceeds the exemption, the taxpayer is obligated to file a return. The taxpayer may again qualify for the waiver only after filing a return on which the value as listed on the return does not exceed the exemption. A return filed or required to be filed shall be considered an application filed or required to be filed for the exemption under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_183__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Owners of property previously assessed by the property appraiser without a return being filed may, at the option of the property appraiser, qualify for the exemption under this section without filing an initial return.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_183__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The exemption provided in this section does not apply in any year a taxpayer fails to timely file a return that is not waived pursuant to subsection (3) or subsection (4). Any taxpayer who received a waiver pursuant to subsection (3) or subsection (4) and who owns taxable property the value of which, as listed on the return, exceeds the exemption in a subsequent year and who fails to file a return with the property appraiser is subject to the penalty contained in s.193.072(1)(a) calculated without the benefit of the exemption pursuant to this section. Any taxpayer claiming more exemptions than allowed pursuant to subsection (1) is subject to the taxes exempted as a result of wrongfully claiming the additional exemptions plus 15 percent interest per annum and a penalty of 50 percent of the taxes exempted. By February 1 of each year, the property appraiser shall notify by mail all taxpayers whose requirement for filing an annual tangible personal property tax return was waived in the previous year. The notification shall state that a return must be filed if the value of the taxpayer’s tangible personal property exceeds the exemption and include the penalties for failure to file such a return.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_183__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The exemption provided in this section does not apply to a mobile home that is presumed to be tangible personal property pursuant to s.193.075(2).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

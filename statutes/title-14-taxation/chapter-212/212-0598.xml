@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.0598"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0598"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.0598/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0598/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.0598/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.0598/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_0598">
+          <num>212.0598</num>
+          <heading>Special provisions; air carriers.</heading>
+          <content>
+            <p>Notwithstanding other provisions of this chapter to the contrary, any air carrier utilizing mileage apportionment for corporate income tax purposes in this state pursuant to chapter 220 may elect, upon the conditions prescribed in subsection (4), to be subject to the tax imposed by this chapter on tangible personal property according to the provisions of this section.</p>
+          </content>
+          <subsection eId="212_0598__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Notwithstanding other provisions of this chapter to the contrary, any air carrier utilizing mileage apportionment for corporate income tax purposes in this state pursuant to chapter 220 may elect, upon the conditions prescribed in subsection (4), to be subject to the tax imposed by this chapter on tangible personal property according to the provisions of this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0598__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The basis of the tax shall be the ratio of Florida mileage to total mileage as determined pursuant to chapter 220 and this section. The ratio shall be determined at the close of the carrier’s preceding fiscal year. However, during the fiscal year in which the air carrier begins initial operations in this state, the carrier may determine its mileage apportionment factor based on an estimated ratio of anticipated revenue miles in this state to anticipated total revenue miles. In such cases, the air carrier shall pay additional tax or apply for a refund based on the actual ratio for that year. The applicable ratio shall be applied each month to the carrier’s total systemwide gross purchases of tangible personal property and services otherwise taxable in Florida.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0598__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>It is the legislative intent that air carriers are hereby determined to be susceptible to a distinct and separate classification for taxation under the provisions of this chapter, if the provisions of this section are met.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0598__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The election provided for in this section shall not be allowed unless the purchaser makes a written request, in a manner prescribed by the Department of Revenue, to be taxed under the provisions of subsection (1), and such person registers with the Department of Revenue as a dealer and extends to his or her vendor at the time of purchase, if required to do so, a certificate stating that the item or items to be partially exempted are for the exclusive use designated herein.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_0598__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Notwithstanding other provisions of this chapter to the contrary, any air carrier eligible for the election provided in subsection (1) which does not so elect shall be subject to the tax imposed by this chapter on the purchase or use of tangible personal property purchased or used in this state, as well as other taxes imposed herein.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

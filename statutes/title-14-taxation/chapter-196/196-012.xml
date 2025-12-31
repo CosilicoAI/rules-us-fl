@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.012"/>
+          <FRBRuri value="/us-fl/act/fsa/196.012"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.012/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.012/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.012/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.012/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_012">
+          <num>196.012</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>For the purpose of this chapter, the following terms are defined as follows, except where the context clearly indicates otherwise:</p>
+          </content>
+          <subsection eId="196_012__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Exempt use of property” or “use of property for exempt purposes” means predominant or exclusive use of property owned by an exempt entity for educational, literary, scientific, religious, charitable, or governmental purposes, as defined in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Exclusive use of property” means use of property solely for exempt purposes. Such purposes may include more than one class of exempt use.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Predominant use of property” means use of property for exempt purposes in excess of 50 percent but less than exclusive.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Use” means the exercise of any right or power over real or personal property incident to the ownership of the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Educational institution” means a federal, state, parochial, church, or private school, college, or university conducting regular classes and courses of study required for eligibility to certification by, accreditation to, or membership in the State Department of Education of Florida, Southern Association of Colleges and Schools, or the Florida Council of Independent Schools; a nonprofit private school the principal activity of which is conducting regular classes and courses of study accepted for continuing postgraduate dental education credit by a board of the Division of Medical Quality Assurance; educational direct-support organizations created pursuant to ss.1001.24,1004.28, and1004.70; facilities located on the property of eligible entities which will become owned by those entities on a date certain; and institutions of higher education, as defined under and participating in the Higher Educational Facilities Financing Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Charitable purpose” means a function or service which is of such a community service that its discontinuance could legally result in the allocation of public funds for the continuance of the function or service. It is not necessary that public funds be allocated for such function or service but only that any such allocation would be legal.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“Hospital” means an institution which possesses a valid license granted under chapter 395 on January 1 of the year for which exemption from ad valorem taxation is requested.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>“Nursing home” or “home for special services” means an institution that possesses a valid license under chapter 400 or part I of chapter 429 on January 1 of the year for which exemption from ad valorem taxation is requested.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>“Gross income” means all income from whatever source derived, including, but not limited to, the following items, whether actually owned by or received by, or not received by but available to, any person or couple: earned income, income from investments, gains derived from dealings in property, interest, rents, royalties, dividends, annuities, income from retirement plans, pensions, trusts, estates and inheritances, and direct and indirect gifts. Gross income specifically does not include payments made for the medical care of the individual, return of principal on the sale of a home, social security benefits, or public assistance payments payable to the person or assigned to an organization designated specifically for the support or benefit of that person.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>“Totally and permanently disabled person” means a person who is currently certified by two licensed physicians of this state who are professionally unrelated, by the United States Department of Veterans Affairs or its predecessor, or by the Social Security Administration, to be totally and permanently disabled.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>“Couple” means a husband and wife legally married under the laws of any state or territorial possession of the United States or of any foreign country.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>“Real estate used and owned as a homestead” means real property to the extent provided in s. 6(a), Art. VII of the State Constitution, but less any portion thereof used for commercial purposes, with the title of such property being recorded in the official records of the county in which the property is located. Property rented for more than 6 months is presumed to be used for commercial purposes.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>“New business” means:</p>
+            </content>
+            <paragraph eId="196_012__subsec_14__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A business or organization establishing 10 or more new jobs to employ 10 or more full-time employees in this state, paying an average wage for such new jobs that is above the average wage in the area, which principally engages in any one or more of the following operations:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_012__subsec_14__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any business or organization located in an area that was designated as an enterprise zone pursuant to chapter 290 as of December 30, 2015, or brownfield area that first begins operation on a site clearly separate from any other commercial or industrial operation owned by the same business or organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_012__subsec_14__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A business or organization that is situated on property annexed into a municipality and that, at the time of the annexation, is receiving an economic development ad valorem tax exemption from the county under s.196.1995.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_012__subsec_15">
+            <num>(15)</num>
+            <content>
+              <p>“Expansion of an existing business” means:</p>
+            </content>
+            <paragraph eId="196_012__subsec_15__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A business or organization establishing 10 or more new jobs to employ 10 or more full-time employees in this state, paying an average wage for such new jobs that is above the average wage in the area, which principally engages in any of the operations referred to in subparagraph (14)(a)1.; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_012__subsec_15__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any business or organization located in an area that was designated as an enterprise zone pursuant to chapter 290 as of December 30, 2015, or brownfield area that increases operations on a site located within the same zone or area colocated with a commercial or industrial operation owned by the same business or organization under common control with the same business or organization.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_012__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>“Permanent resident” means a person who has established a permanent residence as defined in subsection (17).</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_17">
+            <num>(17)</num>
+            <content>
+              <p>“Permanent residence” means that place where a person has his or her true, fixed, and permanent home and principal establishment to which, whenever absent, he or she has the intention of returning. A person may have only one permanent residence at a time; and, once a permanent residence is established in a foreign state or country, it is presumed to continue until the person shows that a change has occurred.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_18">
+            <num>(18)</num>
+            <content>
+              <p>“Enterprise zone” means an area designated as an enterprise zone pursuant to s.290.0065. This subsection expires on the date specified in s.290.016for the expiration of the Florida Enterprise Zone Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_012__subsec_19">
+            <num>(19)</num>
+            <content>
+              <p>“Ex-servicemember” means any person who has served as a member of the United States Armed Forces on active duty or state active duty, a member of the Florida National Guard, or a member of the United States Reserve Forces.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

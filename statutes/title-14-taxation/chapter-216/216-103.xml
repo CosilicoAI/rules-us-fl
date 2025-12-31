@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.103"/>
+          <FRBRuri value="/us-fl/act/fsa/216.103"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.103/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.103/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.103/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.103/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_103">
+          <num>216.103</num>
+          <heading>Agencies receiving federal funds; designation of coordinating official; duties.</heading>
+          <content>
+            <p>The intent of the Legislature is that state agencies which receive federal funds take appropriate steps to enhance their level of readiness in preparing for anticipated changes in the Federal Government’s continually changing relationship with the state.</p>
+          </content>
+          <subsection eId="216_103__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The intent of the Legislature is that state agencies which receive federal funds take appropriate steps to enhance their level of readiness in preparing for anticipated changes in the Federal Government’s continually changing relationship with the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_103__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each state agency receiving any federal funds shall:</p>
+            </content>
+            <paragraph eId="216_103__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Designate a senior official having a direct reporting relationship to the agency head to be responsible for the internal coordination of the agency’s efforts to maximize the amount of federally derived dollars the agency receives. Such designee shall serve as a point of contact on federal funds issues for the Executive Office of the Governor and shall oversee and coordinate the individual agency’s efforts in acquiring federal funds. When requested, such designee shall notify the Executive Office of the Governor of the award or denial of federal grants to the agency, including reasons for denial if readily discernible.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_103__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Create and maintain an inventory of all programs which are partially or fully funded from federal sources and provide reports to the Executive Office of the Governor or legislative committees, as requested. Reports based on said inventory shall be consistent with and complement the Federal Aid Tracking System.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_103__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Develop, document, and implement, in a manner prescribed by the Executive Office of the Governor, an internal process whereby information on all federal funds received, as well as the impact of congressional initiatives on the state, can be collected, assimilated, and evaluated rapidly.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_103__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Establish and maintain a process to identify and monitor specific opportunities to preserve or enhance the state’s share of federal grant-in-aid programs, improve the delivery of services utilizing federal funds, and realize the benefits of additional flexibility given to the state in federal programs. Such a process should include provisions for interagency cooperation and coordination, which may be required in the event of federal program consolidations or changes in federal funding formulas in any given year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

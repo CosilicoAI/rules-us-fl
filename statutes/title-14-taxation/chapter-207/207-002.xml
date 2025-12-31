@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.002"/>
+          <FRBRuri value="/us-fl/act/fsa/207.002"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.002/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.002/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.002/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.002/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_002">
+          <num>207.002</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As used in this chapter, the term:</p>
+          </content>
+          <subsection eId="207_002__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Commercial motor vehicle” means any vehicle not owned or operated by a governmental entity which uses diesel fuel or motor fuel on the public highways; and which has a gross vehicle weight in excess of 26,000 pounds, or has three or more axles regardless of weight, or is used in combination when the weight of such combination exceeds 26,000 pounds gross vehicle weight. The term excludes any vehicle owned or operated by a community transportation coordinator as defined in s.427.011or by a private operator that provides public transit services under contract with such a provider.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Department” means the Department of Highway Safety and Motor Vehicles.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Diesel fuel” means any liquid product or gas product or combination thereof, including, but not limited to, all forms of fuel known or sold as diesel fuel, kerosene, butane gas, or propane gas and all other forms of liquefied petroleum gases, except those defined as “motor fuel,” used to propel a motor vehicle.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“International Registration Plan” means a registration reciprocity agreement among states of the United States and provinces of Canada providing for payment of license fees or license taxes on the basis of fleet miles operated in various jurisdictions.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Interstate” means vehicle movement between or through two or more states.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Intrastate” means vehicle movement from one point within a state to another point within the same state.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Motor carrier” means any person owning, controlling, operating, or managing any motor vehicle used to transport persons or property over any public highway.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“Motor fuel” means what is commonly known and sold as gasoline and fuels containing a mixture of gasoline and other products.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>“Operate,” “operated,” “operation,” or “operating” means and includes the utilization in any form of any commercial motor vehicle, whether loaded or empty, whether utilized for compensation or not for compensation, and whether owned by or leased to the motor carrier who uses it or causes it to be used.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>“Person” means and includes natural persons, corporations, copartnerships, firms, companies, agencies, or associations, singular or plural.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>“Public highway” means any public street, road, or highway in this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>“Registrant” means a person in whose name or names a vehicle is properly registered.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_002__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>“Use,” “uses,” or “used” means the consumption of diesel fuel or motor fuel in a commercial motor vehicle for the propulsion thereof.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

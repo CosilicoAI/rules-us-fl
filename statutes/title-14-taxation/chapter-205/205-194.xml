@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.194"/>
+          <FRBRuri value="/us-fl/act/fsa/205.194"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.194/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.194/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.194/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.194/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_194">
+          <num>205.194</num>
+          <heading>Prohibition of local business tax receipt without exhibition of state license or registration.</heading>
+          <content>
+            <p>Any person applying for or renewing a local business tax receipt to practice any profession or engage in or manage any business or occupation regulated by the Department of Business and Professional Regulation, the Florida Supreme Court, or any other state regulatory agency, including any board or commission thereof, must exhibit an active state certificate, registration, or license, or proof of copy of the same, before such local receipt may be issued. Online renewals may provide for electronic certification by an applicant to meet this requirement.</p>
+          </content>
+          <subsection eId="205_194__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any person applying for or renewing a local business tax receipt to practice any profession or engage in or manage any business or occupation regulated by the Department of Business and Professional Regulation, the Florida Supreme Court, or any other state regulatory agency, including any board or commission thereof, must exhibit an active state certificate, registration, or license, or proof of copy of the same, before such local receipt may be issued. Online renewals may provide for electronic certification by an applicant to meet this requirement.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_194__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This section shall not apply to s.489.113, s.489.117, s.489.119, s.489.131, s.489.511, s.489.513, s.489.521, or s.489.537.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

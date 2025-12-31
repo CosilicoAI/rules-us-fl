@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.72"/>
+          <FRBRuri value="/us-fl/act/fsa/215.72"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.72/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.72/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.72/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.72/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_72">
+          <num>215.72</num>
+          <heading>Covenants with bondholders.</heading>
+          <content>
+            <p>The board shall have power to enter into valid and legally binding covenants between the State of Florida or any state agency and the holders of any bonds, including, without limitation:</p>
+          </content>
+          <subsection eId="215_72__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board shall have power to enter into valid and legally binding covenants between the State of Florida or any state agency and the holders of any bonds, including, without limitation:</p>
+            </content>
+            <paragraph eId="215_72__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The manner and method of determining and paying rates, fees or other charges for services and facilities of revenue-producing facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Insurance on revenue-producing facilities;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Limitations on the powers of the board, the division, or any state agency on behalf of which the bonds are issued to construct, acquire or operate or permit the construction, acquisition or operation of any roads, bridges, tunnels, structures, facilities, or properties which would materially and adversely affect the revenues derived from the facilities financed with the proceeds of such bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Terms and conditions for modification or amendment of any provisions or covenants in the proceedings authorizing the issuance of such bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Provisions for and limitations on the appointment of a trustee for bondholders for any properties or facilities financed by the issuance of such bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Provisions as to the appointment of a receiver of any facilities or properties financed by the issuance of such bonds on default of payment of principal or interest on such bonds or violation of any covenants or conditions contained in the proceedings which authorized the issuance of such bonds or the provisions or requirements of this act;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Provisions for the execution and implementation of trust agreements with the State Board of Administration or banks or trust companies within or without the state regarding the holding and disposition of taxes or revenues derived from such properties or facilities or other funds pledged for such bonds and the proceeds of such bonds;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Provisions as to the rank and priority of any bonds issued in relation to subsequent bonds issued for the same purpose or purposes, or payable from the same taxes, revenues or other funds; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_72__subsec_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Any other matters deemed necessary or advisable to enhance the security of such bonds and the marketability thereof and which are customary in accordance with the market requirements for the sale of such bonds.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_72__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All such covenants and agreements, in addition to the provisions of this act, shall constitute valid and legally binding contracts between the state or any state agency on behalf of which such bonds are issued and the holders of such bonds, and shall be enforceable by any such holder or holders by mandamus or other appropriate action, suit or proceeding at law or in equity in any court of competent jurisdiction.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

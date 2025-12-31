@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.40"/>
+          <FRBRuri value="/us-fl/act/fsa/198.40"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.40/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.40/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.40/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.40/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_40">
+          <num>198.40</num>
+          <heading>Failure to pay tax, evasion of tax, etc.; penalty.</heading>
+          <content>
+            <p>Any person required under this chapter to collect, account for, and pay over any tax imposed by this chapter who willfully fails to collect or truthfully account for and pay over such tax, and any person who willfully attempts in any manner to evade or defeat any tax imposed by this chapter or the payment thereof, shall, in addition to other penalties provided by law, be guilty of a felony of the third degree, punishable as provided in s.775.082, s.775.083, or s.775.084.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

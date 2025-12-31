@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.022"/>
+          <FRBRuri value="/us-fl/act/fsa/207.022"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.022/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.022/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.022/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.022/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_022">
+          <num>207.022</num>
+          <heading>Restraining and enjoining violation.</heading>
+          <content>
+            <p>In a suit or other proceeding instituted in any court of competent jurisdiction in the name of the state by the Department of Legal Affairs or by a state attorney at the direction of the department, any person who violates any of the provisions of this chapter or who fails to pay the taxes and all interest and penalties due by him or her to the state under the provisions of this chapter may be restrained and enjoined from operating any motor vehicle within this state until such person has paid all of such taxes, interest, and penalties due the state and has complied with the provisions of this chapter. Any proceeding instituted under this section shall not operate as a bar to the prosecution of any person guilty of violating any of the criminal laws of the state.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

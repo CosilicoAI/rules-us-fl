@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.22"/>
+          <FRBRuri value="/us-fl/act/fsa/213.22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.22/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.22/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_22">
+          <num>213.22</num>
+          <heading>Technical assistance advisements.</heading>
+          <content>
+            <p>The department may issue informal technical assistance advisements to persons, upon written request, as to the position of the department on the tax consequences of a stated transaction or event, under existing statutes, rules, or policies. After the issuance of an assessment, a technical assistance advisement may not be issued to a taxpayer who requests an advisement relating to the tax or liability for tax in respect to which the assessment has been made, except that a technical assistance advisement may be issued to a taxpayer who requests an advisement relating to the exemptions in s.212.08(1) or (2) at any time. Technical assistance advisements shall have no precedential value except to the taxpayer who requests the advisement and then only for the specific transaction addressed in the technical assistance advisement, unless specifically stated otherwise in the advisement. Any modification of an advisement shall be prospective only. A technical assistance advisement is not an order issued pursuant to s.120.565or s.120.569or a rule or policy of general applicability under s.120.54. The provisions of s.120.53are not applicable to technical assistance advisements.</p>
+          </content>
+          <subsection eId="213_22__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department may issue informal technical assistance advisements to persons, upon written request, as to the position of the department on the tax consequences of a stated transaction or event, under existing statutes, rules, or policies. After the issuance of an assessment, a technical assistance advisement may not be issued to a taxpayer who requests an advisement relating to the tax or liability for tax in respect to which the assessment has been made, except that a technical assistance advisement may be issued to a taxpayer who requests an advisement relating to the exemptions in s.212.08(1) or (2) at any time. Technical assistance advisements shall have no precedential value except to the taxpayer who requests the advisement and then only for the specific transaction addressed in the technical assistance advisement, unless specifically stated otherwise in the advisement. Any modification of an advisement shall be prospective only. A technical assistance advisement is not an order issued pursuant to s.120.565or s.120.569or a rule or policy of general applicability under s.120.54. The provisions of s.120.53are not applicable to technical assistance advisements.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_22__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may not disclose pursuant to s.119.07(1), or otherwise, a technical assistance advisement or a request for a technical assistance advisement to any person other than the person who requested the advisement, or his or her authorized representative, or for official departmental purposes, without first deleting the name, address, and other identifying details of the person to whom the technical assistance advisement was issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_22__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The department is authorized to establish rules prescribing guidelines and procedures for submission, issuance or denial of issuance, and disclosure of technical assistance advisements.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_22__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The department shall collect a fee from any person who requests disclosure of a technical assistance advisement issued under this section. A schedule of fees shall be provided by the department by rule. The fee schedule shall provide for a minimum fee of $5 for each technical assistance advisement disclosed or a maximum of 50 cents per page, whichever is greater. However, any person who uses the department’s tax information retrieval system, known as the Tax Law Library, may view or print a technical assistance advisement without paying the fee imposed under this subsection.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

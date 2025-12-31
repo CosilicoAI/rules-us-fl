@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.4325"/>
+          <FRBRuri value="/us-fl/act/fsa/197.4325"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.4325/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.4325/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.4325/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.4325/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_4325">
+          <num>197.4325</num>
+          <heading>Procedure when payment of taxes or tax certificates is dishonored.</heading>
+          <content>
+            <p>Within 10 days after a payment for taxes received by the tax collector is dishonored, the tax collector shall notify the payor that the payment has been dishonored. If the official receipt is canceled for nonpayment, the tax collector shall make an entry on the tax roll that the receipt was canceled because of a dishonored payment. The tax collector may make a reasonable effort to collect the moneys due before canceling the receipt.</p>
+          </content>
+          <subsection eId="197_4325__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Within 10 days after a payment for taxes received by the tax collector is dishonored, the tax collector shall notify the payor that the payment has been dishonored. If the official receipt is canceled for nonpayment, the tax collector shall make an entry on the tax roll that the receipt was canceled because of a dishonored payment. The tax collector may make a reasonable effort to collect the moneys due before canceling the receipt.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_4325__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If a payment received by the tax collector for the purchase of a tax certificate is dishonored and:</p>
+            </content>
+            <paragraph eId="197_4325__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax certificate sale has been adjourned, the tax collector shall readvertise the tax certificate to be resold. If the bidder’s deposit is forfeited and the certificate is readvertised, the deposit shall be used to pay the advertising fees before other costs or charges are imposed. Any portion of the bidder’s forfeit deposit that remains after advertising and other costs or charges have been paid shall be deposited by the tax collector into his or her official office account. If the tax collector fails to require a deposit and tax certificates are resold, the advertising charges required for the second sale may not be added to the face value of the tax certificate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_4325__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax certificate sale has not been adjourned, the tax collector shall cancel the previous bid pursuant to s.197.432(8)(a) and reoffer the certificate for sale.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

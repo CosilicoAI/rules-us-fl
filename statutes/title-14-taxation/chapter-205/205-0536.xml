@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.0536"/>
+          <FRBRuri value="/us-fl/act/fsa/205.0536"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.0536/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.0536/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.0536/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.0536/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_0536">
+          <num>205.0536</num>
+          <heading>Distribution of county revenues.</heading>
+          <content>
+            <p>A county that establishes a new rate structure under s.205.0535shall retain all business tax revenues collected from businesses, professions, or occupations whose places of business are located within the unincorporated portions of the county. Any business tax revenues collected by a county that establishes a new rate structure under s.205.0535from businesses, professions, or occupations whose places of business are located within a municipality, exclusive of the costs of collection, must be apportioned between the unincorporated area of the county and the incorporated municipalities located therein by a ratio derived by dividing their respective populations by the population of the county. As used in this section, the term “population” means the latest official state estimate of population certified under s.186.901. The revenues so apportioned shall be sent to the governing authority of each municipality, according to its ratio, and to the governing authority of the county, according to the ratio of the unincorporated area, within 15 days after the month of receipt.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

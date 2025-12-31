@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.043"/>
+          <FRBRuri value="/us-fl/act/fsa/205.043"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.043/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.043/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.043/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.043/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_043">
+          <num>205.043</num>
+          <heading>Conditions for levy; municipalities.</heading>
+          <content>
+            <p>The following conditions are imposed on the authority of a municipal governing body to levy a business tax:</p>
+          </content>
+          <subsection eId="205_043__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The following conditions are imposed on the authority of a municipal governing body to levy a business tax:</p>
+            </content>
+            <paragraph eId="205_043__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax must be based upon reasonable classifications and must be uniform throughout any class.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_043__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Unless the municipality implements s.205.0535or adopts a new business tax ordinance under s.205.0315, a business tax levied under this subsection may not exceed the rate in effect in the municipality for the year beginning October 1, 1971; however, beginning October 1, 1980, the municipal governing body may increase business taxes authorized by this chapter. The amount of the increase above the tax rate levied on October 1, 1971, for taxes levied at a flat rate may be up to 100 percent for business taxes that are $100 or less; 50 percent for business taxes that are between $101 and $300; and 25 percent for business taxes that are more than $300. Beginning October 1, 1982, an increase may not exceed 25 percent for taxes levied at graduated or per unit rates. Authority to increase business taxes does not apply to receipts or licenses granted to any utility franchised by the municipality for which a franchise fee is paid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_043__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A receipt is not valid for more than 1 year and all receipts expire on September 30 of each year, except as otherwise provided by law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="205_043__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any business receipt may be transferred to a new owner, when there is a bona fide sale of the business, upon payment of a transfer fee of up to 10 percent of the annual tax, but not less than $3 nor more than $25, and presentation of the original receipt and evidence of the sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_043__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon written request and presentation of the original receipt, any receipt may be transferred from one location to another location in the same municipality upon payment of a transfer fee of up to 10 percent of the annual tax, but not less than $3 nor more than $25.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_043__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>If the governing body of the county in which the municipality is located has levied a business tax or subsequently levies such a tax, the collector of the county tax may issue the receipt and collect the tax thereon.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

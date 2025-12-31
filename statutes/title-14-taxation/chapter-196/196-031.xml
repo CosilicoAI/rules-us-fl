@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.031"/>
+          <FRBRuri value="/us-fl/act/fsa/196.031"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.031/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.031/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.031/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.031/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_031">
+          <num>196.031</num>
+          <heading>Exemption of homesteads.</heading>
+          <content>
+            <p>A person who, on January 1, has the legal title or beneficial title in equity to real property in this state and who in good faith makes the property his or her permanent residence or the permanent residence of another or others legally or naturally dependent upon him or her, is entitled to an exemption from all taxation, except for assessments for special benefits, up to the assessed valuation of $25,000 on the residence and contiguous real property, as defined in s. 6, Art. VII of the State Constitution. Such title may be held by the entireties, jointly, or in common with others, and the exemption may be apportioned among such of the owners as reside thereon, as their respective interests appear. If only one of the owners of an estate held by the entireties or held jointly with the right of survivorship resides on the property, that owner is allowed an exemption of up to the assessed valuation of $25,000 on the residence and contiguous real property. However, an exemption of more than $25,000 is not allowed to any one person or on any one dwelling house, except that an exemption up to the assessed valuation of $25,000 may be allowed on each apartment or mobile home occupied by a tenant-stockholder or member of a cooperative corporation and on each condominium parcel occupied by its owner. Except for owners of an estate held by the entireties or held jointly with the right of survivorship, the amount of the exemption may not exceed the proportionate assessed valuation of all owners who reside on the property. Before such exemption may be granted, the deed or instrument shall be recorded in the official records of the county in which the property is located. The property appraiser may request the applicant to provide additional ownership documents to establish title.</p>
+          </content>
+          <subsection eId="196_031__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A person who, on January 1, has the legal title or beneficial title in equity to real property in this state and who in good faith makes the property his or her permanent residence or the permanent residence of another or others legally or naturally dependent upon him or her, is entitled to an exemption from all taxation, except for assessments for special benefits, up to the assessed valuation of $25,000 on the residence and contiguous real property, as defined in s. 6, Art. VII of the State Constitution. Such title may be held by the entireties, jointly, or in common with others, and the exemption may be apportioned among such of the owners as reside thereon, as their respective interests appear. If only one of the owners of an estate held by the entireties or held jointly with the right of survivorship resides on the property, that owner is allowed an exemption of up to the assessed valuation of $25,000 on the residence and contiguous real property. However, an exemption of more than $25,000 is not allowed to any one person or on any one dwelling house, except that an exemption up to the assessed valuation of $25,000 may be allowed on each apartment or mobile home occupied by a tenant-stockholder or member of a cooperative corporation and on each condominium parcel occupied by its owner. Except for owners of an estate held by the entireties or held jointly with the right of survivorship, the amount of the exemption may not exceed the proportionate assessed valuation of all owners who reside on the property. Before such exemption may be granted, the deed or instrument shall be recorded in the official records of the county in which the property is located. The property appraiser may request the applicant to provide additional ownership documents to establish title.</p>
+            </content>
+            <paragraph eId="196_031__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>A person who, on January 1, has the legal title or beneficial title in equity to real property in this state and who in good faith makes the property his or her permanent residence or the permanent residence of another or others legally or naturally dependent upon him or her, is entitled to an exemption from all taxation, except for assessments for special benefits, up to the assessed valuation of $25,000 on the residence and contiguous real property, as defined in s. 6, Art. VII of the State Constitution. Such title may be held by the entireties, jointly, or in common with others, and the exemption may be apportioned among such of the owners as reside thereon, as their respective interests appear. If only one of the owners of an estate held by the entireties or held jointly with the right of survivorship resides on the property, that owner is allowed an exemption of up to the assessed valuation of $25,000 on the residence and contiguous real property. However, an exemption of more than $25,000 is not allowed to any one person or on any one dwelling house, except that an exemption up to the assessed valuation of $25,000 may be allowed on each apartment or mobile home occupied by a tenant-stockholder or member of a cooperative corporation and on each condominium parcel occupied by its owner. Except for owners of an estate held by the entireties or held jointly with the right of survivorship, the amount of the exemption may not exceed the proportionate assessed valuation of all owners who reside on the property. Before such exemption may be granted, the deed or instrument shall be recorded in the official records of the county in which the property is located. The property appraiser may request the applicant to provide additional ownership documents to establish title.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_031__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>As used in subsection (1), the term “cooperative corporation” means a corporation, whether for profit or not for profit, organized for the purpose of owning, maintaining, and operating an apartment building or apartment buildings or a mobile home park to be occupied by its stockholders or members; and the term “tenant-stockholder or member” means an individual who is entitled, solely by reason of his or her ownership of stock or membership in a cooperative corporation, as evidenced in the official records of the office of the clerk of the circuit court of the county in which the apartment building is located, to occupy for dwelling purposes an apartment in a building owned by such corporation or to occupy for dwelling purposes a mobile home which is on or a part of a cooperative unit. A corporation leasing land for a term of 98 years or more for the purpose of maintaining and operating a cooperative thereon shall be deemed the owner for purposes of this exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_031__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The exemption provided in this section does not apply with respect to the assessment roll of a county unless and until the roll of that county has been approved by the executive director pursuant to s.193.1142.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_031__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The exemption provided in this section applies only to those parcels classified and assessed as owner-occupied residential property or only to the portion of property so classified and assessed.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_031__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>For the purpose of applying the exemptions in this section, the real property includes portions of the real property and contiguous real property assessed solely on the basis of character or use pursuant to s.193.461or s.193.501or assessed pursuant to s.193.505.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_031__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>A person who is receiving or claiming the benefit of an ad valorem tax exemption or a tax credit in another state where permanent residency is required as a basis for the granting of that ad valorem tax exemption or tax credit is not entitled to the homestead exemption provided by this section. This subsection does not apply to a person who has the legal or equitable title to real estate in Florida and maintains thereon the permanent residence of another legally or naturally dependent upon the owner.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_031__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>When homestead property is damaged or destroyed by misfortune or calamity and the property is uninhabitable on January 1 after the damage or destruction occurs, the homestead exemption may be granted if the property is otherwise qualified and if the property owner notifies the property appraiser that he or she intends to repair or rebuild the property and live in the property as his or her primary residence after the property is repaired or rebuilt and does not claim a homestead exemption on any other property or otherwise violate this section. Failure by the property owner to commence the repair or rebuilding of the homestead property within 5 years after January 1 following the property’s damage or destruction constitutes abandonment of the property as a homestead. After the 5-year period, the expiration, lapse, nonrenewal, or revocation of a building permit issued to the property owner for such repairs or rebuilding also constitutes abandonment of the property as homestead.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_031__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Unless the homestead property is totally exempt from ad valorem taxation, the exemptions provided in paragraphs (1)(a) and (b) shall be applied before other homestead exemptions, which shall then be applied in the order that results in the lowest taxable value.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

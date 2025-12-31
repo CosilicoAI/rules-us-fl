@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.12"/>
+          <FRBRuri value="/us-fl/act/fsa/213.12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.12/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.12/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_12">
+          <num>213.12</num>
+          <heading>Certain state-chartered financial institutions; immunity from certain state and local taxes.</heading>
+          <content>
+            <p>All banks, trust companies, and Morris Plan banks now or hereafter chartered under the laws of the state shall have the same immunity from state and local taxation that national banking associations have from time to time under the statutes of the United States.</p>
+          </content>
+          <subsection eId="213_12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All banks, trust companies, and Morris Plan banks now or hereafter chartered under the laws of the state shall have the same immunity from state and local taxation that national banking associations have from time to time under the statutes of the United States.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All credit unions now or hereafter chartered under the laws of the state shall have the same immunity from state and local taxation that federally chartered credit unions have from time to time under the statutes of the United States.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_12__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>No tax may be imposed by the state or any of its political subdivisions on any savings and loan association or its franchise, surplus, deposits, assets, reserves, loans, or income which is greater than the least onerous imposed by the state on any other financial institution as defined in chapter 658.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

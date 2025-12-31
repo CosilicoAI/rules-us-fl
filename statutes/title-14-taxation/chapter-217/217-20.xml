@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/217.20"/>
+          <FRBRuri value="/us-fl/act/fsa/217.20"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/217.20/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/217.20/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/217.20/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/217.20/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>Chapter 217</num>
+        <heading>Surplus Property</heading>
+        <section eId="sec_217_20">
+          <num>217.20</num>
+          <heading>Construction of ch. 65-173.</heading>
+          <content>
+            <p>No provisions of ss.217.01-217.19shall be construed as in anywise repealing, altering, modifying or qualifying any general or special law, charter or ordinance, relating to advertising for sealed bids, inviting or receiving competitive bids, or the letting of contracts to the lowest and best bidder, or purchasing of property on credit terms, except to the extent herein provided.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/217.17"/>
+          <FRBRuri value="/us-fl/act/fsa/217.17"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/217.17/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/217.17/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/217.17/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/217.17/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>Chapter 217</num>
+        <heading>Surplus Property</heading>
+        <section eId="sec_217_17">
+          <num>217.17</num>
+          <heading>Designation of officers or employees in connection with bids and payment of moneys.</heading>
+          <content>
+            <p>The department and any public entity listed in s.217.16, may designate by appropriate resolution or order any officer, employee or agency to enter a bid or bids in its or their behalf for any surplus property, real or personal, offered for lease, sale or other disposal by the United States, or any owning or disposal agency thereof, and may authorize such officer, employee or agency to make any down payment, or payment in full, required in connection with such bidding.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

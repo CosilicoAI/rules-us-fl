@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.2421"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2421"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.2421/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2421/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.2421/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2421/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_2421">
+          <num>197.2421</num>
+          <heading>Property tax deferral.</heading>
+          <content>
+            <p>If a property owner applies for a property tax deferral and meets the criteria established in this chapter, the tax collector shall approve the deferral of the ad valorem taxes and non-ad valorem assessments.</p>
+          </content>
+          <subsection eId="197_2421__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If a property owner applies for a property tax deferral and meets the criteria established in this chapter, the tax collector shall approve the deferral of the ad valorem taxes and non-ad valorem assessments.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2421__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Authorized property tax deferral programs are:</p>
+            </content>
+            <paragraph eId="197_2421__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Homestead tax deferral.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2421__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Recreational and commercial working waterfront deferral.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2421__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Affordable rental housing deferral.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_2421__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Ad valorem taxes, non-ad valorem assessments, and interest deferred pursuant to this chapter constitute a priority lien and attach to the property in the same manner as other tax liens. Deferred taxes, assessments, and interest, however, are due, payable, and delinquent as provided in this chapter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.0158"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0158"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.0158/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0158/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.0158/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0158/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_0158">
+          <num>216.0158</num>
+          <heading>Assessment of facility needs.</heading>
+          <content>
+            <p>By analyzing the trends and conditions, goals and objectives, and current facilities inventory, each agency and the judicial branch shall determine its unmet and forecasted future needs.</p>
+          </content>
+          <subsection eId="216_0158__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>By analyzing the trends and conditions, goals and objectives, and current facilities inventory, each agency and the judicial branch shall determine its unmet and forecasted future needs.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0158__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>On or before September 15 of each year, each state agency, as defined in s.216.011, shall submit to the Executive Office of the Governor, and each district court of appeal and the Marshal of the Supreme Court shall submit to the Chief Justice of the Supreme Court, in a manner prescribed by the legislative budget instructions, a short-term plan for facility needs covering the next 5-year period. The short-term plan shall list the agency’s or judicial branch’s facility needs in order of priority and shall include preventive maintenance strategies, expected replacement of existing facilities, expected improvements or additions to facilities on a specific project-by-project basis, estimated cost, and other information as prescribed by the legislative budget instructions. The Chief Justice shall certify the final approved plan for the judicial branch to the Executive Office of the Governor which shall include the plan, without modification, in the state comprehensive plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0158__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Based on the plans submitted by each agency or certified by the Chief Justice, the Executive Office of the Governor shall prepare a state comprehensive plan for facility needs and related expenditures. The plan shall provide a 5-year schedule for preventive maintenance, replacement, improvement, or construction of facilities on a specific project-by-project basis.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0158__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The first year of the plan referred to in subsection (2) shall comport with the requirements of s.216.043.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_0158__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Each plan for years 2 through 5 shall provide the following information:</p>
+            </content>
+            <paragraph eId="216_0158__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A full explanation of the basis for each project, including a description of the function which requires the facility; an explanation of the inability of existing facilities to meet such requirements; historical background; alternatives; and anticipated changes in both initial and continuing operating costs.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0158__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An application of standards and criteria to establish the scope of each project.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0158__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An application of cost factors to all elements of each project to establish an estimate of funding requirements.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0158__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A request for a legislative appropriation to provide such funding in the appropriate fiscal year, including the need for advance funding of programming and design activities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

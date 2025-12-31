@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.68"/>
+          <FRBRuri value="/us-fl/act/fsa/215.68"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.68/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.68/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.68/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.68/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_68">
+          <num>215.68</num>
+          <heading>Issuance of bonds; form; maturity date, execution, sale.</heading>
+          <content>
+            <p>The board is empowered to authorize, by resolution duly adopted, the issuance by the division, at one time or from time to time, of any state bonds or bonds on behalf of any state agency.</p>
+          </content>
+          <subsection eId="215_68__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The board is empowered to authorize, by resolution duly adopted, the issuance by the division, at one time or from time to time, of any state bonds or bonds on behalf of any state agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_68__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Such bonds may:</p>
+            </content>
+            <paragraph eId="215_68__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Be issued in either coupon form or registered form or both;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Have such date or dates of issue and such maturities, not exceeding in any event 40 years from the date of issuance thereof;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Bear interest at a rate or rates not exceeding the interest rate limitation set forth in s.215.84(3);</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Have such provisions for registration of coupon bonds and conversion and reconversion of bonds from coupon to registered form or from registered form to coupon form;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Have such provisions for payment at maturity and redemption before maturity at such time or times and at such price or prices; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Be payable at such place or places within or without the state as the board shall determine by resolution.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_68__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Such bonds may be signed by such officers of the board or state agency as is provided for by resolution of the board. The signatures may be manual or facsimile signatures, but at least one of such signatures must be a manual signature. The coupons shall be signed with the facsimile signatures of such officials of the board or state agency as the board shall determine. In case any officer whose signature or facsimile of whose signature appears on any bonds or coupons ceases to be such officer before delivery of such bonds or coupons, such signature or facsimile signature shall nevertheless be valid and sufficient for all purposes as fully and to the same extent as if he or she had remained in office until such delivery.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_68__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>All bonds issued under the provisions of this act shall be and have, and are hereby declared to be and have, all the qualities and incidents of negotiable instruments under the Uniform Commercial Code—Investment Securities Law of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_68__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The division may sell such bonds at such price or prices as the board may determine to be for the best interest of the state or of the state agency on behalf of which such bonds are issued, but no such sale shall be made at an average net interest cost rate in excess of the interest rate limitation set forth in s.215.84(3); provided, however, that such bonds may be sold at a reasonable discount to par not to exceed 3 percent. This limitation on discount does not apply to the portion of the discount that constitutes original issue discount.</p>
+            </content>
+            <paragraph eId="215_68__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>The division may sell such bonds at such price or prices as the board may determine to be for the best interest of the state or of the state agency on behalf of which such bonds are issued, but no such sale shall be made at an average net interest cost rate in excess of the interest rate limitation set forth in s.215.84(3); provided, however, that such bonds may be sold at a reasonable discount to par not to exceed 3 percent. This limitation on discount does not apply to the portion of the discount that constitutes original issue discount.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>All of such bonds shall be sold at public sale at such place or places within the state as the board shall determine to receive proposals for the purchase of such bonds. Notice of such sale shall be provided at such time and shall contain such terms as the board shall deem advisable and proper under the circumstances; provided, that if no bids are received at the time and place called for by such notice of sale, or if all bids received are rejected, such bonds may again be offered for public sale by competitive bid or negotiated sale, as provided herein, upon a shorter period of reasonable notice provided for by resolution of the board. However, unless the State Constitution specifically requires the public sale by competitive bid of such bonds, the division may, by resolution adopted at a public meeting, determine that a negotiated sale of such bonds is in the best interest of the issuer, and may negotiate for sale of such bonds to any underwriter designated by the division.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>All proposals for the purchase of any bonds offered for sale by the division shall be opened in public. When competitively bid, bonds shall be awarded to the lowest bidder by the director or an assistant secretary of the board, as provided in the resolution authorizing the issuance of the bonds. The basis of award of a competitive bid may be either the lowest net interest cost or the lowest true interest cost, as set forth in the resolution authorizing the issuance or sale of the bonds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>No bid conforming to the notice of sale may be rejected unless all bids are rejected. If the bids rejected are legally acceptable bids under the notice of sale, such bonds shall not be sold thereafter except upon public sale after publication of notice of sale or by negotiated sale as provided herein.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_68__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Notwithstanding the provisions of this subsection, the division may sell refunding bonds as provided in s.215.79.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_68__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>No bonds of the state or of any state agency shall be issued by the division unless the face or reverse thereof contains a certificate, executed either manually or with his or her facsimile signature by the secretary or assistant secretary of the board, to the effect that the issuance of such bonds has been approved under the provisions of this act by the board. Such certificate shall be conclusive evidence as to approval of the issuance of such bonds by the board and that the requirements of this act and all of the laws relating to such bonds or to any state agency on behalf of which the bonds are to be issued have been fully complied with.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_68__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The division shall have the authority with approval of the board to issue bond anticipation notes in the name of the state, or in the name of the state agency on behalf of which a bond issue is to be sold by the division, in anticipation of the receipt of the proceeds of the bonds in the same manner and subject to the same limitations and conditions provided by s.215.431. The rights and remedies of the holders of such notes shall be the same rights and remedies which they would have if they were the holders of the definitive bonds in anticipation of which they are issued; and all of the covenants, agreements, or other proceedings relating to the definitive bonds in anticipation of which such bond anticipation notes are issued shall be a part of the proceedings relating to the issuance of such notes as fully and to the same extent as if incorporated verbatim therein.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_68__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Prior to the preparation of definitive bonds, the division may be authorized by the board to issue interim receipts or temporary bonds, with or without coupons, exchangeable for definitive bonds when such bonds have been executed and are available for delivery under such terms and conditions as the board shall deem advisable. The board may also provide for the replacement of any bonds which shall become mutilated or be destroyed, stolen, or lost under such terms and conditions as the board shall deem advisable.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

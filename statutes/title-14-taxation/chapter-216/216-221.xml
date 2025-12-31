@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.221"/>
+          <FRBRuri value="/us-fl/act/fsa/216.221"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.221/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.221/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.221/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.221/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_221">
+          <num>216.221</num>
+          <heading>Appropriations as maximum appropriations; adjustment of budgets to avoid or eliminate deficits.</heading>
+          <content>
+            <p>All appropriations shall be maximum appropriations, based upon the collection of sufficient revenues to meet and provide for such appropriations. It is the duty of the Governor, as chief budget officer, to ensure that revenues collected will be sufficient to meet the appropriations and that no deficit occurs in any state fund.</p>
+          </content>
+          <subsection eId="216_221__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All appropriations shall be maximum appropriations, based upon the collection of sufficient revenues to meet and provide for such appropriations. It is the duty of the Governor, as chief budget officer, to ensure that revenues collected will be sufficient to meet the appropriations and that no deficit occurs in any state fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Legislature may annually provide direction in the General Appropriations Act regarding use of any state funds to offset General Revenue Fund deficits.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of preventing a deficit in the General Revenue Fund, all branches and agencies of government shall participate in deficit reduction efforts. Absent specific legislative direction, when budget reductions are required in order to prevent a deficit under the provisions of subsection (7), each branch shall reduce its General Revenue Fund appropriations by a proportional amount.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For purposes of preventing a deficit in the General Revenue Fund, appropriations to the legislative branch that are voluntarily placed in their reserve by the President of the Senate or the Speaker of the House of Representatives, or by both, may not be reduced, but may be included in any deficit reduction plan.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If, in the opinion of the Governor, after consultation with the Revenue Estimating Conference, a deficit will occur in the General Revenue Fund, he or she shall so certify to the commission and to the Chief Justice of the Supreme Court. No more than 30 days after certifying that a deficit will occur in the General Revenue Fund, the Governor shall develop for the executive branch, and the Chief Justice of the Supreme Court shall develop for the judicial branch, and provide to the commission and to the Legislature plans of action to eliminate the deficit.</p>
+            </content>
+            <paragraph eId="216_221__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>If, in the opinion of the Governor, after consultation with the Revenue Estimating Conference, a deficit will occur in the General Revenue Fund, he or she shall so certify to the commission and to the Chief Justice of the Supreme Court. No more than 30 days after certifying that a deficit will occur in the General Revenue Fund, the Governor shall develop for the executive branch, and the Chief Justice of the Supreme Court shall develop for the judicial branch, and provide to the commission and to the Legislature plans of action to eliminate the deficit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_221__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If, in the opinion of the President of the Senate and the Speaker of the House of Representatives, after consultation with the Revenue Estimating Conference, a deficit will occur in the General Revenue Fund and the Governor has not certified the deficit, the President of the Senate and the Speaker of the House of Representatives shall so certify. Within 30 days after such certification, the Governor shall develop for the executive branch and the Chief Justice of the Supreme Court shall develop for the judicial branch and provide to the commission and to the Legislature plans of action to eliminate the deficit.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_221__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In developing a plan of action to prevent deficits in accordance with subsection (7), the Governor and Chief Justice shall, to the extent possible, preserve legislative policy and intent, and, absent any specific direction to the contrary in the General Appropriations Act, the Governor and Chief Justice shall comply with the following guidelines for reductions in the approved operating budgets of the executive branch and the judicial branch:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_221__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If the Revenue Estimating Conference projects a deficit in the General Revenue Fund in excess of 1.5 percent of the moneys appropriated from the General Revenue Fund during a fiscal year or when the cumulative total of a series of projected deficits in the General Revenue Fund exceeds 1.5 percent of the moneys appropriated from the General Revenue Fund, the deficit shall be resolved by the Legislature.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Deficits in the General Revenue Fund that do not meet the amounts specified by subsection (6) shall be resolved by the Governor for the executive branch and the Chief Justice of the Supreme Court for the judicial branch. The Governor and Chief Justice shall implement any directions provided in the General Appropriations Act related to eliminating deficits and to reducing agency and judicial branch budgets, including the use of those legislative appropriations voluntarily placed in reserve. In addition, the Governor and Chief Justice shall implement any directions in the General Appropriations Act relating to the resolution of deficit situations. When reducing state agency or judicial branch budgets, the Governor or the Chief Justice, respectively, shall use the guidelines prescribed in subsection (5). The Executive Office of the Governor, and the Chief Justice for the judicial branch, shall implement the deficit reduction plans through amendments to the approved operating budgets in accordance with s.216.181.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The Chief Financial Officer also has the duty to ensure that revenues being collected will be sufficient to meet the appropriations and that no deficit occurs in any fund of the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>If, in the opinion of the Chief Financial Officer, after consultation with the Revenue Estimating Conference, a deficit will occur, he or she shall report his or her opinion to the Governor, the President of the Senate, and the Speaker of the House of Representatives in writing. In the event the Governor does not certify a deficit, or the President of the Senate and the Speaker of the House of Representatives do not certify a deficit within 10 days after the Chief Financial Officer’s report, the Chief Financial Officer shall report his or her findings and opinion to the commission and the Chief Justice of the Supreme Court.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>When advised by the Revenue Estimating Conference, the Chief Financial Officer, or any agency responsible for a trust fund that a deficit will occur with respect to the appropriations from a specific trust fund in the current fiscal year, the Governor for the executive branch, or the Chief Justice for the judicial branch, shall develop a plan of action to eliminate the deficit. Before implementing the plan of action, the Governor or the Chief Justice must comply with the provisions of s.216.177(2), and actions to resolve deficits in excess of $1 million must be approved by the Legislative Budget Commission. In developing the plan of action, the Governor or the Chief Justice shall, to the extent possible, preserve legislative policy and intent.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_221__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>Once a deficit is determined to have occurred and action is taken to reduce approved operating budgets and release authority, no action may be taken to restore the reductions, either directly or indirectly.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

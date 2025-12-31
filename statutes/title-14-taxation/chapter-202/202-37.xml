@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.37"/>
+          <FRBRuri value="/us-fl/act/fsa/202.37"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.37/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.37/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.37/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.37/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_37">
+          <num>202.37</num>
+          <heading>Special rules for administration of local communications services tax.</heading>
+          <content>
+            <p>Except as otherwise provided in this section, all statutory provisions and administrative rules applicable to the communications services tax imposed by s.202.12apply to any local communications services tax imposed under s.202.19, and the department shall administer, collect, and enforce all taxes imposed under s.202.19, including interest and penalties attributable thereto, in accordance with the same procedures used in the administration, collection, and enforcement of the communications services tax imposed by s.202.12. Audits performed by the department shall include a determination of the dealer’s compliance with the jurisdictional situsing of its customers’ service addresses and a determination of whether the rate collected for the local tax pursuant to ss.202.19and202.20is correct. The person or entity designated by a local government pursuant to s.213.053(8) may provide evidence to the department demonstrating a specific person’s failure to fully or correctly report taxable communications services sales within the jurisdiction. The department may request additional information from the designee to assist in any review. The department shall inform the designee of what action, if any, the department intends to take regarding the person.</p>
+          </content>
+          <subsection eId="202_37__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided in this section, all statutory provisions and administrative rules applicable to the communications services tax imposed by s.202.12apply to any local communications services tax imposed under s.202.19, and the department shall administer, collect, and enforce all taxes imposed under s.202.19, including interest and penalties attributable thereto, in accordance with the same procedures used in the administration, collection, and enforcement of the communications services tax imposed by s.202.12. Audits performed by the department shall include a determination of the dealer’s compliance with the jurisdictional situsing of its customers’ service addresses and a determination of whether the rate collected for the local tax pursuant to ss.202.19and202.20is correct. The person or entity designated by a local government pursuant to s.213.053(8) may provide evidence to the department demonstrating a specific person’s failure to fully or correctly report taxable communications services sales within the jurisdiction. The department may request additional information from the designee to assist in any review. The department shall inform the designee of what action, if any, the department intends to take regarding the person.</p>
+            </content>
+            <paragraph eId="202_37__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Except as otherwise provided in this section, all statutory provisions and administrative rules applicable to the communications services tax imposed by s.202.12apply to any local communications services tax imposed under s.202.19, and the department shall administer, collect, and enforce all taxes imposed under s.202.19, including interest and penalties attributable thereto, in accordance with the same procedures used in the administration, collection, and enforcement of the communications services tax imposed by s.202.12. Audits performed by the department shall include a determination of the dealer’s compliance with the jurisdictional situsing of its customers’ service addresses and a determination of whether the rate collected for the local tax pursuant to ss.202.19and202.20is correct. The person or entity designated by a local government pursuant to s.213.053(8) may provide evidence to the department demonstrating a specific person’s failure to fully or correctly report taxable communications services sales within the jurisdiction. The department may request additional information from the designee to assist in any review. The department shall inform the designee of what action, if any, the department intends to take regarding the person.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_37__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department may contract with one or more private entities to assist it in fulfilling its obligation of administering the local communications services taxes imposed under this chapter, including, but not limited to, the compilation, maintenance, and publication of data pursuant to ss.202.21and202.22.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_37__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding any other provision of law to the contrary, if a dealer of communications services provides communications services solely within a single county, that county or any municipality located therein may perform an audit of such dealer with respect to communications services provided by such dealer within such county, including both the state and local components of the communications services tax imposed and any other tax administered pursuant to this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_37__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each dealer of communications services obligated to collect and remit one or more local communications services taxes imposed under s.202.19shall separately report and identify each such tax to the department, by jurisdiction, on a form prescribed by the department, and shall pay such taxes to the department. However, taxes imposed under s.202.19(5) shall be added to and included in the amounts reported to the department as taxes imposed under s.202.19(1). A dealer of communications services may include in a single payment to the department:</p>
+            </content>
+            <paragraph eId="202_37__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The total amount of all local communications services taxes imposed pursuant to s.202.19; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_37__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of communications services tax imposed by ss.202.12and203.01.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.13"/>
+          <FRBRuri value="/us-fl/act/fsa/198.13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.13/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.13/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_13">
+          <num>198.13</num>
+          <heading>Tax return to be made in certain cases; certificate of nonliability.</heading>
+          <content>
+            <p>The personal representative of every estate required by the laws of the United States to file a federal estate tax return shall file with the department, on or before the last day prescribed by law for filing the initial federal estate tax return for such estate, a return consisting of an executed copy of the federal estate tax return and shall file with such return all supplemental data, if any, as may be necessary to determine and establish the correct tax under this chapter. Such return shall be made in the case of every decedent who at the time of death was not a resident of the United States and whose gross estate includes any real property situate in the state, tangible personal property having an actual situs in the state, and intangible personal property physically present within the state.</p>
+          </content>
+          <subsection eId="198_13__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The personal representative of every estate required by the laws of the United States to file a federal estate tax return shall file with the department, on or before the last day prescribed by law for filing the initial federal estate tax return for such estate, a return consisting of an executed copy of the federal estate tax return and shall file with such return all supplemental data, if any, as may be necessary to determine and establish the correct tax under this chapter. Such return shall be made in the case of every decedent who at the time of death was not a resident of the United States and whose gross estate includes any real property situate in the state, tangible personal property having an actual situs in the state, and intangible personal property physically present within the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_13__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whenever it is made to appear to the department that an estate that has filed a return owes no taxes under this chapter, the department shall issue to the personal representative a certificate in writing to that effect, which certificate shall have the same force and effect as a receipt showing payment. The certificate shall be subject to record and admissible in evidence in like manner as a receipt showing payment of taxes. A fee of $5 shall be paid to the department for each certificate so issued.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_13__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Every person required to file a return reporting a generation-skipping transfer under applicable federal statutes and regulations shall file with the Department of Revenue, on or before the last day prescribed for filing the federal return, a return consisting of a duplicate copy of the federal return.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_13__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this section and applicable to the estate of a decedent who dies after December 31, 2004, if, upon the death of the decedent, a state death tax credit or a generation-skipping transfer credit is not allowable pursuant to the Internal Revenue Code of 1986, as amended:</p>
+            </content>
+            <paragraph eId="198_13__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The personal representative of the estate is not required to file a return under subsection (1) in connection with the estate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="198_13__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The person who would otherwise be required to file a return reporting a generation-skipping transfer under subsection (3) is not required to file such a return in connection with the estate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

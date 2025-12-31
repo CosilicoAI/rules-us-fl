@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.14"/>
+          <FRBRuri value="/us-fl/act/fsa/202.14"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.14/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.14/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.14/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.14/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_14">
+          <num>202.14</num>
+          <heading>Credit against tax imposed.</heading>
+          <content>
+            <p>To prevent actual multistate taxation of communications services subject to tax under this chapter, any taxpayer, upon proof that such taxpayer has paid a tax legally imposed by another state or local jurisdiction in such other state with respect to such services, shall be allowed a credit against the taxes imposed under this chapter to the extent of the amount of tax paid in the other state or local jurisdiction.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

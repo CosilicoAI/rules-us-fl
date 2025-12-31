@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1998"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1998"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1998/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1998/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1998/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1998/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1998">
+          <num>196.1998</num>
+          <heading>Additional ad valorem tax exemptions for historic properties open to the public.</heading>
+          <content>
+            <p>If an improvement qualifies a historic property for an exemption under s.196.1997, and the property is used for nonprofit or governmental purposes and is regularly and frequently open for the public’s visitation, use, and benefit, the board of county commissioners or the governing authority of the municipality by ordinance may authorize the exemption from ad valorem taxation of up to 100 percent of the assessed value of the property, as improved, any provision of s.196.1997(2) to the contrary notwithstanding, if all other provisions of that section are complied with; provided, however, that the assessed value of the improvement must be equal to at least 50 percent of the total assessed value of the property as improved. The exemption applies only to real property to which improvements are made by or for the use of the existing owner. In order for the property to qualify for the exemption provided in this section, any such improvements must be made on or after the day the ordinance granting the exemption is adopted.</p>
+          </content>
+          <subsection eId="196_1998__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If an improvement qualifies a historic property for an exemption under s.196.1997, and the property is used for nonprofit or governmental purposes and is regularly and frequently open for the public’s visitation, use, and benefit, the board of county commissioners or the governing authority of the municipality by ordinance may authorize the exemption from ad valorem taxation of up to 100 percent of the assessed value of the property, as improved, any provision of s.196.1997(2) to the contrary notwithstanding, if all other provisions of that section are complied with; provided, however, that the assessed value of the improvement must be equal to at least 50 percent of the total assessed value of the property as improved. The exemption applies only to real property to which improvements are made by or for the use of the existing owner. In order for the property to qualify for the exemption provided in this section, any such improvements must be made on or after the day the ordinance granting the exemption is adopted.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1998__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to meeting the criteria established in rules adopted by the Department of State under s.196.1997, a historic property is qualified for an exemption under this section if the Division of Historical Resources, or the local historic preservation office, whichever is applicable, determines that the property meets the criteria established in rules adopted by the Department of State under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_1998__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>In addition to the authority granted to the Department of State to adopt rules under s.196.1997, the Department of State shall adopt rules as provided in chapter 120 for the implementation of this section, which shall include criteria for determining whether a property is qualified for the exemption authorized by this section, and other rules necessary to implement this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

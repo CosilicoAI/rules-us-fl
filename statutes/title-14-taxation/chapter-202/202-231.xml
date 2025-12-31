@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.231"/>
+          <FRBRuri value="/us-fl/act/fsa/202.231"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.231/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.231/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.231/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.231/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_231">
+          <num>202.231</num>
+          <heading>Provision of information to local taxing jurisdictions.</heading>
+          <content>
+            <p>The department shall provide a monthly report to each jurisdiction imposing the tax authorized by s.202.19. Each report shall contain the following information for the jurisdiction which is receiving the report: the name and other information necessary to identify each dealer providing service in the jurisdiction, including each dealer’s federal employer identification number; the gross taxable sales reported by each dealer; the amount of the dealer’s collection allowance; and any adjustments specified on the return, including audit assessments or refunds, and interest or penalties, affecting the net tax from each dealer which is being remitted to the jurisdiction. The report shall total the net amount transferred to the jurisdiction, showing the net taxes remitted by dealers less the administrative fees deducted by the department.</p>
+          </content>
+          <subsection eId="202_231__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department shall provide a monthly report to each jurisdiction imposing the tax authorized by s.202.19. Each report shall contain the following information for the jurisdiction which is receiving the report: the name and other information necessary to identify each dealer providing service in the jurisdiction, including each dealer’s federal employer identification number; the gross taxable sales reported by each dealer; the amount of the dealer’s collection allowance; and any adjustments specified on the return, including audit assessments or refunds, and interest or penalties, affecting the net tax from each dealer which is being remitted to the jurisdiction. The report shall total the net amount transferred to the jurisdiction, showing the net taxes remitted by dealers less the administrative fees deducted by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_231__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Monthly reports shall be transmitted by the department to each municipality and county through a secure electronic mail system or by other suitable written or electronic means.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_231__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The gross taxable sales and the total net amount transferred to the jurisdiction, showing the net taxes remitted by dealers less the administrative fees deducted by the department contained in the monthly reports required by this section, shall be aggregated on a jurisdiction-by-jurisdiction basis, and the aggregate jurisdiction-by-jurisdiction information shall be made available by the department to the public through the department’s website for each fiscal year this chapter has been in effect.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

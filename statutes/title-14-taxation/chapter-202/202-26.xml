@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.26"/>
+          <FRBRuri value="/us-fl/act/fsa/202.26"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.26/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.26/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.26/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.26/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_26">
+          <num>202.26</num>
+          <heading>Department powers.</heading>
+          <content>
+            <p>The department shall administer and enforce the assessment and collection of the taxes, interest, and penalties collected under or imposed by this chapter.</p>
+          </content>
+          <subsection eId="202_26__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department shall administer and enforce the assessment and collection of the taxes, interest, and penalties collected under or imposed by this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_26__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The provisions of chapter 213 shall, as far as lawful and practicable, be applicable to the taxes imposed and administered under this chapter and to the collection thereof as if fully set out in this chapter. However, no provision of chapter 213 shall apply if it conflicts with any provision of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_26__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To administer the tax imposed by this chapter, the department may adopt rules relating to:</p>
+            </content>
+            <paragraph eId="202_26__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The filing of returns and remittance of tax, including provisions concerning electronic funds transfer and electronic data interchange.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The determination of customer service addresses.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The interpretation or definition of any exemptions or exclusions from taxation granted by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Procedures for handling sales for resale and for determining the taxable status of discounts and rebates.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Methods for granting self-accrual authority to taxpayers.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The records and methods necessary for a dealer to demonstrate the exercise of due diligence as defined by s.202.22(4)(b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The creation of the database described in s.202.22(2) and the certification and recertification of the databases as described in s.202.22(3).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_h">
+              <num>(h)</num>
+              <content>
+                <p>The registration of dealers.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>The review of applications for, and the issuance of, direct-pay permits, and the returns required to be filed by holders thereof.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_26__subsec_3__para_j">
+              <num>(j)</num>
+              <content>
+                <p>The types of books and records kept in the regular course of business which must be available during an audit of a dealer’s books and records when the dealer has made an allocation or attribution pursuant to the definition of sales prices in s.202.11(13)(b)8. and examples of methods for determining the reasonableness thereof. Books and records kept in the regular course of business include, but are not limited to, general ledgers, price lists, cost records, customer billings, billing system reports, tariffs, and other regulatory filings and rules of regulatory authorities. Such records may be required to be made available to the department in an electronic format when so kept by the dealer. The dealer may support the allocation of charges with books and records kept in the regular course of business covering the dealer’s entire service area, including territories outside this state. During an audit, the department may reasonably require production of any additional books and records found necessary to assist in its determination.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_26__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The executive director of the department is authorized, and all conditions are deemed met, to adopt emergency rules under ss.120.536(1) and120.54(4) to implement this chapter. Notwithstanding any other provision of law, such emergency rules shall remain effective for 6 months after the date of adoption and may be renewed during the pendency of procedures to adopt rules addressing the subject of the emergency rules.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

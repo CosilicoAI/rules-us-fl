@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.12"/>
+          <FRBRuri value="/us-fl/act/fsa/202.12"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.12/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.12/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.12/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.12/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_12">
+          <num>202.12</num>
+          <heading>Sales of communications services.</heading>
+          <content>
+            <p>The Legislature finds that every person who engages in the business of selling communications services at retail in this state is exercising a taxable privilege. It is the intent of the Legislature that the tax imposed by chapter 203 be administered as provided in this chapter.</p>
+          </content>
+          <subsection eId="202_12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the exercise of such privilege, a tax is levied on each taxable transaction and is due and payable as follows:</p>
+            </content>
+            <paragraph eId="202_12__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Except as otherwise provided in this subsection, at the rate of 4.92 percent applied to the sales price of the communications service that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_12__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At the rate of 9.07 percent applied to the retail sales price of any direct-to-home satellite service received in this state. The proceeds of the tax imposed under this paragraph shall be accounted for and distributed in accordance with s.202.18(2). The gross receipts tax imposed by chapter 203 shall be collected on the same taxable transactions and remitted with the tax imposed by this paragraph.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_12__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>At the rate set forth in paragraph (a) on the sales price of private communications services provided within this state, which shall be determined in accordance with the following provisions:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_12__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>At the rate set forth in paragraph (a) applied to the sales price of all mobile communications services deemed to be provided to a customer by a home service provider pursuant to s. 117(a) of the Mobile Telecommunications Sourcing Act, Pub. L. No. 106-252, if such customer’s service address is located within this state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A dealer of taxable communications services shall bill, collect, and remit the taxes on communications services imposed pursuant to chapter 203 and this section at a combined rate that is the sum of the rate of tax on communications services prescribed in chapter 203 and the applicable rate of tax prescribed in this section. However, a dealer shall, in reporting each remittance to the department, identify the portion thereof which consists of taxes remitted pursuant to chapter 203. Return forms prescribed by the department shall facilitate such reporting.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_12__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding any law to the contrary, the combined amount of taxes imposed under this section and s.203.01(1)(a)2. shall not exceed $100,000 per calendar year on charges to any person for interstate communications services that originate outside this state and terminate within this state. This subsection applies only to holders of a direct-pay permit issued under this subsection. A refund may not be given for taxes paid before receiving a direct-pay permit. Upon application, the department may issue one direct-pay permit to the purchaser of communications services authorizing such purchaser to pay the Florida communications services tax on such services directly to the department if the majority of such services used by such person are for communications originating outside of this state and terminating in this state. Only one direct-pay permit shall be issued to a person. Such direct-pay permit shall identify the taxes and service addresses to which it applies. Any dealer of communications services furnishing communications services to the holder of a valid direct-pay permit is relieved of the obligation to collect and remit the taxes imposed under this section and s.203.01(1)(a)2. on such services. Tax payments and returns pursuant to a direct-pay permit shall be monthly. As used in this subsection, “person” means a single legal entity and does not mean a group or combination of affiliated entities or entities controlled by one person or group of persons.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

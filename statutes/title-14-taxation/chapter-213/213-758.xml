@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.758"/>
+          <FRBRuri value="/us-fl/act/fsa/213.758"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.758/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.758/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.758/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.758/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_758">
+          <num>213.758</num>
+          <heading>Transfer of tax liabilities.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="213_758__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="213_758__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Business” means any activity regularly engaged in by any person, or caused to be engaged in by any person, for the purpose of private or public gain, benefit, or advantage. The term does not include occasional or isolated sales or transactions involving property or services by a person who does not hold himself or herself out as engaged in business. A discrete division or portion of a business is not a separate business and must be aggregated with all other divisions or portions that constitute a business if the division or portion is not a separate legal entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Financial institution” means a financial institution as defined in s.655.005and any person who controls, is controlled by, or is under common control with a financial institution as defined in s.655.005.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Insider” means:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Involuntary transfer” means a transfer of a business, assets of a business, or stock of goods of a business made without the consent of the transferor, including, but not limited to, a transfer:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Stock of goods” means the inventory of a business held for sale to customers in the ordinary course of business.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Tax” means any tax, interest, penalty, surcharge, or fee administered by the department pursuant to chapter 443 or any of the chapters specified in s.213.05, excluding chapter 220, the corporate income tax code.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Transfer” means every mode, direct or indirect, with or without consideration, of disposing of or parting with a business, assets of the business, or stock of goods of the business, and includes, but is not limited to, assigning, conveying, demising, gifting, granting, or selling, other than to customers in the ordinary course of business, to a transferee or to a group of transferees who are acting in concert. A business is considered transferred when there is a transfer of more than 50 percent of:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_758__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A taxpayer engaged in a business who is liable for any tax arising from the operation of that business and who quits the business without the benefit of a purchaser, successor, or assignee, or without transferring the business, assets of the business, or stock of goods of a business to a transferee, must file a final return for the business and make full payment of all taxes arising from the operation of that business within 15 days after quitting the business. The Department of Legal Affairs may seek an injunction at the request of the department to prevent further business activity of a taxpayer who fails to file a final return and make payment of the taxes associated with the operation of the business until such taxes are paid. A temporary injunction enjoining further business activity shall be granted by a circuit court if the department has provided at least 20 days’ prior written notice to the taxpayer.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_758__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A taxpayer who is liable for taxes with respect to a business who transfers the taxpayer’s business, assets of the business, or stock of goods of the business must file a final return and make full payment within 15 days after the date of transfer.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_758__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A transferee, or a group of transferees acting in concert, of more than 50 percent of a business, assets of a business, or stock of goods of a business is liable for any unpaid tax owed by the transferor arising from the operation of that business unless:</p>
+            </content>
+            <paragraph eId="213_758__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>A transferee, or a group of transferees acting in concert, of more than 50 percent of a business, assets of a business, or stock of goods of a business is liable for any unpaid tax owed by the transferor arising from the operation of that business unless:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A transferee may withhold a portion of the consideration for a business, assets of the business, or stock of goods of the business to pay the tax owed to the state by the transferor taxpayer arising from the operation of the business. The transferee shall pay the withheld consideration to the state within 30 days after the date of the transfer. If the consideration withheld is less than the transferor’s liability, the transferor remains liable for the deficiency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The Department of Legal Affairs may seek an injunction at the request of the department to prevent further business activity of a transferee who is liable for unpaid tax of a transferor and who fails to pay or cause to be paid the transferee’s maximum liability for such tax due until such maximum liability for the tax is paid. A temporary injunction enjoining further business activity shall be granted by a circuit court if:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_758__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The transferee, or transferees acting in concert, of more than 50 percent of a business, assets of the business, or stock of goods of a business who are liable for any tax pursuant to this section shall be jointly and severally liable with the transferor for the payment of the tax owed to the state from the operation of the business by the transferor up to the transferee’s or transferees’ maximum liability for such tax due.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_758__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The maximum liability of a transferee pursuant to this section is equal to the fair market value of the business, assets of the business, or stock of goods of the business transferred to the transferee or the total purchase price paid by the transferee for the business, assets of the business, or stock of goods of the business, whichever is greater.</p>
+            </content>
+            <paragraph eId="213_758__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The fair market value must be determined net of any liens or liabilities, with the exception of liens or liabilities owed to insiders.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The total purchase price must be determined net of liens and liabilities against the assets, with the exception of:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_758__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>After notice by the department of transferee liability under this section, the transferee has 60 days within which to file an action as provided in chapter 72.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_758__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>This section does not impose liability on a transferee of a business, assets of a business, or stock of goods of a business when:</p>
+            </content>
+            <paragraph eId="213_758__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The transfer is pursuant to an involuntary transfer; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_758__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The transferee is not an insider, and the asset transferred consists solely of a one- to four-family residential real property and furnishings and fixtures therein; real property that has not been improved with any building; or owner-occupied commercial real property; and, in each case, is not accompanied by a transfer of other assets of the business.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_758__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>The department may adopt rules necessary to administer and enforce this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.05011"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05011"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.05011/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05011/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.05011/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.05011/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_05011">
+          <num>212.05011</num>
+          <heading>Combined rate for tax collected pursuant to ss.203.01(1)(b)4. and 212.05(1)(e)1.c.</heading>
+          <content>
+            <p>In complying with the amendments to ss.203.01and212.05, relating to the additional tax on electrical power or energy, made by this act, a seller of electrical power or energy may collect a combined rate of6.95percent, which consists of the4.35percent and 2.6 percent required under ss.212.05(1)(e)1.c. and 203.01(1)(b)4., respectively, if the provider properly reflects the tax collected with respect to the two provisions as required in the return to the Department of Revenue.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

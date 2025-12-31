@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.173"/>
+          <FRBRuri value="/us-fl/act/fsa/196.173"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.173/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.173/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.173/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.173/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_173">
+          <num>196.173</num>
+          <heading>Exemption for deployed servicemembers.</heading>
+          <content>
+            <p>A servicemember who receives a homestead exemption may receive an additional ad valorem tax exemption on that homestead property as provided in this section.</p>
+          </content>
+          <subsection eId="196_173__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A servicemember who receives a homestead exemption may receive an additional ad valorem tax exemption on that homestead property as provided in this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_173__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The exemption is available to servicemembers who were deployed during the preceding calendar year on active duty outside the continental United States, Alaska, or Hawaii in support of any of the following military operations:</p>
+            </content>
+            <paragraph eId="196_173__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Operation Joint Task Force Bravo, which began in 1995.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Operation Joint Guardian, which began on June 12, 1999.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Operation Noble Eagle, which began on September 15, 2001.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Operations in the Balkans, which began in 2004.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Operation Nomad Shadow, which began in 2007.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Operation U.S. Airstrikes Al Qaeda in Somalia, which began in January 2007.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Operation Copper Dune, which began in 2009.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Operation Georgia Deployment Program, which began in August 2009.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Operation Spartan Shield, which began in June 2011.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>Operation Inherent Resolve, which began on August 8, 2014.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_k">
+              <num>(k)</num>
+              <content>
+                <p>Operation Atlantic Resolve, which began in April 2014.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_l">
+              <num>(l)</num>
+              <content>
+                <p>Operation Freedom’s Sentinel, which began on January 1, 2015.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_m">
+              <num>(m)</num>
+              <content>
+                <p>Operation Resolute Support, which began in January 2015.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_n">
+              <num>(n)</num>
+              <content>
+                <p>Operation Juniper Shield, which began in February 2007.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_o">
+              <num>(o)</num>
+              <content>
+                <p>Operation Pacific Eagle, which began in September 2017.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_p">
+              <num>(p)</num>
+              <content>
+                <p>Operation Martillo, which began in January 2012.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_q">
+              <num>(q)</num>
+              <content>
+                <p>Operation Enduring Freedom – Horn of Africa, which began in January 2015.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_2__para_r">
+              <num>(r)</num>
+              <content>
+                <p>European Reassurance Initiative/European Deterrence Initiative, which began in 2014.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_173__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The exemption is also available to servicemembers who were deployed during the preceding calendar year on active duty outside the continental United States, Alaska, or Hawaii in support of a subordinate operation to a main operation designated in subsection (2).</p>
+            </content>
+          </subsection>
+          <subsection eId="196_173__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>By January 15 of each year, the Department of Military Affairs shall submit to the President of the Senate, the Speaker of the House of Representatives, and the tax committees of each house of the Legislature a report of all known and unclassified military operations outside the continental United States, Alaska, or Hawaii for which servicemembers based in the continental United States have been deployed during the previous calendar year. The report must include:</p>
+            </content>
+            <paragraph eId="196_173__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The official and common names of the military operations;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The general location and purpose of each military operation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The date each military operation commenced; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The date each military operation terminated, unless the operation is ongoing.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_173__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The amount of the exemption is equal to the taxable value of the homestead of the servicemember on January 1 of the year in which the exemption is sought multiplied by the number of days that the servicemember was on a qualifying deployment in the preceding calendar year and divided by the number of days in that year.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_173__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>An eligible servicemember who seeks to claim the additional tax exemption as provided in this section must file an application for exemption with the property appraiser on or before March 1 of the year following the year of the qualifying deployment. The application for the exemption must be made on a form prescribed by the department and furnished by the property appraiser. The form must require a servicemember to include or attach proof of a qualifying deployment, the dates of that deployment, and other information necessary to verify eligibility for and the amount of the exemption.</p>
+            </content>
+            <paragraph eId="196_173__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>An eligible servicemember who seeks to claim the additional tax exemption as provided in this section must file an application for exemption with the property appraiser on or before March 1 of the year following the year of the qualifying deployment. The application for the exemption must be made on a form prescribed by the department and furnished by the property appraiser. The form must require a servicemember to include or attach proof of a qualifying deployment, the dates of that deployment, and other information necessary to verify eligibility for and the amount of the exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_173__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An application may be filed on behalf of an eligible servicemember by his or her spouse if the homestead property to which the exemption applies is held by the entireties or jointly with the right of survivorship, by a person who has been designated by the servicemember to take actions on his or her behalf pursuant to chapter 709, or by the personal representative of the servicemember’s estate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_173__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The property appraiser shall consider each application for a deployed servicemember exemption within 30 days after receipt or within 30 days after receiving notice of the designation of qualifying deployments by the Legislature, whichever is later. A property appraiser who finds that the taxpayer is entitled to the exemption shall approve the application and file the application in the permanent records. A property appraiser who finds that the taxpayer is not entitled to the exemption shall send a notice of disapproval no later than July 1, citing the reason for disapproval. The original notice of disapproval shall be sent to the taxpayer and shall advise the taxpayer of the right to appeal the decision to the value adjustment board and shall inform the taxpayer of the procedure for filing such an appeal.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_173__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>As used in this section, the term “servicemember” means a member or former member of any branch of the United States military or military reserves, the United States Coast Guard or its reserves, or the Florida National Guard.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

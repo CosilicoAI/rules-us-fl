@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.32"/>
+          <FRBRuri value="/us-fl/act/fsa/215.32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.32/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.32/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_32">
+          <num>215.32</num>
+          <heading>State funds; segregation.</heading>
+          <content>
+            <p>All moneys received by the state shall be deposited in the State Treasury unless specifically provided otherwise by law and shall be deposited in and accounted for by the Chief Financial Officer within the following funds, which funds are hereby created and established:</p>
+          </content>
+          <subsection eId="215_32__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All moneys received by the state shall be deposited in the State Treasury unless specifically provided otherwise by law and shall be deposited in and accounted for by the Chief Financial Officer within the following funds, which funds are hereby created and established:</p>
+            </content>
+            <paragraph eId="215_32__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>General Revenue Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_32__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Trust funds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_32__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Budget Stabilization Fund.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_32__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The source and use of each of these funds shall be as follows:</p>
+            </content>
+            <paragraph eId="215_32__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The General Revenue Fund shall consist of all moneys received by the state from every source whatsoever, except as provided in paragraphs (b) and (c). Such moneys shall be expended pursuant to General Revenue Fund appropriations acts, transferred as provided in paragraph (c), or maintained as unallocated general revenue. Unallocated general revenue shall be considered the working capital balance of the state and shall consist of moneys in the General Revenue Fund that are in excess of the amount needed to meet General Revenue Fund appropriations for the current fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_32__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The Budget Stabilization Fund shall consist of amounts equal to at least 5 percent of net revenue collections for the General Revenue Fund during the last completed fiscal year. The Budget Stabilization Fund’s principal balance shall not exceed an amount equal to 10 percent of the last completed fiscal year’s net revenue collections for the General Revenue Fund. As used in this paragraph, the term “last completed fiscal year” means the most recently completed fiscal year prior to the regular legislative session at which the Legislature considers the General Appropriations Act for the year in which the transfer to the Budget Stabilization Fund must be made under this paragraph.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

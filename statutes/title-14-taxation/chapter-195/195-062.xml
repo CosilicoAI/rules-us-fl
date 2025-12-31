@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.062"/>
+          <FRBRuri value="/us-fl/act/fsa/195.062"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.062/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.062/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.062/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.062/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_062">
+          <num>195.062</num>
+          <heading>Manual of instructions.</heading>
+          <content>
+            <p>The department shall prepare and maintain a current manual of instructions for property appraisers and other officials connected with the administration of property taxes. This manual shall contain all:</p>
+          </content>
+          <subsection eId="195_062__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department shall prepare and maintain a current manual of instructions for property appraisers and other officials connected with the administration of property taxes. This manual shall contain all:</p>
+            </content>
+            <paragraph eId="195_062__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Rules and regulations.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_062__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Standard measures of value.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_062__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Forms and instructions relating to the use of forms and maps.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_062__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may also include in such manual any other information which it deems pertinent or helpful in the administration of taxes. Such manual shall instruct that the mere recordation of a plat on previously unplatted acreage shall not be construed as evidence of sufficient change in the character of the land to require reassessment until such time as development is begun on the platted acreage. Such manual shall be made available for distribution to the public at a nominal cost, to include cost of printing and circulation.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

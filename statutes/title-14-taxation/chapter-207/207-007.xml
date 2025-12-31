@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.007"/>
+          <FRBRuri value="/us-fl/act/fsa/207.007"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.007/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.007/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.007/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.007/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_007">
+          <num>207.007</num>
+          <heading>Offenses; penalties and interest.</heading>
+          <content>
+            <p>If any motor carrier registered under this chapter fails to file a return and pay any tax liability under this chapter within the time required hereunder, the department may impose a delinquency penalty of $50 or 10 percent of the delinquent taxes due, whichever is greater, if the failure is for not more than 30 days, with an additional 10 percent penalty for each additional 30 days, or fraction thereof, during the time which the failure continues, not to exceed a total penalty of 100 percent in the aggregate. However, the penalty may not be less than $50.</p>
+          </content>
+          <subsection eId="207_007__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If any motor carrier registered under this chapter fails to file a return and pay any tax liability under this chapter within the time required hereunder, the department may impose a delinquency penalty of $50 or 10 percent of the delinquent taxes due, whichever is greater, if the failure is for not more than 30 days, with an additional 10 percent penalty for each additional 30 days, or fraction thereof, during the time which the failure continues, not to exceed a total penalty of 100 percent in the aggregate. However, the penalty may not be less than $50.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_007__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In addition to any other penalties, any delinquent tax shall bear interest at the rate of 1 percent per month, or fraction thereof, calculated from the date the tax was due. If the department enters into a cooperative reciprocal agreement under the provisions of s.207.0281, the department shall collect and distribute all interest due to other jurisdictions at the same rate as if such interest were due to the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_007__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person who:</p>
+            </content>
+            <paragraph eId="207_007__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Willfully refuses or neglects to make any statement, report, or return required by the provisions of this chapter;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_007__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Knowingly makes, or assists any other person in making, a false statement in a return or report or in connection with an application for registration under this chapter; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_007__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Violates any of the provisions of this chapter, a penalty for which is not otherwise provided,</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

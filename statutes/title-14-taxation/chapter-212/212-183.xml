@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.183"/>
+          <FRBRuri value="/us-fl/act/fsa/212.183"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.183/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.183/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.183/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.183/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_183">
+          <num>212.183</num>
+          <heading>Rules for self-accrual of sales tax.</heading>
+          <content>
+            <p>The Department of Revenue is authorized to provide by rule for self-accrual of the sales tax under one or more of the following circumstances:</p>
+          </content>
+          <subsection eId="212_183__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Where authorized by law for holders of direct pay permits.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_183__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Where tangible personal property is subject to tax on a prorated basis, and the proration factor is based upon characteristics of the purchaser.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_183__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Where the taxable status of types of tangible personal property will be known only upon use.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_183__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>For commercial rentals where the purchaser rents from a number of independent property owners who, apart from rentals to the purchaser in question, would otherwise not be obligated to register as dealers.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_183__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Where the purchaser makes purchases in excess of $10 million per year of tangible personal property in any county.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_183__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>When the purchaser makes purchases of promotional materials as defined in s.212.06(11) and at the time of purchase, the purchaser does not know whether the materials will be exported outside this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_183__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>For commercial rentals where the purchaser, who is required to remit sales tax electronically as provided under s.213.755, rents from a number of independent property owners.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

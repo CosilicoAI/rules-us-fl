@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.313"/>
+          <FRBRuri value="/us-fl/act/fsa/216.313"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.313/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.313/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.313/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.313/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_313">
+          <num>216.313</num>
+          <heading>Contract appropriation; requirements.</heading>
+          <content>
+            <p>An executive or judicial branch public officer or employee may not enter into any contract or agreement on behalf of the state or judicial branch which binds the state or its executive agencies or the judicial branch for the purchase of services or tangible personal property in excess of $5 million unless the contract identifies the specific appropriation of state funds from which the state will make payment under the contract in the first year of the contract, unless the Legislature expressly authorizes the agency or the judicial branch to enter into such contract absent a specific appropriation of funds.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

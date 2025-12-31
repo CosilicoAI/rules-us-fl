@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.62"/>
+          <FRBRuri value="/us-fl/act/fsa/215.62"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.62/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.62/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.62/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.62/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_62">
+          <num>215.62</num>
+          <heading>Division of Bond Finance.</heading>
+          <content>
+            <p>There is created a division of the State Board of Administration of the state to be known as the Division of Bond Finance. The Governor shall be the chair of the governing board of the division, the Attorney General shall be the secretary of the board, and the Chief Financial Officer shall be the treasurer of the board for the purposes of this act. The division shall be a public body corporate for the purposes of this act.</p>
+          </content>
+          <subsection eId="215_62__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is created a division of the State Board of Administration of the state to be known as the Division of Bond Finance. The Governor shall be the chair of the governing board of the division, the Attorney General shall be the secretary of the board, and the Chief Financial Officer shall be the treasurer of the board for the purposes of this act. The division shall be a public body corporate for the purposes of this act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_62__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any action of the division shall be taken pursuant to resolution which shall be in effect upon passage by a majority of the members of the board and need not be posted or published, and a majority of the board shall be and constitute a quorum for all meetings.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_62__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The employees of the division shall be required to give such bond as the board may require, but the board may provide for payment of such employee bond premiums from moneys available for administrative expenses of the division.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_62__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The members of said board shall not receive any additional salary for services in such capacity, but shall be entitled to their necessary travel and other expenses in the performance of their duties and obligations as members of the board.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_62__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The board has authority to adopt rules pursuant to ss.120.536(1) and120.54to implement provisions of law conferring duties on it. The board shall hold regular and special meetings at such places and times, in such manner, and after such notice as may be provided by resolution adopted by the board or upon call of the chair.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

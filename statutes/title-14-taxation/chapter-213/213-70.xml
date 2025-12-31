@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.70"/>
+          <FRBRuri value="/us-fl/act/fsa/213.70"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.70/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.70/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.70/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.70/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_70">
+          <num>213.70</num>
+          <heading>Taxpayers’ escrow requirement.</heading>
+          <content>
+            <p>For the purpose of ensuring the continued payment of any taxes, penalties, and interest due the state, the executive director or his or her designee may require a person who is registered to remit sales tax, motor or diesel fuel tax, or any other transaction-based excise tax administered by the department and who has collected and knowingly failed, or repeatedly failed, to remit such taxes in a timely manner or has otherwise failed to comply with the requirements of such tax law to deposit such amount upon receipt into a jointly controlled escrow account, subject to conditions provided by the department.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

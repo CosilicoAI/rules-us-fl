@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.179"/>
+          <FRBRuri value="/us-fl/act/fsa/215.179"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.179/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.179/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.179/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.179/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_179">
+          <num>215.179</num>
+          <heading>Solicitation of payment.</heading>
+          <content>
+            <p>An owner of a public building or the owner’s employee may not seek, accept, or solicit any payment or other form of consideration for providing the written allocation letter described in s. 179D(d)(4) of the Internal Revenue Code and Internal Revenue Service (IRS) Notice 2008-40. An allocation letter must be signed and returned to the architect, engineer, or contractor within 15 days after written request. The architect, engineer, or contractor shall file the allocation request with the Department of Financial Services. This section is effective until the Internal Revenue Service supersedes s. 3 of IRS Notice 2008-40 and materially modifies the allocation process therein.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

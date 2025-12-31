@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.19782"/>
+          <FRBRuri value="/us-fl/act/fsa/196.19782"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.19782/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.19782/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.19782/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.19782/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_19782">
+          <num>196.19782</num>
+          <heading>Exemption for affordable housing on governmental property.</heading>
+          <content>
+            <p>As used in this section, the term:</p>
+          </content>
+          <subsection eId="196_19782__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As used in this section, the term:</p>
+            </content>
+            <paragraph eId="196_19782__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Governmental entity” means a state government body or agency, a political subdivision, or the Federal Government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_19782__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Newly constructed” means an improvement to real property which was substantially completed after July 1, 2025, and within 5 years before the date of an applicant’s first request for an exemption pursuant to this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_19782__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Substantially completed” has the same meaning as in s.192.042(1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_19782__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding ss.196.195and196.196, portions of property in a multifamily project are considered property used for a charitable purpose and are eligible to receive an ad valorem property tax exemption if such portions meet all of the following conditions:</p>
+            </content>
+            <paragraph eId="196_19782__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Provide affordable housing to natural persons or families meeting the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s.420.0004.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_19782__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Are within a newly constructed multifamily project that contains more than 70 units dedicated to housing natural persons or families meeting the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s.420.0004.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_19782__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Are located on real property owned by a governmental entity and subject to a lease or restrictive use agreement recorded in the official records of the county in which the property is located that requires the property to be leased for at least 30 years from the governmental entity for the purpose of, and predominantly used for, providing housing to natural persons or families meeting the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s.420.0004.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_19782__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The property appraiser shall exempt the assessed value of the units in multifamily projects that meet the requirements of this section. When determining the value of a unit for purposes of applying an exemption under this section, the property appraiser must include in such valuation the proportionate share of the residential common areas, including the land, fairly attributable to such unit.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19782__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>To be eligible to receive an exemption under this section, a lessee must submit an application on a form prescribed by the Department of Revenue by March 1 for the exemption. The property appraiser shall review the application and determine whether the applicant meets all of the requirements of this section and is entitled to an exemption. A property appraiser may request and review additional information necessary to make such determination.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19782__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Property that does not provide at least 70 units of affordable housing to natural persons or families meeting the income limits specified in this section on January 1 of any year is no longer eligible for this exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19782__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If the property appraiser determines that for any year during the immediately previous 10 years a person who was not entitled to an exemption under this section was granted such an exemption, the property appraiser must serve upon such person a notice of intent to record in the public records of the county a notice of tax lien against any property owned by that person in the county, and that property must be identified in the notice of tax lien. Any property owned by the taxpayer and situated in this state is subject to the taxes exempted by the improper exemption, plus a penalty of 50 percent of the unpaid taxes for each year and interest at a rate of 15 percent per annum. If an exemption is improperly granted as a result of a clerical mistake or an omission by the property appraiser, the property owner improperly receiving the exemption may not be assessed a penalty or interest.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19782__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>This section first applies to the 2026 tax roll and is repealed December 31, 2061.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

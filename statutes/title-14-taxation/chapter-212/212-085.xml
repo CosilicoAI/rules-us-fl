@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.085"/>
+          <FRBRuri value="/us-fl/act/fsa/212.085"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.085/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.085/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.085/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.085/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_085">
+          <num>212.085</num>
+          <heading>Fraudulent claim of exemption; penalties.</heading>
+          <content>
+            <p>When any person shall fraudulently, for the purpose of evading tax, issue to a vendor or to any agent of the state a certificate or statement in writing in which he or she claims exemption from sales tax, such person, in addition to being liable for payment of the tax plus a mandatory penalty of 200 percent of the tax, shall be liable for fine and punishment as provided by law for a conviction of a felony of the third degree, as provided in s.775.082, s.775.083, or s.775.084.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

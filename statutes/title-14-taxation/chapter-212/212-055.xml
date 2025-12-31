@@ -1,0 +1,448 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.055"/>
+          <FRBRuri value="/us-fl/act/fsa/212.055"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.055/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.055/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.055/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.055/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_055">
+          <num>212.055</num>
+          <heading>Discretionary sales surtaxes; legislative intent; authorization and use of proceeds.</heading>
+          <content>
+            <p>It is the legislative intent that any authorization for imposition of a discretionary sales surtax shall be published in the Florida Statutes as a subsection of this section, irrespective of the duration of the levy. Each enactment shall specify the types of counties authorized to levy; the rate or rates which may be imposed; the maximum length of time the surtax may be imposed, if any; the procedure which must be followed to secure voter approval, if required; the purpose for which the proceeds may be expended; and such other requirements as the Legislature may provide. Taxable transactions and administrative procedures shall be as provided in s.212.054.</p>
+          </content>
+          <subsection eId="212_055__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>CHARTER COUNTY AND REGIONAL TRANSPORTATION SYSTEM SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each charter county that has adopted a charter, each county the government of which is consolidated with that of one or more municipalities, and each county that is within or under an interlocal agreement with a regional transportation or transit authority created under chapter 343 or chapter 349 may levy a discretionary sales surtax, subject to approval by a majority vote of the electorate of the county or by a charter amendment approved by a majority vote of the electorate of the county.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The rate shall be up to 1 percent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The proposal to adopt a discretionary sales surtax as provided in this subsection and to create a trust fund within the county accounts must be placed on the ballot in accordance with law and must be approved in a referendum held at a general election in accordance with subsection (10).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as set forth in subparagraph 2., proceeds from the surtax shall be applied to as many or as few of the uses enumerated below in whatever combination the county commission deems appropriate:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>As used in this subsection, the term “on-demand transportation services” means transportation provided between flexible points of origin and destination selected by individual users with such service being provided at a time that is agreed upon by the user and the provider of the service and that is not fixed-schedule or fixed-route in nature.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Any discretionary sales surtax levied under this subsection pursuant to a referendum held on or after July 1, 2020, may not be levied for more than 30 years.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>LOCAL GOVERNMENT INFRASTRUCTURE SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing authority in each county may levy a discretionary sales surtax of 0.5 percent or 1 percent. The levy of the surtax shall be pursuant to ordinance enacted by a majority of the members of the county governing authority and approved by a majority of the electors of the county voting in a referendum on the surtax. If the governing bodies of the municipalities representing a majority of the county’s population adopt uniform resolutions establishing the rate of the surtax and calling for a referendum on the surtax, the levy of the surtax shall be placed on the ballot and shall take effect if approved by a majority of the electors of the county voting in the referendum on the surtax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement which includes a brief general description of the projects to be funded by the surtax and which conforms to the requirements of s.101.161shall be placed on the ballot by the governing authority of any county which enacts an ordinance calling for a referendum on the levy of the surtax or in which the governing bodies of the municipalities representing a majority of the county’s population adopt uniform resolutions calling for a referendum on the surtax. The following question shall be placed on the ballot:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>School districts, counties, and municipalities receiving proceeds under the provisions of this subsection may pledge such proceeds for the purpose of servicing new bond indebtedness incurred pursuant to law. Local governments may use the services of the Division of Bond Finance of the State Board of Administration pursuant to the State Bond Act to issue any bonds through the provisions of this subsection. Counties and municipalities may join together for the issuance of bonds authorized by this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding paragraph (d), a county that has a population of 50,000 or less on April 1, 1992, or any county designated as an area of critical state concern on the effective date of this act, and that imposed the surtax before July 1, 1992, may use the proceeds and interest of the surtax for any public purpose if:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding paragraph (d), a county having a population greater than 75,000 in which the taxable value of real property is less than 60 percent of the just value of real property for ad valorem tax purposes for the tax year in which an infrastructure surtax referendum is placed before the voters, and the municipalities within such a county, may use the proceeds and interest of the surtax for operation and maintenance of parks and recreation programs and facilities established with the proceeds of the surtax throughout the duration of the surtax levy or while interest earnings accruing from the proceeds of the surtax are available for such use, whichever period is longer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, a county shall not levy local option sales surtaxes authorized in this subsection and subsections (3), (4), and (5) in excess of a combined rate of 1 percent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>SMALL COUNTY SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing authority in each county that has a population of 50,000 or less on April 1, 1992, may levy a discretionary sales surtax of 0.5 percent or 1 percent. The levy of the surtax shall be pursuant to ordinance enacted by an extraordinary vote of the members of the county governing authority if the surtax revenues are expended for operating purposes. If the surtax revenues are expended for the purpose of servicing bond indebtedness, the surtax shall be approved by a majority of the electors of the county voting in a referendum on the surtax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement that includes a brief general description of the projects to be funded by the surtax and conforms to the requirements of s.101.161shall be placed on the ballot by the governing authority of any county that enacts an ordinance calling for a referendum on the levy of the surtax for the purpose of servicing bond indebtedness. The following question shall be placed on the ballot:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Pursuant to s.212.054(4), the proceeds of the surtax levied under this subsection shall be distributed to the county and the municipalities within the county in which the surtax was collected, according to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If the surtax is levied pursuant to a referendum, the proceeds of the surtax and any interest accrued thereto may be expended by the school district or within the county and municipalities within the county, or, in the case of a negotiated joint county agreement, within another county, for the purpose of servicing bond indebtedness to finance, plan, and construct infrastructure and to acquire land for public recreation or conservation or protection of natural resources. However, if the surtax is levied pursuant to an ordinance approved by an extraordinary vote of the members of the county governing authority, the proceeds and any interest accrued thereto may be used for operational expenses of any infrastructure or for any public purpose authorized in the ordinance under which the surtax is levied.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A school district, county, or municipality that receives proceeds under this subsection following a referendum may pledge the proceeds for the purpose of servicing new bond indebtedness incurred pursuant to law. Local governments may use the services of the Division of Bond Finance pursuant to the State Bond Act to issue any bonds through the provisions of this subsection. A jurisdiction may not issue bonds pursuant to this subsection more frequently than once per year. A county and municipality may join together to issue bonds authorized by this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, a county shall not levy local option sales surtaxes authorized in this subsection and subsections (2), (4), and (5) in excess of a combined rate of 1 percent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>INDIGENT CARE AND TRAUMA CENTER SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body in each county that has a population of at least 800,000 residents and is not authorized to levy a surtax under subsection (5), may levy, pursuant to an ordinance conditioned to take effect only upon approval by a majority vote of the electors of the county voting in a referendum, a discretionary sales surtax at a rate that may not exceed 0.5 percent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, the governing body in each county the government of which is not consolidated with that of one or more municipalities and which has a population of less than 800,000 residents, may levy, by ordinance subject to approval by a majority of the electors of the county voting in a referendum, a discretionary sales surtax at a rate that may not exceed 0.25 percent for the sole purpose of funding trauma services provided by a trauma center licensed pursuant to chapter 395.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>COUNTY PUBLIC HOSPITAL SURTAX.—Any county as defined in s.125.011(1) may levy the surtax authorized in this subsection pursuant to an ordinance either approved by extraordinary vote of the county commission or conditioned to take effect only upon approval by a majority vote of the electors of the county voting in a referendum. In a county as defined in s.125.011(1), for the purposes of this subsection, “county public general hospital” means a general hospital as defined in s.395.002which is owned, operated, maintained, or governed by the county or its agency, authority, or public health trust.</p>
+            </content>
+            <paragraph eId="212_055__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The rate shall be 0.5 percent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the ordinance is conditioned on a referendum, the proposal to adopt the county public hospital surtax shall be placed on the ballot in accordance with subsection (10). The referendum question on the ballot shall include a brief general description of the health care services to be funded by the surtax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Proceeds from the surtax shall be:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Except as provided in subparagraphs 1. and 2., the county must continue to contribute each year an amount equal to at least 80 percent of that percentage of the total county budget appropriated for the operation, administration, and maintenance of the county public general hospital from the county’s general revenues in the fiscal year of the county ending September 30, 1991:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A governing board, agency, or authority shall be chartered by the county commission upon this act becoming law. The governing board, agency, or authority shall adopt and implement a health care plan for indigent health care services. The governing board, agency, or authority shall consist of no more than seven and no fewer than five members appointed by the county commission. The members of the governing board, agency, or authority shall be at least 18 years of age and residents of the county. No member may be employed by or affiliated with a health care provider or the public health trust, agency, or authority responsible for the county public general hospital. The following community organizations shall each appoint a representative to a nominating committee: the South Florida Hospital and Healthcare Association, the Miami-Dade County Public Health Trust, the Dade County Medical Association, the Miami-Dade County Homeless Trust, and the Mayor of Miami-Dade County. This committee shall nominate between 10 and 14 county citizens for the governing board, agency, or authority. The slate shall be presented to the county commission and the county commission shall confirm the top five to seven nominees, depending on the size of the governing board. Until such time as the governing board, agency, or authority is created, the funds provided for in subparagraph (d)2. shall be placed in a restricted account set aside from other county funds and not disbursed by the county for any other purpose.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_5__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, a county may not levy local option sales surtaxes authorized in this subsection and subsections (2) and (3) in excess of a combined rate of 1 percent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>SCHOOL CAPITAL OUTLAY SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The school board in each county may levy, pursuant to resolution conditioned to take effect only upon approval by a majority vote of the electors of the county voting in a referendum, a discretionary sales surtax at a rate that may not exceed 0.5 percent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The resolution must include a statement that provides a brief and general description of the school capital outlay projects to be funded by the surtax. The resolution must include a statement that the revenues collected must be shared with eligible charter schools based on their proportionate share of the total school district enrollment. The statement must conform to the requirements of s.101.161and shall be placed on the ballot by the governing body of the county. The following question shall be placed on the ballot:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The resolution providing for the imposition of the surtax must set forth a plan for use of the surtax proceeds for fixed capital expenditures or fixed capital costs associated with the construction, reconstruction, or improvement of school facilities and campuses which have a useful life expectancy of 5 or more years, and any land acquisition, land improvement, design, and engineering costs related thereto, or any purchase, lease-purchase, lease, or maintenance of school buses, as defined in s.1006.25, which have a life expectancy of 5 years or more. Additionally, the plan shall include the costs of retrofitting and providing for technology implementation, including hardware and software, for the various sites within the school district. Surtax revenues may be used to service bond indebtedness to finance projects authorized by this subsection, and any interest accrued thereto may be held in trust to finance such projects. Neither the proceeds of the surtax nor any interest accrued thereto shall be used for operational expenses. Surtax revenues shared with charter schools shall be shared based on their proportionate share of total school district capital outlay full-time equivalent enrollment as adopted by the education estimating conference established in s.216.136and expended by the charter school in a manner consistent with the allowable uses set forth in s.1013.62(4). All revenues and expenditures shall be accounted for in a charter school’s monthly or quarterly financial statement pursuant to s.1002.33(9). The eligibility of a charter school to receive funds under this subsection shall be determined in accordance with s.1013.62(1). If a school’s charter is not renewed or is terminated and the school is dissolved under the provisions of law under which the school was organized, any unencumbered funds received under this subsection shall revert to the sponsor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Surtax revenues collected by the Department of Revenue pursuant to this subsection shall be distributed to the school board imposing the surtax in accordance with law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>VOTER-APPROVED INDIGENT CARE SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body in each county that has a population of fewer than 800,000 residents may levy an indigent care surtax pursuant to an ordinance conditioned to take effect only upon approval by a majority vote of the electors of the county voting in a referendum. The surtax may be levied at a rate not to exceed 0.5 percent, except that if a publicly supported medical school is located in the county, the rate shall not exceed 1 percent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A statement that includes a brief and general description of the purposes to be funded by the surtax and that conforms to the requirements of s.101.161shall be placed on the ballot by the governing body of the county. The following questions shall be placed on the ballot:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The ordinance adopted by the governing body providing for the imposition of the surtax must set forth a plan for providing health care services to qualified residents, as defined in paragraph (d). The plan and subsequent amendments to it shall fund a broad range of health care services for indigent persons and the medically poor, including, but not limited to, primary care and preventive care, as well as hospital care. It shall emphasize a continuity of care in the most cost-effective setting, taking into consideration a high quality of care and geographic access. Where consistent with these objectives, it shall include, without limitation, services rendered by physicians, clinics, community hospitals, mental health centers, and alternative delivery sites, as well as at least one regional referral hospital where appropriate. It shall provide that agreements negotiated between the county and providers shall include reimbursement methodologies that take into account the cost of services rendered to eligible patients, recognize hospitals that render a disproportionate share of indigent care, provide other incentives to promote the delivery of charity care, and require cost containment, including, but not limited to, case management. The plan must also include innovative health care programs that provide cost-effective alternatives to traditional methods of service delivery and funding.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For the purpose of this subsection, the term “qualified residents” means residents of the authorizing county who are:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_7__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Moneys collected pursuant to this subsection remain the property of the state and shall be distributed by the Department of Revenue on a regular and periodic basis to the clerk of the circuit court as ex officio custodian of the funds of the authorizing county. The clerk of the circuit court shall:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_7__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, a county may not levy local option sales surtaxes authorized in this subsection and subsections (2) and (3) in excess of a combined rate of 1 percent or, if a publicly supported medical school is located in the county or the county has a population of fewer than 50,000 residents, in excess of a combined rate of 1.5 percent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>EMERGENCY FIRE RESCUE SERVICES AND FACILITIES SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing authority of a county, other than a county that has imposed two separate discretionary surtaxes without expiration, may, by ordinance, levy a discretionary sales surtax of up to 1 percent for emergency fire rescue services and facilities as provided in this subsection. As used in this subsection, the term “emergency fire rescue services” includes, but is not limited to, preventing and extinguishing fires; protecting and saving life and property from fires or natural or intentional acts or disasters; enforcing municipal, county, or state fire prevention codes and laws pertaining to the prevention and control of fires; and providing prehospital emergency medical treatment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon the adoption of the ordinance, the levy of the surtax must be placed on the ballot by the governing authority of the county enacting the ordinance. The ordinance will take effect if approved by a majority of the electors of the county voting in a referendum held for such purpose. The referendum shall be placed on the ballot of a general election. The ballot for the referendum must conform to the requirements of s.101.161.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Pursuant to s.212.054(4), the proceeds of the discretionary sales surtax collected under this subsection, less an administrative fee that may be retained by the Department of Revenue, shall be distributed by the department to the county. The county shall distribute the proceeds it receives from the department to each local government entity providing emergency fire rescue services in the county. The surtax proceeds, less an administrative fee not to exceed 2 percent of the surtax collected, shall be distributed by the county based on each entity’s average annual expenditures for fire control and emergency fire rescue services in the 5 fiscal years preceding the fiscal year in which the surtax takes effect in proportion to the average annual total of the expenditures for such entities in the 5 fiscal years preceding the fiscal year in which the surtax takes effect. The county shall revise the distribution proportions to reflect a change in the service area of an entity receiving a distribution of the surtax proceeds. If an entity declines its share of surtax revenue, such revenue shall be redistributed proportionally to the entities that are participating in the sharing of such revenue based on each participating entity’s average annual expenditures for fire control and emergency fire rescue services in the preceding 5 fiscal years in proportion to the average annual total of the expenditures for the participating entities in the preceding 5 fiscal years.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_d">
+              <num>(d)</num>
+              <content>
+                <p>If a local government entity requests personnel or equipment from any other service provider on a long-term basis and the personnel or equipment is provided, the local government entity providing the service is entitled to payment from the requesting service provider from that provider’s share of the surtax proceeds for all costs of the equipment or personnel.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Upon the surtax taking effect and initiation of collections, each local government entity receiving a share of surtax proceeds shall reduce the ad valorem tax levy or any non-ad valorem assessment for fire control and emergency rescue services in its next and subsequent budgets by the estimated amount of revenue provided by the surtax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Use of surtax proceeds authorized under this subsection does not relieve a local government entity from complying with chapter 200 and any related provision of law that establishes millage caps or limits undesignated budget reserves and procedures for establishing rollback rates for ad valorem taxes and budget adoption. If surtax collections exceed projected collections in any fiscal year, any surplus distribution shall be used to further reduce ad valorem taxes in the next fiscal year. These proceeds shall be applied as a rebate to the final millage, after the TRIM notice is completed in accordance with this provision. If a local government entity receiving a share of the surtax is unable to further reduce ad valorem taxes because the millage rate is zero, the funds shall be applied to reduce any non-ad valorem assessments levied for the purposes described in this section. If no ad valorem or non-ad valorem reduction is possible, the surplus surtax collections shall be returned to the county, and the county shall reduce the county millage rates to offset the surplus surtax proceeds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Surtax collections shall be initiated on January 1 of the year following a successful referendum in order to coincide with s.212.054(5).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_8__para_h">
+              <num>(h)</num>
+              <content>
+                <p>Notwithstanding s.212.054, if a multicounty independent special district created pursuant to chapter 67-764, Laws of Florida, levies ad valorem taxes on district property to fund emergency fire rescue services within the district and is required by s. 2, Art. VII of the State Constitution to maintain a uniform ad valorem tax rate throughout the district, the county may not levy the discretionary sales surtax authorized by this subsection within the boundaries of the district.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>PENSION LIABILITY SURTAX.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The governing body of a county may levy a pension liability surtax to fund an underfunded defined benefit retirement plan or system, pursuant to an ordinance conditioned to take effect upon approval by a majority vote of the electors of the county voting in a referendum, at a rate that may not exceed 0.5 percent. The county may not impose a pension liability surtax unless the underfunded defined benefit retirement plan or system is below 80 percent of actuarial funding at the time the ordinance or referendum is passed. The most recent actuarial report submitted to the Department of Management Services pursuant to s.112.63must be used to establish the level of actuarial funding for purposes of determining eligibility to impose the surtax. The governing body of a county may only impose the surtax if:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A referendum to adopt a pension liability surtax must meet the requirements of s.101.161and must include a brief and general description of the purposes for which the surtax proceeds will be used.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Pursuant to s.212.054(4), the proceeds of the surtax collected under this subsection, less an administrative fee that may be retained by the department, shall be distributed by the department to the local government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_9__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The local government may use the pension liability surtax proceeds in the following manner:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_9__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The ordinance providing for the imposition of the pension liability surtax must specify how the proceeds will be used:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_9__para_f">
+              <num>(f)</num>
+              <content>
+                <p>A pension liability surtax imposed pursuant to this subsection shall terminate on December 31 of the year in which the actuarial funding level is expected to reach or exceed 100 percent for the defined benefit retirement plan or system for which the surtax was levied or December 31, 2060, whichever occurs first. The most recent actuarial report submitted to the Department of Management Services pursuant to s.112.63must be used to establish the level of actuarial funding.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_9__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding any other provision of this section, a county may not levy local option sales surtaxes authorized in this subsection and subsections (2), (3), (4), and (5) in excess of a combined rate of 1 percent.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>DATES FOR REFERENDA.—A referendum to adopt, amend, or reenact a local government discretionary sales surtax under this section must be held at a general election as defined in s.97.021. A referendum to reenact an expiring surtax must be held at a general election occurring within the 48-month period immediately preceding the effective date of the reenacted surtax. Such a referendum may appear on the ballot only once within the 48-month period.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_055__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>PERFORMANCE AUDIT.—</p>
+            </content>
+            <paragraph eId="212_055__subsec_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>To adopt a discretionary sales surtax under this section, an independent certified public accountant licensed pursuant to chapter 473 shall conduct a performance audit of the program associated with the proposed surtax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>At least 180 days before the referendum is held, the county or school district shall provide a copy of the final resolution or ordinance to the Office of Program Policy Analysis and Government Accountability.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of this subsection, the term “performance audit” means an examination of the program conducted according to applicable government auditing standards or auditing and evaluation standards of other appropriate authoritative bodies. At a minimum, a performance audit must include an examination of issues related to the following:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_055__subsec_11__para_d">
+              <num>(d)</num>
+              <content>
+                <p>This subsection does not apply to a referendum held to adopt the same discretionary surtax that was in place during the month of December immediately before the date of the referendum.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_055__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>REDUCTION OR REPEAL OF SURTAX.—Beginning on October 1 of the fourth year a surtax is levied under this section, the governing board or school board that levies such surtax may, by ordinance or resolution that is approved by a two-thirds vote of the governing board or school board, reduce the surtax to any rate allowable under this chapter or repeal the surtax in its entirety. Any reduction or repeal shall take effect on the January 1 following approval of the ordinance or resolution reducing the rate of or repealing a surtax under this subsection unless January 1 of a later year is specified in the ordinance or resolution. This subsection does not apply to a surtax that is subject to an expiration date specified in the ordinance or resolution imposing or reenacting the tax. This subsection applies to any surtax in effect on July 1, 2025, or adopted thereafter, if the surtax does not have a specified expiration date.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.35"/>
+          <FRBRuri value="/us-fl/act/fsa/215.35"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.35/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.35/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.35/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.35/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_35">
+          <num>215.35</num>
+          <heading>State funds; warrants and their issuance.</heading>
+          <content>
+            <p>All warrants issued by the Chief Financial Officer shall be numbered in a manner that uniquely identifies each warrant for audit and reconciliation purposes. Each warrant shall state the name of the payee thereof and the amount allowed, and said warrant shall be stated in words at length. No warrant shall issue until same has been authorized by an appropriation made by law but such warrant need not state or set forth such authorization. The Chief Financial Officer shall register and maintain a record of each warrant in his or her office. The record shall show the funds, accounts, purposes, and departments involved in the issuance of each warrant. In those instances where the expenditure of funds of regulatory boards or commissions has been provided for by laws other than the annual appropriations bill, warrants shall be issued upon requisition to the Chief Financial Officer by the governing body of such board or commission.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

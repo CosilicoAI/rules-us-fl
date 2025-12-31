@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/219.201"/>
+          <FRBRuri value="/us-fl/act/fsa/219.201"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/219.201/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/219.201/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/219.201/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/219.201/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>Chapter 219</num>
+        <heading>County Public Money, Handling by State and County</heading>
+        <section eId="sec_219_201">
+          <num>219.201</num>
+          <heading>Handling of public funds.</heading>
+          <content>
+            <p>No public funds shall be retained in the custody of the supervisor in an amount in excess of the burglary, theft, and robbery insurance coverage for that office; the cost of that insurance coverage is authorized as an expense of the office. No funds shall be retained in a depository in amounts in excess of the federal deposit insurance limits. The title of the depository account shall include the words “Supervisor of Elections” and the name of the county from which that officer was elected. Withdrawals from that account shall be made on checks or warrants signed by the duly qualified and acting supervisor of elections of the county, or the supervisor’s properly designated deputy or agent, except in those instances when the supervisor elects to have the clerk sign the checks or warrants.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

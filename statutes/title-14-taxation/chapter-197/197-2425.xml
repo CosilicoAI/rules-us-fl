@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.2425"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2425"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.2425/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2425/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.2425/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2425/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_2425">
+          <num>197.2425</num>
+          <heading>Appeal of denied tax deferral.</heading>
+          <content>
+            <p>An appeal of a denied tax deferral must be made by the property owner to the value adjustment board on a form prescribed by the department and furnished by the tax collector. The appeal must be filed with the value adjustment board within 30 days after the mailing of the notice of disapproval. The value adjustment board shall review the application and the evidence presented to the tax collector and, at the election of the applicant, must hear the applicant in person, or by agent on the applicant’s behalf, on his or her right to tax deferral. The value adjustment board shall reverse the decision of the tax collector and grant a tax deferral, if in its judgment the applicant is entitled to the tax deferral, or must affirm the decision of the tax collector. An action by the value adjustment board is final unless the applicant or tax collector files a de novo proceeding for a declaratory judgment or other appropriate proceeding in the circuit court of the county in which the property is located within 15 days after the date of the decision.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

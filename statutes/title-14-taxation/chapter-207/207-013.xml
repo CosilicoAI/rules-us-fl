@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.013"/>
+          <FRBRuri value="/us-fl/act/fsa/207.013"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.013/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.013/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.013/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.013/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_013">
+          <num>207.013</num>
+          <heading>Suits for collection of unpaid taxes, penalties, and interest.</heading>
+          <content>
+            <p>Upon demand of the department, the Department of Legal Affairs or the state attorney for a judicial circuit shall bring appropriate actions, in the name of the state or in the name of the Department of Highway Safety and Motor Vehicles in the capacity of its office, for the recovery of taxes, penalties, and interest due under this chapter; and judgment shall be rendered for the amount so found to be due together with costs. However, if it shall be found as a fact that such claim for, or grant of, an exemption or credit was willful on the part of any motor carrier, retail dealer, or distributor of diesel fuel or motor fuel, judgment shall be rendered for double the amount of the tax found to be due with costs. The department may employ an attorney at law to institute and prosecute proper proceedings to enforce payment of the taxes, penalties, and interest provided for by this chapter and may fix the compensation for the services of such attorney at law.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

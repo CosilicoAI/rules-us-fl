@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.04"/>
+          <FRBRuri value="/us-fl/act/fsa/212.04"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.04/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.04/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.04/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.04/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_04">
+          <num>212.04</num>
+          <heading>Admissions tax; rate, procedure, enforcement.</heading>
+          <content>
+            <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who sells or receives anything of value by way of admissions.</p>
+          </content>
+          <subsection eId="212_04__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who sells or receives anything of value by way of admissions.</p>
+            </content>
+            <paragraph eId="212_04__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who sells or receives anything of value by way of admissions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_04__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For the exercise of such privilege, a tax is levied at the rate of 6 percent of sales price, or the actual value received from such admissions, which 6 percent shall be added to and collected with all such admissions from the purchaser thereof, and such tax shall be paid for the exercise of the privilege as defined in the preceding paragraph. Each ticket must show on its face the actual sales price of the admission, or each dealer selling the admission must prominently display at the box office or other place where the admission charge is made a notice disclosing the price of the admission, and the tax shall be computed and collected on the basis of the actual price of the admission charged by the dealer. The sale price or actual value of admission shall, for the purpose of this chapter, be that price remaining after deduction of federal taxes and state or locally imposed or authorized seat surcharges, taxes, or fees, if any, imposed upon such admission. The sale price or actual value does not include separately stated ticket service charges that are imposed by a facility ticket office or a ticketing service and added to a separately stated, established ticket price. The rate of tax on each admission shall be according to the algorithm provided in s.212.12.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_04__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The provisions of this chapter that authorize a tax-exempt sale for resale do not apply to sales of admissions. However, if a purchaser of an admission subsequently resells the admission for more than the amount paid, the purchaser shall collect tax on the full sales price and may take credit for the amount of tax previously paid. If the purchaser of the admission subsequently resells it for an amount equal to or less than the amount paid, the purchaser may not collect any additional tax, nor shall the purchaser be allowed to take credit for the amount of tax previously paid.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_04__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>No additional tax is due on components incorporated as part of a package sold by a travel agent if the package includes two or more components such as admissions, transient rentals, transportation, or meals; if all of the components were purchased by the travel agent from other parties and any sales tax due on such purchases was paid; and if there is no separate itemization of the admission, transient rental, transportation, meal, or other components in the sales price of the package. This paragraph does not apply if the actual price charged for a component by the dealer to a travel agent is less than the price charged to unrelated parties under normal industry practices and the dealer and the travel agent are members of the same controlled group of corporations for federal income tax purposes.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_04__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A tax may not be levied on:</p>
+            </content>
+            <paragraph eId="212_04__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>A tax may not be levied on:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_04__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>No municipality of the state shall levy an excise tax on admissions.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_04__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The taxes imposed by this section shall be collected in addition to the admission tax collected pursuant to s.550.0951, but the amount collected under s.550.0951shall not be subject to taxation under this chapter.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_04__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Such taxes shall be paid and remitted at the same time and in the same manner as provided for remitting taxes on sales of tangible personal property, as hereinafter provided. Notwithstanding any other provision of this chapter, the tax on admission to an event at a convention hall, exhibition hall, auditorium, stadium, theater, arena, civic center, performing arts center, or publicly owned recreational facility shall be collected at the time of payment for the admission but is not due to the department until the first day of the month following the actual date of the event for which the admission is sold and becomes delinquent on the 21st day of that month.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_04__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each person who exercises the privilege of charging admission taxes, as herein defined, shall apply for, and at that time shall furnish the information and comply with the provisions of s.212.18not inconsistent herewith and receive from the department, a certificate of right to exercise such privilege, which certificate shall apply to each place of business where such privilege is exercised and shall be in the manner and form prescribed by the department. Such certificate shall be issued upon payment to the department of a registration fee of $5 by the applicant. Each person exercising the privilege of charging such admission taxes as herein defined shall cause to be kept records and accounts showing the admission which shall be in the form as the department may from time to time prescribe, inclusive of records of all tickets numbered and issued for a period of not less than the time within which the department may, as permitted by s.95.091(3), make an assessment with respect to any admission evidenced by such records and accounts, and inclusive of all bills or checks of customers who are charged any of the taxes defined herein, showing the charge made to each for that period. The department is empowered to use each and every one of the powers granted herein to the department to discover the amount of tax to be paid by each such person and to enforce the payment thereof as are hereby granted the department for the discovery and enforcement of the payment of taxes hereinafter levied on the sales of tangible personal property.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_04__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>All of the provisions of this chapter relating to collection, investigation, discovery, and aids to collection of taxes upon sales of tangible personal property shall likewise apply to all privileges described or referred to in this section, and the obligations imposed in this chapter upon retailers are hereby imposed upon the seller of such admissions. All penalties applicable to a dealer in tangible personal property for failure to meet any such obligation, including, but not limited to, any failure related to the filing of returns, the payment of taxes, or the maintenance and production of records, are applicable to the seller of admissions. When tickets or admissions are sold and not used but returned and credited by the seller, the seller may apply to the department for a credit allowance for such returned tickets or admissions if advance payments have been made by the buyer and have been returned by the seller, upon such form and in such manner as the department may from time to time prescribe. The department may, upon obtaining satisfactory proof of the refunds on the part of the seller, credit the seller for taxes paid upon admissions that have been returned unused to the purchaser of those admissions. The seller of admissions, upon the payment of the taxes before they become delinquent and the rendering of the returns in accordance with the requirement of the department and as provided in this law, shall be entitled to a discount of 2.5 percent of the amount of taxes upon the payment thereof before such taxes become delinquent, in the same manner as permitted the sellers of tangible personal property in this chapter. However, if the amount of the tax due and remitted to the department for the reporting period exceeds $1,200, no discount shall be allowed for all amounts in excess of $1,200.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_04__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Admission taxes required to be paid by this chapter shall be paid to the department by the owner or the collector of such admission. When any place of business is sold or transferred by any owner, wherein such admission taxes have accrued or are accruing, such owner shall be obligated before such sale becomes effective to notify the department of such pending sale and secure from the department a certificate of registration as prescribed in this section, and the purchaser shall become obligated to withhold from the sales price such sum of money as will safely be required to discharge all accrued admission taxes upon such places of business. Upon the failure of any such purchaser to withhold, he or she shall become obligated to pay all accrued admission taxes, and the same shall become a lien upon all of the purchaser’s assets until the same have been paid and fully discharged.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_04__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The taxes under this section shall become a lien upon the assets of the owner of any business exercising the privilege of selling admissions, and the collection of such admissions, as defined hereunder, and shall remain a lien until fully paid and discharged. Such lien may be enforced in the manner provided hereinafter for the enforcement of the collection of taxes imposed upon the sales of tangible personal property.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_04__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>The word “owners” as used in this chapter shall be taken to include and mean all persons obligated to collect and pay over to the state the tax imposed under this section, inclusive of all holders of certificates of registration issued as herein provided. Wherever the word “owner” or “owners” is used herein, it shall be taken to mean and include all persons liable for such admission taxes unless it appears from the context that the words are descriptive of property owners.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

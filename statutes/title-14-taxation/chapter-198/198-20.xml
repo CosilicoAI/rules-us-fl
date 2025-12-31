@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.20"/>
+          <FRBRuri value="/us-fl/act/fsa/198.20"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.20/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.20/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.20/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.20/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_20">
+          <num>198.20</num>
+          <heading>Failure to pay tax when due, department’s warrant, etc.</heading>
+          <content>
+            <p>If any tax imposed by this chapter or any portion of such tax be unpaid within 90 days after the same becomes due, and the time for payment be not extended, the department shall issue a warrant directed to the sheriff of any county of the state in which the estate or any part thereof may be situated, commanding the sheriff to levy upon and sell the real and personal property of such estate found within his or her county, for the payment of the amount thereof, with such interest and penalties, if any, as may have accrued thereon or been assessed against the same, together with the cost of executing the warrant, and to return such warrant, to the department and pay to it the money collected by virtue thereof, by a time to be therein specified, not less than 60 days from the date of the warrant. The sheriff thereupon shall proceed upon the same in all respects, with like effect, and in the same manner prescribed by law in respect to executions issued against property upon judgments of a court of record, and shall be entitled to the same fees for services in executing the warrant as are now allowed by law for like services to be collected in the same manner as now provided by law. Alias and pluries warrants may issue from time to time as said department may deem proper until the entire amount of the tax, deficiency, interest, penalties, and costs have been recovered.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

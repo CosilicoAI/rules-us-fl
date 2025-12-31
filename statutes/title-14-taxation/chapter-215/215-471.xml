@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.471"/>
+          <FRBRuri value="/us-fl/act/fsa/215.471"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.471/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.471/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.471/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.471/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_471">
+          <num>215.471</num>
+          <heading>Divestiture by the State Board of Administration; reporting requirements.</heading>
+          <content>
+            <p>The State Board of Administration shall divest any investment under s.121.151and ss.215.44-215.53, and is prohibited from investment in stocks, securities, or other obligations of:</p>
+          </content>
+          <subsection eId="215_471__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The State Board of Administration shall divest any investment under s.121.151and ss.215.44-215.53, and is prohibited from investment in stocks, securities, or other obligations of:</p>
+            </content>
+            <paragraph eId="215_471__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Any institution or company domiciled in the United States, or foreign subsidiary of a company domiciled in the United States, doing business in or with Cuba, or with agencies or instrumentalities thereof in violation of federal law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_471__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any institution or company domiciled outside of the United States if the President of the United States has applied sanctions against the foreign country in which the institution or company is domiciled pursuant to s. 4 of the Cuban Democracy Act of 1992.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_471__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Any institution or company domiciled in the United States, or foreign subsidiary of a company domiciled in the United States, doing business in or with the government of Venezuela, or with any agency or instrumentality thereof, in violation of federal law. The term “government of Venezuela” means the government of Venezuela, its agencies or instrumentalities, or any company that is majority-owned or controlled by the government of Venezuela.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_471__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The State Board of Administration may not be a fiduciary under this section with respect to voting on, and may not have the right to vote in favor of, any proxy resolution advocating expanded United States trade with Cuba, Syria, or Venezuela. The board’s staff shall report on its activities in its annual proxy voting report.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

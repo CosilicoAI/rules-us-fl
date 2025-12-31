@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.4754"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4754"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.4754/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4754/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.4754/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.4754/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_4754">
+          <num>215.4754</num>
+          <heading>Ethics requirements for investment advisers and managers and members of the Investment Advisory Council.</heading>
+          <content>
+            <p>The intent of this section is to promote independence and the avoidance of conflicts and improper influence by certain investment advisers and managers without creating unnecessary barriers to the board performing its investment duties consistent with its fiduciary standards, investment performance, and business relationships.</p>
+          </content>
+          <subsection eId="215_4754__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A contract under which an investment adviser or manager has been retained to exercise investment authority on behalf of the board for direct holdings shall require that the investment adviser or manager abide by a standard of conduct pursuant to s.215.4755. Any such contract may be terminated by the board if the investment adviser or manager violates such standard of conduct.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_4754__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An Investment Advisory Council member or any business organization or any affiliate thereof that is owned by or employs such member may not directly or indirectly contract with or provide any services for the investment of trust funds invested by the board during the time of such member’s service on the council or for 2 years thereafter.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

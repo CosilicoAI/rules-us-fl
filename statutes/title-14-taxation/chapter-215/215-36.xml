@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.36"/>
+          <FRBRuri value="/us-fl/act/fsa/215.36"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.36/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.36/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.36/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.36/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_36">
+          <num>215.36</num>
+          <heading>State funds; laws not repealed.</heading>
+          <content>
+            <p>Nothing in ss.215.31-215.32,215.34-215.36shall be construed as repealing ss.215.20and215.22-215.25, inclusive, or as affecting the proceeds of 2 cents per gallon of the total tax levied by state law upon gasoline and other like products of petroleum, now known as the “constitutional fuel tax,” and upon other fuels used to propel motor vehicles, placed in the State Treasury and divided and distributed as required by s. 16, Art. IX of the State Constitution of 1885 as adopted by the State Constitution or by s. 9, Art. XII of the State Constitution.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

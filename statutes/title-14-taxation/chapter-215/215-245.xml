@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.245"/>
+          <FRBRuri value="/us-fl/act/fsa/215.245"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.245/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.245/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.245/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.245/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_245">
+          <num>215.245</num>
+          <heading>Contracts with Federal Government; indemnification authorized in certain circumstances.</heading>
+          <content>
+            <p>The state and its political subdivisions, which are authorized to enter into cooperative agreements or otherwise contract or participate with the Federal Government in constructing water resources development projects under the jurisdiction of the Secretary of the Army, are authorized to agree in such contracts or participation agreements to indemnify and hold harmless the United States from damages due to the construction, operation, maintenance, repair, replacement, and rehabilitation of the projects and any state or local sponsor project-related betterments, except for damages due to the fault or negligence of the United States or its contractors; however, this section does not obligate the Legislature to provide future appropriations and does not abrogate the provisions of s.45.062.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

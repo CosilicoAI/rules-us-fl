@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.165"/>
+          <FRBRuri value="/us-fl/act/fsa/216.165"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.165/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.165/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.165/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.165/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_165">
+          <num>216.165</num>
+          <heading>Governor’s recommended revenues.</heading>
+          <content>
+            <p>The Governor shall recommend revenues for the funds provided for in s.215.32. The recommended revenues shall be sufficient to fund his or her recommended appropriations. Such recommended revenues shall include:</p>
+          </content>
+          <subsection eId="216_165__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Governor’s estimate of revenues from current revenue sources during the current fiscal year and during the next fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_165__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Governor’s estimate of the effect of his or her recommended changes in revenue sources on revenues from current sources.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_165__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The national and state economic assumptions.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_165__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A delineation of revenues from all sources, which delineation identifies those revenues which are recurring and those revenues which are nonrecurring.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

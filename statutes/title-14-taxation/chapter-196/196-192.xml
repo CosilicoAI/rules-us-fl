@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.192"/>
+          <FRBRuri value="/us-fl/act/fsa/196.192"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.192/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.192/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.192/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.192/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_192">
+          <num>196.192</num>
+          <heading>Exemptions from ad valorem taxation.</heading>
+          <content>
+            <p>Subject to the provisions of this chapter:</p>
+          </content>
+          <subsection eId="196_192__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All property owned by an exempt entity, including educational institutions, and used exclusively for exempt purposes shall be totally exempt from ad valorem taxation.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_192__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All property owned by an exempt entity, including educational institutions, and used predominantly for exempt purposes shall be exempted from ad valorem taxation to the extent of the ratio that such predominant use bears to the nonexempt use.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_192__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>All tangible personal property loaned or leased by a natural person, by a trust holding property for a natural person, or by an exempt entity to an exempt entity for public display or exhibition on a recurrent schedule is exempt from ad valorem taxation if the property is loaned or leased for no consideration or for nominal consideration.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

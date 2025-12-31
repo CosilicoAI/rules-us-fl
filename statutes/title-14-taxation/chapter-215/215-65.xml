@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.65"/>
+          <FRBRuri value="/us-fl/act/fsa/215.65"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.65/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.65/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.65/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.65/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_65">
+          <num>215.65</num>
+          <heading>Bond Fee Trust Fund, expenditures; schedule of fees.</heading>
+          <content>
+            <p>There is created a Bond Fee Trust Fund, which shall be maintained as a separate fund. The working capital reserve of this fund for any fiscal year shall never exceed the expenditures of the previous fiscal year. The “working capital reserve” is defined as the amount of cash, investments at cost, and accounts receivable due within 1 year, less the amount of accounts payable due within 1 year, at the end of the current fiscal year. Any moneys in excess of the working capital reserve which remain in the fund at the end of the fiscal year shall be transferred by the division within 120 days to the sinking fund accounts established for the bonds issued by the division during such prior fiscal year and shall be distributed to such accounts on a pro rata basis according to the fees charged for the issuance of such bonds.</p>
+          </content>
+          <subsection eId="215_65__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is created a Bond Fee Trust Fund, which shall be maintained as a separate fund. The working capital reserve of this fund for any fiscal year shall never exceed the expenditures of the previous fiscal year. The “working capital reserve” is defined as the amount of cash, investments at cost, and accounts receivable due within 1 year, less the amount of accounts payable due within 1 year, at the end of the current fiscal year. Any moneys in excess of the working capital reserve which remain in the fund at the end of the fiscal year shall be transferred by the division within 120 days to the sinking fund accounts established for the bonds issued by the division during such prior fiscal year and shall be distributed to such accounts on a pro rata basis according to the fees charged for the issuance of such bonds.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_65__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>All expenses of the division may be paid from such trust fund. Such expenses shall include, but shall not be limited to, costs of validating, printing and delivering the bonds, printing the prospectus, publishing notices of sale of the bonds, salaries of personnel of the division, and necessary administrative expenses.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_65__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The division shall adopt by resolution a schedule of fees and expenses, which may be revised from time to time as conditions warrant, designed so that the Bond Fee Trust Fund will be reimbursed for general administrative expenses of the division as well as all direct out-of-pocket expenses. The fees charged to and all expenses paid for and on behalf of each bond issue shall be paid and reimbursed to the Bond Fee Trust Fund from the proceeds of the sale of the bonds, if such bonds are sold, or from such other source as may be agreed to by the state agency requesting the services of the division, if for any reason the bonds are not sold.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

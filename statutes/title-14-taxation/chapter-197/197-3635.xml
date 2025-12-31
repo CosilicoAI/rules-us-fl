@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.3635"/>
+          <FRBRuri value="/us-fl/act/fsa/197.3635"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.3635/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.3635/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.3635/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.3635/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_3635">
+          <num>197.3635</num>
+          <heading>Combined notice of ad valorem taxes and non-ad valorem assessments; requirements.</heading>
+          <content>
+            <p>A form for the combined notice of ad valorem taxes and non-ad valorem assessments shall be produced and paid for by the tax collector. The form shall meet the requirements of this section and department rules and is subject to approval by the department. By rule, the department shall provide a format for the form of such combined notice. The form shall:</p>
+          </content>
+          <subsection eId="197_3635__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Contain the title “Notice of Ad Valorem Taxes and Non-ad Valorem Assessments.” The form shall also contain a receipt part that can be returned along with the payment to the tax collector.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3635__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Contain the heading “Ad Valorem Taxes” within the ad valorem part and the heading “Non-ad Valorem Assessments” within the non-ad valorem assessment part.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3635__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Contain the county name, the assessment year, the mailing address of the tax collector, the mailing address of one property owner, the legal description of the property to at least 25 characters, and the unique parcel or tax identification number of the property.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3635__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Provide for the labeled disclosure of the total amount of combined levies and the total discounted amount due each month when paid in advance.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3635__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Provide a field or portion on the front of the notice for official use for data to reflect codes useful to the tax collector.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3635__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Provide for the combined notice to be set in type that is 8 points or larger.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_3635__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Contain within the ad valorem part:</p>
+            </content>
+            <paragraph eId="197_3635__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A schedule of the assessed value, exempted value, and taxable value of the property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Subheadings for columns listing taxing authorities, corresponding millage rates expressed in dollars and cents per $1,000 of taxable value, and the associated tax.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A listing of taxing authorities in the same sequence and manner as listed on the notice required by s.200.069(4)(a), with the exception that independent special districts, municipal service taxing districts, and voted debt service millages for each taxing authority shall be listed separately. If a county has too many municipal service taxing units to list separately, it shall combine them to disclose the total number of such units and the amount of taxes levied.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_3635__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Contain within the non-ad valorem assessment part:</p>
+            </content>
+            <paragraph eId="197_3635__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Subheadings for columns listing the levying authorities, corresponding assessment rates expressed in dollars and cents per unit of assessment, and the associated assessment amount.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The purpose of the assessment, if the purpose is not clearly indicated by the name of the levying authority.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A listing of the levying authorities in the same order as in the ad valorem part to the extent practicable. If a county has too many municipal service benefit units to list separately, it shall combine them by function.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_3635__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>Provide instructions and useful information to the taxpayer. Such information and instructions shall be nontechnical to minimize confusion. The information and instructions required by this section shall be provided by department rule and shall include:</p>
+            </content>
+            <paragraph eId="197_3635__subsec_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Procedures to be followed when the property has been sold or conveyed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Instruction as to mailing the remittance and receipt along with a brief disclosure of the availability of discounts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notification about delinquency and interest for delinquent payment.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_9__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Notification that failure to pay the amounts due will result in a tax certificate being issued against the property.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_3635__subsec_9__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A brief statement outlining the responsibility of the tax collector, the property appraiser, and the taxing authorities. This statement shall be accompanied by directions as to which office to contact for particular questions or problems.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.19781"/>
+          <FRBRuri value="/us-fl/act/fsa/196.19781"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.19781/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.19781/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.19781/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.19781/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_19781">
+          <num>196.19781</num>
+          <heading>Affordable housing exemption for properties owned by this state.</heading>
+          <content>
+            <p>Portions of property used to provide more than 70 units of affordable housing to natural persons or families meeting the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s.420.0004are considered property owned by an exempt entity and used for a charitable purpose and are exempt from ad valorem tax if:</p>
+          </content>
+          <subsection eId="196_19781__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Portions of property used to provide more than 70 units of affordable housing to natural persons or families meeting the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s.420.0004are considered property owned by an exempt entity and used for a charitable purpose and are exempt from ad valorem tax if:</p>
+            </content>
+            <paragraph eId="196_19781__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The land upon which improvements have been made is owned by this state;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_19781__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The property is subject to a lease or restrictive use agreement recorded in the official records of the county in which the property is located which requires the property to be used to provide affordable housing for at least 60 years; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_19781__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The owner or operator of the property applies to receive the exemption each year by March 1.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_19781__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The property appraiser shall apply the exemption to the proportionate share of the residential common areas, including the land, fairly attributable to the portion of the property providing affordable housing under this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19781__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Property that does not provide at least 70 units of affordable housing to natural persons or families meeting the income limits specified in subsection (1) on January 1 of any year is no longer eligible for this exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19781__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The property appraiser shall determine whether the applicant meets all of the requirements of this section and is entitled to an exemption. A property appraiser may request and review additional information necessary to make such determination.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_19781__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If the property appraiser determines that for any year during the immediately previous 10 years a property that was not entitled to an exemption under this section was granted such an exemption, the property appraiser must serve upon the operator a notice of intent to record in the public records of the county a notice of tax lien against any property owned by that operator in the county, and that property must be identified in the notice of tax lien. Any property owned by the operator and situated in this state is subject to the taxes exempted by the improper exemption, plus a penalty of 50 percent of the unpaid taxes for each year and interest at a rate of 15 percent per annum. If an exemption is improperly granted as a result of a clerical mistake or an omission by the property appraiser, the property improperly receiving the exemption may not be assessed a penalty or interest.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

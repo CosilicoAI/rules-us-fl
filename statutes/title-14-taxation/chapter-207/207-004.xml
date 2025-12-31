@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/207.004"/>
+          <FRBRuri value="/us-fl/act/fsa/207.004"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/207.004/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/207.004/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/207.004/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/207.004/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_207">
+        <num>Chapter 207</num>
+        <heading>Tax on Operation of Commercial Motor Vehicles</heading>
+        <section eId="sec_207_004">
+          <num>207.004</num>
+          <heading>Registration of motor carriers; identifying devices; fees; renewals; temporary fuel-use permits and driveaway permits.</heading>
+          <content>
+            <p>No motor carrier shall operate or cause to be operated in this state any commercial motor vehicle, other than a Florida-based commercial motor vehicle that travels Florida intrastate mileage only, that uses diesel fuel or motor fuel until such carrier has registered with the department or has registered under a cooperative reciprocal agreement as described in s.207.0281, after such time as this state enters into such agreement, and has been issued an identifying device or such carrier has been issued a permit as authorized under subsections (4) and (5) for each vehicle operated. There shall be a fee of $4 per year or any fraction thereof for each such identifying device issued. The identifying device shall be provided by the department and must be conspicuously displayed on the commercial motor vehicle as prescribed by the department while it is being operated on the public highways of this state. The transfer of an identifying device from one vehicle to another vehicle or from one motor carrier to another motor carrier is prohibited.</p>
+          </content>
+          <subsection eId="207_004__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No motor carrier shall operate or cause to be operated in this state any commercial motor vehicle, other than a Florida-based commercial motor vehicle that travels Florida intrastate mileage only, that uses diesel fuel or motor fuel until such carrier has registered with the department or has registered under a cooperative reciprocal agreement as described in s.207.0281, after such time as this state enters into such agreement, and has been issued an identifying device or such carrier has been issued a permit as authorized under subsections (4) and (5) for each vehicle operated. There shall be a fee of $4 per year or any fraction thereof for each such identifying device issued. The identifying device shall be provided by the department and must be conspicuously displayed on the commercial motor vehicle as prescribed by the department while it is being operated on the public highways of this state. The transfer of an identifying device from one vehicle to another vehicle or from one motor carrier to another motor carrier is prohibited.</p>
+            </content>
+            <paragraph eId="207_004__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>No motor carrier shall operate or cause to be operated in this state any commercial motor vehicle, other than a Florida-based commercial motor vehicle that travels Florida intrastate mileage only, that uses diesel fuel or motor fuel until such carrier has registered with the department or has registered under a cooperative reciprocal agreement as described in s.207.0281, after such time as this state enters into such agreement, and has been issued an identifying device or such carrier has been issued a permit as authorized under subsections (4) and (5) for each vehicle operated. There shall be a fee of $4 per year or any fraction thereof for each such identifying device issued. The identifying device shall be provided by the department and must be conspicuously displayed on the commercial motor vehicle as prescribed by the department while it is being operated on the public highways of this state. The transfer of an identifying device from one vehicle to another vehicle or from one motor carrier to another motor carrier is prohibited.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_004__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The motor carrier to whom an identifying device has been issued shall be solely responsible for the proper use of the identifying device by its employees, consignees, or lessees.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="207_004__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Identifying devices shall be issued each year for the period January 1 through December 31, or any portion thereof, if tax returns and tax payments, when applicable, have been submitted to the department for prior reporting periods. Identifying devices may be displayed for the next succeeding indicia period beginning December 1 of each year.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_004__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If a motor carrier no longer operates or causes to be operated in this state a commercial motor vehicle, the identifying device shall be destroyed and the motor carrier to whom the device was issued shall notify the department immediately by letter of such removal and of the number of the identifying device that has been destroyed.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_004__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>A motor carrier, before operating a commercial motor vehicle on the public highways of this state, must display an identifying device as required under subsections (1) and (2) or must obtain a temporary fuel-use permit for that vehicle. A temporary fuel-use permit shall expire within 10 days after date of issuance. The cost of a temporary fuel-use permit is $45, and the permit exempts the vehicle from the payment of the motor fuel or diesel fuel tax imposed under this chapter during the term for which the permit is valid. However, the vehicle is not exempt from paying the fuel tax at the pump.</p>
+            </content>
+          </subsection>
+          <subsection eId="207_004__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A registered motor carrier holding a valid certificate of registration may, upon payment of the $45 fee per permit, secure from the department, or any wire service authorized by the department, a temporary fuel-use permit. A blank temporary fuel-use permit, before its use, must be executed by the motor carrier, in ink or type, so as to identify the carrier, the vehicle to which the permit is assigned, and the date that the vehicle is placed in and removed from service. The temporary fuel-use permit shall also show a complete identification of the vehicle on which the permit is to be used, together with the name and address of the owner or lessee of the vehicle. The endorsed temporary fuel-use permit shall then be carried on the vehicle that it identifies and shall be exhibited on demand to any authorized personnel. Temporary fuel-use permits may be transmitted to the motor carrier by electronic means and shall be completed as outlined by department personnel prior to transmittal. The motor carrier to whom a temporary fuel-use permit is issued shall be solely responsible for the proper use of the permit by its employees, consignees, or lessees. Any erasure, alteration, or unauthorized use of a temporary fuel-use permit shall render it invalid and of no effect. A motor carrier to whom a temporary fuel-use permit is issued may not knowingly allow the permit to be used by any other person or organization.</p>
+            </content>
+            <paragraph eId="207_004__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>A registered motor carrier holding a valid certificate of registration may, upon payment of the $45 fee per permit, secure from the department, or any wire service authorized by the department, a temporary fuel-use permit. A blank temporary fuel-use permit, before its use, must be executed by the motor carrier, in ink or type, so as to identify the carrier, the vehicle to which the permit is assigned, and the date that the vehicle is placed in and removed from service. The temporary fuel-use permit shall also show a complete identification of the vehicle on which the permit is to be used, together with the name and address of the owner or lessee of the vehicle. The endorsed temporary fuel-use permit shall then be carried on the vehicle that it identifies and shall be exhibited on demand to any authorized personnel. Temporary fuel-use permits may be transmitted to the motor carrier by electronic means and shall be completed as outlined by department personnel prior to transmittal. The motor carrier to whom a temporary fuel-use permit is issued shall be solely responsible for the proper use of the permit by its employees, consignees, or lessees. Any erasure, alteration, or unauthorized use of a temporary fuel-use permit shall render it invalid and of no effect. A motor carrier to whom a temporary fuel-use permit is issued may not knowingly allow the permit to be used by any other person or organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_004__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>An unregistered motor carrier may, upon payment of the $45 fee, secure from any wire service authorized by the department, by electronic means, a temporary fuel-use permit that shall be valid for a period of 10 days. Such permit must show the name and address of the unregistered motor carrier to whom it is issued, the date the vehicle is placed in and removed from service, a complete identification of the vehicle on which the permit is to be used, and the name and address of the owner or lessee of the vehicle. The temporary fuel-use permit shall then be carried on the vehicle that it identifies and shall be exhibited on demand to any authorized personnel. The unregistered motor carrier to whom a temporary fuel-use permit is issued shall be solely responsible for the proper use of the permit by its employees, consignees, or lessees. Any erasure, alteration, or unauthorized use of a temporary fuel-use permit shall render it invalid and of no effect. The unregistered motor carrier to whom a temporary fuel-use permit is issued may not knowingly allow the permit to be used by any other person or organization.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="207_004__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>A registered motor carrier engaged in driveaway transportation, in which the cargo is the vehicle itself and is in transit to stock inventory and the ownership of the vehicle is not vested in the motor carrier, may, upon payment of the $4 fee, secure from the department a driveaway permit. The driveaway permits shall be issued for the period January 1 through December 31. An original permit must be in the possession of the operator of each vehicle and shall be exhibited on demand to any authorized personnel. Vehicle mileage reports must be submitted by the motor carrier, and the road privilege tax must be paid on all miles operated within this state during the reporting period. All other provisions of this chapter shall apply to the holder of a driveaway permit.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

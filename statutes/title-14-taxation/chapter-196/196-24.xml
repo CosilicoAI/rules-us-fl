@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.24"/>
+          <FRBRuri value="/us-fl/act/fsa/196.24"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.24/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.24/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.24/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.24/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_24">
+          <num>196.24</num>
+          <heading>Exemption for disabled ex-servicemember or surviving spouse; evidence of disability.</heading>
+          <content>
+            <p>Any ex-servicemember, as defined in s.196.012, who is a bona fide resident of the state, who was discharged under honorable conditions, and who has been disabled to a degree of 10 percent or more by misfortune or while serving during a period of wartime service as defined in s.1.01(14) is entitled to the exemption from taxation provided for in s. 3(b), Art. VII of the State Constitution as provided in this section. Property to the value of $5,000 of such a person is exempt from taxation. The production by him or her of a certificate of disability from the United States Government or the United States Department of Veterans Affairs or its predecessor before the property appraiser of the county wherein the ex-servicemember’s property lies is prima facie evidence of the fact that he or she is entitled to the exemption. The unremarried surviving spouse of such a disabled ex-servicemember is also entitled to the exemption.</p>
+          </content>
+          <subsection eId="196_24__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any ex-servicemember, as defined in s.196.012, who is a bona fide resident of the state, who was discharged under honorable conditions, and who has been disabled to a degree of 10 percent or more by misfortune or while serving during a period of wartime service as defined in s.1.01(14) is entitled to the exemption from taxation provided for in s. 3(b), Art. VII of the State Constitution as provided in this section. Property to the value of $5,000 of such a person is exempt from taxation. The production by him or her of a certificate of disability from the United States Government or the United States Department of Veterans Affairs or its predecessor before the property appraiser of the county wherein the ex-servicemember’s property lies is prima facie evidence of the fact that he or she is entitled to the exemption. The unremarried surviving spouse of such a disabled ex-servicemember is also entitled to the exemption.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_24__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>An applicant for the exemption under this section may apply for the exemption before receiving the necessary documentation from the United States Government or the United States Department of Veterans Affairs or its predecessor. Upon receipt of the documentation, the exemption shall be granted as of the date of the original application, and the excess taxes paid shall be refunded. Any refund of excess taxes paid shall be limited to those paid during the 4-year period of limitation set forth in s.197.182(1)(e).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

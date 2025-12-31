@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1978"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1978"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1978/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1978/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1978/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1978/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1978">
+          <num>196.1978</num>
+          <heading>Affordable housing property exemption.</heading>
+          <content>
+            <p>Property used to provide affordable housing to eligible persons as defined by s.159.603and natural persons or families meeting the extremely-low-income, very-low-income, low-income, or moderate-income limits specified in s.420.0004, which is owned entirely by a nonprofit entity that is a corporation not for profit, qualified as charitable under s. 501(c)(3) of the Internal Revenue Code and in compliance with Rev. Proc. 96-32, 1996-1 C.B. 717, is considered property owned by an exempt entity and used for a charitable purpose, and those portions of the affordable housing property that provide housing to natural persons or families classified as extremely low income, very low income, low income, or moderate income under s.420.0004are exempt from ad valorem taxation to the extent authorized under s.196.196. All property identified in this subsection must comply with the criteria provided under s.196.195for determining exempt status and applied by property appraisers on an annual basis. The Legislature intends that any property owned by a limited liability company which is disregarded as an entity for federal income tax purposes pursuant to Treasury Regulation 301.7701-3(b)(1)(ii) be treated as owned by its sole member. If the sole member of the limited liability company that owns the property is also a limited liability company that is disregarded as an entity for federal income tax purposes pursuant to Treasury Regulation 301.7701-3(b)(1)(ii), the Legislature intends that the property be treated as owned by the sole member of the limited liability company that owns the limited liability company that owns the property. Units that are vacant and units that are occupied by natural persons or families whose income no longer meets the income limits of this subsection, but whose income met those income limits at the time they became tenants, shall be treated as portions of the affordable housing property exempt under this subsection if a recorded land use restriction agreement in favor of the Florida Housing Finance Corporation or any other governmental or quasi-governmental jurisdiction requires that all residential units within the property be used in a manner that qualifies for the exemption under this subsection and if the units are being offered for rent.</p>
+          </content>
+          <subsection eId="196_1978__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Notwithstanding ss.196.195and196.196, property in a multifamily project that meets the requirements of this subsection is considered property used for a charitable purpose and is exempt from ad valorem tax beginning with the January 1 assessment after the 15th completed year from the earliest of:</p>
+            </content>
+            <paragraph eId="196_1978__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Notwithstanding ss.196.195and196.196, property in a multifamily project that meets the requirements of this subsection is considered property used for a charitable purpose and is exempt from ad valorem tax beginning with the January 1 assessment after the 15th completed year from the earliest of:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The multifamily project must:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>To receive the exemption under paragraph (a), a qualified applicant must submit an application to the county property appraiser by March 1.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The property appraiser shall apply the exemption to those portions of the affordable housing property that provide housing to natural persons or families meeting the extremely-low-income, very-low-income, or low-income limits specified in s.420.0004before certifying the tax roll to the tax collector.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_1978__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>As used in this subsection, the term:</p>
+            </content>
+            <paragraph eId="196_1978__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>As used in this subsection, the term:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_3__para_o">
+              <num>(o)</num>
+              <content>
+                <p>Beginning with the 2025 tax roll, a taxing authority may elect, upon adoption of an ordinance or resolution approved by a two-thirds vote of the governing body, not to exempt property under sub-subparagraph (d)1.a. located in a county specified pursuant to subparagraph 2., subject to the conditions of this paragraph.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="196_1978__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Notwithstanding ss.196.195and196.196, property in a multifamily project that meets the requirements of this subsection is considered property used for a charitable purpose and is exempt from ad valorem tax beginning with the January 1 assessment immediately succeeding the date the property was placed in service allowing the property to be used as an affordable housing property that provides housing to natural persons or families meeting the extremely-low-income, very-low-income, or low-income limits specified in s.420.0004.</p>
+            </content>
+            <paragraph eId="196_1978__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>Notwithstanding ss.196.195and196.196, property in a multifamily project that meets the requirements of this subsection is considered property used for a charitable purpose and is exempt from ad valorem tax beginning with the January 1 assessment immediately succeeding the date the property was placed in service allowing the property to be used as an affordable housing property that provides housing to natural persons or families meeting the extremely-low-income, very-low-income, or low-income limits specified in s.420.0004.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>To be eligible to receive the exemption under this subsection, the property owner must submit an application to the property appraiser by March 1. The property appraiser shall review the application and determine whether the applicant meets all of the requirements of this subsection and is entitled to an exemption. A property appraiser may request and review additional information necessary to make such determination.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The property appraiser shall apply the exemption to those portions of the affordable housing property that provide housing to natural persons or families meeting the extremely-low-income, very-low-income, or low-income limits specified in s.420.0004before certifying the tax roll to the tax collector.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>If the property appraiser determines that for any year a person who was not entitled to an exemption under this subsection was granted such an exemption, the property appraiser must serve upon the owner a notice of intent to record in the public records of the county a notice of tax lien against any property owned by that person in the county, and that property must be identified in the notice of tax lien. Any property owned by the taxpayer and situated in this state is subject to the taxes exempted by the improper exemption, plus a penalty of 50 percent of the unpaid taxes for each year and interest at a rate of 15 percent per annum. If an exemption is improperly granted as a result of a clerical mistake or an omission by the property appraiser, the property owner improperly receiving the exemption may not be assessed a penalty or interest.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Property receiving an exemption pursuant to subsection (3) or s.196.1979is not eligible for this exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="196_1978__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>This subsection first applies to the 2026 tax roll.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

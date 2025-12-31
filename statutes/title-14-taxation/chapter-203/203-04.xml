@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/203.04"/>
+          <FRBRuri value="/us-fl/act/fsa/203.04"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/203.04/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/203.04/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/203.04/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/203.04/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>Chapter 203</num>
+        <heading>Gross Receipts Taxes</heading>
+        <section eId="sec_203_04">
+          <num>203.04</num>
+          <heading>Construction of laws granting exemptions or exceptions.</heading>
+          <content>
+            <p>No statute or law, general, special, or local hereafter enacted which either directly or indirectly relates to exemptions or exceptions from taxation in this state shall be construed as including or extending to the gross receipts taxes imposed by this chapter unless its application to said chapter, either directly or indirectly, is clearly and specifically expressed and no repeals by implication shall be recognized in this connection. This is a rule of statutory construction to be applied to statutes and laws hereafter enacted.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

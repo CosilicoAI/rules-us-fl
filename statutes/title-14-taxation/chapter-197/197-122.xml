@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.122"/>
+          <FRBRuri value="/us-fl/act/fsa/197.122"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.122/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.122/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.122/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.122/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_122">
+          <num>197.122</num>
+          <heading>Lien of taxes; application.</heading>
+          <content>
+            <p>All taxes imposed pursuant to the State Constitution and laws of this state shall be a first lien, superior to all other liens, on any property against which the taxes have been assessed and shall continue in full force from January 1 of the year the taxes were levied until discharged by payment or until barred under chapter 95. If the property to which the lien applies cannot be located in the county or the sale of the property is insufficient to pay all delinquent taxes, interest, fees, and costs due, a personal property tax lien applies against all other personal property of the taxpayer in the county. However, a lien against other personal property does not apply against property that has been sold and is subordinate to any valid prior or subsequent liens against such other property. An act of omission or commission on the part of a property appraiser, tax collector, board of county commissioners, clerk of the circuit court, or county comptroller, or their deputies or assistants, or newspaper in which an advertisement of sale may be published does not defeat the payment of taxes, interest, fees, and costs due and may be corrected at any time by the party responsible in the same manner as provided by law for performing acts in the first place. Amounts so corrected shall be deemed to be valid ab initio and do not affect the collection of the tax. All owners of property are held to know that taxes are due and payable annually and are responsible for ascertaining the amount of current and delinquent taxes and paying them before April 1 of the year following the year in which taxes are assessed. A sale or conveyance of real or personal property for nonpayment of taxes may not be held invalid except upon proof that:</p>
+          </content>
+          <subsection eId="197_122__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All taxes imposed pursuant to the State Constitution and laws of this state shall be a first lien, superior to all other liens, on any property against which the taxes have been assessed and shall continue in full force from January 1 of the year the taxes were levied until discharged by payment or until barred under chapter 95. If the property to which the lien applies cannot be located in the county or the sale of the property is insufficient to pay all delinquent taxes, interest, fees, and costs due, a personal property tax lien applies against all other personal property of the taxpayer in the county. However, a lien against other personal property does not apply against property that has been sold and is subordinate to any valid prior or subsequent liens against such other property. An act of omission or commission on the part of a property appraiser, tax collector, board of county commissioners, clerk of the circuit court, or county comptroller, or their deputies or assistants, or newspaper in which an advertisement of sale may be published does not defeat the payment of taxes, interest, fees, and costs due and may be corrected at any time by the party responsible in the same manner as provided by law for performing acts in the first place. Amounts so corrected shall be deemed to be valid ab initio and do not affect the collection of the tax. All owners of property are held to know that taxes are due and payable annually and are responsible for ascertaining the amount of current and delinquent taxes and paying them before April 1 of the year following the year in which taxes are assessed. A sale or conveyance of real or personal property for nonpayment of taxes may not be held invalid except upon proof that:</p>
+            </content>
+            <paragraph eId="197_122__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The property was not subject to taxation;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_122__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The taxes were paid before the sale of personal property; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_122__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The real property was redeemed before receipt by the clerk of the court of full payment for a deed based upon a certificate issued for nonpayment of taxes, including all recording fees and documentary stamps.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_122__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A lien created through the sale of a tax certificate may not be foreclosed or enforced in any manner except as prescribed in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_122__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A property appraiser may also correct a material mistake of fact relating to an essential condition of the subject property to reduce an assessment if to do so requires only the exercise of judgment as to the effect of the mistake of fact on the assessed or taxable value of the property.</p>
+            </content>
+            <paragraph eId="197_122__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>As used in this subsection, the term “an essential condition of the subject property” means a characteristic of the subject parcel, including only:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_122__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The material mistake of fact may be corrected by the property appraiser, in the same manner as provided by law for performing the act in the first place only within 1 year after the approval of the tax roll pursuant to s.193.1142. If corrected, the tax roll becomes valid ab initio and does not affect the enforcement of the collection of the tax. If the correction results in a refund of taxes paid on the basis of an erroneous assessment included on the current year’s tax roll, the property appraiser may request the department to pass upon the refund request pursuant to s.197.182or may submit the correction and refund order directly to the tax collector in accordance with the notice provisions of s.197.182(2). Corrections to tax rolls for previous years which result in refunds must be made pursuant to s.197.182.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

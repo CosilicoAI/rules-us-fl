@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.28"/>
+          <FRBRuri value="/us-fl/act/fsa/198.28"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.28/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.28/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.28/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.28/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_28">
+          <num>198.28</num>
+          <heading>Time for assessment of tax.</heading>
+          <content>
+            <p>The amount of estate tax due under this chapter shall be determined and assessed within 4 years from the date the return was filed, or within a period expiring 90 days after the last day on which the assessment of a deficiency in federal estate tax may lawfully be made under applicable provisions of the Internal Revenue Laws of the United States, whichever date last occurs, and no suit or other proceedings for the collection of any tax due under this chapter shall be begun after such date; provided, however, that in the case of a false or fraudulent return or of a failure to file a return, the tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

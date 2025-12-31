@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.196"/>
+          <FRBRuri value="/us-fl/act/fsa/215.196"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.196/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.196/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.196/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.196/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_196">
+          <num>215.196</num>
+          <heading>Architects Incidental Trust Fund; creation; assessment.</heading>
+          <content>
+            <p>There is created the Architects Incidental Trust Fund for the purpose of:</p>
+          </content>
+          <subsection eId="215_196__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>There is created the Architects Incidental Trust Fund for the purpose of:</p>
+            </content>
+            <paragraph eId="215_196__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Collecting all funds received through the sale of surplus state-owned office buildings, as defined in s.255.248, and the nonconservation lands associated with such buildings;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_196__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Diverting funds referenced in s.253.0341(14)(b); and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_196__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Providing sufficient funds for the operation of the facilities development activities of the Department of Management Services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_196__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may levy and assess an amount necessary to cover the cost of administration by the department of fixed capital outlay projects on which it serves as owner representative on behalf of the state. The assessment rate is to be provided in the General Appropriations Act and statement of intent and shall be based on estimated operating cost projections for the services rendered. The total assessment shall be transferred into the Architects Incidental Trust Fund at the beginning of each fiscal year.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_196__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Funds received through the sale of surplus state-owned office buildings and the nonconservation lands associated with such buildings must be used for the acquisition, lease, planning, entitlement, design, permitting, construction, or maintenance of state-owned office buildings, as defined in s.255.248, and the nonconservation lands associated with such buildings.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

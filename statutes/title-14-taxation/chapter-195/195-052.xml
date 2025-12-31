@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.052"/>
+          <FRBRuri value="/us-fl/act/fsa/195.052"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.052/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.052/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.052/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.052/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_052">
+          <num>195.052</num>
+          <heading>Research and tabulation of data.</heading>
+          <content>
+            <p>The department shall conduct constant research and maintain accurate tabulations of data and conditions existing as to ad valorem taxation, shall annually publish such data as may be appropriate to facilitate fiscal policymaking, and shall annually make such recommendations to the Legislature as are necessary to ensure that property is valued according to its just value and is equitably taxed throughout the state. Such data shall include the annual percentage increase in total nonvoted ad valorem taxes levied by each city and county and shall include information on the distribution of ad valorem taxes levied among the various classifications of property, including homestead, nonhomestead residential, new construction, commercial, and industrial properties. Such data shall include the previous year’s adopted millage rate, the current year’s millage rate, and the current percentage increase in taxes levied above the rolled-back rate. Such data shall be published, at a minimum, on the department’s website and on the websites of all property appraisers of this state, if available. Publication shall occur not later than 90 days after receipt of extended rolls for all counties pursuant to s.193.122(7).</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

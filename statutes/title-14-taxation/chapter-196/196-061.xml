@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.061"/>
+          <FRBRuri value="/us-fl/act/fsa/196.061"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.061/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.061/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.061/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.061/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_061">
+          <num>196.061</num>
+          <heading>Rental of homestead to constitute abandonment.</heading>
+          <content>
+            <p>The rental of all or substantially all of a dwelling previously claimed to be a homestead for tax purposes shall constitute the abandonment of such dwelling as a homestead, and the abandonment continues until the dwelling is physically occupied by the owner. However, such abandonment of the homestead after January 1 of any year does not affect the homestead exemption for tax purposes for that particular year unless the property is rented for more than 30 days per calendar year for 2 consecutive years.</p>
+          </content>
+          <subsection eId="196_061__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The rental of all or substantially all of a dwelling previously claimed to be a homestead for tax purposes shall constitute the abandonment of such dwelling as a homestead, and the abandonment continues until the dwelling is physically occupied by the owner. However, such abandonment of the homestead after January 1 of any year does not affect the homestead exemption for tax purposes for that particular year unless the property is rented for more than 30 days per calendar year for 2 consecutive years.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_061__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This section does not apply to a member of the Armed Forces of the United States whose service is the result of a mandatory obligation imposed by the federal Selective Service Act or who volunteers for service as a member of the Armed Forces of the United States. Moreover, valid military orders transferring such member are sufficient to maintain permanent residence for the purpose of s.196.015for the member and his or her spouse.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

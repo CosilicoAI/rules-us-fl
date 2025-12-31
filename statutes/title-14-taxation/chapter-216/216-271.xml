@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.271"/>
+          <FRBRuri value="/us-fl/act/fsa/216.271"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.271/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.271/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.271/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.271/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_271">
+          <num>216.271</num>
+          <heading>Revolving funds.</heading>
+          <content>
+            <p>No revolving fund may be established or increased in amount pursuant to s.17.58(2), unless approved by the Chief Financial Officer. The purpose and uses of a revolving fund may not be changed without the prior approval of the Chief Financial Officer. As used in this section, the term “revolving fund” means a cash fund maintained within or outside the State Treasury and established from an appropriation, to be used by an agency or the judicial branch in making authorized expenditures.</p>
+          </content>
+          <subsection eId="216_271__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>No revolving fund may be established or increased in amount pursuant to s.17.58(2), unless approved by the Chief Financial Officer. The purpose and uses of a revolving fund may not be changed without the prior approval of the Chief Financial Officer. As used in this section, the term “revolving fund” means a cash fund maintained within or outside the State Treasury and established from an appropriation, to be used by an agency or the judicial branch in making authorized expenditures.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_271__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When the Chief Financial Officer approves a revolving or petty cash fund for making refunds or other payments, such fund shall be established from an account within the appropriate fund to be known as “payments for revolving funds from funds not otherwise appropriated.” Reimbursements made from revolving or petty cash funds shall be made in strict accordance with the provisions of s.215.26(2). The Chief Financial Officer may restrict the types of uses of any revolving fund established pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_271__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Vouchers for reimbursement of expenditures from revolving funds established under this section shall be presented in a routine manner to the Chief Financial Officer for approval and payment, the proceeds of which shall be returned to the revolving or petty cash fund involved.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_271__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The revolving or petty cash fund authorized herein shall be properly maintained and accounted for by the agency or by the judicial branch requesting the fund and, upon the expiration of the need therefor, shall be returned in the amount originally established to the appropriate fund for credit to the payments for revolving funds account therein.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_271__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Reimbursement to the revolving fund for uninsured losses and theft may be made from the fund in which the responsible operating department is budgeted. Such reimbursement shall be submitted consistent with procedures specified by the Chief Financial Officer.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

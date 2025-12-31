@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1976"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1976"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1976/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1976/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1976/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1976/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1976">
+          <num>196.1976</num>
+          <heading>Provisions of ss.196.197(1) or (2) and196.1975; severability.</heading>
+          <content>
+            <p>If any provision of s.196.197(1) or (2), created and amended by chapter 76-234, Laws of Florida, or s.196.1975, created by chapter 76-234 and amended by chapter 87-332, Laws of Florida, is held to be invalid or inoperative for any reason, it is the legislative intent that the invalidity shall not affect other provisions or applications of said subsections or section which can be given effect without the invalid provision or application, and to this end the provisions of said subsections and section are declared to be severable.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.097"/>
+          <FRBRuri value="/us-fl/act/fsa/195.097"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.097/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.097/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.097/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.097/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_097">
+          <num>195.097</num>
+          <heading>Postaudit notification of defects; supervision by the department.</heading>
+          <content>
+            <p>Upon evaluation of any reviews, studies, or findings of the Department of Revenue, the executive director of the department shall issue a notice to any property appraiser who the executive director has determined has one or more classes or other strata of property listed on the assessment rolls in a manner inconsistent with the requirements of law, or is otherwise not assessing in accordance with law. The executive director shall specify in his or her notice the classes or strata of property that have been improperly assessed on the prior year’s roll, the nature of the defect or defects, and the requirements of the department to obtain approval of the current year’s assessment roll. Such notice shall be provided to the property appraiser no later than November 15.</p>
+          </content>
+          <subsection eId="195_097__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Upon evaluation of any reviews, studies, or findings of the Department of Revenue, the executive director of the department shall issue a notice to any property appraiser who the executive director has determined has one or more classes or other strata of property listed on the assessment rolls in a manner inconsistent with the requirements of law, or is otherwise not assessing in accordance with law. The executive director shall specify in his or her notice the classes or strata of property that have been improperly assessed on the prior year’s roll, the nature of the defect or defects, and the requirements of the department to obtain approval of the current year’s assessment roll. Such notice shall be provided to the property appraiser no later than November 15.</p>
+            </content>
+            <paragraph eId="195_097__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Upon evaluation of any reviews, studies, or findings of the Department of Revenue, the executive director of the department shall issue a notice to any property appraiser who the executive director has determined has one or more classes or other strata of property listed on the assessment rolls in a manner inconsistent with the requirements of law, or is otherwise not assessing in accordance with law. The executive director shall specify in his or her notice the classes or strata of property that have been improperly assessed on the prior year’s roll, the nature of the defect or defects, and the requirements of the department to obtain approval of the current year’s assessment roll. Such notice shall be provided to the property appraiser no later than November 15.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_097__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding other provisions of this section, the executive director is not required to notice as a defect a class or stratum of property which, based upon the evaluation of any review, study, or finding of the department, indicates an assessment level of more than 100 percent of just value in any class or stratum of property on the prior year’s tax roll.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_097__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Within 15 days after receipt of a notice, but no later than December 1, the property appraiser shall either notify the executive director in writing of his or her intention to comply or request an immediate conference with the executive director for the purpose of attempting to resolve differences between the property appraiser and the executive director. Such conference shall be held no later than December 15. At the conclusion of the conference, but no later than January 1, the executive director shall issue an administrative order, which order shall incorporate the remedial steps, if any, to be taken by the property appraiser to ensure that all property on his or her rolls is assessed at just value. An administrative order shall also be issued in the case of a property appraiser who has stated his or her intention to comply.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_097__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon receipt of an administrative order issued pursuant to this section, but not later than January 15, the property appraiser shall notify the department of his or her intent to comply with the order or of the basis for intended noncompliance. Upon receipt of a notice of intended noncompliance, the department shall take such action as it deems necessary pursuant to s.195.092.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_097__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Upon the issuance of the administrative order, the department shall commence continuing supervision of the preparation of the current rolls to ensure that every reasonable effort is being taken by the property appraiser to comply with the order. Supervision may include, but shall not be limited to, the conduct of ratio or other mass-data studies on the roll being prepared, onsite inspection of the property appraiser’s office or field operations, and interviews with the property appraiser’s personnel or consultants. The executive director may require the property appraiser to certify in writing the specific steps taken to comply with the administrative order. During such supervision, the executive director may seek any judicial remedy available to him or her under law to force compliance with the order, and may request removal of the property appraiser by the Governor when he or she deems such action necessary. No later than May 1, the executive director shall notify the property appraiser, in writing, as to whether he or she is in substantial compliance with the order. In the event that the executive director determines that the property appraiser is not in substantial compliance at that time, he or she shall send to the property appraiser and the governing body of each tax-levying agency in the county a notice of intent to disapprove the tax roll in whole or in part.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_097__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The dates specified in this section shall be extended if the date for completion of the current or prior year’s roll was extended pursuant to s.193.023(1), or records or data requested in writing pursuant to s.195.096(2)(e) were not submitted within the time allowed by law. The length of extension of dates specified in this section shall be equal to:</p>
+            </content>
+            <paragraph eId="195_097__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The number of days the date for completion of the rolls was extended; or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_097__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of days from the time the data or records were required by law to be submitted until the time received by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_097__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Chapter 120 does not apply to this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

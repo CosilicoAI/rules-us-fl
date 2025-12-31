@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.043"/>
+          <FRBRuri value="/us-fl/act/fsa/216.043"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.043/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.043/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.043/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.043/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_043">
+          <num>216.043</num>
+          <heading>Budgets for fixed capital outlay.</heading>
+          <content>
+            <p>A legislative budget request, reflecting the independent judgment of the head of the agency or of the Chief Justice of the Supreme Court with respect to the needs of the agency or of the judicial branch for fixed capital outlay during the next fiscal year, shall be submitted by each head of an agency and by the Chief Justice and shall contain:</p>
+          </content>
+          <subsection eId="216_043__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A legislative budget request, reflecting the independent judgment of the head of the agency or of the Chief Justice of the Supreme Court with respect to the needs of the agency or of the judicial branch for fixed capital outlay during the next fiscal year, shall be submitted by each head of an agency and by the Chief Justice and shall contain:</p>
+            </content>
+            <paragraph eId="216_043__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>An estimate in itemized form showing the amounts needed for fixed capital outlay expenditures, to include a detailed statement of program needs, estimated construction costs and square footage, site costs, operating capital necessary to furnish and equip for operating a new or improved facility, and the anticipated sources of funding during the next fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Proposed fixed capital outlay projects, including proposed operational standards related to programs and utilization, an analysis of continuing operating costs, and such other data as the Executive Office of the Governor deems necessary for state agencies, or the Chief Justice deems necessary for the judicial branch, to analyze the relationship of agency needs and program requirements to construction requirements. The plan shall also include the availability and suitability of privately constructed and owned buildings and facilities to meet the needs and program requirements of the agency or of the judicial branch.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For any budget request for fixed capital outlay or operating capital outlay which is to be funded by a proposed state debt or obligation as defined in s.216.0442, the information set forth in s.216.0442(2).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_043__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The legislative budget requests for fixed capital outlay shall be submitted as a product of an ongoing planning process which:</p>
+            </content>
+            <paragraph eId="216_043__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Relates to program plans in an anticipatory manner so as to identify facility requirements sufficiently early to provide lead time for planning and construction without deterring the operation of the applicable program.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Applies that lead time to the budget process.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_043__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Each legislative budget request for fixed capital outlay submitted shall contain:</p>
+            </content>
+            <paragraph eId="216_043__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A schedule of projects planned to meet the 4-year requirements of the agency or of the judicial branch and a schedule of anticipated funding for the initial fiscal year of the 4-year period.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A full explanation of the basis for each project, including a description of the program which requires the facility; an explanation of the inability of existing facilities to meet such requirements; historical background; alternatives; and anticipated changes in operating costs, both initial and continuing.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An application of standards and criteria to establish the scope of each project.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>An application of cost factors to all elements of each project to establish an estimate of funding requirements.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A request for legislative appropriation to provide such funding in the appropriate fiscal year, including the need for advance funding of programming and design activities.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>A priority list of fixed capital outlay projects for which the construction of the project may be deferred for countercyclical purposes for a period not to exceed 12 months.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_043__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The unamortized cost of tenant improvements under any lease executed after September 30, 2000, which is terminated before the expiration of its term for the purpose of relocating to a state-owned building.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

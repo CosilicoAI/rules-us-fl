@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.06"/>
+          <FRBRuri value="/us-fl/act/fsa/213.06"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.06/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.06/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.06/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.06/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_06">
+          <num>213.06</num>
+          <heading>Rules of department; circumstances requiring emergency rules.</heading>
+          <content>
+            <p>The Department of Revenue has the authority to adopt rules pursuant to ss.120.536(1) and120.54to implement provisions of the revenue laws.</p>
+          </content>
+          <subsection eId="213_06__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Revenue has the authority to adopt rules pursuant to ss.120.536(1) and120.54to implement provisions of the revenue laws.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_06__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The executive director of the department may adopt emergency rules pursuant to s.120.54on behalf of the department when the effective date of a legislative change occurs sooner than 60 days after the close of a legislative session in which enacted and the change affects a tax rate or a collection or reporting procedure which affects a substantial number of dealers or persons subject to the tax change or procedure. The Legislature finds that such circumstances qualify as an exception to the prerequisite of a finding of immediate danger to the public health, safety, or welfare as set forth in s.120.54(4)(a) and qualify as circumstances requiring an emergency rule.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

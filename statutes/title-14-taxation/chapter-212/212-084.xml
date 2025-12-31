@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.084"/>
+          <FRBRuri value="/us-fl/act/fsa/212.084"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.084/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.084/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.084/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.084/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_084">
+          <num>212.084</num>
+          <heading>Review of exemption certificates; reissuance; specified expiration date; temporary exemption certificates.</heading>
+          <content>
+            <p>In reviewing each sales tax exemption certificate, the department shall ensure that the institution, organization, or individual possessing the certificate is actively engaged in an exempt endeavor as stipulated in this chapter.</p>
+          </content>
+          <subsection eId="212_084__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>In reviewing each sales tax exemption certificate, the department shall ensure that the institution, organization, or individual possessing the certificate is actively engaged in an exempt endeavor as stipulated in this chapter.</p>
+            </content>
+            <paragraph eId="212_084__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>In reviewing each sales tax exemption certificate, the department shall ensure that the institution, organization, or individual possessing the certificate is actively engaged in an exempt endeavor as stipulated in this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_084__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Whenever feasible, the department shall choose entities for review based on an alphabetical selection procedure.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_084__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each institution, organization, or individual possessing a sales tax exemption certificate shall cooperate fully with the department during its review of the certificate. The department shall revoke the sales tax exemption certificate of any entity that fails to respond to either of two written requests for information regarding the taxable status of the entity. These requests must be mailed at least 4 weeks apart to the last known address of the entity.</p>
+            </content>
+            <paragraph eId="212_084__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Each institution, organization, or individual possessing a sales tax exemption certificate shall cooperate fully with the department during its review of the certificate. The department shall revoke the sales tax exemption certificate of any entity that fails to respond to either of two written requests for information regarding the taxable status of the entity. These requests must be mailed at least 4 weeks apart to the last known address of the entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_084__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Any entity may apply for reissuance of a revoked exemption certificate if the revocation occurred due to the failure of the entity to respond to either of the two written requests sent by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_084__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>After review is completed and it has been determined that an institution, organization, or individual is actively engaged in a bona fide exempt endeavor and is not subject to a final disqualification order issued by the Department of Agriculture and Consumer Services pursuant to s.496.430, the department shall reissue an exemption certificate to the entity. However, each certificate so reissued is valid for 5 consecutive years, at which time the review and reissuance procedure provided by this section applies again. If the department determines that an entity no longer qualifies for an exemption, it shall revoke the tax exemption certificate of the entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_084__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each sales tax exemption certificate expires 5 years after the date of issuance. Upon expiration, the certificate is subject to the review and reissuance procedures provided by this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_084__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The department may require that an entity submit documentation and evidence of its organizational structure, federal tax status, program content, or any other materials necessary during the review process mandated by this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_084__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Notwithstanding the provisions of s.213.053to the contrary, the department shall furnish, upon request, the name and address of any institution, organization, individual, or other entity possessing a valid sales tax exemption certificate.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_084__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The department shall revoke a sales tax exemption certificate granted to, or refuse to grant a sales tax exemption certificate to, an institution, organization, or individual who is the subject of a final disqualification order issued by the Department of Agriculture and Consumer Services pursuant to s.496.430. A revocation or denial under this subsection is subject to challenge under chapter 120 only as to whether a disqualification order is in effect. An institution, organization, or individual who appeals the disqualification order must do so pursuant to s.496.430(2).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

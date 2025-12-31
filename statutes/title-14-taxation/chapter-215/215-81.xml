@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.81"/>
+          <FRBRuri value="/us-fl/act/fsa/215.81"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.81/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.81/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.81/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.81/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_81">
+          <num>215.81</num>
+          <heading>Pledge of state.</heading>
+          <content>
+            <p>The state does hereby covenant and agree with the holders of the bonds issued pursuant to this act that the state will not limit or restrict the rights hereby vested in the board or the division or in any state agency on behalf of which such bonds are issued:</p>
+          </content>
+          <subsection eId="215_81__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>To construct, acquire, improve, maintain and operate any capital projects financed with the proceeds of bonds issued pursuant to this act;</p>
+            </content>
+          </subsection>
+          <subsection eId="215_81__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To levy, fix, establish and collect such taxes, revenues or other funds which are pledged for the payment of the principal of and interest on said bonds, or reserves therefor;</p>
+            </content>
+          </subsection>
+          <subsection eId="215_81__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>To fulfill the terms of any covenants and agreements made with the holders of bonds issued pursuant to this act</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

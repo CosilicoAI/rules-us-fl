@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.138"/>
+          <FRBRuri value="/us-fl/act/fsa/216.138"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.138/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.138/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.138/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.138/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_138">
+          <num>216.138</num>
+          <heading>Authority to request additional analysis of legislative proposals.</heading>
+          <content>
+            <p>The President of the Senate or the Speaker of the House of Representatives may request special impact estimating conferences to evaluate legislative proposals based on tools and models not generally employed by the consensus estimating conferences, including cost-benefit, return-on-investment, or dynamic scoring techniques, when suitable and appropriate for the legislative proposals being evaluated.</p>
+          </content>
+          <subsection eId="216_138__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The President of the Senate or the Speaker of the House of Representatives may request special impact estimating conferences to evaluate legislative proposals based on tools and models not generally employed by the consensus estimating conferences, including cost-benefit, return-on-investment, or dynamic scoring techniques, when suitable and appropriate for the legislative proposals being evaluated.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_138__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Unless exempt from s.119.07(1), information used to develop the analyses shall be available to the public. In addition, all meetings of a special impact estimating conference shall be open to the public. The President of the Senate and the Speaker of the House of Representatives, jointly, shall be the sole judge for the interpretation, implementation, and enforcement of this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_138__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A special impact estimating conference shall consist of four principals: one person from the Executive Office of the Governor; the coordinator of the Office of Economic and Demographic Research, or his or her designee; one person from the professional staff of the Senate; and one person from the professional staff of the House of Representatives. Each principal shall have appropriate fiscal expertise in the subject matter of the legislative proposal. A separate special impact estimating conference may be appointed for each proposal.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_138__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>After the designation of the four principals, a special impact estimating conference shall convene to adopt official information relating to the proposal.</p>
+            </content>
+            <paragraph eId="216_138__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A principal may invite any person to participate in a special impact estimating conference. Such person shall be designated as a participant. A participant shall, at the request of any principal before or during any meeting of a conference, collect and supply data, perform analyses, or provide other information needed by a conference.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_138__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The principal from the Office of Economic and Demographic Research may convene any of the conferences established in s.216.136to reach a consensus on supplemental information required for the analysis of the proposed legislation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_138__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>All official information of a special impact estimating conference shall be adopted by consensus of all of the principals of the conference. For the purposes of this section, the terms “official information” and “consensus” have the same meanings as provided in s.216.133.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

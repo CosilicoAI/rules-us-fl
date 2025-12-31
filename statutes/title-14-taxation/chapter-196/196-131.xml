@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.131"/>
+          <FRBRuri value="/us-fl/act/fsa/196.131"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.131/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.131/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.131/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.131/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_131">
+          <num>196.131</num>
+          <heading>Homestead exemptions; claims.</heading>
+          <content>
+            <p>At the time each taxpayer files claim for homestead exemption, the property appraiser shall deliver to the taxpayer a receipt over his or her signature, or that of a duly authorized deputy, which shall appropriately identify the property covered in the application, shall bear date as of the day such application is received by the property appraiser, and shall include any serial number or other identifying data desired by said property appraiser. The possession of such receipt shall constitute conclusive proof of the timely filing of such application.</p>
+          </content>
+          <subsection eId="196_131__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>At the time each taxpayer files claim for homestead exemption, the property appraiser shall deliver to the taxpayer a receipt over his or her signature, or that of a duly authorized deputy, which shall appropriately identify the property covered in the application, shall bear date as of the day such application is received by the property appraiser, and shall include any serial number or other identifying data desired by said property appraiser. The possession of such receipt shall constitute conclusive proof of the timely filing of such application.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_131__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Any person who knowingly and willfully gives false information for the purpose of claiming homestead exemption as provided for in this chapter is guilty of a misdemeanor of the first degree, punishable as provided in s.775.082or by fine not exceeding $5,000, or both.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

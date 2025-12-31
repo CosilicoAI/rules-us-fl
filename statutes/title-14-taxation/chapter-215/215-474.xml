@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.474"/>
+          <FRBRuri value="/us-fl/act/fsa/215.474"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.474/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.474/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.474/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.474/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_474">
+          <num>215.474</num>
+          <heading>Analyses of technology and growth investments.</heading>
+          <content>
+            <p>The Office of Program Policy Analysis and Government Accountability shall perform an annual review of technology and growth investments made in Florida-based companies by the State Board of Administration and submit its findings to the State Board of Administration, the President of the Senate, and the Speaker of the House of Representatives by January 15 of each year. The office may consult with the board, the Department of Revenue, the Office of Economic and Demographic Research, and other entities as necessary to obtain and evaluate the information requested. The annual review shall include:</p>
+          </content>
+          <subsection eId="215_474__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The dollar amount of technology and growth investments in the state made by the board during the previous year ending June 30 and the investment’s percentage share of the system trust fund’s net assets.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_474__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A list of investments in the state identified by the board as technology and growth investments within each asset class.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_474__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An analysis of the direct and indirect economic benefits to the state resulting from the technology and growth investments.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

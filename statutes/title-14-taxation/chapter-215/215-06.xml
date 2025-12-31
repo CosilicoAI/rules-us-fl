@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.06"/>
+          <FRBRuri value="/us-fl/act/fsa/215.06"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.06/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.06/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.06/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.06/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_06">
+          <num>215.06</num>
+          <heading>Certified accounts of delinquents as evidence.</heading>
+          <content>
+            <p>In every case of delinquency, where suit has been or shall be instituted, the certified statement provided for in s.215.05, shall be admitted as evidence and shall be prima facie proof of the facts therein stated. All copies of bonds, contracts, or other papers relating to or connected with the settlement of any account between the state and an individual, when certified as aforesaid to be true copies of the original, may be annexed to such statement aforesaid, and shall have equal validity and be entitled to the same degree of credit which would be due to the original papers if produced and authenticated in court; provided, where suit is brought upon a bond or other sealed instrument, and the defendant shall plead non est factum, or upon motion to the court, such plea or motion being verified by the oath of the defendant, it is lawful for the court to take the same into consideration, and, if it shall appear necessary for the attainment of justice, to require the production of the original bond, contract, or other paper specified in such affidavit.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

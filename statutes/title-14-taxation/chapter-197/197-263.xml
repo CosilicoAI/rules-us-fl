@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.263"/>
+          <FRBRuri value="/us-fl/act/fsa/197.263"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.263/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.263/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.263/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.263/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_263">
+          <num>197.263</num>
+          <heading>Change in ownership or use of property.</heading>
+          <content>
+            <p>If there is a change in use or ownership of tax-deferred property such that the owner is no longer eligible for the tax deferral granted, or the owner fails to maintain the required fire and extended insurance coverage, the total amount of deferred taxes and interest for all years is due and payable November 1 of the year in which the change occurs or on the date failure to maintain insurance occurs. Payment is delinquent on April 1 of the year following the year in which the change in use or failure to maintain insurance occurs. However, if the change in ownership is to a surviving spouse and the spouse is eligible to maintain the tax deferral on such property, the surviving spouse may continue the deferment of previously deferred taxes and interest pursuant to this chapter.</p>
+          </content>
+          <subsection eId="197_263__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If there is a change in use or ownership of tax-deferred property such that the owner is no longer eligible for the tax deferral granted, or the owner fails to maintain the required fire and extended insurance coverage, the total amount of deferred taxes and interest for all years is due and payable November 1 of the year in which the change occurs or on the date failure to maintain insurance occurs. Payment is delinquent on April 1 of the year following the year in which the change in use or failure to maintain insurance occurs. However, if the change in ownership is to a surviving spouse and the spouse is eligible to maintain the tax deferral on such property, the surviving spouse may continue the deferment of previously deferred taxes and interest pursuant to this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_263__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whenever the property appraiser discovers that there has been a change in the ownership or use of property that has been granted a tax deferral, the property appraiser shall notify the tax collector in writing of the date such change occurs, and the tax collector shall collect any taxes, assessments, and interest due.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_263__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>During any year in which the total amount of deferred taxes, interest, assessments, and all other unsatisfied liens on the homestead exceeds 85 percent of the just value of the homestead, the tax collector shall notify the owner that the portion of taxes, interest, and assessments which exceeds 85 percent of the just value of the homestead is due and payable within 30 days after the notice is sent. Failure to pay the amount due causes the total amount of deferred taxes, interest, and assessments to become delinquent.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_263__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Each year, upon notification, each owner of property on which taxes, interest, and assessments have been deferred shall submit to the tax collector a list of, and the current value of, all outstanding liens on the owner’s homestead. Failure to respond to this notification within 30 days causes the total amount of deferred taxes, interest, and assessments to become payable within 30 days.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_263__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If deferred taxes, interest, and assessments become delinquent, the tax collector shall sell a tax certificate for the delinquent taxes, interest, and assessments in the manner provided by s.197.432.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

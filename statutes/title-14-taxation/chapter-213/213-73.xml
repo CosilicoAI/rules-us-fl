@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.73"/>
+          <FRBRuri value="/us-fl/act/fsa/213.73"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.73/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.73/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.73/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.73/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_73">
+          <num>213.73</num>
+          <heading>Manner and conditions of sale of property subject of a levy by the Department of Revenue.</heading>
+          <content>
+            <p>Whenever a levy is made as a result of an execution upon a tax warrant or lien:</p>
+          </content>
+          <subsection eId="213_73__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Before the sale, the executive director or his or her designee shall determine a minimum price for which the property shall be sold, and if no person offers at the sale the amount of the minimum price for such property, the sale may be, in the discretion of the executive director or his or her designee, rescheduled; the property may be declared to be purchased at such price for the state; or the property may be declared to be sold to the highest bidder. In determining the minimum price, the executive director or his or her designee shall take into account the expense of making the levy and sale.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_73__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall by rule prescribe the manner and other conditions of the sale of property seized. Such regulations shall provide:</p>
+            </content>
+            <paragraph eId="213_73__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>That the sale may not be conducted in any manner other than by public auction or by public sale under sealed bids.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_73__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In the case of the seizure of several items of property, whether such items must be offered separately, in groups, or in the aggregate or whether such property must be offered in any combination thereof, and sold under whichever method produces the highest aggregate amount.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_73__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Under what circumstances the executive director or his or her designee may adjourn the sale from time to time; however, any such adjournment may not exceed 1 month.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_73__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person whose property has been levied upon may pay the amount due, together with the expenses of the proceeding, if any, to the department at any time prior to the sale; and upon such payment, the department shall restore such property to that person, and all further proceedings in connection with the levy on such property shall cease from the date of such payment.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

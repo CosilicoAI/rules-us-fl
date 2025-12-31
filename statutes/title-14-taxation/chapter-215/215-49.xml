@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.49"/>
+          <FRBRuri value="/us-fl/act/fsa/215.49"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.49/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.49/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.49/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.49/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_49">
+          <num>215.49</num>
+          <heading>Making funds available for investment.</heading>
+          <content>
+            <p>It shall be the duty of each state agency, and the judicial branch, now or hereafter charged with the administration of the System Trust Fund, as defined in s.121.021(36), or other funds specifically required by law to be invested by the State Board of Administration pursuant to ss.215.44-215.53to make such moneys available for investment as fully as is consistent with the cash requirements of the particular fund and to transfer such moneys to the board for investment.</p>
+          </content>
+          <subsection eId="215_49__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be the duty of each state agency, and the judicial branch, now or hereafter charged with the administration of the System Trust Fund, as defined in s.121.021(36), or other funds specifically required by law to be invested by the State Board of Administration pursuant to ss.215.44-215.53to make such moneys available for investment as fully as is consistent with the cash requirements of the particular fund and to transfer such moneys to the board for investment.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_49__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Monthly, and more often as circumstances require, such agency and the judicial branch shall notify the State Board of Administration of the amount available for investment, the moneys shall be transferred to the board, and the investment shall be made by the board. Such notification shall include the name and number of the fund for which the investments are to be made, and of the life of the investment if the principal sum is to be required for meeting obligations; however, nothing herein shall be construed as legislative intent to make available for investment any funds other than those referred to in s.215.44.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_49__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If requested by the board, it shall be the duty of the agency and the judicial branch to furnish the board an inventory of all securities in the particular fund, together with such additional information as may be requested.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

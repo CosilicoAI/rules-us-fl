@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.605"/>
+          <FRBRuri value="/us-fl/act/fsa/215.605"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.605/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.605/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.605/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.605/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_605">
+          <num>215.605</num>
+          <heading>State bonds for right-of-way acquisition or bridge construction.</heading>
+          <content>
+            <p>The issuance of state bonds to finance or refinance the cost of acquiring real property or the rights to real property for state roads as defined by law, or to finance or refinance the cost of state bridge construction, and purposes incidental to such property acquisition or state bridge construction, is hereby authorized pursuant to s. 17, Art. VII of the State Constitution and ss.215.57-215.83. Except for bonds issued to refinance property acquisition or bridge construction previously financed by bonds issued under this section, right-of-way or bridges financed by state bonds issued under this section shall first be authorized by the Legislature by an act relating to appropriations or by general law and shall be issued pursuant to the State Bond Act.</p>
+          </content>
+          <subsection eId="215_605__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The issuance of state bonds to finance or refinance the cost of acquiring real property or the rights to real property for state roads as defined by law, or to finance or refinance the cost of state bridge construction, and purposes incidental to such property acquisition or state bridge construction, is hereby authorized pursuant to s. 17, Art. VII of the State Constitution and ss.215.57-215.83. Except for bonds issued to refinance property acquisition or bridge construction previously financed by bonds issued under this section, right-of-way or bridges financed by state bonds issued under this section shall first be authorized by the Legislature by an act relating to appropriations or by general law and shall be issued pursuant to the State Bond Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_605__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Bonds issued pursuant to this section shall be payable primarily from motor fuel and diesel fuel taxes which are transferred to the Right-of-Way Acquisition and Bridge Construction Trust Fund, which fund is hereby created in the Department of Transportation, and shall additionally be secured by the full faith and credit of the state. Any moneys transferred into the fund under s.206.46that are not needed to pay the debt service on, provide required financial coverage levels for, and fund debt service reserve funds, rebate obligations, or other amounts with respect to bonds issued pursuant to this section, may be transferred to the State Transportation Trust Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_605__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Department of Transportation shall request the Division of Bond Finance to issue the state bonds authorized by this section pursuant to the State Bond Act. The Department of Transportation shall certify that the projects to be financed will comply with the requirements of s.339.135(4)(b) and (c) and (5).</p>
+            </content>
+          </subsection>
+          <subsection eId="215_605__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The proceeds from the sale of bonds issued pursuant to this section shall be deposited into the Right-of-way Acquisition and Bridge Construction Trust Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_605__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>Section339.135shall apply to the Right-of-Way Acquisition and Bridge Construction Trust Fund.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

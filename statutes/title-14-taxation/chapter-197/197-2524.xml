@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.2524"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2524"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.2524/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2524/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.2524/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.2524/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_2524">
+          <num>197.2524</num>
+          <heading>Tax deferral for recreational and commercial working waterfront properties and affordable rental housing property.</heading>
+          <content>
+            <p>This section applies to:</p>
+          </content>
+          <subsection eId="197_2524__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>This section applies to:</p>
+            </content>
+            <paragraph eId="197_2524__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Recreational and commercial working waterfront properties if the owners are engaging in the operation, rehabilitation, or renovation of such properties in accordance with guidelines established in this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2524__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Affordable rental housing, if the owners are engaging in the operation, rehabilitation, or renovation of such properties in accordance with the guidelines provided in part VI of chapter 420.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_2524__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The board of county commissioners of any county or the governing authority of a municipality may adopt an ordinance to authorize the deferral of ad valorem taxes and non-ad valorem assessments for properties described in subsection (1).</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2524__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The ordinance shall designate the percentage or amount of the deferral and the type and location of the property and may require the property to be located within a particular geographic area or areas of the county or municipality. For property defined in s.342.07(2) as “recreational and commercial working waterfront,” the ordinance may specify the type of public lodging establishments that qualify.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2524__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The ordinance must specify that such deferrals apply only to taxes or assessments levied by the unit of government granting the deferral. However, a deferral may not be granted for taxes or assessments levied for the payment of bonds or for taxes authorized by a vote of the electors pursuant to s. 9(b) or s. 12, Art. VII of the State Constitution.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2524__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The ordinance must specify that any deferral granted remains in effect regardless of any change in the authority of the county or municipality to grant the deferral. In order to retain the deferral, the use and ownership of the property must remain as it was when the deferral was granted for the period in which the deferral remains.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_2524__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>If an application for deferral is granted on property that is located in a community redevelopment area, the amount of taxes eligible for deferral is limited, as provided for in paragraph (b), if:</p>
+            </content>
+            <paragraph eId="197_2524__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>If an application for deferral is granted on property that is located in a community redevelopment area, the amount of taxes eligible for deferral is limited, as provided for in paragraph (b), if:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2524__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If paragraph (a) applies, the deferral applies only to the amount of taxes in excess of the amount that must be deposited into the community redevelopment trust fund by the entity granting the deferral based upon the taxable value of the property upon which the deferral is being granted. Once all instruments of indebtedness that existed at the time the deferral was originally granted are no longer outstanding or have otherwise been defeased, this paragraph no longer applies.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2524__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>If a portion of the taxes on a property was not eligible for deferral under paragraph (b), the community redevelopment agency shall notify the property owner and the tax collector 1 year before the debt instruments that prevented the taxes from being deferred are no longer outstanding or otherwise defeased.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2524__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The tax collector shall notify a community redevelopment agency of any tax deferral that has been granted on property located within the community redevelopment area of that agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_2524__subsec_6__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Issuance of a debt obligation after the date a deferral has been granted does not reduce the amount of taxes eligible for deferral.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

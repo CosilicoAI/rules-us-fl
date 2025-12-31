@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/219.075"/>
+          <FRBRuri value="/us-fl/act/fsa/219.075"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/219.075/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/219.075/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/219.075/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/219.075/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_219">
+        <num>Chapter 219</num>
+        <heading>County Public Money, Handling by State and County</heading>
+        <section eId="sec_219_075">
+          <num>219.075</num>
+          <heading>Investment of surplus funds by county officers.</heading>
+          <content>
+            <p>Except when another procedure is prescribed by law or by ordinance as to particular funds, a tax collector or any other county officer having, receiving, or collecting any money, either for his or her office or on behalf of and subject to subsequent distribution to another officer of state or local government, while such money is in excess of that required to meet current expenses or is pending distribution, shall invest such money, without limitation, as provided in s.218.415.</p>
+          </content>
+          <subsection eId="219_075__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except when another procedure is prescribed by law or by ordinance as to particular funds, a tax collector or any other county officer having, receiving, or collecting any money, either for his or her office or on behalf of and subject to subsequent distribution to another officer of state or local government, while such money is in excess of that required to meet current expenses or is pending distribution, shall invest such money, without limitation, as provided in s.218.415.</p>
+            </content>
+            <paragraph eId="219_075__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Except when another procedure is prescribed by law or by ordinance as to particular funds, a tax collector or any other county officer having, receiving, or collecting any money, either for his or her office or on behalf of and subject to subsequent distribution to another officer of state or local government, while such money is in excess of that required to meet current expenses or is pending distribution, shall invest such money, without limitation, as provided in s.218.415.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="219_075__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>These investments shall be planned so as not to slow the normal distribution of the subject funds. The investment earnings shall be reasonably apportioned and allocated and shall be credited to the account of, and paid to, the office or distributee, together with the principal on which such earnings accrued.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="219_075__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>This section does not apply to the clerk of the circuit court with respect to money collected as part of the clerk’s court-related functions. The clerk, however, shall remit this money as provided under s.28.245.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="219_075__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Except when another procedure is prescribed by law, ordinance, or court order as to particular funds, the tax collector shall, as soon as feasible after collection, deposit in a bank designated as a depository of public funds, as provided in s.658.60, all taxes, fees, and other collections received by him or her and held prior to distribution to the appropriate taxing authority. Immediately after such funds have cleared and have been properly credited to the tax collector’s account, the tax collector shall invest such funds according to the provisions of s.218.415. The earnings from such investments shall be apportioned at least quarterly on a pro rata basis to the appropriate taxing authorities. However, the tax collector may deduct therefrom such reasonable amounts as are necessary to provide for costs of administration of such investments and deposits.</p>
+            </content>
+          </subsection>
+          <subsection eId="219_075__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The State Board of Administration may establish a schedule and guidelines to be followed by tax collectors making deposits under the provisions of subsection (2).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.172"/>
+          <FRBRuri value="/us-fl/act/fsa/197.172"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.172/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.172/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.172/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.172/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_172">
+          <num>197.172</num>
+          <heading>Interest rate; calculation and minimum.</heading>
+          <content>
+            <p>Real property taxes shall bear interest at the rate of 18 percent per year from the date of delinquency until a certificate is sold, except that the minimum charge for delinquent taxes paid prior to the sale of a tax certificate shall be 3 percent.</p>
+          </content>
+          <subsection eId="197_172__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Real property taxes shall bear interest at the rate of 18 percent per year from the date of delinquency until a certificate is sold, except that the minimum charge for delinquent taxes paid prior to the sale of a tax certificate shall be 3 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_172__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The maximum rate of interest on a tax certificate is 18 percent per year. However, a tax certificate may not bear interest, and the mandatory interest as provided by s.197.472(2) may not be levied during the 60-day period following the date of delinquency, except for the 3 percent mandatory interest charged under subsection (1).</p>
+            </content>
+          </subsection>
+          <subsection eId="197_172__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Personal property taxes shall bear interest at the rate of 18 percent per year from the date of delinquency until paid or barred under chapter 95.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_172__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Interest shall be calculated from the first day of each month.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

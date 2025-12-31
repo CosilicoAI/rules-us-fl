@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.172"/>
+          <FRBRuri value="/us-fl/act/fsa/216.172"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.172/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.172/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.172/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.172/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_172">
+          <num>216.172</num>
+          <heading>Meetings of legislative appropriations committees.</heading>
+          <content>
+            <p>The appropriations committees of the Senate and of the House of Representatives, being in charge of appropriation measures, shall sit in open sessions while considering the budget. The committees may cause the attendance of agency heads or responsible representatives of the state agencies and the judicial branch to furnish such information and answer such questions as the committees shall require, and to these sessions shall be admitted, with the right to be heard, all persons interested in the estimates.</p>
+          </content>
+          <subsection eId="216_172__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The appropriations committees of the Senate and of the House of Representatives, being in charge of appropriation measures, shall sit in open sessions while considering the budget. The committees may cause the attendance of agency heads or responsible representatives of the state agencies and the judicial branch to furnish such information and answer such questions as the committees shall require, and to these sessions shall be admitted, with the right to be heard, all persons interested in the estimates.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_172__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each member of the Cabinet and each department headed by the Governor and Cabinet, in addition to submitting their budget requests to the Governor, may submit their budget requests directly to the appropriate committees of the Legislature and may make presentations directly to the Legislature pertaining to such requests.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

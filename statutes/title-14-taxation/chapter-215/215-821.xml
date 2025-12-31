@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.821"/>
+          <FRBRuri value="/us-fl/act/fsa/215.821"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.821/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.821/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.821/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.821/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_821">
+          <num>215.821</num>
+          <heading>Issuance of bonds by state agencies.</heading>
+          <content>
+            <p>Prior to July 1, 1969, state agencies may issue bonds directly under the laws relating to such state agencies. Any state agency may, however, make application for the issuance of such bonds on behalf of such state agency by the division as provided in ss.215.57-215.83at any time after July 1, 1969; and, in such event, all the provisions of ss.215.57-215.83shall apply to such bonds issued by the division on behalf of any state agency making such application. The provisions of ss.215.57-215.83shall apply to all state agencies on and after July 1, 1969, and all bonds of such state agencies shall thereafter be issued by the division on behalf of such state agencies under the provisions of ss.215.57-215.83, except in cases in which the State Constitution provides for the issuance of such bonds by the state agency. In any such case a state agency may request the division to act as the agent of such state agency in the sale of such bonds and to render any assistance in the preparation and dissemination of information and preparation of proceedings for the issuance of such bonds under such terms and conditions as shall be agreed upon by the board.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

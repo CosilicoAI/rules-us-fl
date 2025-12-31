@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.096"/>
+          <FRBRuri value="/us-fl/act/fsa/195.096"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.096/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.096/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.096/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.096/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_096">
+          <num>195.096</num>
+          <heading>Review of assessment rolls.</heading>
+          <content>
+            <p>The assessment rolls of each county shall be subject to review by the Department of Revenue.</p>
+          </content>
+          <subsection eId="195_096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The assessment rolls of each county shall be subject to review by the Department of Revenue.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall conduct, no less frequently than once every 2 years, an in-depth review of the real property assessment roll of each county. The department need not individually study every use-class of property set forth in s.195.073, but shall at a minimum study the level of assessment in relation to just value of each classification specified in subsection (3). Such in-depth review may include proceedings of the value adjustment board and the audit or review of procedures used by the counties to appraise property.</p>
+            </content>
+            <paragraph eId="195_096__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The department shall, at least 30 days prior to the beginning of an in-depth review in any county, notify the property appraiser in the county of the pending review. At the request of the property appraiser, the department shall consult with the property appraiser regarding the classifications and strata to be studied, in order that the review will be useful to the property appraiser in evaluating his or her procedures.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Every property appraiser whose upcoming roll is subject to an in-depth review shall, if requested by the department on or before January 1, deliver upon completion of the assessment roll a list of the parcel numbers of all parcels that did not appear on the assessment roll of the previous year, indicating the parcel number of the parent parcel from which each new parcel was created or “cut out.”</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In conducting assessment ratio studies, the department must use all practicable steps, including stratified statistical and analytical reviews and sale-qualification studies, to maximize the representativeness or statistical reliability of samples of properties in tests of each classification, stratum, or roll made the subject of a ratio study published by it. The department shall document and retain records of the measures of representativeness of the properties studied in compliance with this section. Such documentation must include a record of findings used as the basis for the approval or disapproval of the tax roll in each county pursuant to s.193.1142. In addition, to the greatest extent practicable, the department shall study assessment roll strata by subclassifications such as value groups and market areas for each classification or stratum to be studied, to maximize the representativeness of ratio study samples. For purposes of this section, the department shall rely primarily on an assessment-to-sales-ratio study in conducting assessment ratio studies in those classifications of property specified in subsection (3) for which there are adequate market sales. The department shall compute the median and the value-weighted mean for each classification or subclassification studied and for the roll as a whole.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>In the conduct of these reviews, the department shall adhere to all standards to which the property appraisers are required to adhere.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The department and each property appraiser shall cooperate in the conduct of these reviews, and each shall make available to the other all matters and records bearing on the preparation and computation of the reviews. The property appraisers shall provide any and all data requested by the department in the conduct of the studies, including electronic data processing tapes. Any and all data and samples developed or obtained by the department in the conduct of the studies shall be confidential and exempt from the provisions of s.119.07(1) until a presentation of the findings of the study is made to the property appraiser. After the presentation of the findings, the department shall provide any and all data requested by a property appraiser developed or obtained in the conduct of the studies, including tapes. Direct reimbursable costs of providing the data shall be borne by the party who requested it. Copies of existing data or records, whether maintained or required pursuant to law or rule, or data or records otherwise maintained, shall be submitted within 30 days from the date requested, in the case of written or printed information, and within 14 days from the date requested, in the case of computerized information.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Within 120 days after receipt of a county assessment roll by the executive director of the department pursuant to s.193.1142(1), or within 10 days after approval of the assessment roll, whichever is later, the department shall complete the review for that county and publish the department’s findings. The findings must include measures as may be appropriate for each classification or subclassification studied and related statistical and analytical details. The measures in the findings must be based on:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding any other provision of this chapter, in one or more assessment years following a natural disaster in counties for which a state of emergency was declared by executive order or proclamation of the Governor pursuant to chapter 252, if the department determines that the natural disaster creates difficulties in its statistical and analytical reviews of the assessment rolls in affected counties, the department shall take all practicable steps to maximize the representativeness and reliability of its statistical and analytical reviews and may use the best information available to estimate the levels of assessment. This paragraph first applies to the 2019 assessment roll and operates retroactively to January 1, 2019.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_096__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Upon completion of review pursuant to paragraph (2)(f), the department shall publish the results of reviews conducted under this section. The results must include all statistical and analytical measures computed under this section for the real property assessment roll and independently for the following real property classes if the classes constituted 5 percent or more of the total assessed value of real property in a county on the previous tax roll:</p>
+            </content>
+            <paragraph eId="195_096__subsec_3__para_3">
+              <num>(3)</num>
+              <content>
+                <p>Upon completion of review pursuant to paragraph (2)(f), the department shall publish the results of reviews conducted under this section. The results must include all statistical and analytical measures computed under this section for the real property assessment roll and independently for the following real property classes if the classes constituted 5 percent or more of the total assessed value of real property in a county on the previous tax roll:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If necessary for compliance with s.1011.62, and for those counties not being studied in the current year, the department shall project value-weighted mean levels of assessment for each county. The department shall make its projection based upon the best information available, using professionally accepted methodology, and shall separately allocate changes in total assessed value to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="195_096__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon publication of data and findings as required by this subsection, the department shall notify the committees of the Senate and of the House of Representatives having oversight responsibility for taxation, the appropriate property appraiser, and the county commission chair or corresponding official under a consolidated charter. Copies of the data and findings shall be provided upon request.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="195_096__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>It is declared to be the legislative intent that approval of the rolls by the department pursuant to s.193.1142and certification by the value adjustment board pursuant to s.193.122(1) shall not be deemed to impugn the use of postcertification reviews to require adjustments in the preparation of succeeding assessment rolls to ensure that such succeeding assessment rolls do meet the constitutional mandates of just value.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_096__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>It is the legislative intent that the department utilize to the fullest extent practicable objective measures of market value in the conduct of reviews pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_096__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Reviews conducted under this section must include an evaluation of whether nonhomestead exempt values determined by the appraiser under applicable provisions of chapter 196 are correct and whether agricultural and high-water recharge classifications and classifications of historic property used for commercial and certain nonprofit purposes were granted in accordance with law.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_096__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>When a roll is prepared as an interim roll pursuant to s.193.1145, the department shall compute assessment levels for both the interim roll and the final approved roll.</p>
+            </content>
+          </subsection>
+          <subsection eId="195_096__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Chapter 120 shall not apply to this section.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

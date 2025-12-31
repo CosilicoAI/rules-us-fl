@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.94"/>
+          <FRBRuri value="/us-fl/act/fsa/215.94"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.94/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.94/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.94/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.94/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_94">
+          <num>215.94</num>
+          <heading>Designation, duties, and responsibilities of functional owners.</heading>
+          <content>
+            <p>The Executive Office of the Governor shall be the functional owner of the Planning and Budgeting Subsystem, which shall be designed, implemented, and operated in accordance with the provisions of ss.215.90-215.96and chapter 216. The Planning and Budgeting Subsystem shall include, but shall not be limited to, functions for:</p>
+          </content>
+          <subsection eId="215_94__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Executive Office of the Governor shall be the functional owner of the Planning and Budgeting Subsystem, which shall be designed, implemented, and operated in accordance with the provisions of ss.215.90-215.96and chapter 216. The Planning and Budgeting Subsystem shall include, but shall not be limited to, functions for:</p>
+            </content>
+            <paragraph eId="215_94__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Development and preparation of agency and judicial branch budget requests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Analysis and evaluation of agency and judicial branch budget requests and alternatives.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Controlling and tracking the allocation of appropriations, approved budget, and releases.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Performance-based program budgeting compliance evaluations, as provided in the legislative budget instructions pursuant to s.216.023(3).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_94__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Department of Financial Services shall be the functional owner of the Florida Accounting Information Resource Subsystem established pursuant to ss.17.03,215.86,216.141, and216.151and further developed in accordance with the provisions of ss.215.90-215.96. The subsystem shall include, but shall not be limited to, the following functions:</p>
+            </content>
+            <paragraph eId="215_94__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Accounting and reporting so as to provide timely data for producing financial statements for the state in accordance with generally accepted accounting principles.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Auditing and settling claims against the state.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_94__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Chief Financial Officer shall be the functional owner of the Financial Management Subsystem. The Chief Financial Officer shall design, implement, and operate the subsystem in accordance with the provisions of ss.215.90-215.96. The subsystem shall include, but shall not be limited to, functions for:</p>
+            </content>
+            <paragraph eId="215_94__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Recording and reconciling credits and debits to treasury fund accounts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Monitoring cash levels and activities in state bank accounts.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Monitoring short-term investments of idle cash.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Administering the provisions of the Federal Cash Management Improvement Act of 1990.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_94__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Department of Management Services shall be the functional owner of the Purchasing Subsystem. The department shall design, implement, and operate the subsystem in accordance with the provisions of ss.215.90-215.96. The subsystem shall include, but shall not be limited to, functions for commodity and service procurement.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_94__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The Department of Management Services shall be the functional owner of the Personnel Information System. The department shall ensure that the system is designed, implemented, and operated in accordance with the provisions of ss.110.116and215.90-215.96. The department may contract with a vendor to provide the system and services required of the Personnel Information System. The subsystem shall include, but shall not be limited to, functions for:</p>
+            </content>
+            <paragraph eId="215_94__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Maintenance of employee and position data, including funding sources and percentages and salary lapse. The employee data shall include, but not be limited to, information to meet the payroll system requirements of the Department of Financial Services and to meet the employee benefit system requirements of the Department of Management Services.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Recruitment and selection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Time and leave reporting.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Collective bargaining.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_94__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Consistent with the provisions of s.215.86, the respective functional owner of each information subsystem shall be responsible for ensuring that:</p>
+            </content>
+            <paragraph eId="215_94__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Consistent with the provisions of s.215.86, the respective functional owner of each information subsystem shall be responsible for ensuring that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_94__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Auditor General shall be advised by the functional owner of each information subsystem as to the date that the development or significant modification of its functional system specifications is to begin. The Auditor General shall provide technical advice, as allowed by professional auditing standards, on specific issues relating to the design, implementation, and operation of each information subsystem.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_94__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The Auditor General shall provide to the board and the coordinating council the findings and recommendations of any audit regarding the provisions of ss.215.90-215.96.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

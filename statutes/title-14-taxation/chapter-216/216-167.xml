@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.167"/>
+          <FRBRuri value="/us-fl/act/fsa/216.167"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.167/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.167/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.167/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.167/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_167">
+          <num>216.167</num>
+          <heading>Governor’s recommendations.</heading>
+          <content>
+            <p>The Governor’s recommendations shall include a financial schedule that provides:</p>
+          </content>
+          <subsection eId="216_167__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Governor’s estimate of the recommended recurring revenues available in the Budget Stabilization Fund and the General Revenue Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_167__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The Governor’s estimate of the recommended nonrecurring revenues available in the Budget Stabilization Fund and the General Revenue Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_167__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Governor’s recommended recurring and nonrecurring appropriations from the Budget Stabilization Fund and the General Revenue Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_167__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The Governor’s estimates of any interfund loans or temporary obligations of the Budget Stabilization Fund, the General Revenue Fund, or trust funds, which loans or obligations are needed to implement his or her recommended budget.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_167__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>For any recommendation to be funded by a proposed state debt or obligation as defined in s.216.0442, the documents set forth in s.216.0442(2) and a 5-year estimate of the program operational costs associated with any proposed fixed capital outlay project to be funded by the proposed state debt or obligation.</p>
+            </content>
+            <paragraph eId="216_167__subsec_5__para_5">
+              <num>(5)</num>
+              <content>
+                <p>For any recommendation to be funded by a proposed state debt or obligation as defined in s.216.0442, the documents set forth in s.216.0442(2) and a 5-year estimate of the program operational costs associated with any proposed fixed capital outlay project to be funded by the proposed state debt or obligation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_167__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Governor’s estimates of the debt service and reserve requirements for any recommended new bond issues or reissues and his or her recommended debt service appropriations for all outstanding fixed capital outlay bond issues.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

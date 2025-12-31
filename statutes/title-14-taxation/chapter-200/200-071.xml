@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/200.071"/>
+          <FRBRuri value="/us-fl/act/fsa/200.071"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/200.071/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/200.071/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/200.071/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/200.071/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_200">
+        <num>Chapter 200</num>
+        <heading>Determination of Millage</heading>
+        <section eId="sec_200_071">
+          <num>200.071</num>
+          <heading>Limitation of millage; counties.</heading>
+          <content>
+            <p>Except as otherwise provided herein, no ad valorem tax millage shall be levied against real property and tangible personal property by counties in excess of 10 mills, except for voted levies.</p>
+          </content>
+          <subsection eId="200_071__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Except as otherwise provided herein, no ad valorem tax millage shall be levied against real property and tangible personal property by counties in excess of 10 mills, except for voted levies.</p>
+            </content>
+          </subsection>
+          <subsection eId="200_071__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The board of county commissioners shall, in the event the sum of the proposed millage for the county and dependent districts therein is more than the maximum allowed hereunder, reduce the millage to be levied for county officers, departments, divisions, commissions, authorities, and dependent special districts so as not to exceed the maximum millage provided under this section or s.200.091.</p>
+            </content>
+          </subsection>
+          <subsection eId="200_071__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Any county which, through a municipal service taxing unit, provides services or facilities of the kind or type commonly provided by municipalities, may levy, in addition to the millages otherwise provided in this section, against real property and tangible personal property within each such municipal service taxing unit an ad valorem tax millage not in excess of 10 mills to pay for such services or facilities provided with the funds obtained through such levy within such municipal service taxing unit.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

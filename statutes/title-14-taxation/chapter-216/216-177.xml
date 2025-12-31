@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.177"/>
+          <FRBRuri value="/us-fl/act/fsa/216.177"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.177/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.177/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.177/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.177/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_177">
+          <num>216.177</num>
+          <heading>Appropriations acts, statement of intent, violation, notice, review and objection procedures.</heading>
+          <content>
+            <p>When an appropriations act is delivered to the Governor after the Legislature has adjourned sine die, as soon as practicable, but no later than the 10th day before the end of the period allowed by law for veto consideration in any year in which an appropriation is made, the chairs of the legislative appropriations committees shall jointly transmit:</p>
+          </content>
+          <subsection eId="216_177__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When an appropriations act is delivered to the Governor after the Legislature has adjourned sine die, as soon as practicable, but no later than the 10th day before the end of the period allowed by law for veto consideration in any year in which an appropriation is made, the chairs of the legislative appropriations committees shall jointly transmit:</p>
+            </content>
+            <paragraph eId="216_177__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The official list of General Revenue Fund appropriations determined in consultation with the Executive Office of the Governor to be nonrecurring; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_177__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The documents set forth in s.216.0442(2)(a) and (c),</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_177__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whenever notice of action to be taken by the Executive Office of the Governor or the Chief Justice of the Supreme Court is required by law, such notice shall be given to the chair and vice chair of the Legislative Budget Commission in writing, and shall be delivered at least 14 days prior to the action referred to, unless a shorter period is approved in writing by the chair and vice chair or a different period is specified by law. If the action is solely for the release of funds appropriated by the Legislature, the notice shall be delivered at least 3 days before the effective date of the action. Action shall not be taken on any budget item for which this chapter requires notice to the Legislative Budget Commission or the appropriations committees without such notice having been provided, even though there may be good cause for considering such item.</p>
+            </content>
+            <paragraph eId="216_177__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>Whenever notice of action to be taken by the Executive Office of the Governor or the Chief Justice of the Supreme Court is required by law, such notice shall be given to the chair and vice chair of the Legislative Budget Commission in writing, and shall be delivered at least 14 days prior to the action referred to, unless a shorter period is approved in writing by the chair and vice chair or a different period is specified by law. If the action is solely for the release of funds appropriated by the Legislature, the notice shall be delivered at least 3 days before the effective date of the action. Action shall not be taken on any budget item for which this chapter requires notice to the Legislative Budget Commission or the appropriations committees without such notice having been provided, even though there may be good cause for considering such item.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_177__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the chair and vice chair of the Legislative Budget Commission or the President of the Senate and the Speaker of the House of Representatives timely advise, in writing, the Executive Office of the Governor or the Chief Justice of the Supreme Court that an action or a proposed action, including any expenditure of funds resulting from the settlement of litigation involving a state agency or officer, whether subject to the notice and review requirements of this chapter or not, exceeds the delegated authority of the Executive Office of the Governor for the executive branch or the Chief Justice for the judicial branch, respectively, or is contrary to legislative policy and intent, the Governor or the Chief Justice of the Supreme Court shall void such action and instruct the affected state agency or entity of the judicial branch to change immediately its spending action or spending proposal until the Legislative Budget Commission or the Legislature addresses the issue. The written documentation shall indicate the specific reasons that an action or proposed action exceeds the delegated authority or is contrary to legislative policy and intent.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_177__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The House of Representatives and the Senate shall provide by rule that any member of the House of Representatives or Senate may request, in writing, of either the President of the Senate or the Speaker of the House of Representatives to initiate the procedures of paragraph (b).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_177__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Legislature may annually specify any incentives and disincentives for agencies operating programs under performance-based budgets pursuant to this chapter in the General Appropriations Act or legislation implementing the General Appropriations Act.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

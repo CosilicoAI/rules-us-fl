@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.0111"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0111"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.0111/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0111/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.0111/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.0111/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_0111">
+          <num>216.0111</num>
+          <heading>State agency contracts; required information to be provided to Department of Financial Services.</heading>
+          <content>
+            <p>Each state agency, as defined in s.216.011, shall provide the following information to the Department of Financial Services regarding the agency’s contracted activities:</p>
+          </content>
+          <subsection eId="216_0111__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Each state agency, as defined in s.216.011, shall provide the following information to the Department of Financial Services regarding the agency’s contracted activities:</p>
+            </content>
+            <paragraph eId="216_0111__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The nature of the commodities or services purchased.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0111__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The term of the contract.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0111__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The final obligation made by the agency.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0111__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A summary of any time constraints that apply to the procurement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0111__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The justification for not using the competitive solicitation, including any statutory exemption or exception.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0111__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Other information regarding the contract or the procurement which may be required by the Department of Financial Services.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_0111__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>This section applies to any contract executed on or after July 1, 2010, for the purchase of commodities or contractual services in excess of the CATEGORY TWO threshold amount provided in s.287.017which is not:</p>
+            </content>
+            <paragraph eId="216_0111__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Awarded by competitive solicitation pursuant to s.287.057(1); or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_0111__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Purchased from a purchasing agreement or state term contract pursuant to s.287.056.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_0111__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>An agency must submit the required information to the Department of Financial Services within 3 working days after executing the contract.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

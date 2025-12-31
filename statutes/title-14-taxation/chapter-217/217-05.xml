@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/217.05"/>
+          <FRBRuri value="/us-fl/act/fsa/217.05"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/217.05/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/217.05/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/217.05/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/217.05/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_217">
+        <num>Chapter 217</num>
+        <heading>Surplus Property</heading>
+        <section eId="sec_217_05">
+          <num>217.05</num>
+          <heading>Continuation of commitments made by Development Commission.</heading>
+          <content>
+            <p>Any legal commitments, contracts or other obligations heretofore entered into or assumed by the commission in connection with its procurement and distribution of surplus property pursuant to state and federal laws outstanding on the effective date of this law are charged to and shall be performed by the department.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

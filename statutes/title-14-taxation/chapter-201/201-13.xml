@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.13"/>
+          <FRBRuri value="/us-fl/act/fsa/201.13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.13/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.13/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_13">
+          <num>201.13</num>
+          <heading>Department of Revenue to furnish stamps for tax for specified period.</heading>
+          <content>
+            <p>Except as otherwise provided in ss.201.132and201.133, through March 31, 1997, the Department of Revenue shall cause to be prepared and distributed for the payment of the taxes prescribed in this chapter suitable stamps denoting the tax on the documents to which same are required to be affixed and shall prescribe such method for the affixing of the stamps as shall be necessary to carry out and comply with the intent and purpose of this chapter. Persons holding documentary stamps after March 31, 1997, may continue to use those stamps to pay the tax.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

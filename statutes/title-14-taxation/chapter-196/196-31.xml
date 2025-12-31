@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.31"/>
+          <FRBRuri value="/us-fl/act/fsa/196.31"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.31/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.31/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.31/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.31/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_31">
+          <num>196.31</num>
+          <heading>Taxes against state properties; notice.</heading>
+          <content>
+            <p>Whenever lands or other property of the state or of any agency thereof are situated within any district, subdistrict or governmental unit for the purpose of taxation, which said lands or any of them or other property, are or shall be subject to special assessments or taxes, the tax collector or other tax collecting agency having authority to collect such taxes or special assessments shall, upon such taxes or special assessments becoming legally due and payable, mail to the state agency or department holding such land or other property, or if held by the state, then to the Board of Trustees of the Internal Improvement Trust Fund at Tallahassee, a notice and make notation under the same date of such notice on the tax roll, which said notice shall contain a description of the lands or other property owned by the state or its agency upon which taxes or special assessments have been levied and are collectible, and the amount of such special assessments or taxes, and unless such notation of notice on the tax roll shall have been made, any nonpayment by the said state or its agency of taxes or special assessments shall not constitute a delinquency or be the basis on which the said lands or other property may be sold for the nonpayment of such taxes or special assessments.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

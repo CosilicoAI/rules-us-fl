@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.13"/>
+          <FRBRuri value="/us-fl/act/fsa/202.13"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.13/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.13/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.13/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.13/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_13">
+          <num>202.13</num>
+          <heading>Intent.</heading>
+          <content>
+            <p>If the operation or imposition of the taxes imposed or administered under this chapter is declared invalid, ineffective, inapplicable, unconstitutional, or void for any reason, chapters 166, 203, 212, and 337, as such chapters existed before January 1, 2000, shall fully apply to the sale, use, or consumption of communications services. If any exemption from the tax is declared invalid, ineffective, inapplicable, unconstitutional, or void for any reason, such declaration shall not affect the taxes imposed or administered under this chapter, but such sale, use, or consumption shall be subject to the taxes imposed under this chapter to the same extent as if such exemption never existed.</p>
+          </content>
+          <subsection eId="202_13__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>If the operation or imposition of the taxes imposed or administered under this chapter is declared invalid, ineffective, inapplicable, unconstitutional, or void for any reason, chapters 166, 203, 212, and 337, as such chapters existed before January 1, 2000, shall fully apply to the sale, use, or consumption of communications services. If any exemption from the tax is declared invalid, ineffective, inapplicable, unconstitutional, or void for any reason, such declaration shall not affect the taxes imposed or administered under this chapter, but such sale, use, or consumption shall be subject to the taxes imposed under this chapter to the same extent as if such exemption never existed.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_13__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>It is the intent of the Legislature to exempt from the taxes imposed or administered pursuant to this chapter only the communications services set forth in this chapter as exempt from such taxes, to the extent that such exemptions are in accordance with the constitutions of this state and of the United States.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_13__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax on dealers of communications services authorized under this chapter, including the tax imposed by local governments under ss.202.19and202.20, shall supersede the authority of local governments to levy franchise fees as set out in 47 U.S.C. s. 542 without regard to the fact that this is a tax of general applicability on all providers of communications services.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

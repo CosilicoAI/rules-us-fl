@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/212.03"/>
+          <FRBRuri value="/us-fl/act/fsa/212.03"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/212.03/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/212.03/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/212.03/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/212.03/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_212">
+        <num>Chapter 212</num>
+        <heading>Tax on Sales, Use, and Other Transactions</heading>
+        <section eId="sec_212_03">
+          <num>212.03</num>
+          <heading>Transient rentals tax; rate, procedure, enforcement, exemptions.</heading>
+          <content>
+            <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who engages in the business of renting, leasing, letting, or granting a license to use any living quarters or sleeping or housekeeping accommodations in, from, or a part of, or in connection with any hotel, apartment house, roominghouse, tourist or trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort. However, any person who rents, leases, lets, or grants a license to others to use, occupy, or enter upon any living quarters or sleeping or housekeeping accommodations in any apartment house, roominghouse, tourist camp, trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort and who exclusively enters into a bona fide written agreement for continuous residence for longer than 6 months in duration at such property is not exercising a taxable privilege. For the exercise of such taxable privilege, a tax is hereby levied in an amount equal to 6 percent of and on the total rental charged for such living quarters or sleeping or housekeeping accommodations by the person charging or collecting the rental. Such tax shall apply to hotels, apartment houses, roominghouses, tourist or trailer camps, mobile home parks, recreational vehicle parks, condominiums, or timeshare resorts, whether or not these facilities have dining rooms, cafes, or other places where meals or lunches are sold or served to guests.</p>
+          </content>
+          <subsection eId="212_03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who engages in the business of renting, leasing, letting, or granting a license to use any living quarters or sleeping or housekeeping accommodations in, from, or a part of, or in connection with any hotel, apartment house, roominghouse, tourist or trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort. However, any person who rents, leases, lets, or grants a license to others to use, occupy, or enter upon any living quarters or sleeping or housekeeping accommodations in any apartment house, roominghouse, tourist camp, trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort and who exclusively enters into a bona fide written agreement for continuous residence for longer than 6 months in duration at such property is not exercising a taxable privilege. For the exercise of such taxable privilege, a tax is hereby levied in an amount equal to 6 percent of and on the total rental charged for such living quarters or sleeping or housekeeping accommodations by the person charging or collecting the rental. Such tax shall apply to hotels, apartment houses, roominghouses, tourist or trailer camps, mobile home parks, recreational vehicle parks, condominiums, or timeshare resorts, whether or not these facilities have dining rooms, cafes, or other places where meals or lunches are sold or served to guests.</p>
+            </content>
+            <paragraph eId="212_03__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>It is hereby declared to be the legislative intent that every person is exercising a taxable privilege who engages in the business of renting, leasing, letting, or granting a license to use any living quarters or sleeping or housekeeping accommodations in, from, or a part of, or in connection with any hotel, apartment house, roominghouse, tourist or trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort. However, any person who rents, leases, lets, or grants a license to others to use, occupy, or enter upon any living quarters or sleeping or housekeeping accommodations in any apartment house, roominghouse, tourist camp, trailer camp, mobile home park, recreational vehicle park, condominium, or timeshare resort and who exclusively enters into a bona fide written agreement for continuous residence for longer than 6 months in duration at such property is not exercising a taxable privilege. For the exercise of such taxable privilege, a tax is hereby levied in an amount equal to 6 percent of and on the total rental charged for such living quarters or sleeping or housekeeping accommodations by the person charging or collecting the rental. Such tax shall apply to hotels, apartment houses, roominghouses, tourist or trailer camps, mobile home parks, recreational vehicle parks, condominiums, or timeshare resorts, whether or not these facilities have dining rooms, cafes, or other places where meals or lunches are sold or served to guests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_03__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Tax shall be due on the consideration paid for occupancy in the county pursuant to a regulated short-term product, as defined in s.721.05, or occupancy in the county pursuant to a product that would be deemed a regulated short-term product if the agreement to purchase the short-term right was executed in this state. Such tax shall be collected on the last day of occupancy within the county unless such consideration is applied to the purchase of a timeshare estate. The occupancy of an accommodation of a timeshare resort pursuant to a timeshare plan, a multisite timeshare plan, or an exchange transaction in an exchange program, as defined in s.721.05, by the owner of a timeshare interest or such owner’s guest, which guest is not paying monetary consideration to the owner or to a third party for the benefit of the owner, is not a privilege subject to taxation under this section. A membership or transaction fee paid by a timeshare owner that does not provide the timeshare owner with the right to occupy any specific timeshare unit but merely provides the timeshare owner with the opportunity to exchange a timeshare interest through an exchange program is a service charge and not subject to taxation under this section.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_03__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax provided for herein shall be in addition to the total amount of the rental, shall be charged by the lessor or person receiving the rent in and by said rental arrangement to the lessee or person paying the rental, and shall be due and payable at the time of the receipt of such rental payment by the lessor or person, as defined in this chapter, who receives said rental or payment. The owner, lessor, or person receiving the rent shall remit the tax to the department at the times and in the manner hereinafter provided for dealers to remit taxes under this chapter. The same duties imposed by this chapter upon dealers in tangible personal property respecting the collection and remission of the tax; the making of returns; the keeping of books, records, and accounts; and the compliance with the rules and regulations of the department in the administration of this chapter shall apply to and be binding upon all persons who manage or operate hotels, apartment houses, roominghouses, tourist and trailer camps, and the rental of condominium units, and to all persons who collect or receive such rents on behalf of such owner or lessor taxable under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_03__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>When rentals are received by way of property, goods, wares, merchandise, services, or other things of value, the tax shall be at the rate of 6 percent of the value of the property, goods, wares, merchandise, services, or other things of value.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_03__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The tax levied by this section shall not apply to, be imposed upon, or collected from any person who shall have entered into a bona fide written lease for longer than 6 months in duration for continuous residence at any one hotel, apartment house, roominghouse, tourist or trailer camp, or condominium, or to any person who shall reside continuously longer than 6 months at any one hotel, apartment house, roominghouse, tourist or trailer camp, or condominium and shall have paid the tax levied by this section for 6 months of residence in any one hotel, roominghouse, apartment house, tourist or trailer camp, or condominium. Notwithstanding other provisions of this chapter, no tax shall be imposed upon rooms provided guests when there is no consideration involved between the guest and the public lodging establishment. Further, any person who, on the effective date of this act, has resided continuously for 6 months at any one hotel, apartment house, roominghouse, tourist or trailer camp, or condominium, or, if less than 6 months, has paid the tax imposed herein until he or she shall have resided continuously for 6 months, shall thereafter be exempt, so long as such person shall continuously reside at such location. The Department of Revenue shall have the power to reform the rental contract for the purposes of this chapter if the rental payments are collected in other than equal daily, weekly, or monthly amounts so as to reflect the actual consideration to be paid in the future for the right of occupancy during the first 6 months.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_03__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>The tax imposed by this section shall constitute a lien on the property of the lessee or rentee of any sleeping accommodations in the same manner as and shall be collectible as are liens authorized and imposed by ss.713.68and713.69.</p>
+            </content>
+          </subsection>
+          <subsection eId="212_03__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The Legislature finds that every person who leases or rents parking or storage spaces for motor vehicles in parking lots or garages, including storage facilities for towed vehicles, who leases or rents docking or storage spaces for boats in boat docks or marinas, or who leases or rents tie-down or storage space for aircraft at airports is engaging in a taxable privilege.</p>
+            </content>
+            <paragraph eId="212_03__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For the exercise of this privilege, a tax is hereby levied at the rate of 6 percent on the total rental charged.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_03__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Charges for parking, docking, tie-down, or storage arising from a lawful impoundment are not subject to taxation under this subsection. As used in this paragraph, the term “lawful impoundment” means the storing of or having custody over an aircraft, boat, or motor vehicle by, or at the direction of, a local, state, or federal law enforcement agency which the owner or the owner’s representative is not authorized to enter upon, have access to, or remove without the consent of the law enforcement agency.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="212_03__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>Full-time students enrolled in an institution offering postsecondary education and military personnel currently on active duty who reside in the facilities described in subsection (1) shall be exempt from the tax imposed by this section. The department shall be empowered to determine what shall be deemed acceptable proof of full-time enrollment. The exemption contained in this subsection shall apply irrespective of any other provisions of this section. The tax levied by this section shall not apply to or be imposed upon or collected on the basis of rentals to any person who resides in any building or group of buildings intended primarily for lease or rent to persons as their permanent or principal place of residence.</p>
+            </content>
+            <paragraph eId="212_03__subsec_7__para_7">
+              <num>(7)</num>
+              <content>
+                <p>Full-time students enrolled in an institution offering postsecondary education and military personnel currently on active duty who reside in the facilities described in subsection (1) shall be exempt from the tax imposed by this section. The department shall be empowered to determine what shall be deemed acceptable proof of full-time enrollment. The exemption contained in this subsection shall apply irrespective of any other provisions of this section. The tax levied by this section shall not apply to or be imposed upon or collected on the basis of rentals to any person who resides in any building or group of buildings intended primarily for lease or rent to persons as their permanent or principal place of residence.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_03__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>It is the intent of the Legislature that this subsection provide tax relief for persons who rent living accommodations rather than own their homes, while still providing a tax on the rental of lodging facilities that primarily serve transient guests.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_03__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The rental of facilities, as defined in s.212.02(10)(f), which are intended primarily for rental as a principal or permanent place of residence is exempt from the tax imposed by this chapter. The rental of such facilities that primarily serve transient guests is not exempt by this subsection. In the application of this law, or in making any determination against the exemption, the department shall consider the facility as primarily serving transient guests unless the facility owner makes a verified declaration on a form prescribed by the department that more than half of the total rental units available are occupied by tenants who have a continuous residence in excess of 3 months. The owner of a facility declared to be exempt by this paragraph must make a determination of the taxable status of the facility at the end of the owner’s accounting year using any consecutive 3-month period at least one month of which is in the accounting year. The owner must use a selected consecutive 3-month period during each annual redetermination. In the event that an exempt facility no longer qualifies for exemption by this paragraph, the owner must notify the department on a form prescribed by the department by the 20th day of the first month of the owner’s next succeeding accounting year that the facility no longer qualifies for such exemption. The tax levied by this section shall apply to the rental of facilities that no longer qualify for exemption under this paragraph beginning the first day of the owner’s next succeeding accounting year. The provisions of this paragraph do not apply to mobile home lots regulated under chapter 723.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="212_03__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The rental of living accommodations in migrant labor camps is not taxable under this section. “Migrant labor camps” are defined as one or more buildings or structures, tents, trailers, or vehicles, or any portion thereof, together with the land appertaining thereto, established, operated, or used as living quarters for seasonal, temporary, or migrant workers.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/192.053"/>
+          <FRBRuri value="/us-fl/act/fsa/192.053"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/192.053/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/192.053/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/192.053/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/192.053/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_192">
+        <num>Chapter 192</num>
+        <heading>Taxation: General Provisions</heading>
+        <section eId="sec_192_053">
+          <num>192.053</num>
+          <heading>Lien for unpaid taxes.</heading>
+          <content>
+            <p>A lien for all taxes, penalties, and interest shall attach to any property upon which a lien is imposed by law on the date of assessment and shall continue in full force and effect until discharged by payment as provided in chapter 197 or until barred under chapter 95.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

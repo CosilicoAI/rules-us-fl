@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.09"/>
+          <FRBRuri value="/us-fl/act/fsa/201.09"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.09/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.09/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.09/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.09/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_09">
+          <num>201.09</num>
+          <heading>Renewal of existing promissory notes and mortgages; exemption.</heading>
+          <content>
+            <p>When any promissory note is given in renewal of any existing promissory note, which renewal note only extends or continues the identical contractual obligations of the original promissory note and evidences part or all of the original indebtedness evidenced thereby, not including any accumulated interest thereon and without enlargement in any way of the original contract and obligation, such renewal note shall not be subject to taxation under this chapter if such renewal note has attached to it the original promissory note with the proper notation thereon as required by s.201.133. In order to be exempt from taxation under this section, a renewal note evidencing a term obligation shall not be executed by any person other than the original obligor and must renew and extend only the unpaid balance of the original contract and obligation. In order to be exempt from taxation under this section, a renewal note evidencing a revolving obligation shall not be executed by any person other than the original obligor and must renew and extend no more than the original face amount of the original contract and obligation. A renewal note evidencing a term obligation which increases the unpaid balance of the original contract and obligation but which otherwise meets the exemption criteria of this section is taxable only on the face amount of the increase. A renewal note evidencing a revolving obligation which increases the original face amount of the original contract and obligation but which otherwise meets the exemption criteria of this section is taxable only on the amount of the increase.</p>
+          </content>
+          <subsection eId="201_09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When any promissory note is given in renewal of any existing promissory note, which renewal note only extends or continues the identical contractual obligations of the original promissory note and evidences part or all of the original indebtedness evidenced thereby, not including any accumulated interest thereon and without enlargement in any way of the original contract and obligation, such renewal note shall not be subject to taxation under this chapter if such renewal note has attached to it the original promissory note with the proper notation thereon as required by s.201.133. In order to be exempt from taxation under this section, a renewal note evidencing a term obligation shall not be executed by any person other than the original obligor and must renew and extend only the unpaid balance of the original contract and obligation. In order to be exempt from taxation under this section, a renewal note evidencing a revolving obligation shall not be executed by any person other than the original obligor and must renew and extend no more than the original face amount of the original contract and obligation. A renewal note evidencing a term obligation which increases the unpaid balance of the original contract and obligation but which otherwise meets the exemption criteria of this section is taxable only on the face amount of the increase. A renewal note evidencing a revolving obligation which increases the original face amount of the original contract and obligation but which otherwise meets the exemption criteria of this section is taxable only on the amount of the increase.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>When any mortgage, trust deed, security agreement, or other evidence of indebtedness evidences a promissory note which would not be subject to taxation pursuant to subsection (1), then such mortgage, trust deed, security agreement, or other evidence of indebtedness shall not be subject to taxation under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="201_09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>A note given in renewal of an adjustable rate note or mortgage which has an initial interest rate adjustment interval of not less than 6 months shall be subject to taxation only to the extent of any accrued interest upon which taxes have not previously been paid, notwithstanding the provisions contained in subsection (1).</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

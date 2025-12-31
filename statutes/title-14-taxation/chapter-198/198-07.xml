@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.07"/>
+          <FRBRuri value="/us-fl/act/fsa/198.07"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.07/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.07/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.07/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.07/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_07">
+          <num>198.07</num>
+          <heading>Appointment of agents by department; bonds of agents; may administer oaths; credentials.</heading>
+          <content>
+            <p>The department may appoint and remove such examiners, appraisers, attorneys and employees as it may deem necessary, such persons to have such duties and powers as the department may from time to time prescribe. The salaries of all examiners, appraisers, attorneys and employees employed by the department shall be such as it may prescribe, and such examiners, appraisers, attorneys and employees shall be reimbursed for travel expenses as provided in s.112.061.</p>
+          </content>
+          <subsection eId="198_07__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The department may appoint and remove such examiners, appraisers, attorneys and employees as it may deem necessary, such persons to have such duties and powers as the department may from time to time prescribe. The salaries of all examiners, appraisers, attorneys and employees employed by the department shall be such as it may prescribe, and such examiners, appraisers, attorneys and employees shall be reimbursed for travel expenses as provided in s.112.061.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_07__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department may require such of the examiners, appraisers, attorneys and employees as it may designate to give bond payable to the state for the faithful performance of their duties in such form and with such sureties as it may determine, and all premiums on such bonds shall be paid by the state.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_07__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>All officers empowered by law to administer oaths and the examiners, appraisers and attorneys appointed by the department may administer an oath to all persons giving any testimony before them or to take the acknowledgment of any person in respect to any return or report required under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_07__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>All examiners, appraisers and attorneys appointed by the department shall have for identification purpose proper credentials issued by the department and exhibit the same upon demand.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

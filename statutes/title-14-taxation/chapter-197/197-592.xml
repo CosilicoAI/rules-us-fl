@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.592"/>
+          <FRBRuri value="/us-fl/act/fsa/197.592"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.592/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.592/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.592/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.592/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_592">
+          <num>197.592</num>
+          <heading>County delinquent tax lands; method and procedure for sale by county; certain lands conveyed to municipalities; extinction of liens.</heading>
+          <content>
+            <p>Lands acquired by any county of the state for delinquent taxes in accordance with law which have not been previously sold or dedicated by the board of county commissioners may, at its discretion, be conveyed to the record fee simple owner of such lands as of the date the county obtained title to the lands. However, before any conveyance shall be made, the former owner of the lands may file with the board of county commissioners a verified written application which shall show:</p>
+          </content>
+          <subsection eId="197_592__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Lands acquired by any county of the state for delinquent taxes in accordance with law which have not been previously sold or dedicated by the board of county commissioners may, at its discretion, be conveyed to the record fee simple owner of such lands as of the date the county obtained title to the lands. However, before any conveyance shall be made, the former owner of the lands may file with the board of county commissioners a verified written application which shall show:</p>
+            </content>
+            <paragraph eId="197_592__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The description of the lands for which a conveyance is sought;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_592__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The name and address of the former owner;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_592__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The date title was acquired by the county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_592__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The price of the lands as previously fixed by resolution of the board of county commissioners, if this has been done;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_592__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The use to which the lands were enjoyed by the record fee simple owner at the time of acquisition by the county;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_592__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>A brief statement of the facts and circumstances upon which the former owner bases the request for restitution of the described property;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_592__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>An offer to pay an amount equal to all taxes, including municipal taxes and liens, if any, which had become delinquent, together with interest and costs provided by law.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_592__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In the event the described lands have not been assessed for taxes for the current year in which the petition is filed, the applicant shall pay, in addition, the taxes for current and omitted years, the latter amount to be determined by applicable millage for the omitted years and based on the last assessment of the described lands.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_592__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Lands acquired by any county of the state for delinquent taxes in accordance with law which have not been previously sold, acquired for infill housing, or dedicated by the board of county commissioners, which the board of county commissioners has determined are not to be conveyed to the record fee simple owner in accordance with the provisions of subsections (1) and (2), and which are located within the boundaries of an incorporated municipality of the county shall be conveyed to the governing board of the municipality in which the land is located. Such lands conveyed to the municipality shall be freely alienable to the municipality without regard to third parties. Liens of record held by the county on such parcels conveyed to a municipality shall not survive the conveyance of the property to the municipality.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_592__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Liens of record held by the county upon lands not conveyed in accordance with subsections (1) and (2) or subsection (3) shall not survive the conveyance of the property to the county.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.5588"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5588"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.5588/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5588/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.5588/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.5588/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_5588">
+          <num>215.5588</num>
+          <heading>Florida Disaster Recovery Program.</heading>
+          <content>
+            <p>The Department of Commerce shall implement the 2006 Disaster Recovery Program from funds provided through the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, for the purpose of assisting local governments in satisfying disaster recovery needs in the areas of low-income housing and infrastructure, with a primary focus on the hardening of single-family and multifamily housing units, not only to ensure that affordable housing can withstand the effects of hurricane-force winds, but also to mitigate the increasing costs of insurance, which may ultimately render existing affordable homes unaffordable or uninsurable. This section does not create an entitlement for local governments or property owners or obligate the state in any way to fund disaster recovery needs.</p>
+          </content>
+          <subsection eId="215_5588__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The Department of Commerce shall implement the 2006 Disaster Recovery Program from funds provided through the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, for the purpose of assisting local governments in satisfying disaster recovery needs in the areas of low-income housing and infrastructure, with a primary focus on the hardening of single-family and multifamily housing units, not only to ensure that affordable housing can withstand the effects of hurricane-force winds, but also to mitigate the increasing costs of insurance, which may ultimately render existing affordable homes unaffordable or uninsurable. This section does not create an entitlement for local governments or property owners or obligate the state in any way to fund disaster recovery needs.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5588__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Entitlement and nonentitlement counties identified under the Federal Disaster Declaration (FEMA-1609-DR), federally recognized Indian tribes, and nonprofit organizations are eligible to apply for funding.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_5588__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Up to 78 percent of these funds may be used to complement the grants awarded by the Department of Financial Services under s.215.5586and fund other eligible disaster-related activities supporting housing rehabilitation, hardening, mitigation, and infrastructure improvements at the request of the local governments in order to assist the State of Florida in better serving low-income homeowners in single-family housing units, including, but not limited to, condominiums. Up to 20 percent of the funds may be used to provide inspections and mitigation improvements to multifamily units receiving rental assistance under projects of the United States Department of Housing and Urban Development or the Rural Development Division of the United States Department of Agriculture.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

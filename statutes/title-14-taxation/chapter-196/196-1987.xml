@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.1987"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1987"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.1987/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1987/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.1987/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.1987/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_1987">
+          <num>196.1987</num>
+          <heading>Biblical history display property exemption.</heading>
+          <content>
+            <p>The use of property owned by an organization exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code to exhibit, illustrate, and interpret Biblical manuscripts, codices, stone tablets, and other Biblical archives; provide live and recorded demonstrations, explanations, reenactments, and illustrations of Biblical history and Biblical worship; and exhibit times, places, and events of Biblical history and significance, when such activity is open to the public and is available to the public for no admission charge at least 1 day each calendar year, subject to capacity limits, and when such organization has received written correspondence from the Internal Revenue Service stating that the conduct of the organization’s activities does not adversely affect the organization’s exempt status under s. 501(c)(3) of the Internal Revenue Code, constitutes religious use of such property, which is hereby defined as property within the purview of s. 3(a), Art. VII of the State Constitution and is exempt from ad valorem taxation to the extent of such use pursuant to s.196.192(2). Any portion of such property used for nonexempt purposes may be valued and placed upon the tax rolls separately from any portion entitled to exemption pursuant to this section.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

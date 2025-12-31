@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.091"/>
+          <FRBRuri value="/us-fl/act/fsa/201.091"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.091/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.091/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.091/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.091/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_091">
+          <num>201.091</num>
+          <heading>Correction of prior error.</heading>
+          <content>
+            <p>If the only reason a document is not exempt from tax pursuant to s.201.09is the nonpayment or underpayment of tax on the document evidencing the original contract and obligation or the original primary debt or mortgage, then payment of the tax deficiency plus interest at the current statutory rate and penalty, if any, on the prior document shall cause the renewal to qualify for the exemption. The corrective payment described in this section may be made on the original note, on the original mortgage, on any subsequent mortgage modification, or in such other manner as may be set forth in rules promulgated by the Department of Revenue. The application of this section shall not be limited by expiration of any applicable statute of limitations on assessment or collection of the omitted tax.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

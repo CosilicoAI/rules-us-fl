@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.78"/>
+          <FRBRuri value="/us-fl/act/fsa/215.78"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.78/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.78/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.78/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.78/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_78">
+          <num>215.78</num>
+          <heading>Remedies.</heading>
+          <content>
+            <p>Any holder of bonds issued under the provisions of this act or of any of the coupons appertaining thereto, except to the extent the rights herein given may be restricted by the resolution or other proceedings authorizing the issuance of such bonds, may by civil action, mandamus, or other proceedings, protect and enforce any and all rights of such bondholders granted hereunder or under the proceedings authorizing the issuance of such bonds, and may enforce and compel the performance of all duties required by this act or by such proceedings by the state or any state agency on behalf of which such bonds are issued, including the levying, fixing, establishing and collecting of taxes, revenues or other funds and the performance and carrying out of all the provisions of this act and all covenants and agreements in the proceedings which authorized the issuance of such bonds.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

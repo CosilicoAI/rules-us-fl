@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.125"/>
+          <FRBRuri value="/us-fl/act/fsa/202.125"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.125/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.125/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.125/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.125/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_125">
+          <num>202.125</num>
+          <heading>Sales of communications services; specified exemptions.</heading>
+          <content>
+            <p>The separately stated sales price of communications services sold to residential households is exempt from the tax imposed by s.202.12and s.203.01(1)(b)3. This exemption does not apply to any residence that constitutes all or part of a transient public lodging establishment as defined in chapter 509, any mobile communications service, any video service, or any direct-to-home satellite service.</p>
+          </content>
+          <subsection eId="202_125__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The separately stated sales price of communications services sold to residential households is exempt from the tax imposed by s.202.12and s.203.01(1)(b)3. This exemption does not apply to any residence that constitutes all or part of a transient public lodging establishment as defined in chapter 509, any mobile communications service, any video service, or any direct-to-home satellite service.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_125__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The sale of communications services provided to the Federal Government, any agency or instrumentality of the Federal Government, or any entity that is exempt from state taxes under federal law is exempt from the taxes imposed or administered pursuant to ss.202.12and202.19.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_125__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The sale of communications services to the state or any county, municipality, or political subdivision of the state when payment is made directly to the dealer by the governmental entity is exempt from the taxes imposed or administered pursuant to ss.202.12and202.19. This exemption does not inure to any transaction otherwise taxable under this chapter when payment is made by a government employee by any means, including, but not limited to, cash, check, or credit card even when that employee is subsequently reimbursed by the governmental entity.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_125__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The sale of communications services to a home for the aged, religious institution or educational institution that is exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code, or by a religious institution that is exempt from federal income tax under s. 501(c)(3) of the Internal Revenue Code having an established physical place for worship at which nonprofit religious services and activities are regularly conducted and carried on, is exempt from the taxes imposed or administered pursuant to ss.202.12and202.19. As used in this subsection, the term:</p>
+            </content>
+            <paragraph eId="202_125__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Religious institution” means an organization owning and operating an established physical place for worship at which nonprofit religious services and activities are regularly conducted. The term also includes:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_125__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Educational institution” includes:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_125__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Home for the aged” includes any nonprofit corporation:</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

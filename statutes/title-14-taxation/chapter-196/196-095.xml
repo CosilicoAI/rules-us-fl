@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.095"/>
+          <FRBRuri value="/us-fl/act/fsa/196.095"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.095/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.095/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.095/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.095/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_095">
+          <num>196.095</num>
+          <heading>Exemption for a licensed child care facility operating in an enterprise zone.</heading>
+          <content>
+            <p>Any real estate used and owned as a child care facility as defined in s.402.302which operates in an enterprise zone pursuant to chapter 290 is exempt from taxation.</p>
+          </content>
+          <subsection eId="196_095__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Any real estate used and owned as a child care facility as defined in s.402.302which operates in an enterprise zone pursuant to chapter 290 is exempt from taxation.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_095__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>To claim an enterprise zone child care property tax exemption authorized by this section, a child care facility must file an application under oath with the governing body or enterprise zone development agency having jurisdiction over the enterprise zone where the child care center is located. Within 10 working days after receipt of an application, the governing body or enterprise zone development agency shall review the application to determine if it contains all the information required pursuant to this section and meets the criteria set out in this section. The governing body or agency shall certify all applications that contain the information required pursuant to this section and meet the criteria set out in this section as eligible to receive an ad valorem tax exemption. The child care center shall be responsible for forwarding all application materials to the governing body or enterprise zone development agency.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_095__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The production by the child care facility operator of a current license by the Department of Children and Families or local licensing authority and certification by the governing body or enterprise zone where the child care center is located is prima facie evidence that the child care facility owner is entitled to such exemptions.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

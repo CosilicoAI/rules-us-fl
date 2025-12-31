@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.021"/>
+          <FRBRuri value="/us-fl/act/fsa/198.021"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.021/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.021/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.021/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.021/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_021">
+          <num>198.021</num>
+          <heading>Tax upon generation-skipping transfers of residents.</heading>
+          <content>
+            <p>A tax is hereby imposed upon every generation-skipping transfer in which the original transferor is a resident of this state at the date of original transfer, in an amount equal to the amount allowable as a credit for state legacy taxes under s. 2604 of the Internal Revenue Code of 1986, as amended, to the extent such credit exceeds the aggregate amount of all constitutionally valid taxes on the same transfer actually paid to the several states of the United States other than this state.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

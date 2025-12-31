@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.292"/>
+          <FRBRuri value="/us-fl/act/fsa/216.292"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.292/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.292/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.292/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.292/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_292">
+          <num>216.292</num>
+          <heading>Appropriations nontransferable; exceptions.</heading>
+          <content>
+            <p>Funds provided in the General Appropriations Act or as otherwise expressly provided by law shall be expended only for the purpose for which appropriated, except that such moneys may be transferred as provided in this section when it is determined to be in the best interest of the state. Appropriations for fixed capital outlay may not be expended for any other purpose. Appropriations may not be transferred between state agencies, or between a state agency and the judicial branch, unless specifically authorized by law.</p>
+          </content>
+          <subsection eId="216_292__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>Funds provided in the General Appropriations Act or as otherwise expressly provided by law shall be expended only for the purpose for which appropriated, except that such moneys may be transferred as provided in this section when it is determined to be in the best interest of the state. Appropriations for fixed capital outlay may not be expended for any other purpose. Appropriations may not be transferred between state agencies, or between a state agency and the judicial branch, unless specifically authorized by law.</p>
+            </content>
+            <paragraph eId="216_292__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>Funds provided in the General Appropriations Act or as otherwise expressly provided by law shall be expended only for the purpose for which appropriated, except that such moneys may be transferred as provided in this section when it is determined to be in the best interest of the state. Appropriations for fixed capital outlay may not be expended for any other purpose. Appropriations may not be transferred between state agencies, or between a state agency and the judicial branch, unless specifically authorized by law.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Authorized revisions of the original approved operating budget, together with related changes in the plan for release of appropriations, if any, shall be transmitted by the state agency or by the judicial branch to the Executive Office of the Governor or the Chief Justice, respectively, the chairs of the Senate and the House of Representatives appropriations committees, the Office of Program Policy Analysis and Government Accountability, and the Auditor General. Such authorized revisions shall be consistent with the intent of the approved operating budget, shall be consistent with legislative policy and intent, and may not conflict with specific spending policies specified in the General Appropriations Act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_292__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The following transfers are authorized to be made by the head of each department or the Chief Justice of the Supreme Court whenever it is deemed necessary by reason of changed conditions:</p>
+            </content>
+            <paragraph eId="216_292__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>After providing notice at least 5 working days prior to implementation:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The transfer of funds appropriated to accounts established for disbursement purposes upon release of such appropriation upon request of a department and approval by the Chief Financial Officer. Such transfer may only be made to the same appropriation category and the same funding source from which the funds are transferred.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_292__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The following transfers are authorized with the approval of the Executive Office of the Governor for the executive branch or the Chief Justice for the judicial branch, subject to the notice and objection provisions of s.216.177:</p>
+            </content>
+            <paragraph eId="216_292__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The transfer of appropriations for operations from trust funds in excess of those provided in subsection (2), up to $1 million.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The transfer of positions between budget entities.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_292__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The following transfers are authorized with the approval of the Legislative Budget Commission. Unless waived by the chair and vice chair of the commission, notice of such transfers must be provided 14 days before the commission meeting:</p>
+            </content>
+            <paragraph eId="216_292__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The transfer of appropriations for operations from the General Revenue Fund in excess of those provided in this section but within a state agency or within the judicial branch, as recommended by the Executive Office of the Governor or the Chief Justice of the Supreme Court.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The transfer of appropriations for operations from trust funds in excess of those authorized in subsection (2) or subsection (3), as recommended by the Executive Office of the Governor or the Chief Justice of the Supreme Court.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The transfer of the portion of an appropriation for a named fixed capital outlay project found to be in excess of that needed to complete the project to another project for which there has been an appropriation in the same fiscal year from the same fund and within the same department where a deficiency is found to exist, at the request of the Executive Office of the Governor for state agencies or the Chief Justice of the Supreme Court for the judicial branch. The scope of a fixed capital outlay project may not be changed by any transfer of funds made pursuant to this subsection.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The transfers necessary to accomplish the purposes of reorganization within state agencies or the judicial branch authorized by the Legislature when the necessary adjustments of appropriations and positions have not been provided in the General Appropriations Act.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_292__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>A transfer of funds may not result in the initiation of a fixed capital outlay project that has not received a specific legislative appropriation.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_292__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>The Chief Financial Officer shall transfer from any available funds of an agency or the judicial branch the following amounts and shall report all such transfers and the reasons therefor to the legislative appropriations committees and the Executive Office of the Governor:</p>
+            </content>
+            <paragraph eId="216_292__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The amount due to the Unemployment Compensation Trust Fund which is more than 90 days delinquent on reimbursements due to the Unemployment Compensation Trust Fund. The amount transferred shall be that certified by the state agency providing reemployment assistance tax collection services under contract with the Department of Commerce through an interagency agreement pursuant to s.443.1316.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount due to the Division of Risk Management which is more than 90 days delinquent in payment to the Division of Risk Management of the Department of Financial Services for insurance coverage. The amount transferred shall be that certified by the division.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_292__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount due to the Communications Working Capital Trust Fund from moneys appropriated in the General Appropriations Act for the purpose of paying for services provided by the state communications system in the Department of Management Services which is unpaid 45 days after the billing date. The amount transferred shall be that billed by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_292__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>The provisions of this section do not apply to the budgets for the legislative branch.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

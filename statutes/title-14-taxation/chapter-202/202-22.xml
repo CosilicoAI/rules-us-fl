@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.22"/>
+          <FRBRuri value="/us-fl/act/fsa/202.22"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.22/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.22/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.22/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.22/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_22">
+          <num>202.22</num>
+          <heading>Determination of local tax situs.</heading>
+          <content>
+            <p>A dealer of communications services who is obligated to collect and remit a local communications services tax imposed under s.202.19shall be held harmless from any liability, including tax, interest, and penalties, which would otherwise be due solely as a result of an assignment of a service address to an incorrect local taxing jurisdiction, if the dealer of communications services exercises due diligence in applying one or more of the following methods for determining the local taxing jurisdiction in which a service address is located:</p>
+          </content>
+          <subsection eId="202_22__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A dealer of communications services who is obligated to collect and remit a local communications services tax imposed under s.202.19shall be held harmless from any liability, including tax, interest, and penalties, which would otherwise be due solely as a result of an assignment of a service address to an incorrect local taxing jurisdiction, if the dealer of communications services exercises due diligence in applying one or more of the following methods for determining the local taxing jurisdiction in which a service address is located:</p>
+            </content>
+            <paragraph eId="202_22__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Employing an electronic database provided by the department under subsection (2).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Employing a database developed by the dealer or supplied by a vendor which has been certified by the department under subsection (3).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Employing enhanced zip codes to assign each street address, address range, post office box, or post office box range in the dealer’s service area to a specific local taxing jurisdiction.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Employing a database of street addresses or other assignments that does not meet the requirements of paragraphs (a)-(c), but meets the criteria set forth in paragraph (3)(a) at the time of audit by the department.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_22__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The department shall, subject to legislative appropriation, create as soon as practical and feasible, and thereafter maintain, an electronic database that gives due and proper regard to any format that is approved by the American National Standards Institute’s Accredited Standards Committee X12 and that designates for each street address, address range, post office box, or post office box range in the state, including any multiple postal street addresses applicable to one street location, the local taxing jurisdiction in which the street address, address range, post office box, or post office box range is located and the appropriate code for each such local taxing jurisdiction, identified by one nationwide standard numeric code. The nationwide standard numeric code must contain the same number of numeric digits, and each digit, or combination of digits, must refer to the same level of taxing jurisdiction throughout the United States using a format similar to FIPS 55-3 or other appropriate standard approved by the Federation of Tax Administrators and the Multistate Tax Commission. Each address or address range or post office box or post office box range must be provided in standard postal format, including the street number, street number range, street name, post office box number, post office box range, and zip code. The department shall provide notice of the availability of the database, and any subsequent revision thereof, by publication in the Florida Administrative Register.</p>
+            </content>
+            <paragraph eId="202_22__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>The department shall, subject to legislative appropriation, create as soon as practical and feasible, and thereafter maintain, an electronic database that gives due and proper regard to any format that is approved by the American National Standards Institute’s Accredited Standards Committee X12 and that designates for each street address, address range, post office box, or post office box range in the state, including any multiple postal street addresses applicable to one street location, the local taxing jurisdiction in which the street address, address range, post office box, or post office box range is located and the appropriate code for each such local taxing jurisdiction, identified by one nationwide standard numeric code. The nationwide standard numeric code must contain the same number of numeric digits, and each digit, or combination of digits, must refer to the same level of taxing jurisdiction throughout the United States using a format similar to FIPS 55-3 or other appropriate standard approved by the Federation of Tax Administrators and the Multistate Tax Commission. Each address or address range or post office box or post office box range must be provided in standard postal format, including the street number, street number range, street name, post office box number, post office box range, and zip code. The department shall provide notice of the availability of the database, and any subsequent revision thereof, by publication in the Florida Administrative Register.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Each local taxing jurisdiction shall furnish to the department all information needed to create and update the electronic database, including changes in service addresses, annexations, incorporations, reorganizations, and any other changes in jurisdictional boundaries. The information furnished to the department must specify an effective date, which must be the next ensuing January 1 or July 1, and such information must be furnished to the department at least 120 days prior to the effective date. However, the requirement that counties submit information pursuant to this paragraph shall be subject to appropriation.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_22__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For purposes of this section, a database must be certified by the department pursuant to rules that implement the following criteria and procedures:</p>
+            </content>
+            <paragraph eId="202_22__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The database must assign street addresses, address ranges, post office boxes, or post office box ranges to the proper jurisdiction with an overall accuracy rate of 95 percent at a 95 percent level of confidence, as determined through a statistically reliable sample. The accuracy must be measured based on the entire geographic area within the state covered by such database.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon receipt of an application for certification or recertification of a database, the provisions of s.120.60shall apply, except that the department shall examine the application and, within 90 days after receipt, notify the applicant of any apparent errors or omissions and request any additional information determined necessary. The applicant shall designate an individual responsible for providing access to all records, facilities, and processes the department determines are reasonably necessary to review, inspect, or test to make a determination regarding the application. Such access must be provided within 10 working days after notification.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The application must be in the form prescribed by rule and must include the applicant’s name, federal employer identification number, mailing address, business address, and any other information required by the department. The application may request that the applicant identify the applicant’s proposal for testing the database.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Each application for certification must be approved or denied upon written notice within 180 days after receipt of a completed application. The notice must specify the grounds for denial, inform the applicant of any remedy that is available, and indicate the procedure that must be followed. Filing of a petition under chapter 120 does not preclude the department from certifying the database upon a demonstration that the deficiencies have been corrected.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_3__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Certification or recertification of a database under this subsection is effective from the date of the department’s notice approving the application until the expiration of 3 or 4 years following such date, as set forth in the notice, except as provided in paragraph (f).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_3__para_f">
+              <num>(f)</num>
+              <content>
+                <p>An application for recertification of a database must be received by the department not more than 3 years after the date of any prior certification. The application and procedures relating thereto shall be governed by this subsection, except as otherwise provided in this paragraph. When an application for recertification has been timely submitted, the existing certification shall not expire but shall remain effective until the application has received final action by the department, or if the application is denied, until the denial is no longer subject to administrative or judicial review or such later date as may be fixed by order of the reviewing court.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Notwithstanding any provision of law to the contrary, if a dealer submits an application for certification on or before the later of October 1, 2001, or the date that is 30 days after the date on which the applicable department rule becomes effective, the 180-day time limit set forth in paragraph (d) does not apply. During the time the application is under consideration by the department or, if the application is denied, until the denial is no longer subject to administrative or judicial review or until a later date fixed by order of the reviewing court:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_22__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>As used in this section, “due diligence” means the care and attention that is expected from, and ordinarily exercised by, a reasonable and prudent person under the circumstances.</p>
+            </content>
+            <paragraph eId="202_22__subsec_4__para_4">
+              <num>(4)</num>
+              <content>
+                <p>As used in this section, “due diligence” means the care and attention that is expected from, and ordinarily exercised by, a reasonable and prudent person under the circumstances.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding any law to the contrary, a dealer of communications services is exercising due diligence in applying one or more of the methods set forth in subsection (1) if the dealer:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_22__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If a dealer of communications services does not use one or more of the methods specified in subsection (1) for determining the local taxing jurisdiction in which one or more service addresses are located and:</p>
+            </content>
+            <paragraph eId="202_22__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The dealer’s failure to use one or more of such methods results in a net aggregate underpayment of all taxes levied pursuant to s.202.19with respect to one or more tax periods that are being examined by the department under the provisions of this chapter; and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The department has determined the misallocations between jurisdictions for all taxes levied pursuant to s.202.19and collected by the dealer with respect to any tax period being examined by the department; then,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_22__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Pursuant to rules adopted by the department, each dealer of communications services must notify the department of the methods it intends to employ for determining the local taxing jurisdiction in which service addresses are located.</p>
+            </content>
+            <paragraph eId="202_22__subsec_6__para_6">
+              <num>(6)</num>
+              <content>
+                <p>Pursuant to rules adopted by the department, each dealer of communications services must notify the department of the methods it intends to employ for determining the local taxing jurisdiction in which service addresses are located.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_22__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Notwithstanding s.202.28, if a dealer of communications services:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_22__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>As used in this section, “enhanced zip code” means a United States postal zip code of 9 or more digits.</p>
+            </content>
+          </subsection>
+          <subsection eId="202_22__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>All local communications services taxes collected by a dealer are subject to the provisions of s.213.756. The hold harmless protection provided by subsection (1) does not entitle a dealer to retain or take credits for taxes collected from any customers that are assigned to an incorrect local taxing jurisdiction in excess of the taxes due to the correct local taxing jurisdiction for that customer. Dealers are entitled to refunds of or credits for such excess collections only upon making refunds or providing credits to the customer.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

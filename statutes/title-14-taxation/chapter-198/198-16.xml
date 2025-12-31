@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.16"/>
+          <FRBRuri value="/us-fl/act/fsa/198.16"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.16/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.16/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.16/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.16/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_16">
+          <num>198.16</num>
+          <heading>Notice of determination of deficiency in federal tax to be filed with department.</heading>
+          <content>
+            <p>It shall be the duty of the personal representative to file with the department within 60 days after a final determination of any deficiency in federal estate tax has been made, written notice thereof.</p>
+          </content>
+          <subsection eId="198_16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>It shall be the duty of the personal representative to file with the department within 60 days after a final determination of any deficiency in federal estate tax has been made, written notice thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>If, after a duplicate federal return of a generation-skipping transfer has been filed with the Department of Revenue, the federal authorities increase or decrease the amount of the federal generation-skipping transfer tax, an amended return shall be filed with the department showing all changes made in the original return and the amount of increase or decrease in the federal generation-skipping transfer tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_16__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>If, based upon any deficiency and the ground therefor, it shall appear that the amount of tax previously paid is less than the amount of tax owing, the difference, together with interest at the rate of 1 percent per month from the due date of the tax, shall be paid upon notice and demand by the department. In the event the personal representative or person required to return and pay such tax shall fail to give the notice required by this section, any additional tax which shall be owing may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment at any time prior to the filing of such notice or within 30 days after the delinquent filing of such notice, notwithstanding the provisions of s.198.28.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

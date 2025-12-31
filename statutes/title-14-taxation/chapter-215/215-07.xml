@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.07"/>
+          <FRBRuri value="/us-fl/act/fsa/215.07"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.07/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.07/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.07/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.07/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_07">
+          <num>215.07</num>
+          <heading>Preference of state in case of insolvency.</heading>
+          <content>
+            <p>When any revenue officer or other person now indebted or hereafter becoming indebted to the state, by bond or otherwise, shall become insolvent, or when the estate of any deceased debtor in the hands of executors or administrators shall not be sufficient to pay all the debt due from the deceased, the debt due to the state shall be first satisfied; and the priority established shall be deemed to extend as well to cases in which a debtor, not having sufficient property to pay all his or her debts, shall make a voluntary assignment thereof, or in which the estate and effects of an absconding, concealed or absent debtor shall be attached by process of law, as to cases in which the party shall be insolvent.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

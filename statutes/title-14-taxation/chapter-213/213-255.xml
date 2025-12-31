@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/213.255"/>
+          <FRBRuri value="/us-fl/act/fsa/213.255"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/213.255/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/213.255/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/213.255/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/213.255/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_213">
+        <num>Chapter 213</num>
+        <heading>State Revenue Laws: General Provisions</heading>
+        <section eId="sec_213_255">
+          <num>213.255</num>
+          <heading>Interest.</heading>
+          <content>
+            <p>Interest shall be paid on overpayments of taxes, payment of taxes not due, or taxes paid in error, subject to the following conditions:</p>
+          </content>
+          <subsection eId="213_255__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>A refund application must be filed with the department within the time specified by s.215.26.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>A refund application shall not be processed until it is determined complete. A refund application is complete if it is filed on a permitted form and contains:</p>
+            </content>
+            <paragraph eId="213_255__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The taxpayer’s name, address, identifying number, and signature.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_255__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Sufficient information, whether on the application or attachments, to permit mathematical verification of the amount of the refund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_255__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The amount claimed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_255__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The specific grounds upon which the refund is claimed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="213_255__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The taxable years or periods involved.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="213_255__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Within 30 days after receipt of the refund application, the department shall examine the application and notify the applicant of any apparent errors or omissions and request any additional information the department is permitted by law to require. An application shall be considered complete upon receipt of all requested information and correction of any error or omission for which the applicant was timely notified, or when the time for such notification has expired, whichever is later.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Interest shall not commence until 90 days after a complete refund application has been filed and the amount of overpayment has not been refunded to the taxpayer or applied as a credit to the taxpayer’s account. However, if there is a prohibition against refunding a tax overpayment before the first day of the state fiscal year, interest on the tax overpayment shall not commence until August 1 of the year the tax was due. If the department and the taxpayer mutually agree that an audit or verification is necessary in order to determine the taxpayer’s entitlement to the refund, interest shall not commence until the audit or verification of the claim is final.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>If a tax is adjudicated unconstitutional and refunds are ordered by the court, interest shall not commence on complete applications until 90 days after the adjudication becomes final and unappealable or 90 days after a complete application has been filed, whichever is later.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>Interest shall be paid until a date determined by the department which shall be no more than 7 days prior to the date of the issuance of the refund warrant by the Chief Financial Officer.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>If the department intends to pay a refund claim prior to completion of an audit, the department may condition its payment of the refund claim upon the person filing a cash bond or surety bond in the amount of the refund claimed or making such other security arrangements satisfactory to protect the state’s interests. The department may impose this condition only when it has reasonable cause to believe that it could not recover the amount of any refund paid in error from the person claiming the refund. The cash or surety bond shall be endorsed by a surety company authorized to do business in this state and shall be conditioned upon payment in full of the amount of any refund paid in error for any reason. The department shall provide a written notice of its determination that a cash or surety bond is required as a condition of payment prior to audit, in which event interest shall not commence until the person filing the claim satisfies this requirement. Such bond shall remain in place while the department retains a right pursuant to s.95.091(3) to audit the refund claim. Upon completion of an audit of the claim, the department shall agree to a reduction in the bond amount equal to the portion of the refund claim approved by the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>Nothing in this section is intended to alter the department’s right to audit or verify refund claims either before or after they are paid.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>In the event that the department pays a refund claim that is later determined to have been paid in error, the person to whom the refund was paid shall be assessed interest on the amount of the erroneous refund payment, commencing with the date of the erroneous payment and continuing until the erroneous payment amount is repaid to the department. If the department determines that the erroneous refund claim was not due to reasonable cause, there shall be added a penalty in the amount of 10 percent of the erroneously refunded tax. If the department determines that the erroneous refund claim was due to fraud, there shall be added a penalty in the amount of 100 percent of the erroneously refunded tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>The provisions of this section shall apply with regard to refund claims filed on or after January 1, 2000, and beginning July 1, 2000, shall apply with regard to any then-pending refund claims that were filed with the department prior to January 1, 2000.</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>The department is authorized to adopt such rules, not inconsistent with the provisions of this section, as are necessary for the implementation of this section including, but not limited to, rules establishing the information necessary for a complete refund application, the procedures for denying an incomplete application, and the standards and guidelines to be applied in determining when to require a bond under the provisions of subsection (7).</p>
+            </content>
+          </subsection>
+          <subsection eId="213_255__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>The rate of interest shall be the adjusted rate established pursuant to s.213.235, except that the annual rate of interest shall never be greater than 11 percent. This annual rate of interest shall be applied to all refunds of taxes administered by the department except for corporate income taxes governed by ss.220.721and220.723.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

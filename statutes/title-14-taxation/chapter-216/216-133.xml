@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.133"/>
+          <FRBRuri value="/us-fl/act/fsa/216.133"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.133/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.133/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.133/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.133/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_133">
+          <num>216.133</num>
+          <heading>Definitions; ss.216.133-216.138.</heading>
+          <content>
+            <p>As used in ss.216.133-216.138:</p>
+          </content>
+          <subsection eId="216_133__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Consensus estimating conference” includes the Economic Estimating Conference, the Demographic Estimating Conference, the Revenue Estimating Conference, the Education Estimating Conference, the Criminal Justice Estimating Conference, the Occupational Forecasting Conference, the Early Learning Programs Estimating Conference, the Self-Insurance Estimating Conference, the Florida Retirement System Actuarial Assumption Conference, and the Social Services Estimating Conference.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_133__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Official information” means the data, forecasts, estimates, analyses, studies, and other information which the principals of a consensus estimating conference unanimously adopt for purposes of the state planning and budgeting system.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_133__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Consensus” means the unanimous consent of all of the principals of a consensus estimating conference.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

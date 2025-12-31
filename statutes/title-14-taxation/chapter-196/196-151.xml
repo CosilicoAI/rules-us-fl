@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.151"/>
+          <FRBRuri value="/us-fl/act/fsa/196.151"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.151/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.151/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.151/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.151/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_151">
+          <num>196.151</num>
+          <heading>Homestead exemptions; approval, refusal, hearings.</heading>
+          <content>
+            <p>The property appraisers of the counties of the state shall, as soon as practicable after March 1 of each current year and on or before July 1 of that year, carefully consider all applications for tax exemptions that have been filed in their respective offices on or before March 1 of that year. If, upon investigation, the property appraiser finds that the applicant is entitled to the tax exemption applied for under the law, he or she shall make such entries upon the tax rolls of the county as are necessary to allow the exemption to the applicant. If, after due consideration, the property appraiser finds that the applicant is not entitled under the law to the exemption asked for, he or she shall immediately make out a notice of such disapproval, giving his or her reasons therefor, a copy of which notice must be served upon the applicant by the property appraiser either by personal delivery or by registered mail to the post office address given by the applicant. The applicant may appeal to the value adjustment board the decision of the property appraiser refusing to allow the exemption for which application was made, and the board shall review the application and evidence presented to the property appraiser upon which the applicant based the claim for exemption and shall hear the applicant in person or by agent on behalf of his or her right to such exemption. The value adjustment board shall reverse the decision of the property appraiser in the cause and grant exemption to the applicant if in its judgment the applicant is entitled thereto or shall affirm the decision of the property appraiser. The action of the board is final in the cause unless the applicant shall, within 15 days from the date of refusal of the application by the board, file in the circuit court of the county in which the homestead is situated a proceeding against the property appraiser for a declaratory judgment as is provided by chapter 86 or other appropriate proceeding. The failure of the taxpayer to appear before the property appraiser or value adjustment board or to file any paper other than the application above provided does not constitute any bar or defense to the proceedings.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

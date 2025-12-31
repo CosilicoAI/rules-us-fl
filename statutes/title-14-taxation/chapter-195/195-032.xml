@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/195.032"/>
+          <FRBRuri value="/us-fl/act/fsa/195.032"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/195.032/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/195.032/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/195.032/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/195.032/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_195">
+        <num>Chapter 195</num>
+        <heading>Property Assessment Administration and Finance</heading>
+        <section eId="sec_195_032">
+          <num>195.032</num>
+          <heading>Establishment of standards of value.</heading>
+          <content>
+            <p>In furtherance of the requirement set out in s.195.002, the Department of Revenue shall establish and promulgate standard measures of value not inconsistent with those standards provided by law, to be used by property appraisers in all counties, including taxing districts, to aid and assist them in arriving at assessments of all property. The standard measures of value shall provide guidelines for the valuation of property and methods for property appraisers to employ in arriving at the just valuation of particular types of property consistent with ss.193.011and193.461. The standard measures of value shall assist the property appraiser in the valuation of property and be deemed prima facie correct, but shall not be deemed to establish the just value of any property. However, the presumption of correctness accorded an assessment made by a property appraiser shall not be impugned merely because the standard measures of value do not establish the just value of any property.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

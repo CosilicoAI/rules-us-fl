@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.56005"/>
+          <FRBRuri value="/us-fl/act/fsa/215.56005"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.56005/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.56005/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.56005/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.56005/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_56005">
+          <num>215.56005</num>
+          <heading>Tobacco Settlement Financing Corporation.</heading>
+          <content>
+            <p>DEFINITIONS.—As used in this section:</p>
+          </content>
+          <subsection eId="215_56005__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>DEFINITIONS.—As used in this section:</p>
+            </content>
+            <paragraph eId="215_56005__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Bond” means any bond, debenture, note, certificate, or other obligation of financial indebtedness issued by the corporation under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Corporation” means the Tobacco Settlement Financing Corporation created by this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Department” means the Department of Financial Services or its successor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Purchase agreement” means a contract between the corporation and the State of Florida, acting by and through the department, in which the State of Florida sells to the corporation any or all of the state’s right, title, and interest in and to the tobacco settlement agreement, including, but not limited to, the moneys to be received thereunder.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“State” means the State of Florida.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Tobacco settlement agreement” means the settlement agreement, as amended, entered into by the state and participating cigarette manufacturers in settlement ofState of Florida v. American Tobacco Co., No. 95-1466AH (Fla. 15th Cir. Ct. 1996).</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_56005__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>CORPORATION CREATION AND AUTHORITY.—</p>
+            </content>
+            <paragraph eId="215_56005__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Tobacco Settlement Financing Corporation is hereby created as a special purpose, not-for-profit, public benefits corporation, for the purpose of purchasing any or all of the state’s right, title, and interest in and to the tobacco settlement agreement and issuing bonds to pay the purchase price therefor. The corporation is authorized to purchase any or all of the state’s right, title, and interest in and to the tobacco settlement agreement and to issue bonds to pay the purchase price therefor. The fulfillment of the purposes of the corporation promotes the health, safety, and general welfare of the people of this state and serves essential governmental functions and a paramount public purpose.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The corporation shall be governed by a board of directors consisting of the Governor, the Chief Financial Officer or the Chief Financial Officer’s designee, the Attorney General, two directors appointed from the membership of the Senate by the President of the Senate, and two directors appointed from the membership of the House of Representatives by the Speaker of the House of Representatives. The executive director of the State Board of Administration shall be the chief executive officer of the corporation and shall direct and supervise the administrative affairs and operation of the corporation. The corporation shall also have such other officers as may be determined by the board of directors.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The corporation shall have all the powers of a corporate body under the laws of this state, including, but not limited to, the powers of corporations under chapter 617, to the extent not inconsistent with or restricted by the provisions of this section, including, but not limited to, the power to:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The corporation is authorized to enter into one or more purchase agreements with the department pursuant to which the corporation purchases any or all of the state’s right, title, and interest in and to the tobacco settlement agreement and to execute and deliver any other documents necessary or desirable to effectuate such purchase. Sale of all or part of the state’s right, title, and interest in and to the tobacco settlement agreement is subject to approval by the Legislature in a regular, extended, or special session. The tobacco settlement agreement moneys received pursuant to the purchase agreements may be used for the costs and expenses of administration of the corporation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>The corporation may issue bonds payable from and secured by amounts payable to the corporation pursuant to the tobacco settlement agreement. Issuance of bonds by the corporation is subject to approval by the Legislature in a regular, extended, or special session. In addition, the corporation is authorized to issue bonds to refund previously issued bonds and to deposit the proceeds of such bonds as provided in the documents authorizing the issuance of such bonds. The corporation is authorized to do all things necessary or desirable in connection with the issuance of the bonds, including, but not limited to, establishing debt service reserves or other additional security for the bonds, providing for capitalized interest, and executing and delivering any and all documents and agreements. The total principal amount of bonds issued by the corporation shall not exceed $3 billion. The principal amount of bonds issued in any single fiscal year shall not exceed $1.5 billion, beginning with the 2000-2001 fiscal year. The limitation on the principal amount of bonds issued by the corporation shall not apply to bonds issued to refund previously issued bonds. No series of bonds issued shall have a true interest cost rate of more than 4 percent over the yield on U.S. Treasury obligations which have a maturity approximately equal to the average life of such series of bonds. Satisfaction of the foregoing interest rate limitation shall be determined on the date such bonds are sold or a definitive agreement to sell such bonds at specified prices or yields is executed and delivered. The corporation may sell bonds through competitive bidding or negotiated contracts, whichever method of sale is determined by the corporation to be in the best interest of the corporation.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Notwithstanding any other provision of law, any pledge of or other security interest in revenues, moneys, accounts, contract rights, general intangibles, or other personal property made or created by the corporation or department resulting from the authority of this section shall be valid, binding, and perfected from the time such pledge is made or other security interest attaches without any physical delivery of the collateral or further act, and the lien of any such pledge or other security interest shall be valid, binding, and perfected against all parties having claims of any kind in tort, contract, or otherwise against the corporation irrespective of whether such parties have notice of such claims. No instrument by which such a pledge or security interest is created or any financing statement need be recorded or filed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The corporation shall not be deemed to be a special district for purposes of chapter 189 or a unit of local government for purposes of part III of chapter 218. The provisions of chapter 120, part I of chapter 287, and ss.215.57-215.83shall not apply to this section, the corporation created in this section, the purchase agreements entered into pursuant to this section, or bonds issued by the corporation as provided in this section, except that underwriters, financial advisors, and legal counsel shall be selected in a manner consistent with the rules adopted pursuant to the State Bond Act for the selection of service providers and underwriters.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>In no event shall any of the benefits or earnings of the corporation inure to the benefit of any private person.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>Unless such officer, employee, or agent acted outside the course and scope of his or her employment or acted in bad faith or with malicious purpose or in a manner exhibiting wanton and willful disregard of human rights, safety, or property, there shall be no liability on the part of, and no cause of action shall arise against, any board member of the corporation or any employee of the corporation or the state for any actions taken by such board member or employee in the performance of his or her duties under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>The corporation is exempt from taxation and assessments of any nature whatsoever upon the income of the corporation and any property, assets, or revenues acquired, received, or used in the furtherance of the purposes provided in this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_k">
+              <num>(k)</num>
+              <content>
+                <p>The corporation and its corporate existence shall continue until terminated by law; however, no such law shall take effect until at least 1 year and 1 day after which no bonds of the corporation remain outstanding unless adequate provision has been made for the payment of such bonds pursuant to the documents authorizing the issuance of such bonds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_2__para_l">
+              <num>(l)</num>
+              <content>
+                <p>If any provision of this section or its application to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this section which can be given effect without the invalid provision or application, and under such circumstances the provisions of this section are declared severable.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_56005__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>POWERS OF THE DEPARTMENT.—</p>
+            </content>
+            <paragraph eId="215_56005__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The department is authorized, on behalf of the state, to do all things necessary or desirable to assist the corporation in the execution of the corporation’s responsibilities, including, but not limited to, processing budget amendments against the Department of Financial Services Tobacco Settlement Clearing Trust Fund, subject to the requirements of s.216.177, for the costs and expenses of administration of the corporation in an amount not to exceed $500,000; entering into one or more purchase agreements to sell to the corporation any or all of the state’s right, title, and interest in and to the tobacco settlement agreement; executing any administrative agreements with the corporation to fund the administration, operation, and expenses of the corporation from moneys appropriated for such purpose; and executing and delivering any and all other documents and agreements necessary or desirable in connection with the sale of any or all of the state’s right, title, and interest in and to the tobacco settlement agreement to the corporation or the issuance of the bonds by the corporation. The department’s authority to sell any or all of the state’s right, title, and interest in and to the tobacco settlement agreement is subject to approval by the Legislature in a regular, extended, or special session.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The state hereby covenants with the holders of bonds of the corporation that the state will not limit or alter the authority or the rights under this section vested in the department to fulfill the terms of any agreement, including the terms of any purchase agreement, or in any way impair the rights and remedies of such bondholders until at least 1 year and 1 day after which no such bonds remain outstanding unless adequate provision has been made for the payment of such bonds pursuant to the documents authorizing such bonds.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_56005__subsec_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The department is authorized, on behalf of the state, to make any covenant, representation, or warranty necessary or desirable in connection with the sale of any or all of the state’s right, title, and interest in and to the tobacco settlement agreement to the corporation or the issuance of the bonds by the corporation. Such covenants may specifically include a covenant to take whatever actions are necessary on behalf of the corporation or holders of the bonds issued by the corporation to enforce the provisions of the tobacco settlement agreement, and any rights and remedies thereunder.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

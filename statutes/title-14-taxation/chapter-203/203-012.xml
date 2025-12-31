@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/203.012"/>
+          <FRBRuri value="/us-fl/act/fsa/203.012"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/203.012/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/203.012/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/203.012/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/203.012/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_203">
+        <num>Chapter 203</num>
+        <heading>Gross Receipts Taxes</heading>
+        <section eId="sec_203_012">
+          <num>203.012</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>As used in this chapter:</p>
+          </content>
+          <subsection eId="203_012__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Distribution company” means any person owning or operating local electric or natural or manufactured gas utility distribution facilities within this state for the transmission, delivery, and sale of electricity or natural or manufactured gas. The term does not include natural gas transmission companies that are subject to the jurisdiction of the Federal Energy Regulatory Commission.</p>
+            </content>
+          </subsection>
+          <subsection eId="203_012__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Person” means any person as defined in s.212.02.</p>
+            </content>
+          </subsection>
+          <subsection eId="203_012__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Utility service” means electricity for light, heat, or power; and natural or manufactured gas for light, heat, or power, including transportation, delivery, transmission, and distribution of the electricity or natural or manufactured gas. This subsection does not broaden the definition of utility service to include separately stated charges for tangible personal property or services which are not charges for the electricity or natural or manufactured gas or the transportation, delivery, transmission, or distribution of electricity or natural or manufactured gas.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

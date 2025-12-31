@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.76"/>
+          <FRBRuri value="/us-fl/act/fsa/215.76"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.76/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.76/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.76/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.76/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_76">
+          <num>215.76</num>
+          <heading>Exemption of bonds from taxation.</heading>
+          <content>
+            <p>As the exercise of the powers conferred by this act constitutes the performance of essential public functions, all properties, revenues, or other assets of the division or of any state agency on behalf of which bonds are issued under this act, and all bonds issued hereunder and the interest thereon, shall be exempt from all taxation by the state or any county, municipality, political subdivision, agency, or instrumentality of the state. The exemption granted by this section is not applicable to any tax imposed by chapter 220 on interest, income, or profits on debt obligations owned by corporations.</p>
+          </content>
+          <subsection eId="215_76__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>As the exercise of the powers conferred by this act constitutes the performance of essential public functions, all properties, revenues, or other assets of the division or of any state agency on behalf of which bonds are issued under this act, and all bonds issued hereunder and the interest thereon, shall be exempt from all taxation by the state or any county, municipality, political subdivision, agency, or instrumentality of the state. The exemption granted by this section is not applicable to any tax imposed by chapter 220 on interest, income, or profits on debt obligations owned by corporations.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_76__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Each governmental agency for which the division issues bonds shall have the responsibility for the life of all bonds outstanding to assure continued compliance with the provisions of the federal Internal Revenue Code, as amended, and the regulations promulgated thereunder relating to maintaining the tax-exempt status of such bonds; provided, however, that the division shall be responsible for ensuring that all provisions of federal arbitrage laws are complied with regarding such bonds. Each governmental agency for which the division has issued bonds and each state agency shall be subject to the direction of the division to the extent necessary to ensure such compliance.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

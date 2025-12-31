@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/202.20"/>
+          <FRBRuri value="/us-fl/act/fsa/202.20"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/202.20/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/202.20/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/202.20/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/202.20/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_202">
+        <num>Chapter 202</num>
+        <heading>Communications Services Tax Simplification Law</heading>
+        <section eId="sec_202_20">
+          <num>202.20</num>
+          <heading>Local communications services tax conversion rates.</heading>
+          <content>
+            <p>For the period of October 1, 2001, through September 30, 2002, there are hereby levied the following local communications services tax conversion rates on taxable sales as authorized by s.202.19. The conversion rates take effect without any action required by the local government. The conversion rates for local governments that have not chosen to levy permit fees do not include the add-ons of up to 0.12 percent for municipalities and charter counties or of up to 0.24 percent for noncharter counties authorized pursuant to s.337.401.</p>
+          </content>
+          <subsection eId="202_20__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>For the period of October 1, 2001, through September 30, 2002, there are hereby levied the following local communications services tax conversion rates on taxable sales as authorized by s.202.19. The conversion rates take effect without any action required by the local government. The conversion rates for local governments that have not chosen to levy permit fees do not include the add-ons of up to 0.12 percent for municipalities and charter counties or of up to 0.24 percent for noncharter counties authorized pursuant to s.337.401.</p>
+            </content>
+            <paragraph eId="202_20__subsec_1__para_1">
+              <num>(1)</num>
+              <content>
+                <p>For the period of October 1, 2001, through September 30, 2002, there are hereby levied the following local communications services tax conversion rates on taxable sales as authorized by s.202.19. The conversion rates take effect without any action required by the local government. The conversion rates for local governments that have not chosen to levy permit fees do not include the add-ons of up to 0.12 percent for municipalities and charter counties or of up to 0.24 percent for noncharter counties authorized pursuant to s.337.401.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_20__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Beginning October 1, 2002, there are hereby levied the following local communications services tax conversion rates on taxable sales as authorized by s.202.19. The conversion rates take effect without any action required by the local government. The conversion rates for local governments that have not chosen to levy permit fees do not include the add-ons of up to 0.12 percent for municipalities and charter counties or of up to 0.24 percent for noncharter counties authorized pursuant to s.337.401.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_20__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Notwithstanding the rates provided by paragraph (b), the following local communications services tax conversion rates shall take effect upon the expiration of existing franchise agreements which provide for fees in excess of those authorized by s.337.401. The conversion rates for local governments that have not chosen to levy permit fees do not include the add-ons of up to 0.12 percent for municipalities and charter counties or of up to 0.24 percent for noncharter counties authorized pursuant to s.337.401.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_20__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>With respect to any local taxing jurisdiction, if, for the periods ending December 31, 2001; March 31, 2002; June 30, 2002; or September 30, 2002, the revenues received by that local government from the local communications services tax imposed under subsection (1) are less than the revenues received from the replaced revenue sources for the corresponding 2000-2001 period; plus reasonably anticipated growth in such revenues over the preceding 1-year period, based on the average growth of such revenues over the immediately preceding 5-year period; plus an amount representing the revenues from the replaced revenue sources for the 1-month period that the local taxing jurisdiction was required to forego, the governing authority may adjust the rate of the local communications services tax upward to the extent necessary to generate the entire shortfall in revenues within 1 year after the rate adjustment and by an amount necessary to generate the expected amount of revenue on an ongoing basis.</p>
+            </content>
+            <paragraph eId="202_20__subsec_2__para_2">
+              <num>(2)</num>
+              <content>
+                <p>With respect to any local taxing jurisdiction, if, for the periods ending December 31, 2001; March 31, 2002; June 30, 2002; or September 30, 2002, the revenues received by that local government from the local communications services tax imposed under subsection (1) are less than the revenues received from the replaced revenue sources for the corresponding 2000-2001 period; plus reasonably anticipated growth in such revenues over the preceding 1-year period, based on the average growth of such revenues over the immediately preceding 5-year period; plus an amount representing the revenues from the replaced revenue sources for the 1-month period that the local taxing jurisdiction was required to forego, the governing authority may adjust the rate of the local communications services tax upward to the extent necessary to generate the entire shortfall in revenues within 1 year after the rate adjustment and by an amount necessary to generate the expected amount of revenue on an ongoing basis.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="202_20__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except as otherwise provided in this subsection, “replaced revenue sources,” as used in this section, means the following taxes, charges, fees, or other impositions to the extent that the respective local taxing jurisdictions were authorized to impose them prior to July 1, 2000.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="202_20__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>For any county or school board that levies a discretionary surtax under s.212.055, the rate of such tax on communications services as authorized by s.202.19(5) shall be as follows:</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

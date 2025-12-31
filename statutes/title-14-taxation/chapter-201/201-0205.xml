@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/201.0205"/>
+          <FRBRuri value="/us-fl/act/fsa/201.0205"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/201.0205/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/201.0205/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/201.0205/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/201.0205/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_201">
+        <num>Chapter 201</num>
+        <heading>Excise Tax on Documents</heading>
+        <section eId="sec_201_0205">
+          <num>201.0205</num>
+          <heading>Counties that have implemented ch. 83-220; inapplicability of 10-cent tax increase by s. 2, ch. 92-317.</heading>
+          <content>
+            <p>The 10-cent tax increase in the documentary stamp tax levied by s. 2, chapter 92-317, Laws of Florida, does not apply to deeds and other taxable instruments relating to real property located in any county that has implemented the provisions of chapter 83-220, Laws of Florida, as amended by chapters 84-270, 86-152, and 89-252, Laws of Florida. Each such county and each eligible jurisdiction within such county may not participate in programs funded pursuant to s.201.15(4)(c). However, each such county and each eligible jurisdiction within such county may participate in programs funded pursuant to s.201.15(4)(d).</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.50"/>
+          <FRBRuri value="/us-fl/act/fsa/215.50"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.50/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.50/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.50/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.50/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_50">
+          <num>215.50</num>
+          <heading>Custody of securities purchased; income.</heading>
+          <content>
+            <p>All securities purchased or held may, with the approval of the board, be in the custody of the Chief Financial Officer or the Chief Financial Officer as treasurer ex officio of the board, or be deposited with a bank or trust company to be held in safekeeping by such bank or trust company for the collection of principal and interest or of the proceeds of the sale thereof.</p>
+          </content>
+          <subsection eId="215_50__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All securities purchased or held may, with the approval of the board, be in the custody of the Chief Financial Officer or the Chief Financial Officer as treasurer ex officio of the board, or be deposited with a bank or trust company to be held in safekeeping by such bank or trust company for the collection of principal and interest or of the proceeds of the sale thereof.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_50__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>It shall be the duty of the board or of the Chief Financial Officer, as custodian of the securities of the board, to collect the interest or other income on, and the principal of, such securities in their custody as the sums become due and payable and to pay the same, when so collected, into the investment account of the fund to which the investments belong.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_50__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The Chief Financial Officer, as custodian of securities owned by the Florida Retirement System Trust Fund and the Florida Survivor Benefit Trust Fund, shall collect the interest, dividends, prepayments, maturities, proceeds from sales, and other income accruing from such assets. As such income is collected by the Chief Financial Officer, it shall be deposited directly into a commercial bank to the credit of the State Board of Administration. Such bank accounts as may be required for this purpose shall offer satisfactory collateral security as provided by chapter 280. In the event funds so deposited according to the provisions of this section are required for the purpose of paying benefits or other operational needs, the State Board of Administration shall remit to the Florida Retirement System Trust Fund in the State Treasury such amounts as may be requested by the Department of Management Services.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_50__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>Securities that the board selects to use for options operations under s.215.45or for lending under s.215.47(17) shall be registered by the Chief Financial Officer in the name of a third-party nominee in order to facilitate such operations.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

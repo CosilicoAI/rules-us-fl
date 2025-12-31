@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/205.022"/>
+          <FRBRuri value="/us-fl/act/fsa/205.022"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/205.022/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/205.022/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/205.022/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/205.022/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_205">
+        <num>Chapter 205</num>
+        <heading>Local Business Taxes</heading>
+        <section eId="sec_205_022">
+          <num>205.022</num>
+          <heading>Definitions.</heading>
+          <content>
+            <p>When used in this chapter, the following terms and phrases shall have the meanings ascribed to them in this section, except when the context clearly indicates a different meaning:</p>
+          </content>
+          <subsection eId="205_022__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>“Business,” “profession,” and “occupation” do not include the customary religious, charitable, or educational activities of nonprofit religious, nonprofit charitable, and nonprofit educational institutions in this state, which institutions are more particularly defined and limited as follows:</p>
+            </content>
+            <paragraph eId="205_022__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Charitable institutions” means only nonprofit corporations operating physical facilities in this state at which are provided charitable services, a reasonable percentage of which are without cost to those unable to pay.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_022__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Educational institutions” means state tax-supported or parochial, church and nonprofit private schools, colleges, or universities conducting regular classes and courses of study required for accreditation by or membership in the Southern Association of Colleges and Schools, the Department of Education, or the Florida Council of Independent Schools. Nonprofit libraries, art galleries, and museums open to the public are defined as educational institutions and eligible for exemption.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="205_022__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Religious institutions” means churches and ecclesiastical or denominational organizations or established physical places for worship in this state at which nonprofit religious services and activities are regularly conducted and carried on, and also means church cemeteries.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="205_022__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>“Classification” means the method by which a business or group of businesses is identified by size or type, or both.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>“Enterprise zone” means an area designated as an enterprise zone pursuant to s.290.0065. This subsection expires on the date specified in s.290.016for the expiration of the Florida Enterprise Zone Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>“Independent contractor” has the same meaning as provided in s.440.02(18)(d)1.a. and b.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>“Local business tax” means the fees charged and the method by which a local governing authority grants the privilege of engaging in or managing any business, profession, or occupation within its jurisdiction. It does not mean any fees or licenses paid to any board, commission, or officer for permits, registration, examination, or inspection. Unless otherwise provided by law, these are deemed to be regulatory and in addition to, but not in lieu of, any local business tax imposed under the provisions of this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>“Local governing authority” means the governing body of any county or incorporated municipality of this state.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>“Person” means any individual, firm, partnership, joint adventure, syndicate, or other group or combination acting as a unit, association, corporation, estate, trust, business trust, trustee, executor, administrator, receiver, or other fiduciary, and includes the plural as well as the singular.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>“Receipt” means the document that is issued by the local governing authority which bears the words “Local Business Tax Receipt” and evidences that the person in whose name the document is issued has complied with the provisions of this chapter relating to the business tax.</p>
+            </content>
+          </subsection>
+          <subsection eId="205_022__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>“Taxpayer” means any person liable for taxes imposed under the provisions of this chapter; any agent required to file and pay any taxes imposed hereunder; and the heirs, successors, assignees, and transferees of any such person or agent.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

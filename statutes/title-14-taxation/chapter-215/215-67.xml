@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.67"/>
+          <FRBRuri value="/us-fl/act/fsa/215.67"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.67/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.67/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.67/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.67/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_67">
+          <num>215.67</num>
+          <heading>Issuance of state bonds.</heading>
+          <content>
+            <p>All state bonds shall be issued by the division. No state bonds shall be issued by the division until the issuance thereof has been approved by the electors, if such approval is required by the constitution or laws of the state. If such approval has been obtained in such bond election or if no such approval is required, such state bonds may be issued by the division when the official or the board, commission, or other agency of the state authorized by law to provide for the acquisition or construction of the projects to be financed with the proceeds of such state bonds or for the issuance thereof has filed with the division its request for the division to issue such state bonds for the purposes and in the manner provided in this act and other applicable statutes or provisions of the State Constitution.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

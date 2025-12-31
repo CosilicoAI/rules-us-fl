@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/196.197"/>
+          <FRBRuri value="/us-fl/act/fsa/196.197"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/196.197/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/196.197/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/196.197/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/196.197/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_196">
+        <num>Chapter 196</num>
+        <heading>Exemption</heading>
+        <section eId="sec_196_197">
+          <num>196.197</num>
+          <heading>Additional provisions for exempting property used by hospitals, nursing homes, and homes for special services.</heading>
+          <content>
+            <p>In addition to criteria for granting exemptions for charitable use of property set forth in other sections of this chapter, hospitals, nursing homes, and homes for special services shall be exempt to the extent that they meet the following criteria:</p>
+          </content>
+          <subsection eId="196_197__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The applicant must be a Florida corporation not for profit that has been exempt as of January 1 of the year for which exemption from ad valorem property taxes is requested from federal income taxation by having qualified as an exempt organization under the provisions of s. 501(c)(3) of the Internal Revenue Code of 1954 or of the corresponding section of a subsequently enacted federal revenue act.</p>
+            </content>
+          </subsection>
+          <subsection eId="196_197__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>In determining the extent of exemption to be granted to institutions licensed as hospitals, nursing homes, and homes for special services, portions of the property leased as parking lots or garages operated by private enterprise shall not be deemed to be serving an exempt purpose and shall not be exempt from taxation. Property or facilities which are leased to a nonprofit corporation which provides direct medical services to patients in a nonprofit or public hospital and qualifies under s.196.196of this chapter are excluded and shall be exempt from taxation.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

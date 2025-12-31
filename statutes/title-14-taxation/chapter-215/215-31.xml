@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.31"/>
+          <FRBRuri value="/us-fl/act/fsa/215.31"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.31/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.31/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.31/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.31/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_31">
+          <num>215.31</num>
+          <heading>State funds; deposit in State Treasury.</heading>
+          <content>
+            <p>Revenue, including licenses, fees, imposts, or exactions collected or received under the authority of the laws of the state by each and every state official, office, employee, bureau, division, board, commission, institution, agency, or undertaking of the state or the judicial branch shall be promptly deposited in the State Treasury, and immediately credited to the appropriate fund as herein provided, properly accounted for by the Department of Financial Services as to source and no money shall be paid from the State Treasury except as appropriated and provided by the annual General Appropriations Act, or as otherwise provided by law.</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

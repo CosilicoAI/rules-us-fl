@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/198.32"/>
+          <FRBRuri value="/us-fl/act/fsa/198.32"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/198.32/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/198.32/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/198.32/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/198.32/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_198">
+        <num>Chapter 198</num>
+        <heading>Estate Taxes</heading>
+        <section eId="sec_198_32">
+          <num>198.32</num>
+          <heading>Prima facie liability for tax.</heading>
+          <content>
+            <p>The estate of each decedent whose property is subject to the laws of the state shall be deemed prima facie liable for estate taxes under this chapter and shall be subject to a lien therefor in such amount as may be later determined to be due and payable on the estate as provided in this chapter. This presumption of liability shall begin on the date of the death of the decedent and shall continue until the full settlement of all taxes which may be found to be due under this chapter, the settlement to be shown by receipts for all taxes due to be issued by the department as provided for in this chapter.</p>
+          </content>
+          <subsection eId="198_32__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The estate of each decedent whose property is subject to the laws of the state shall be deemed prima facie liable for estate taxes under this chapter and shall be subject to a lien therefor in such amount as may be later determined to be due and payable on the estate as provided in this chapter. This presumption of liability shall begin on the date of the death of the decedent and shall continue until the full settlement of all taxes which may be found to be due under this chapter, the settlement to be shown by receipts for all taxes due to be issued by the department as provided for in this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_32__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>Whenever an estate is not subject to tax under this chapter and is not required to file a return, the personal representative may execute an affidavit attesting that the estate is not taxable. The form of the affidavit shall be prescribed by the department, and shall include, but not be limited to, statements regarding the decedent’s domicile and whether a federal estate tax return will be filed, and acknowledgment of the personal representative’s personal liability under s.198.23. This affidavit shall be subject to record and admissible in evidence to show nonliability for tax. This subsection applies to all estates, regardless of the date of death of the decedent.</p>
+            </content>
+          </subsection>
+          <subsection eId="198_32__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>Notwithstanding any other provisions of this section and applicable to the estate of a decedent who dies after December 31, 2004, if, upon the death of the decedent, a state estate tax credit or a generation-skipping transfer credit is not allowable pursuant to the Internal Revenue Code of 1986, as amended:</p>
+            </content>
+            <paragraph eId="198_32__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The personal representative of the estate is not required to file an affidavit under subsection (2) in connection with the estate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="198_32__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The estate shall not be subject to a lien under subsection (1).</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

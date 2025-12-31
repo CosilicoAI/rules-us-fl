@@ -1,0 +1,436 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.555"/>
+          <FRBRuri value="/us-fl/act/fsa/215.555"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.555/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.555/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.555/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.555/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_555">
+          <num>215.555</num>
+          <heading>Florida Hurricane Catastrophe Fund.</heading>
+          <content>
+            <p>FINDINGS AND PURPOSE.—The Legislature finds and declares as follows:</p>
+          </content>
+          <subsection eId="215_555__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>FINDINGS AND PURPOSE.—The Legislature finds and declares as follows:</p>
+            </content>
+            <paragraph eId="215_555__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>There is a compelling state interest in maintaining a viable and orderly private sector market for property insurance in this state. To the extent that the private sector is unable to maintain a viable and orderly market for property insurance in this state, state actions to maintain such a viable and orderly market are valid and necessary exercises of the police power.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>As a result of unprecedented levels of catastrophic insured losses in recent years, and especially as a result of Hurricane Andrew, numerous insurers have determined that in order to protect their solvency, it is necessary for them to reduce their exposure to hurricane losses. Also as a result of these events, world reinsurance capacity has significantly contracted, increasing the pressure on insurers to reduce their catastrophic exposures.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Mortgages require reliable property insurance, and the unavailability of reliable property insurance would therefore make most real estate transactions impossible. In addition, the public health, safety, and welfare demand that structures damaged or destroyed in a catastrophe be repaired or reconstructed as soon as possible. Therefore, the inability of the private sector insurance and reinsurance markets to maintain sufficient capacity to enable residents of this state to obtain property insurance coverage in the private sector endangers the economy of the state and endangers the public health, safety, and welfare. Accordingly, state action to correct for this inability of the private sector constitutes a valid and necessary public and governmental purpose.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The insolvencies and financial impairments resulting from Hurricane Andrew demonstrate that many property insurers are unable or unwilling to maintain reserves, surplus, and reinsurance sufficient to enable the insurers to pay all claims in full in the event of a catastrophe. State action is therefore necessary to protect the public from an insurer’s unwillingness or inability to maintain sufficient reserves, surplus, and reinsurance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>A state program to provide a stable and ongoing source of reimbursement to insurers for a portion of their catastrophic hurricane losses will create additional insurance capacity sufficient to ameliorate the current dangers to the state’s economy and to the public health, safety, and welfare.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>It is essential to the functioning of a state program to increase insurance capacity that revenues received be exempt from federal taxation. It is therefore the intent of the Legislature that this program be structured as a state trust fund under the direction and control of the State Board of Administration and operate exclusively for the purpose of protecting and advancing the state’s interest in maintaining insurance capacity in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>Hurricane Andrew, which caused insured and uninsured losses in excess of $20 billion, will likely not be the last major windstorm to strike Florida. Recognizing that a future wind catastrophe could cause damages in excess of $60 billion, especially if a major urban area or series of urban areas were hit, it is the intent of the Legislature to balance equitably its concerns about mitigation of hurricane impact, insurance affordability and availability, and the risk of insurer and joint underwriting association insolvency, as well as assessment and bonding limitations.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_555__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>DEFINITIONS.—As used in this section:</p>
+            </content>
+            <paragraph eId="215_555__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>“Actuarially indicated” means, with respect to premiums paid by insurers for reimbursement provided by the fund, an amount determined according to principles of actuarial science to be adequate, but not excessive, in the aggregate, to pay current and future obligations and expenses of the fund, including additional amounts if needed to pay debt service on revenue bonds issued under this section and to provide required debt service coverage in excess of the amounts required to pay actual debt service on revenue bonds issued under subsection (6), and determined according to principles of actuarial science to reflect each insurer’s relative exposure to hurricane losses.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>“Covered event” means any one storm declared to be a hurricane by the National Hurricane Center, which storm causes insured losses in this state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>“Covered policy” means any insurance policy covering residential property in this state, including, but not limited to, any homeowner, mobile home owner, farm owner, condominium association, condominium unit owner, tenant, or apartment building policy, or any other policy covering a residential structure or its contents issued by any authorized insurer, including a commercial self-insurance fund holding a certificate of authority issued by the Office of Insurance Regulation under s.624.462, the Citizens Property Insurance Corporation, and any joint underwriting association or similar entity created under law. The term “covered policy” includes any collateral protection insurance policy covering personal residences which protects both the borrower’s and the lender’s financial interests, in an amount at least equal to the coverage amount for the dwelling in place under the lapsed homeowner’s policy, the coverage amount that the homeowner has been notified of by the collateral protection insurer, or the coverage amount that the homeowner requests from the collateral protection insurer, if such collateral protection insurance policy can be accurately reported as required in subsection (5). Additionally, covered policies include policies covering the peril of wind removed from the Florida Residential Property and Casualty Joint Underwriting Association or from the Citizens Property Insurance Corporation, created under s.627.351(6), or from the Florida Windstorm Underwriting Association, created under s.627.351(2), by an authorized insurer under the terms and conditions of an executed assumption agreement between the authorized insurer and such association or Citizens Property Insurance Corporation. Each assumption agreement between the association and such authorized insurer or Citizens Property Insurance Corporation must be approved by the Office of Insurance Regulation before the effective date of the assumption, and the Office of Insurance Regulation must provide writ</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>“Losses” means all incurred losses under covered policies, including additional living expenses not to exceed 40 percent of the insured value of a residential structure or its contents and amounts paid as fees on behalf of or inuring to the benefit of a policyholder. The term does not include:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_e">
+              <num>(e)</num>
+              <content>
+                <p>“Retention” means the amount of losses below which an insurer is not entitled to reimbursement from the fund. An insurer’s retention shall be calculated as follows:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_f">
+              <num>(f)</num>
+              <content>
+                <p>“Workers’ compensation” includes both workers’ compensation and excess workers’ compensation insurance.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_g">
+              <num>(g)</num>
+              <content>
+                <p>“Bond” means any bond, debenture, note, or other evidence of financial indebtedness issued under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_h">
+              <num>(h)</num>
+              <content>
+                <p>“Debt service” means the amount required in any fiscal year to pay the principal of, redemption premium, if any, and interest on revenue bonds and any amounts required by the terms of documents authorizing, securing, or providing liquidity for revenue bonds necessary to maintain in effect any such liquidity or security arrangements.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>“Debt service coverage” means the amount, if any, required by the documents under which revenue bonds are issued, which amount is to be received in any fiscal year in excess of the amount required to pay debt service for such fiscal year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_j">
+              <num>(j)</num>
+              <content>
+                <p>“Local government” means a unit of general purpose local government as defined in s.218.31(2).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_k">
+              <num>(k)</num>
+              <content>
+                <p>“Pledged revenues” means all or any portion of revenues to be derived from reimbursement premiums under subsection (5) or from emergency assessments under paragraph (6)(b), as determined by the board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_l">
+              <num>(l)</num>
+              <content>
+                <p>“Estimated claims-paying capacity” means the sum of the projected year-end balance of the fund as of December 31 of a contract year, plus any reinsurance purchased by the fund, plus the board’s estimate of the board’s borrowing capacity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_m">
+              <num>(m)</num>
+              <content>
+                <p>“Actual claims-paying capacity” means the sum of the balance of the fund as of December 31 of a contract year, plus any reinsurance purchased by the fund, plus the amount the board is able to raise through the issuance of revenue bonds under subsection (6).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_n">
+              <num>(n)</num>
+              <content>
+                <p>“Corporation” means the State Board of Administration Finance Corporation created in paragraph (6)(d).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_o">
+              <num>(o)</num>
+              <content>
+                <p>“Contract year” means the period beginning on June 1 of a specified calendar year and ending on May 31 of the following calendar year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_2__para_p">
+              <num>(p)</num>
+              <content>
+                <p>“Unsound insurer” means an insurer determined by the Office of Insurance Regulation to be in unsound condition as defined in s.624.80(2) or an insurer placed in receivership under chapter 631.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_555__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>FLORIDA HURRICANE CATASTROPHE FUND CREATED.—There is created the Florida Hurricane Catastrophe Fund to be administered by the State Board of Administration. Moneys in the fund may not be expended, loaned, or appropriated except to pay obligations of the fund arising out of reimbursement contracts entered into under subsection (4), payment of debt service on revenue bonds issued under subsection (6), costs of the mitigation program under subsection (7), costs of procuring reinsurance, and costs of administration of the fund. The board shall invest the moneys in the fund pursuant to ss.215.44-215.52. Except as otherwise provided in this section, earnings from all investments shall be retained in the fund. The board may employ or contract with such staff and professionals as the board deems necessary for the administration of the fund. The board may adopt such rules as are reasonable and necessary to implement this section and shall specify interest due on any delinquent remittances, which interest may not exceed the fund’s rate of return plus 5 percent. Such rules must conform to the Legislature’s specific intent in establishing the fund as expressed in subsection (1), must enhance the fund’s potential ability to respond to claims for covered events, must contain general provisions so that the rules can be applied with reasonable flexibility so as to accommodate insurers in situations of an unusual nature or where undue hardship may result, except that such flexibility may not in any way impair, override, supersede, or constrain the public purpose of the fund, and must be consistent with sound insurance practices. The board may, by rule, provide for the exemption from subsections (4) and (5) of insurers writing covered policies with less than $10 million in aggregate exposure for covered policies if the exemption does not affect the actuarial soundness of the fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>REIMBURSEMENT CONTRACTS.—</p>
+            </content>
+            <paragraph eId="215_555__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The board shall enter into a contract with each insurer writing covered policies in this state to provide to the insurer the reimbursement described in paragraphs (b) and (d), in exchange for the reimbursement premium paid into the fund under subsection (5). As a condition of doing business in this state, each such insurer shall enter into such a contract.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The contract shall contain a promise by the board to reimburse the insurer for 45 percent, 75 percent, or 90 percent of its losses from each covered event in excess of the insurer’s retention, plus 5 percent of the reimbursed losses to cover loss adjustment expenses. For contracts and rates effective on or after June 1, 2019, the loss adjustment expense reimbursement must be 10 percent of the reimbursed losses.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The contract shall also provide that the obligation of the board with respect to all contracts covering a particular contract year shall not exceed the actual claims-paying capacity of the fund up to a limit of $17 billion for that contract year, unless the board determines that there is sufficient estimated claims-paying capacity to provide $17 billion of capacity for the current contract year and an additional $17 billion of capacity for subsequent contract years. If the board makes such a determination, the estimated claims-paying capacity for the particular contract year shall be determined by adding to the $17 billion limit one-half of the fund’s estimated claims-paying capacity in excess of $34 billion. However, the dollar growth in the limit may not increase in any year by an amount greater than the dollar growth of the balance of the fund as of December 31, less any premiums or interest attributable to optional coverage, as defined by rule which occurred over the prior calendar year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of determining potential liability and to aid in the sound administration of the fund, the contract shall require each insurer to report such insurer’s losses from each covered event on an interim basis, as directed by the board. The contract shall require the insurer to report to the board no later than December 31 of each year, and quarterly thereafter, its reimbursable losses from covered events for the year. The contract shall require the board to determine and pay, as soon as practicable after receiving these reports of reimbursable losses, the initial amount of reimbursement due and adjustments to this amount based on later loss information. The adjustments to reimbursement amounts shall require the board to pay, or the insurer to return, amounts reflecting the most recent calculation of losses.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Except as provided in subparagraphs 2. and 3., the contract shall provide that if an insurer demonstrates to the board that it is likely to qualify for reimbursement under the contract, and demonstrates to the board that the immediate receipt of moneys from the board is likely to prevent the insurer from becoming insolvent, the board shall advance the insurer, at market interest rates, the amounts necessary to maintain the solvency of the insurer, up to 50 percent of the board’s estimate of the reimbursement due the insurer. The insurer’s reimbursement shall be reduced by an amount equal to the amount of the advance and interest thereon.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_4__para_f">
+              <num>(f)</num>
+              <content>
+                <p>In order to ensure that insurers have properly reported the insured values on which the reimbursement premium is based and to ensure that insurers have properly reported the losses for which reimbursements have been made, the board shall inspect, examine, and verify the records of each insurer’s covered policies at such times as the board deems appropriate and according to standards established by rule for the specific purpose of validating the accuracy of exposures and losses required to be reported under the terms and conditions of the reimbursement contract. The costs of the examinations shall be borne by the board. However, in order to remove any incentive for an insurer to delay preparations for an examination, the board shall be reimbursed by the insurer for any examination expenses incurred in addition to the usual and customary costs of the examination, which additional expenses were incurred as a result of an insurer’s failure, despite proper notice, to be prepared for the examination or as a result of an insurer’s failure to provide requested information while the examination is in progress. If the board finds any insurer’s records or other necessary information to be inadequate or inadequately posted, recorded, or maintained, the board may employ experts to reconstruct, rewrite, record, post, or maintain such records or information, at the expense of the insurer being examined, if such insurer has failed to maintain, complete, or correct such records or deficiencies after the board has given the insurer notice and a reasonable opportunity to do so. Any information contained in an examination report, which information is described in s.215.557, is confidential and exempt from the provisions of s.119.07(1) and s. 24(a), Art. I of the State Constitution, as provided in s.215.557. Nothing in this paragraph expands the exemption in s.215.557.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_4__para_g">
+              <num>(g)</num>
+              <content>
+                <p>The contract shall provide that in the event of the insolvency of an insurer, the fund shall pay directly to the Florida Insurance Guaranty Association for the benefit of Florida policyholders of the insurer the net amount of all reimbursement moneys owed to the insurer. As used in this paragraph, the term “net amount of all reimbursement moneys” means that amount which remains after reimbursement for:</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_555__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>REIMBURSEMENT PREMIUMS.—</p>
+            </content>
+            <paragraph eId="215_555__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each reimbursement contract shall require the insurer to annually pay to the fund an actuarially indicated premium for the reimbursement.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The State Board of Administration shall select an independent consultant to develop a formula for determining the actuarially indicated premium to be paid to the fund. The formula shall specify, for each zip code or other limited geographical area, the amount of premium to be paid by an insurer for each $1,000 of insured value under covered policies in that zip code or other area. In establishing premiums, the board shall consider the coverage elected under paragraph (4)(b) and any factors that tend to enhance the actuarial sophistication of ratemaking for the fund, including deductibles, type of construction, type of coverage provided, relative concentration of risks, and other such factors deemed by the board to be appropriate. The formula must provide for a cash build-up factor. For the 2009-2010 contract year, the factor is 5 percent. For the 2010-2011 contract year, the factor is 10 percent. For the 2011-2012 contract year, the factor is 15 percent. For the 2012-2013 contract year, the factor is 20 percent. For the 2013-2014 contract year and thereafter, the factor is 25 percent. The formula may provide for a procedure to determine the premiums to be paid by new insurers that begin writing covered policies after the beginning of a contract year, taking into consideration when the insurer starts writing covered policies, the potential exposure of the insurer, the potential exposure of the fund, the administrative costs to the insurer and to the fund, and any other factors deemed appropriate by the board. The formula must be approved by unanimous vote of the board. The board may, at any time, revise the formula pursuant to the procedure provided in this paragraph.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>No later than September 1 of each year, each insurer shall notify the board of its insured values under covered policies by zip code, as of June 30 of that year. On the basis of these reports, the board shall calculate the premium due from the insurer, based on the formula adopted under paragraph (b). The insurer shall pay the required annual premium pursuant to a periodic payment plan specified in the contract. The board shall provide for payment of reimbursement premium in periodic installments and for the adjustment of provisional premium installments collected prior to submission of the exposure report to reflect data in the exposure report. The board shall collect interest on late reimbursement premium payments consistent with the assumptions made in developing the premium formula in accordance with paragraph (b).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>All premiums paid to the fund under reimbursement contracts shall be treated as premium for approved reinsurance for all accounting and regulatory purposes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_5__para_e">
+              <num>(e)</num>
+              <content>
+                <p>If an authorized insurer or the Citizens Property Insurance Corporation assumes or otherwise provides coverage for policies of an unsound insurer, the authorized insurer or the Citizens Property Insurance Corporation may, pursuant to conditions mutually agreed to between the authorized insurer or the Citizens Property Insurance Corporation and the State Board of Administration, seek to obtain coverage for such policies under its contract with the fund or accept an assignment of the unsound insurer’s contract with the fund. However, if a covered event has occurred before the effective date of the transfer of the policies, the authorized insurer or the Citizens Property Insurance Corporation may only obtain coverage for such policies through an assignment as provided in subparagraph 3.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_555__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>REVENUE BONDS.—</p>
+            </content>
+            <paragraph eId="215_555__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>General provisions.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Emergency assessments.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_6__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Revenue bond issuance through counties or municipalities.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>State Board of Administration Finance Corporation.—</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_6__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Protection of bondholders.—</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_555__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>ADDITIONAL POWERS AND DUTIES.—</p>
+            </content>
+            <paragraph eId="215_555__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The board may procure reinsurance from reinsurers acceptable to the Office of Insurance Regulation for the purpose of maximizing the capacity of the fund and may enter into capital market transactions, including, but not limited to, industry loss warranties, catastrophe bonds, side-car arrangements, or financial contracts permissible for the board’s usage under s.215.47(11) and (12), consistent with prudent management of the fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>In addition to borrowing under subsection (6), the board may also borrow from, or enter into other financing arrangements with, any market sources at prevailing interest rates.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Each fiscal year, the Legislature shall appropriate from the investment income of the Florida Hurricane Catastrophe Fund an amount no less than $10 million and no more than 35 percent of the investment income based upon the most recent fiscal year-end audited financial statements for the purpose of providing funding for local governments, state agencies, public and private educational institutions, and nonprofit organizations to support programs intended to improve hurricane preparedness, reduce potential losses in the event of a hurricane, provide research into means to reduce such losses, educate or inform the public as to means to reduce hurricane losses, assist the public in determining the appropriateness of particular upgrades to structures or in the financing of such upgrades, or protect local infrastructure from potential damage from a hurricane. Moneys shall first be available for appropriation under this paragraph in fiscal year 1997-1998. Moneys in excess of the $10 million specified in this paragraph shall not be available for appropriation under this paragraph if the State Board of Administration finds that an appropriation of investment income from the fund would jeopardize the actuarial soundness of the fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The board may allow insurers to comply with reporting requirements and reporting format requirements by using alternative methods of reporting if the proper administration of the fund is not thereby impaired and if the alternative methods produce data which is consistent with the purposes of this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_7__para_e">
+              <num>(e)</num>
+              <content>
+                <p>In order to assure the equitable operation of the fund, the board may impose a reasonable fee on an insurer to recover costs involved in reprocessing inaccurate, incomplete, or untimely exposure data submitted by the insurer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_7__para_f">
+              <num>(f)</num>
+              <content>
+                <p>The board may require insurers to notarize documents submitted to the board.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="215_555__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>ADVISORY COUNCIL.—The State Board of Administration shall appoint a nine-member advisory council that consists of an actuary, a meteorologist, an engineer, a representative of insurers, a representative of insurance agents, a representative of reinsurers, and three consumers who shall also be representatives of other affected professions and industries, to provide the board with information and advice in connection with its duties under this section. Members of the advisory council shall serve at the pleasure of the board and are eligible for per diem and travel expenses under s.112.061.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>APPLICABILITY OF S. 19, ART. III OF THE STATE CONSTITUTION.—The Legislature finds that the Florida Hurricane Catastrophe Fund created by this section is a trust fund established for bond covenants, indentures, or resolutions within the meaning of s. 19(f)(3), Art. III of the State Constitution.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>VIOLATIONS.—Any violation of this section or of rules adopted under this section constitutes a violation of the insurance code.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>LEGAL PROCEEDINGS.—The board is authorized to take any action necessary to enforce the rules, and the provisions and requirements of the reimbursement contract, required by and adopted pursuant to this section.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_12">
+            <num>(12)</num>
+            <content>
+              <p>FEDERAL OR MULTISTATE CATASTROPHIC FUNDS.—Upon the creation of a federal or multistate catastrophic insurance or reinsurance program intended to serve purposes similar to the purposes of the fund created by this section, the State Board of Administration shall promptly make recommendations to the Legislature for coordination with the federal or multistate program, for termination of the fund, or for such other actions as the board finds appropriate in the circumstances.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_13">
+            <num>(13)</num>
+            <content>
+              <p>REVERSION OF FUND ASSETS UPON TERMINATION.—The fund and the duties of the board under this section may be terminated only by law. Upon termination of the fund, all assets of the fund shall revert to the General Revenue Fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_14">
+            <num>(14)</num>
+            <content>
+              <p>SEVERABILITY.—If any provision of this section or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the section which can be given effect without the invalid provision or application, and to this end the provisions of this section are declared severable.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_555__subsec_16">
+            <num>(16)</num>
+            <content>
+              <p>FACILITATION OF INSURERS’ PRIVATE CONTRACT NEGOTIATIONS BEFORE THE START OF THE HURRICANE SEASON.—</p>
+            </content>
+            <paragraph eId="215_555__subsec_16__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the legislative findings and intent provided elsewhere in this section, the Legislature finds that:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_16__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The board shall adopt the reimbursement contract for a particular contract year by February 1 of the immediately preceding contract year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_16__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Insurers writing covered policies shall execute the reimbursement contract by March 1 of the immediately preceding contract year, and the contract shall have an effective date as defined in paragraph (2)(o).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="215_555__subsec_16__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The board shall publish in the Florida Administrative Register the maximum statutory adjusted capacity for the mandatory coverage for a particular contract year, the maximum statutory coverage for any optional coverage for the particular contract year, and the aggregate fund retention used to calculate individual insurer’s retention multiples for the particular contract year no later than January 1 of the immediately preceding contract year.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

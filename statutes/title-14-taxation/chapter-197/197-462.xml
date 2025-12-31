@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.462"/>
+          <FRBRuri value="/us-fl/act/fsa/197.462"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.462/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.462/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.462/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.462/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_462">
+          <num>197.462</num>
+          <heading>Transfer of tax certificates held by individuals.</heading>
+          <content>
+            <p>All tax certificates issued to an individual may be transferred at any time before they are redeemed or a tax deed is executed.</p>
+          </content>
+          <subsection eId="197_462__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>All tax certificates issued to an individual may be transferred at any time before they are redeemed or a tax deed is executed.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_462__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The tax collector shall record the transfer on the record of tax certificates sold.</p>
+            </content>
+          </subsection>
+          <subsection eId="197_462__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The tax collector shall receive $2.25 as a service charge for each transfer.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

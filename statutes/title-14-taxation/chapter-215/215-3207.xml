@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/215.3207"/>
+          <FRBRuri value="/us-fl/act/fsa/215.3207"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/215.3207/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/215.3207/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/215.3207/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/215.3207/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_215">
+        <num>Chapter 215</num>
+        <heading>Financial Matters: General Provisions</heading>
+        <section eId="sec_215_3207">
+          <num>215.3207</num>
+          <heading>Trust funds; establishment; criteria.</heading>
+          <content>
+            <p>A trust fund may be created by law only by the Legislature and only if passed by a three-fifths vote of the membership of each house in a separate bill for that purpose only. Except for trust funds being re-created by the Legislature, each trust fund must be created by statutory language that specifies at least the following:</p>
+          </content>
+          <subsection eId="215_3207__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>The name of the trust fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_3207__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>The agency or branch of state government responsible for administering the trust fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_3207__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>The requirements or purposes that the trust fund is established to meet.</p>
+            </content>
+          </subsection>
+          <subsection eId="215_3207__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>The sources of moneys to be credited to the trust fund or specific sources of receipts to be deposited in the trust fund.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

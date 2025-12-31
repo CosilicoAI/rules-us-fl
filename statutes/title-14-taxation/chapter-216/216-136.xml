@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/216.136"/>
+          <FRBRuri value="/us-fl/act/fsa/216.136"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/216.136/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/216.136/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/216.136/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/216.136/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_216">
+        <num>Chapter 216</num>
+        <heading>Planning and Budgeting</heading>
+        <section eId="sec_216_136">
+          <num>216.136</num>
+          <heading>Consensus estimating conferences; duties and principals.</heading>
+          <content>
+            <p>ECONOMIC ESTIMATING CONFERENCE.—The Economic Estimating Conference shall develop such official information with respect to the national and state economies as the conference determines is needed for the state planning and budgeting system. The basic, long-term forecasts which are a part of its official information shall be trend forecasts. However, the conference may include cycle forecasts as a part of its official information if the subject matter of the forecast warrants a cycle forecast and if such forecast is developed in a special impact session of the conference.</p>
+          </content>
+          <subsection eId="216_136__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>ECONOMIC ESTIMATING CONFERENCE.—The Economic Estimating Conference shall develop such official information with respect to the national and state economies as the conference determines is needed for the state planning and budgeting system. The basic, long-term forecasts which are a part of its official information shall be trend forecasts. However, the conference may include cycle forecasts as a part of its official information if the subject matter of the forecast warrants a cycle forecast and if such forecast is developed in a special impact session of the conference.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_136__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>DEMOGRAPHIC ESTIMATING CONFERENCE.—The Demographic Estimating Conference shall develop such official information with respect to the population of the nation and state by age, race, and sex as the conference determines is needed for the state planning and budgeting system. The conference shall use the official population estimates provided under s.186.901in developing its official information.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_136__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>REVENUE ESTIMATING CONFERENCE.—The Revenue Estimating Conference shall develop such official information with respect to anticipated state and local government revenues as the conference determines is needed for the state planning and budgeting system. Any principal may request the conference to review and estimate revenues for any trust fund.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_136__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>EDUCATION ESTIMATING CONFERENCE.—</p>
+            </content>
+            <paragraph eId="216_136__subsec_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Education Estimating Conference shall develop such official information relating to the state public and private educational system, including forecasts of student enrollments, the national average of tuition and fees at public postsecondary educational institutions, the number of students qualified for state financial aid programs and for the William L. Boyd, IV, Effective Access to Student Education Grant Program and the appropriation required to fund the full award amounts for each program, fixed capital outlay needs, and Florida Education Finance Program formula needs, as the conference determines is needed for the state planning and budgeting system. The conference’s initial projections of enrollments in public schools shall be forwarded by the conference to each school district no later than 2 months prior to the start of the regular session of the Legislature. Each school district may, in writing, request adjustments to the initial projections. Any adjustment request shall be submitted to the conference no later than 1 month prior to the start of the regular session of the Legislature and shall be considered by the principals of the conference. A school district may amend its adjustment request, in writing, during the first 3 weeks of the legislative session, and such amended adjustment request shall be considered by the principals of the conference. For any adjustment so requested, the district shall indicate and explain, using definitions adopted by the conference, the components of anticipated enrollment changes that correspond to continuation of current programs with workload changes; program improvement; program reduction or elimination; initiation of new programs; and any other information that may be needed by the Legislature. For public schools, the conference shall submit its full-time equivalent student consensus estimate to the Legislature no later than 1 month after the start of the regular session of the Legislature. No conference estimate ma</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_136__subsec_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>No later than 2 months prior to the start of the regular session of the Legislature, the conference shall forward to each eligible postsecondary education institution its initial projections of the number of students qualified for state financial aid programs and the appropriation required to fund those students at the full award amount. Each postsecondary education institution may request, in writing, adjustments to the initial projection. Any adjustment request must be submitted to the conference no later than 1 month prior to the start of the regular session of the Legislature and shall be considered by the principals of the conference. For any adjustment so requested, the postsecondary education institution shall indicate and explain, using definitions adopted by the conference, the components of anticipated changes that correspond to continuation of current programs with enrollment changes, program reduction or elimination, initiation of new programs, award amount increases or decreases, and any other information that is considered by the conference. The conference shall submit its consensus estimate to the Legislature no later than 1 month after the start of the regular session of the Legislature. No conference estimate may be changed without the agreement of the full conference.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_136__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>CRIMINAL JUSTICE ESTIMATING CONFERENCE.—The Criminal Justice Estimating Conference shall:</p>
+            </content>
+            <paragraph eId="216_136__subsec_5__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Develop such official information relating to the criminal justice system, including forecasts of prison admissions and population and of supervised felony offender admissions and population, as the conference determines is needed for the state planning and budgeting system.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_136__subsec_5__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Develop such official information relating to the number of eligible discharges and the projected number of civil commitments for determining space needs pursuant to the civil proceedings provided under part V of chapter 394.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_136__subsec_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Develop official information relating to the number of sexual offenders and sexual predators who are required by law to be placed on community control, probation, or conditional release who are subject to electronic monitoring.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_136__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>SOCIAL SERVICES ESTIMATING CONFERENCE.—</p>
+            </content>
+            <paragraph eId="216_136__subsec_6__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Social Services Estimating Conference shall develop such official information relating to the social services system of the state, including forecasts of social services caseloads, utilization, and expenditures, as the conference determines is needed for the state planning and budgeting system. Such official information shall include, but not be limited to, cash assistance and Medicaid caseloads.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_136__subsec_6__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Social Services Estimating Conference shall develop information relating to the Florida Kidcare program, including, but not limited to, outreach impacts, enrollment, caseload, utilization, and expenditure information that the conference determines is needed to plan for and project future budgets and the drawdown of federal matching funds.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_136__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>LABOR MARKET ESTIMATING CONFERENCE.—</p>
+            </content>
+            <paragraph eId="216_136__subsec_7__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Labor Market Estimating Conference shall develop such official information with respect to supply and demand in Florida’s statewide and regional labor markets as the conference determines is needed by the state’s near-term and long-term planning and budgeting system. Such information must include labor supply by education level, analyses of labor demand by occupational groups and occupations compared to labor supply, and a ranking of critical areas of concern prioritized by level of statewide or regional shortages. The Office of Economic and Demographic Research is designated as the official lead for the United States Census Bureau’s State Data Center Program or its successor. All state agencies shall provide the Office of Economic and Demographic Research with the necessary data to accomplish the goals of the conference.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_136__subsec_7__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Labor Market Estimating Conference, for the purposes described in paragraph (a), shall meet at least twice a year and as necessary to address emerging opportunities for the state’s economy.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_136__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>EARLY LEARNING PROGRAMS ESTIMATING CONFERENCE.—</p>
+            </content>
+            <paragraph eId="216_136__subsec_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The Early Learning Programs Estimating Conference shall develop estimates and forecasts of the unduplicated count of children eligible for the school readiness program in accordance with the standards of eligibility established in s.1002.87and of children eligible for the Voluntary Prekindergarten Education Program in accordance with s.1002.53(2), as the conference determines are needed to support the state planning, budgeting, and appropriations processes.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="216_136__subsec_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The Division of Early Learning shall provide information on needs and waiting lists for school readiness programs, and information on the needs for the Voluntary Prekindergarten Education Program, as requested by the Early Learning Programs Estimating Conference or individual conference principals in a timely manner.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="216_136__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>SELF-INSURANCE ESTIMATING CONFERENCE.—The Self-Insurance Estimating Conference shall develop such official information on self-insurance related issues as the conference determines is needed by the state planning and budgeting system.</p>
+            </content>
+          </subsection>
+          <subsection eId="216_136__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>FLORIDA RETIREMENT SYSTEM ACTUARIAL ASSUMPTION CONFERENCE.—The Florida Retirement System Actuarial Assumption Conference shall develop official information with respect to the economic and noneconomic assumptions and funding methods of the Florida Retirement System necessary to perform the system actuarial study undertaken pursuant to s.121.031(3). Such information shall include: an analysis of the actuarial assumptions and actuarial methods used in the study and a determination of whether changes to the assumptions or methods need to be made due to experience changes or revised future forecasts.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

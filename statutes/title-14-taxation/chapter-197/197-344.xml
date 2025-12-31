@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="section">
+    <meta>
+      <identification source="#fl-legislature">
+        <FRBRWork>
+          <FRBRthis value="/us-fl/act/fsa/197.344"/>
+          <FRBRuri value="/us-fl/act/fsa/197.344"/>
+          <FRBRdate date="2025-12-31" name="enacted"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRcountry value="us-fl"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/us-fl/act/fsa/197.344/eng"/>
+          <FRBRuri value="/us-fl/act/fsa/197.344/eng"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#fl-legislature"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/us-fl/act/fsa/197.344/eng/akn"/>
+          <FRBRuri value="/us-fl/act/fsa/197.344/eng/akn"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#cosilico"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#cosilico">
+        <TLCOrganization eId="fl-legislature" href="/ontology/organization/us-fl/legislature" showAs="Florida Legislature"/>
+        <TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_197">
+        <num>Chapter 197</num>
+        <heading>Tax Collections, Sales, and Liens</heading>
+        <section eId="sec_197_344">
+          <num>197.344</num>
+          <heading>Lienholders; receipt of notices and delinquent taxes.</heading>
+          <content>
+            <p>When requested in writing, a tax notice shall be sent according to the following procedures:</p>
+          </content>
+          <subsection eId="197_344__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>When requested in writing, a tax notice shall be sent according to the following procedures:</p>
+            </content>
+            <paragraph eId="197_344__subsec_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Upon request by any taxpayer who is 60 years old or older, the tax collector shall send the tax notice to a third party designated by the taxpayer. A duplicate copy of the notice shall be sent to the taxpayer.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_344__subsec_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Upon request by a mortgagee stating that the mortgagee is the trustee of an escrow account for ad valorem taxes due on the property, the tax notice shall be sent to such trustee. When the original tax notice is sent to such trustee, the tax collector shall send a duplicate notice to the owner of the property with the additional statement that the original has been sent to the trustee.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_344__subsec_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Upon request by a vendee of an unrecorded or recorded contract for deed, the tax collector shall send a duplicate notice to such vendee.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_344__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>On or before May 1 of each year, the holder or mortgagee of an unsatisfied mortgage, lienholder, or vendee under a contract for deed, upon filing with the tax collector a description of property so encumbered and paying a service charge of $2, may request and receive information concerning any delinquent taxes appearing on the current tax roll and certificates issued on the described property. Upon receipt of such request, the tax collector shall furnish the following information within 60 days following the tax certificate sale:</p>
+            </content>
+            <paragraph eId="197_344__subsec_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The description of property on which certificates were sold.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_344__subsec_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The number of each certificate issued and to whom.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_344__subsec_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The face amount of each certificate.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_344__subsec_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The cost for redemption of each certificate.</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="197_344__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>On or before May 1 of each year, the holder or mortgagee of an unsatisfied mortgage or lien upon personal property, upon filing with the tax collector a description of the personal property encumbered by the mortgage or lien and the name and address of the owner of such property, and upon paying a service charge of $2, may request and receive information concerning any delinquent taxes appearing on the current tax roll for such property as is described as provided in this subsection or as may be owned by the named taxpayer. Upon receipt of such request, the collector shall furnish the following information to the mortgagee or lienholder before April 25 of the following year:</p>
+            </content>
+            <paragraph eId="197_344__subsec_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A description of property against which taxes are assessed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="197_344__subsec_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of taxes and costs owed.</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
